@@ -5175,5 +5175,55 @@
     "period": "早间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-05-24",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202605241822839101",
+        "title": "盛和资源:盛和资源董事和高级管理人员薪酬管理制度",
+        "date": "2026-05-25",
+        "time": "16:25",
+        "category": "管理办法/制度",
+        "codes": [
+          "600392"
+        ],
+        "names": [
+          "盛和资源"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600392/AN202605241822839101.html"
+      },
+      {
+        "art_code": "AN202605241822839100",
+        "title": "盛和资源:盛和资源超额奖励发放管理办法(2026年5月修订)",
+        "date": "2026-05-25",
+        "time": "16:25",
+        "category": "管理办法/制度",
+        "codes": [
+          "600392"
+        ],
+        "names": [
+          "盛和资源"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600392/AN202605241822839100.html"
+      },
+      {
+        "art_code": "AN202605241822838956",
+        "title": "大金重工:关于与荷兰船东签署船舶建造合同的公告",
+        "date": "2026-05-25",
+        "time": "16:11",
+        "category": "重大合同",
+        "codes": [
+          "002487"
+        ],
+        "names": [
+          "大金重工"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002487/AN202605241822838956.html"
+      }
+    ],
+    "reports": []
   }
 ]
