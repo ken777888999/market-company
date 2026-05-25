@@ -1117,5 +1117,80 @@
         "category": "消费/白酒"
       }
     ]
+  },
+  {
+    "date": "2026-05-25",
+    "top10": [
+      {
+        "name": "煤炭ETF国泰",
+        "code": "515220",
+        "pct": 4.49,
+        "amount": 62267.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "集成电路ETF嘉实",
+        "code": "562820",
+        "pct": 4.22,
+        "amount": 2101.0,
+        "category": null
+      },
+      {
+        "name": "集成电路ETF国泰",
+        "code": "159546",
+        "pct": 3.98,
+        "amount": 4870.0,
+        "category": null
+      },
+      {
+        "name": "日经225ETF华安",
+        "code": "513880",
+        "pct": 3.53,
+        "amount": 20792.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "半导体ETF国联安",
+        "code": "512480",
+        "pct": 3.38,
+        "amount": 93614.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体ETF鹏华",
+        "code": "159813",
+        "pct": 3.28,
+        "amount": 26057.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体龙头ETF工银",
+        "code": "159665",
+        "pct": 3.19,
+        "amount": 3632.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "消费电子ETF平安",
+        "code": "561600",
+        "pct": 3.14,
+        "amount": 1156.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "消电ETF国泰",
+        "code": "561310",
+        "pct": 3.13,
+        "amount": 877.0,
+        "category": null
+      },
+      {
+        "name": "芯片ETF华夏",
+        "code": "159995",
+        "pct": 3.12,
+        "amount": 72215.0,
+        "category": "芯片/半导体"
+      }
+    ]
   }
 ]
