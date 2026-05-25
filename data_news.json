@@ -5232,5 +5232,83 @@
     "period": "早间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-05-25",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202605251822861126",
+        "title": "鼎龙股份:关于公司CMP抛光液产品取得重大进展的公告",
+        "date": "2026-05-26",
+        "time": "19:47",
+        "category": "其他,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202605251822861126.html"
+      },
+      {
+        "art_code": "AN202605251822861130",
+        "title": "鼎龙股份:湖北鼎龙控股股份有限公司相关债券2026年跟踪评级报告",
+        "date": "2026-05-26",
+        "time": "19:47",
+        "category": "其他,跟踪评级公告",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202605251822861130.html"
+      },
+      {
+        "art_code": "AN202605251822859960",
+        "title": "欧科亿:欧科亿股东询价转让计划书",
+        "date": "2026-05-26",
+        "time": "18:49",
+        "category": "询价转让计划书",
+        "codes": [
+          "688308"
+        ],
+        "names": [
+          "欧科亿"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688308/AN202605251822859960.html"
+      },
+      {
+        "art_code": "AN202605251822859959",
+        "title": "欧科亿:中信证券股份有限公司关于株洲欧科亿数控精密刀具股份有限公司股东向特定机构投资者询价转让股份相关资格的核查意见",
+        "date": "2026-05-26",
+        "time": "18:49",
+        "category": "询价转让核查报告/意见,保荐/核查意见",
+        "codes": [
+          "688308"
+        ],
+        "names": [
+          "欧科亿"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688308/AN202605251822859959.html"
+      },
+      {
+        "art_code": "AN202605251822859322",
+        "title": "德明利:关于为全资子公司提供担保的进展公告",
+        "date": "2026-05-26",
+        "time": "18:22",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202605251822859322.html"
+      }
+    ],
+    "reports": []
   }
 ]
