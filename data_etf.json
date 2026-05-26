@@ -1197,73 +1197,73 @@
     "date": "2026-05-26",
     "top10": [
       {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 3.22,
-        "amount": 216639.0,
-        "category": "海外QDII"
-      },
-      {
         "name": "工业有色ETF万家",
         "code": "560860",
-        "pct": 2.62,
-        "amount": 54484.0,
+        "pct": 3.84,
+        "amount": 87527.0,
         "category": "有色/资源"
       },
       {
         "name": "黄金股ETF国泰",
         "code": "517400",
-        "pct": 2.31,
-        "amount": 5489.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "有色金属ETF南方",
-        "code": "512400",
-        "pct": 2.22,
-        "amount": 137585.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "黄金股ETF永赢",
-        "code": "517520",
-        "pct": 2.17,
-        "amount": 32685.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "矿业ETF国泰",
-        "code": "561330",
-        "pct": 2.17,
-        "amount": 8682.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "有色ETF易方达",
-        "code": "560470",
-        "pct": 2.09,
-        "amount": 895.0,
+        "pct": 3.66,
+        "amount": 11423.0,
         "category": "有色/资源"
       },
       {
         "name": "黄金股ETF华夏",
         "code": "159562",
-        "pct": 2.09,
-        "amount": 14442.0,
+        "pct": 3.53,
+        "amount": 19809.0,
         "category": "有色/资源"
       },
       {
-        "name": "有色矿业ETF招商",
-        "code": "159690",
-        "pct": 2.08,
-        "amount": 3460.0,
+        "name": "有色ETF鹏华",
+        "code": "159880",
+        "pct": 3.47,
+        "amount": 19095.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "有色金属ETF南方",
+        "code": "512400",
+        "pct": 3.46,
+        "amount": 178892.0,
         "category": "有色/资源"
       },
       {
         "name": "有色ETF景顺",
         "code": "560290",
-        "pct": 2.07,
-        "amount": 917.0,
+        "pct": 3.45,
+        "amount": 1094.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "矿业ETF国泰",
+        "code": "561330",
+        "pct": 3.4,
+        "amount": 15231.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF永赢",
+        "code": "517520",
+        "pct": 3.38,
+        "amount": 41784.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "有色矿业ETF招商",
+        "code": "159690",
+        "pct": 3.38,
+        "amount": 3949.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "有色ETF易方达",
+        "code": "560470",
+        "pct": 3.34,
+        "amount": 1494.0,
         "category": "有色/资源"
       }
     ]
