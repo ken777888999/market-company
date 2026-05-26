@@ -1199,72 +1199,72 @@
       {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 3.06,
-        "amount": 111203.0,
+        "pct": 2.82,
+        "amount": 147509.0,
         "category": "海外QDII"
       },
       {
         "name": "恒生科技ETF摩根",
         "code": "513890",
-        "pct": 2.34,
-        "amount": 8054.0,
+        "pct": 2.45,
+        "amount": 11428.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "港股科技ETF国泰",
+        "code": "513020",
+        "pct": 2.25,
+        "amount": 38822.0,
         "category": "港股/中概"
       },
       {
         "name": "恒生科技ETF华泰柏瑞",
         "code": "513130",
         "pct": 2.15,
-        "amount": 291973.0,
+        "amount": 404284.0,
         "category": "港股/中概"
       },
       {
         "name": "恒生科技ETF广发",
         "code": "513380",
         "pct": 2.14,
-        "amount": 22747.0,
+        "amount": 29746.0,
         "category": "港股/中概"
       },
       {
         "name": "恒生科技ETF华安",
         "code": "513580",
         "pct": 2.12,
-        "amount": 9862.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "电池ETF富国",
-        "code": "561160",
-        "pct": 2.1,
-        "amount": 5095.0,
-        "category": "电池/储能"
-      },
-      {
-        "name": "恒生科技ETF博时",
-        "code": "159742",
-        "pct": 2.08,
-        "amount": 18556.0,
+        "amount": 15259.0,
         "category": "港股/中概"
       },
       {
         "name": "恒生科技ETF汇添富",
         "code": "513260",
+        "pct": 2.11,
+        "amount": 42141.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "恒生科技ETF易方达",
+        "code": "513010",
+        "pct": 2.04,
+        "amount": 118836.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "黄金股ETF永赢",
+        "code": "517520",
         "pct": 2.02,
-        "amount": 31589.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "港股通科技ETF华泰柏瑞",
-        "code": "513150",
-        "pct": 2.0,
-        "amount": 3317.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "黄金股ETF国泰",
-        "code": "517400",
-        "pct": 1.99,
-        "amount": 1547.0,
+        "amount": 21886.0,
         "category": "有色/资源"
+      },
+      {
+        "name": "中韩半导体ETF华泰柏瑞",
+        "code": "513310",
+        "pct": 1.97,
+        "amount": 728496.0,
+        "category": "芯片/半导体"
       }
     ]
   }
