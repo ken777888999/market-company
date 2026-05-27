@@ -1272,13 +1272,6 @@
     "date": "2026-05-27",
     "top10": [
       {
-        "name": "亚太精选ETF南方",
-        "code": "159687",
-        "pct": 6.65,
-        "amount": 132587.0,
-        "category": null
-      },
-      {
         "name": "中韩半导体ETF华泰柏瑞",
         "code": "513310",
         "pct": 5.76,
@@ -1286,60 +1279,67 @@
         "category": "芯片/半导体"
       },
       {
-        "name": "东南亚科技ETF华泰柏瑞",
-        "code": "513730",
-        "pct": 2.5,
-        "amount": 33123.0,
+        "name": "亚太精选ETF南方",
+        "code": "159687",
+        "pct": 5.07,
+        "amount": 192389.0,
         "category": null
       },
       {
-        "name": "酒ETF鹏华",
-        "code": "512690",
-        "pct": 2.25,
-        "amount": 142541.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "纳斯达克ETF华安",
-        "code": "159632",
-        "pct": 1.62,
-        "amount": 28866.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "纳指ETF富国",
-        "code": "513870",
-        "pct": 1.57,
-        "amount": 13335.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "纳指100ETF博时",
-        "code": "513390",
-        "pct": 1.55,
-        "amount": 13039.0,
+        "name": "纳斯达克100ETF大成",
+        "code": "159513",
+        "pct": 2.35,
+        "amount": 21469.0,
         "category": "海外QDII"
       },
       {
         "name": "纳指ETF汇添富",
         "code": "159660",
-        "pct": 1.55,
-        "amount": 13601.0,
+        "pct": 2.19,
+        "amount": 18380.0,
         "category": "海外QDII"
       },
       {
-        "name": "纳指科技ETF景顺",
-        "code": "159509",
-        "pct": 1.54,
-        "amount": 72507.0,
+        "name": "纳指ETF广发",
+        "code": "159941",
+        "pct": 2.17,
+        "amount": 208384.0,
         "category": "海外QDII"
       },
       {
-        "name": "纳指ETF嘉实",
-        "code": "159501",
-        "pct": 1.52,
-        "amount": 16869.0,
+        "name": "纳指ETF富国",
+        "code": "513870",
+        "pct": 2.16,
+        "amount": 16288.0,
         "category": "海外QDII"
+      },
+      {
+        "name": "纳斯达克ETF华安",
+        "code": "159632",
+        "pct": 2.12,
+        "amount": 37148.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "纳指100ETF博时",
+        "code": "513390",
+        "pct": 2.09,
+        "amount": 17296.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "纳指ETF华泰柏瑞",
+        "code": "513110",
+        "pct": 2.05,
+        "amount": 33682.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "酒ETF鹏华",
+        "code": "512690",
+        "pct": 2.03,
+        "amount": 168190.0,
+        "category": "消费/白酒"
       }
     ]
   }
