@@ -1267,5 +1267,80 @@
         "category": "有色/资源"
       }
     ]
+  },
+  {
+    "date": "2026-05-27",
+    "top10": [
+      {
+        "name": "储能电池ETF易方达",
+        "code": "159566",
+        "pct": 3.41,
+        "amount": 48687.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "亚太精选ETF南方",
+        "code": "159687",
+        "pct": 3.38,
+        "amount": 21074.0,
+        "category": null
+      },
+      {
+        "name": "创业板科技ETF华泰柏瑞",
+        "code": "159773",
+        "pct": 3.03,
+        "amount": 425.0,
+        "category": "创业板"
+      },
+      {
+        "name": "创科技ETF国联安",
+        "code": "159777",
+        "pct": 3.03,
+        "amount": 213.0,
+        "category": null
+      },
+      {
+        "name": "电池ETF富国",
+        "code": "561160",
+        "pct": 2.82,
+        "amount": 6069.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "信息科技ETF南方",
+        "code": "512330",
+        "pct": 2.81,
+        "amount": 584.0,
+        "category": null
+      },
+      {
+        "name": "电池ETF汇添富",
+        "code": "159796",
+        "pct": 2.78,
+        "amount": 28832.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "电池ETF嘉实",
+        "code": "562880",
+        "pct": 2.66,
+        "amount": 4584.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "光伏ETF华夏",
+        "code": "515370",
+        "pct": 2.65,
+        "amount": 5111.0,
+        "category": "光伏/新能源"
+      },
+      {
+        "name": "光伏ETF天弘",
+        "code": "159857",
+        "pct": 2.64,
+        "amount": 13019.0,
+        "category": "光伏/新能源"
+      }
+    ]
   }
 ]
