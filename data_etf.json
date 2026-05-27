@@ -1272,74 +1272,74 @@
     "date": "2026-05-27",
     "top10": [
       {
-        "name": "储能电池ETF易方达",
-        "code": "159566",
-        "pct": 3.41,
-        "amount": 48687.0,
-        "category": "电池/储能"
+        "name": "中韩半导体ETF华泰柏瑞",
+        "code": "513310",
+        "pct": 5.76,
+        "amount": 605428.0,
+        "category": "芯片/半导体"
       },
       {
         "name": "亚太精选ETF南方",
         "code": "159687",
-        "pct": 3.38,
-        "amount": 21074.0,
+        "pct": 4.8,
+        "amount": 48375.0,
         "category": null
       },
       {
-        "name": "创业板科技ETF华泰柏瑞",
-        "code": "159773",
-        "pct": 3.03,
-        "amount": 425.0,
-        "category": "创业板"
+        "name": "纳指ETF汇添富",
+        "code": "159660",
+        "pct": 2.11,
+        "amount": 9709.0,
+        "category": "海外QDII"
       },
       {
-        "name": "创科技ETF国联安",
-        "code": "159777",
-        "pct": 3.03,
-        "amount": 213.0,
-        "category": null
+        "name": "纳指100ETF博时",
+        "code": "513390",
+        "pct": 2.09,
+        "amount": 9522.0,
+        "category": "海外QDII"
       },
       {
-        "name": "电池ETF富国",
-        "code": "561160",
-        "pct": 2.82,
-        "amount": 6069.0,
+        "name": "纳斯达克100ETF大成",
+        "code": "159513",
+        "pct": 2.07,
+        "amount": 10915.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "纳斯达克ETF华安",
+        "code": "159632",
+        "pct": 2.03,
+        "amount": 20880.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "纳指ETF富国",
+        "code": "513870",
+        "pct": 2.01,
+        "amount": 10802.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "储能电池ETF易方达",
+        "code": "159566",
+        "pct": 2.0,
+        "amount": 59825.0,
         "category": "电池/储能"
       },
       {
-        "name": "信息科技ETF南方",
-        "code": "512330",
-        "pct": 2.81,
-        "amount": 584.0,
-        "category": null
+        "name": "纳斯达克100ETF招商",
+        "code": "159659",
+        "pct": 2.0,
+        "amount": 18920.0,
+        "category": "海外QDII"
       },
       {
-        "name": "电池ETF汇添富",
-        "code": "159796",
-        "pct": 2.78,
-        "amount": 28832.0,
-        "category": "电池/储能"
-      },
-      {
-        "name": "电池ETF嘉实",
-        "code": "562880",
-        "pct": 2.66,
-        "amount": 4584.0,
-        "category": "电池/储能"
-      },
-      {
-        "name": "光伏ETF华夏",
-        "code": "515370",
-        "pct": 2.65,
-        "amount": 5111.0,
-        "category": "光伏/新能源"
-      },
-      {
-        "name": "光伏ETF天弘",
-        "code": "159857",
-        "pct": 2.64,
-        "amount": 13019.0,
-        "category": "光伏/新能源"
+        "name": "纳指科技ETF景顺",
+        "code": "159509",
+        "pct": 1.99,
+        "amount": 45201.0,
+        "category": "海外QDII"
       }
     ]
   }
