@@ -1347,74 +1347,74 @@
     "date": "2026-05-28",
     "top10": [
       {
-        "name": "标普消费ETF景顺",
-        "code": "159529",
-        "pct": 3.98,
-        "amount": 96259.0,
-        "category": "消费/白酒"
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 3.96,
+        "amount": 296193.0,
+        "category": "通信/5G"
       },
       {
         "name": "美国50ETF汇添富",
         "code": "159577",
-        "pct": 3.19,
-        "amount": 14402.0,
+        "pct": 3.32,
+        "amount": 18979.0,
         "category": null
       },
       {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 2.95,
-        "amount": 137984.0,
-        "category": "海外QDII"
+        "name": "标普消费ETF景顺",
+        "code": "159529",
+        "pct": 3.21,
+        "amount": 115589.0,
+        "category": "消费/白酒"
       },
       {
-        "name": "电力ETF南方",
-        "code": "560580",
-        "pct": 2.33,
-        "amount": 1700.0,
-        "category": "电力"
+        "name": "通信ETF富国",
+        "code": "159583",
+        "pct": 3.16,
+        "amount": 38348.0,
+        "category": "通信/5G"
       },
       {
-        "name": "煤炭ETF国泰",
-        "code": "515220",
-        "pct": 2.28,
-        "amount": 61328.0,
-        "category": "煤炭/能源"
+        "name": "工业母机ETF国泰",
+        "code": "159667",
+        "pct": 2.99,
+        "amount": 22252.0,
+        "category": "智能制造"
       },
       {
-        "name": "科创芯片ETF嘉实",
-        "code": "588200",
-        "pct": 2.13,
-        "amount": 373450.0,
-        "category": "芯片/半导体"
+        "name": "通信ETF嘉实",
+        "code": "159695",
+        "pct": 2.99,
+        "amount": 4108.0,
+        "category": "通信/5G"
       },
       {
         "name": "科创芯片ETF华安",
         "code": "588290",
-        "pct": 2.12,
-        "amount": 56675.0,
+        "pct": 2.81,
+        "amount": 82517.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "电力ETF招商",
-        "code": "560480",
-        "pct": 2.07,
-        "amount": 1884.0,
-        "category": "电力"
+        "name": "通信ETF广发",
+        "code": "159507",
+        "pct": 2.77,
+        "amount": 3400.0,
+        "category": "通信/5G"
       },
       {
-        "name": "电力ETF银华",
-        "code": "562350",
-        "pct": 2.0,
-        "amount": 2879.0,
-        "category": "电力"
+        "name": "机床ETF华夏",
+        "code": "159663",
+        "pct": 2.75,
+        "amount": 8222.0,
+        "category": null
       },
       {
-        "name": "电力ETF平安",
-        "code": "560460",
-        "pct": 1.96,
-        "amount": 4886.0,
-        "category": "电力"
+        "name": "科创芯片ETF嘉实",
+        "code": "588200",
+        "pct": 2.72,
+        "amount": 519111.0,
+        "category": "芯片/半导体"
       }
     ]
   }
