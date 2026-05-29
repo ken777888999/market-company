@@ -1424,72 +1424,72 @@
       {
         "name": "地产ETF华宝",
         "code": "159707",
-        "pct": 4.72,
-        "amount": 7137.0,
+        "pct": 5.11,
+        "amount": 8171.0,
+        "category": "地产"
+      },
+      {
+        "name": "房地产ETF银华",
+        "code": "159768",
+        "pct": 4.82,
+        "amount": 4869.0,
         "category": "地产"
       },
       {
         "name": "东南亚科技ETF华泰柏瑞",
         "code": "513730",
-        "pct": 4.41,
-        "amount": 28127.0,
+        "pct": 4.49,
+        "amount": 49562.0,
         "category": null
       },
       {
-        "name": "房地产ETF银华",
-        "code": "159768",
-        "pct": 4.39,
-        "amount": 3856.0,
-        "category": "地产"
-      },
-      {
-        "name": "旅游ETF富国",
-        "code": "159766",
-        "pct": 3.69,
-        "amount": 17058.0,
-        "category": "旅游/交运"
+        "name": "酒ETF鹏华",
+        "code": "512690",
+        "pct": 4.29,
+        "amount": 120805.0,
+        "category": "消费/白酒"
       },
       {
         "name": "旅游ETF华夏",
         "code": "562510",
-        "pct": 3.63,
-        "amount": 4819.0,
+        "pct": 4.29,
+        "amount": 8271.0,
         "category": "旅游/交运"
       },
       {
-        "name": "电力ETF平安",
-        "code": "560460",
-        "pct": 3.2,
-        "amount": 3845.0,
-        "category": "电力"
+        "name": "旅游ETF富国",
+        "code": "159766",
+        "pct": 4.19,
+        "amount": 26528.0,
+        "category": "旅游/交运"
+      },
+      {
+        "name": "消费ETF华夏",
+        "code": "510630",
+        "pct": 3.44,
+        "amount": 4155.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "食品饮料ETF华夏",
+        "code": "515170",
+        "pct": 3.39,
+        "amount": 9437.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "食品饮料ETF华安",
+        "code": "516900",
+        "pct": 3.38,
+        "amount": 592.0,
+        "category": "消费/白酒"
       },
       {
         "name": "电力ETF银华",
         "code": "562350",
-        "pct": 3.17,
-        "amount": 2099.0,
+        "pct": 3.33,
+        "amount": 3053.0,
         "category": "电力"
-      },
-      {
-        "name": "电力ETF汇添富",
-        "code": "516370",
-        "pct": 3.12,
-        "amount": 2825.0,
-        "category": "电力"
-      },
-      {
-        "name": "电力ETF工银",
-        "code": "560270",
-        "pct": 3.04,
-        "amount": 1572.0,
-        "category": "电力"
-      },
-      {
-        "name": "公用事业ETF鹏华",
-        "code": "560190",
-        "pct": 3.02,
-        "amount": 99.0,
-        "category": null
       }
     ]
   }
