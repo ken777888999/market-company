@@ -1425,70 +1425,70 @@
         "name": "港股通创新药ETF汇添富",
         "code": "159570",
         "pct": 4.62,
-        "amount": 300332.0,
-        "category": "医药"
-      },
-      {
-        "name": "房地产ETF银华",
-        "code": "159768",
-        "pct": 4.39,
-        "amount": 6014.0,
-        "category": "地产"
-      },
-      {
-        "name": "地产ETF华宝",
-        "code": "159707",
-        "pct": 4.32,
-        "amount": 9591.0,
-        "category": "地产"
-      },
-      {
-        "name": "港股创新药ETF银华",
-        "code": "159567",
-        "pct": 4.21,
-        "amount": 151597.0,
+        "amount": 382777.0,
         "category": "医药"
       },
       {
         "name": "港股创新药ETF广发",
         "code": "513120",
+        "pct": 4.21,
+        "amount": 765695.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股创新药ETF银华",
+        "code": "159567",
+        "pct": 4.06,
+        "amount": 174720.0,
+        "category": "医药"
+      },
+      {
+        "name": "日经225ETF华安",
+        "code": "513880",
+        "pct": 4.05,
+        "amount": 39112.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "日经225ETF易方达",
+        "code": "513000",
+        "pct": 4.02,
+        "amount": 31079.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "电力ETF汇添富",
+        "code": "516370",
+        "pct": 3.97,
+        "amount": 8437.0,
+        "category": "电力"
+      },
+      {
+        "name": "地产ETF华宝",
+        "code": "159707",
         "pct": 3.93,
-        "amount": 626293.0,
+        "amount": 11093.0,
+        "category": "地产"
+      },
+      {
+        "name": "日经ETF华夏",
+        "code": "513520",
+        "pct": 3.87,
+        "amount": 45784.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "港股创新药ETF景顺",
+        "code": "513780",
+        "pct": 3.78,
+        "amount": 55967.0,
         "category": "医药"
       },
       {
         "name": "港股通创新药医疗ETF富国",
         "code": "159506",
-        "pct": 3.93,
-        "amount": 48464.0,
-        "category": "医药"
-      },
-      {
-        "name": "港股创新药ETF景顺",
-        "code": "513780",
-        "pct": 3.85,
-        "amount": 49475.0,
-        "category": "医药"
-      },
-      {
-        "name": "恒生生物科技ETF华泰柏瑞",
-        "code": "513930",
-        "pct": 3.75,
-        "amount": 6569.0,
-        "category": "医药"
-      },
-      {
-        "name": "创新药ETF天弘",
-        "code": "517380",
-        "pct": 3.68,
-        "amount": 3025.0,
-        "category": "医药"
-      },
-      {
-        "name": "恒生生物科技ETF南方",
-        "code": "159615",
-        "pct": 3.65,
-        "amount": 14523.0,
+        "pct": 3.76,
+        "amount": 57828.0,
         "category": "医药"
       }
     ]
