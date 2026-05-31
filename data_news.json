@@ -7094,5 +7094,12 @@
     "period": "晚间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-05-31",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
+    "reports": []
   }
 ]
