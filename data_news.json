@@ -7101,5 +7101,41 @@
     "period": "早间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-05-31",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202605311823106301",
+        "title": "大金重工:关于与挪威、希腊船东签署船舶建造合同的公告",
+        "date": "2026-06-01",
+        "time": "16:12",
+        "category": "重大合同",
+        "codes": [
+          "002487"
+        ],
+        "names": [
+          "大金重工"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002487/AN202605311823106301.html"
+      },
+      {
+        "art_code": "AN202605311823108387",
+        "title": "中际旭创:中际旭创关于网络传闻的澄清公告",
+        "date": "2026-06-01",
+        "time": "20:56",
+        "category": "",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202605311823108387.html"
+      }
+    ],
+    "reports": []
   }
 ]
