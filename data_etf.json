@@ -1497,74 +1497,74 @@
     "date": "2026-06-01",
     "top10": [
       {
-        "name": "软件ETF易方达",
-        "code": "562930",
-        "pct": 5.3,
-        "amount": 5157.0,
-        "category": "计算机/信创"
+        "name": "煤炭ETF国泰",
+        "code": "515220",
+        "pct": 5.06,
+        "amount": 103867.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "亚太精选ETF南方",
+        "code": "159687",
+        "pct": 4.59,
+        "amount": 66217.0,
+        "category": null
       },
       {
         "name": "软件ETF万家",
         "code": "560360",
-        "pct": 5.24,
-        "amount": 861.0,
+        "pct": 4.27,
+        "amount": 1241.0,
         "category": "计算机/信创"
       },
       {
         "name": "软件ETF鹏华",
         "code": "560790",
-        "pct": 5.15,
-        "amount": 2587.0,
+        "pct": 4.17,
+        "amount": 3484.0,
         "category": "计算机/信创"
       },
       {
-        "name": "软件ETF嘉实",
-        "code": "159852",
-        "pct": 5.08,
-        "amount": 43325.0,
-        "category": "计算机/信创"
+        "name": "日经225ETF华安",
+        "code": "513880",
+        "pct": 3.98,
+        "amount": 41961.0,
+        "category": "海外QDII"
       },
       {
         "name": "计算机ETF南方",
         "code": "159586",
-        "pct": 4.95,
-        "amount": 762.0,
+        "pct": 3.91,
+        "amount": 1339.0,
+        "category": "计算机/信创"
+      },
+      {
+        "name": "软件ETF易方达",
+        "code": "562930",
+        "pct": 3.88,
+        "amount": 7844.0,
         "category": "计算机/信创"
       },
       {
         "name": "软件ETF华安",
         "code": "561010",
-        "pct": 4.88,
-        "amount": 921.0,
+        "pct": 3.84,
+        "amount": 1697.0,
         "category": "计算机/信创"
       },
       {
         "name": "软件ETF汇添富",
         "code": "159590",
-        "pct": 4.82,
-        "amount": 3940.0,
+        "pct": 3.79,
+        "amount": 5381.0,
         "category": "计算机/信创"
       },
       {
-        "name": "软件ETF国泰",
-        "code": "515230",
-        "pct": 4.69,
-        "amount": 16644.0,
+        "name": "软件ETF嘉实",
+        "code": "159852",
+        "pct": 3.74,
+        "amount": 61373.0,
         "category": "计算机/信创"
-      },
-      {
-        "name": "软件ETF招商",
-        "code": "159899",
-        "pct": 4.5,
-        "amount": 1559.0,
-        "category": "计算机/信创"
-      },
-      {
-        "name": "亚太精选ETF南方",
-        "code": "159687",
-        "pct": 4.11,
-        "amount": 43137.0,
-        "category": null
       }
     ]
   }
