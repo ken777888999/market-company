@@ -1002,5 +1002,16 @@
     "margin_change": -29634151070.0,
     "margin_buy": 311796907463.0,
     "margin_net_buy": -29693871738.0
+  },
+  {
+    "time": "2026-06-01 14:00:01",
+    "turnover_avg": 2.22,
+    "turnover_median": 1.79,
+    "total_stocks": 1831,
+    "high_turnover_count": 63,
+    "margin_balance": 2890972846928.0,
+    "margin_change": -29634151070.0,
+    "margin_buy": 311796907463.0,
+    "margin_net_buy": -29693871738.0
   }
 ]
