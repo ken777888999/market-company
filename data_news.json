@@ -7642,5 +7642,55 @@
       }
     ],
     "reports": []
+  },
+  {
+    "date": "2026-06-02",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202606011823131822",
+        "title": "7-1发行人及保荐机构回复意见(通富微电子股份有限公司)",
+        "date": "2026-06-01",
+        "time": "23:52",
+        "category": "深主板再融资问询与回复",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606011823131822.html"
+      },
+      {
+        "art_code": "AN202606011823131821",
+        "title": "7-3补充法律意见书(二)(通富微电子股份有限公司)",
+        "date": "2026-06-01",
+        "time": "23:52",
+        "category": "深主板再融资问询与回复",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606011823131821.html"
+      },
+      {
+        "art_code": "AN202606011823131820",
+        "title": "7-2会计师回复意见(通富微电子股份有限公司)",
+        "date": "2026-06-01",
+        "time": "23:52",
+        "category": "深主板再融资问询与回复",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606011823131820.html"
+      }
+    ],
+    "reports": []
   }
 ]
