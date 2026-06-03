@@ -7931,5 +7931,177 @@
     "period": "早间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-06-03",
+    "time": "19:26",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202606031823213169",
+        "title": "通富微电:关于收到《关于通富微电子股份有限公司申请向特定对象发行股票的审核中心意见告知函》的公告",
+        "date": "2026-06-04",
+        "time": "19:11",
+        "category": "其他",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606031823213169.html"
+      },
+      {
+        "art_code": "AN202606031823207616",
+        "title": "南亚新材:关于2024年限制性股票激励计划首次授予部分第二个归属期归属结果暨股份上市的公告",
+        "date": "2026-06-04",
+        "time": "17:16",
+        "category": "限售股份上市流通",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606031823207616.html"
+      },
+      {
+        "art_code": "AN202606031823207078",
+        "title": "新锐股份:新锐股份关于2025年年度报告的信息披露监管问询函的回复公告",
+        "date": "2026-06-04",
+        "time": "17:07",
+        "category": "回复问询函公告",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202606031823207078.html"
+      },
+      {
+        "art_code": "AN202606031823207077",
+        "title": "新锐股份:容诚会计师事务所(特殊普通合伙)关于苏州新锐合金工具股份有限公司2025年年度报告的信息披露监管问询函的专项说明",
+        "date": "2026-06-04",
+        "time": "17:07",
+        "category": "专项说明/独立意见",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202606031823207077.html"
+      },
+      {
+        "art_code": "AN202606031823205651",
+        "title": "株冶集团:株冶集团股东减持股份结果公告",
+        "date": "2026-06-04",
+        "time": "16:43",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202606031823205651.html"
+      },
+      {
+        "art_code": "AN202606031823213581",
+        "title": "湖南裕能:关于持股5%以上股东减持股份的预披露公告",
+        "date": "2026-06-03",
+        "time": "19:21",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202606031823213581.html"
+      },
+      {
+        "art_code": "AN202606031823213582",
+        "title": "湖南裕能:关于持股5%以上股东减持股份的预披露公告",
+        "date": "2026-06-03",
+        "time": "19:21",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202606031823213582.html"
+      },
+      {
+        "art_code": "AN202606031823211724",
+        "title": "三环集团:关于发行境外上市股份(H股)获得中国证监会备案的公告",
+        "date": "2026-06-03",
+        "time": "18:41",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202606031823211724.html"
+      },
+      {
+        "art_code": "AN202606031823205759",
+        "title": "湖南裕能:关于变更持续督导保荐代表人的公告",
+        "date": "2026-06-03",
+        "time": "16:45",
+        "category": "保荐代表人（机构）变更",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202606031823205759.html"
+      },
+      {
+        "art_code": "AN202606031823205755",
+        "title": "湖南裕能:关于完成工商变更登记并换发营业执照的公告",
+        "date": "2026-06-03",
+        "time": "16:45",
+        "category": "公司注册资本变更,公司章程修订",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202606031823205755.html"
+      },
+      {
+        "art_code": "AN202606031823205657",
+        "title": "华锐精密:投资者关系活动记录表(2026年6月3日)",
+        "date": "2026-06-03",
+        "time": "16:44",
+        "category": "调研活动",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202606031823205657.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "600549",
+        "name": "厦门钨业",
+        "title": "钨全产业链龙头",
+        "org": "国信证券",
+        "rating": "",
+        "date": "2026-06-03",
+        "digest": ""
+      }
+    ]
   }
 ]
