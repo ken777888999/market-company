@@ -1792,5 +1792,80 @@
         "category": "芯片/半导体"
       }
     ]
+  },
+  {
+    "date": "2026-06-05",
+    "top10": [
+      {
+        "name": "通信ETF广发",
+        "code": "159507",
+        "pct": 3.82,
+        "amount": 6314.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF嘉实",
+        "code": "159695",
+        "pct": 3.47,
+        "amount": 4236.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF富国",
+        "code": "159583",
+        "pct": 3.38,
+        "amount": 29589.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 2.87,
+        "amount": 206690.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "卫星ETF广发",
+        "code": "512630",
+        "pct": 2.73,
+        "amount": 10098.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF易方达",
+        "code": "563530",
+        "pct": 2.66,
+        "amount": 6728.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF富国",
+        "code": "563230",
+        "pct": 2.65,
+        "amount": 16080.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF鹏华",
+        "code": "563790",
+        "pct": 2.65,
+        "amount": 3255.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "湖北ETF博时",
+        "code": "159743",
+        "pct": 2.27,
+        "amount": 64.0,
+        "category": null
+      },
+      {
+        "name": "通信ETF南方",
+        "code": "159511",
+        "pct": 2.16,
+        "amount": 1305.0,
+        "category": "通信/5G"
+      }
+    ]
   }
 ]
