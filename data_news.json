@@ -9350,5 +9350,55 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-07",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202606071823341308",
+        "title": "鼎龙股份:关于部分募集资金专项账户注销的公告",
+        "date": "2026-06-08",
+        "time": "16:13",
+        "category": "募集资金使用进展情况,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202606071823341308.html"
+      },
+      {
+        "art_code": "AN202606071823341017",
+        "title": "鼎龙股份:关于公司部分董事、高级管理人员减持股份预披露公告",
+        "date": "2026-06-08",
+        "time": "15:32",
+        "category": "高管人员持股变动,股东/实际控制人股份减持,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202606071823341017.html"
+      },
+      {
+        "art_code": "AN202606071823341003",
+        "title": "鼎龙股份:关于控股股东部分股份质押及解除质押的公告",
+        "date": "2026-06-08",
+        "time": "15:32",
+        "category": "股份质押、冻结,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202606071823341003.html"
+      }
+    ],
+    "reports": []
   }
 ]
