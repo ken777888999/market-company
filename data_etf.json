@@ -1867,5 +1867,80 @@
         "category": "机器人"
       }
     ]
+  },
+  {
+    "date": "2026-06-08",
+    "top10": [
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 2.73,
+        "amount": 85769.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "机器人ETF景顺",
+        "code": "159559",
+        "pct": 2.39,
+        "amount": 21377.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 2.27,
+        "amount": 140182.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF招商",
+        "code": "560770",
+        "pct": 1.39,
+        "amount": 2064.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF银华",
+        "code": "562360",
+        "pct": 1.35,
+        "amount": 2444.0,
+        "category": "机器人"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 1.35,
+        "amount": 23119.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "机器人ETF天弘",
+        "code": "159770",
+        "pct": 1.25,
+        "amount": 19459.0,
+        "category": "机器人"
+      },
+      {
+        "name": "工程机械ETF富国",
+        "code": "516250",
+        "pct": 1.23,
+        "amount": 366.0,
+        "category": "智能制造"
+      },
+      {
+        "name": "机器人ETF嘉实",
+        "code": "159526",
+        "pct": 1.23,
+        "amount": 2284.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF华夏",
+        "code": "562500",
+        "pct": 1.2,
+        "amount": 94114.0,
+        "category": "机器人"
+      }
+    ]
   }
 ]
