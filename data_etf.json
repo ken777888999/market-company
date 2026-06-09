@@ -1947,74 +1947,74 @@
     "date": "2026-06-09",
     "top10": [
       {
-        "name": "科创半导体ETF华夏",
-        "code": "588170",
-        "pct": 6.93,
-        "amount": 103001.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF广发",
-        "code": "560780",
-        "pct": 6.53,
-        "amount": 22720.0,
+        "name": "中韩半导体ETF华泰柏瑞",
+        "code": "513310",
+        "pct": 9.48,
+        "amount": 923161.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF国泰",
         "code": "159516",
-        "pct": 6.52,
-        "amount": 146544.0,
+        "pct": 7.63,
+        "amount": 200639.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "中韩半导体ETF华泰柏瑞",
-        "code": "513310",
-        "pct": 6.47,
-        "amount": 543268.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF华夏",
-        "code": "562590",
-        "pct": 6.47,
-        "amount": 24221.0,
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 7.52,
+        "amount": 144418.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF易方达",
         "code": "159558",
-        "pct": 6.4,
-        "amount": 41629.0,
+        "pct": 7.49,
+        "amount": 55093.0,
         "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF广发",
+        "code": "560780",
+        "pct": 7.42,
+        "amount": 34082.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF华夏",
+        "code": "562590",
+        "pct": 7.28,
+        "amount": 31336.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "亚太精选ETF南方",
+        "code": "159687",
+        "pct": 6.04,
+        "amount": 137140.0,
+        "category": null
+      },
+      {
+        "name": "科创新材料ETF博时",
+        "code": "588010",
+        "pct": 5.92,
+        "amount": 6388.0,
+        "category": "科创板"
       },
       {
         "name": "半导体设备ETF招商",
         "code": "561980",
-        "pct": 5.33,
-        "amount": 17359.0,
+        "pct": 5.91,
+        "amount": 22851.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体ETF博时",
         "code": "159582",
-        "pct": 5.05,
-        "amount": 5092.0,
+        "pct": 5.77,
+        "amount": 6660.0,
         "category": "芯片/半导体"
-      },
-      {
-        "name": "科创新材料ETF博时",
-        "code": "588010",
-        "pct": 4.83,
-        "amount": 2745.0,
-        "category": "科创板"
-      },
-      {
-        "name": "科创新材料ETF南方",
-        "code": "588160",
-        "pct": 4.71,
-        "amount": 878.0,
-        "category": "科创板"
       }
     ]
   }
