@@ -2022,73 +2022,73 @@
     "date": "2026-06-10",
     "top10": [
       {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 3.46,
-        "amount": 218713.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "半导体设备ETF华夏",
-        "code": "562590",
-        "pct": 2.78,
-        "amount": 32477.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF广发",
-        "code": "560780",
-        "pct": 2.72,
-        "amount": 37347.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF易方达",
-        "code": "159558",
-        "pct": 2.7,
-        "amount": 55950.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF国泰",
-        "code": "159516",
-        "pct": 2.61,
-        "amount": 217533.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF招商",
-        "code": "561980",
-        "pct": 2.51,
-        "amount": 27193.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体ETF博时",
-        "code": "159582",
-        "pct": 2.43,
-        "amount": 6680.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "科创半导体ETF华夏",
-        "code": "588170",
-        "pct": 1.96,
-        "amount": 149717.0,
-        "category": "芯片/半导体"
-      },
-      {
         "name": "银行ETF鹏华",
         "code": "512730",
-        "pct": 1.79,
-        "amount": 736.0,
+        "pct": 1.91,
+        "amount": 1042.0,
+        "category": "银行"
+      },
+      {
+        "name": "金融地产ETF广发",
+        "code": "159940",
+        "pct": 1.91,
+        "amount": 747.0,
         "category": "银行"
       },
       {
         "name": "金融ETF国泰",
         "code": "510230",
-        "pct": 1.66,
-        "amount": 4747.0,
+        "pct": 1.9,
+        "amount": 6382.0,
+        "category": "银行"
+      },
+      {
+        "name": "半导体设备ETF国泰",
+        "code": "159516",
+        "pct": 1.9,
+        "amount": 270238.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "证券保险ETF易方达",
+        "code": "512070",
+        "pct": 1.88,
+        "amount": 53856.0,
+        "category": "券商"
+      },
+      {
+        "name": "半导体设备ETF广发",
+        "code": "560780",
+        "pct": 1.86,
+        "amount": 44351.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "银行ETF易方达",
+        "code": "516310",
+        "pct": 1.83,
+        "amount": 11940.0,
+        "category": "银行"
+      },
+      {
+        "name": "证券保险ETF鹏华",
+        "code": "515630",
+        "pct": 1.78,
+        "amount": 2965.0,
+        "category": "券商"
+      },
+      {
+        "name": "银行ETF华安",
+        "code": "516210",
+        "pct": 1.78,
+        "amount": 1768.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF华宝",
+        "code": "512800",
+        "pct": 1.77,
+        "amount": 87770.0,
         "category": "银行"
       }
     ]
