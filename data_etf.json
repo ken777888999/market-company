@@ -2097,73 +2097,73 @@
     "date": "2026-06-11",
     "top10": [
       {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 4.24,
-        "amount": 132357.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 3.22,
-        "amount": 78384.0,
-        "category": "海外QDII"
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 5.21,
+        "amount": 185585.0,
+        "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF广发",
         "code": "560780",
-        "pct": 2.88,
-        "amount": 36173.0,
+        "pct": 4.81,
+        "amount": 46560.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF华夏",
+        "code": "562590",
+        "pct": 4.78,
+        "amount": 31142.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF易方达",
         "code": "159558",
-        "pct": 2.84,
-        "amount": 50197.0,
+        "pct": 4.69,
+        "amount": 63381.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "稀有金属ETF工银",
-        "code": "159671",
-        "pct": 2.78,
-        "amount": 4242.0,
-        "category": null
-      },
-      {
-        "name": "半导体设备ETF华夏",
-        "code": "562590",
-        "pct": 2.76,
-        "amount": 25306.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "科创半导体ETF华夏",
-        "code": "588170",
-        "pct": 2.74,
-        "amount": 139785.0,
+        "name": "半导体设备ETF国泰",
+        "code": "159516",
+        "pct": 4.65,
+        "amount": 233129.0,
         "category": "芯片/半导体"
       },
       {
         "name": "稀有金属ETF广发",
         "code": "159608",
-        "pct": 2.73,
-        "amount": 9436.0,
+        "pct": 3.75,
+        "amount": 19205.0,
         "category": null
       },
       {
-        "name": "半导体设备ETF国泰",
-        "code": "159516",
-        "pct": 2.71,
-        "amount": 185819.0,
-        "category": "芯片/半导体"
+        "name": "稀有金属ETF工银",
+        "code": "159671",
+        "pct": 3.75,
+        "amount": 6604.0,
+        "category": null
       },
       {
         "name": "稀有金属ETF易方达",
         "code": "561050",
-        "pct": 2.66,
-        "amount": 1062.0,
+        "pct": 3.62,
+        "amount": 1644.0,
+        "category": null
+      },
+      {
+        "name": "稀有金属ETF嘉实",
+        "code": "562800",
+        "pct": 3.52,
+        "amount": 22676.0,
+        "category": null
+      },
+      {
+        "name": "稀有金属ETF华富",
+        "code": "561800",
+        "pct": 3.26,
+        "amount": 2600.0,
         "category": null
       }
     ]
