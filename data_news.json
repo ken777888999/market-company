@@ -10385,5 +10385,419 @@
     "period": "早间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-06-12",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202606121823515539",
+        "title": "中钨高新:关于召开2026年第二次临时股东会的通知",
+        "date": "2026-06-13",
+        "time": "18:17",
+        "category": "召开股东大会通知",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202606121823515539.html"
+      },
+      {
+        "art_code": "AN202606121823515533",
+        "title": "中钨高新:第十一届董事会第十二次(临时)会议决议公告",
+        "date": "2026-06-13",
+        "time": "18:17",
+        "category": "董事会决议公告",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202606121823515533.html"
+      },
+      {
+        "art_code": "AN202606121823515528",
+        "title": "中钨高新:关于调整2026年度与中国五矿日常关联交易预计的公告",
+        "date": "2026-06-13",
+        "time": "18:17",
+        "category": "关联交易",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202606121823515528.html"
+      },
+      {
+        "art_code": "AN202606121823514324",
+        "title": "南亚新材:关于变更公司注册资本、修订《公司章程》并办理工商变更登记及修订《董事、高级管理人员薪酬管理制度》的公告",
+        "date": "2026-06-13",
+        "time": "17:59",
+        "category": "公司注册资本变更,公司章程修订,管理办法/制度",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606121823514324.html"
+      },
+      {
+        "art_code": "AN202606121823514322",
+        "title": "南亚新材:关于回购股份集中竞价减持计划的公告",
+        "date": "2026-06-13",
+        "time": "17:59",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606121823514322.html"
+      },
+      {
+        "art_code": "AN202606121823514325",
+        "title": "南亚新材:公司章程(2026年06月)",
+        "date": "2026-06-13",
+        "time": "17:59",
+        "category": "公司章程",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606121823514325.html"
+      },
+      {
+        "art_code": "AN202606121823514326",
+        "title": "南亚新材:第三届董事会第三十二次会议决议公告",
+        "date": "2026-06-13",
+        "time": "17:59",
+        "category": "董事会决议公告",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606121823514326.html"
+      },
+      {
+        "art_code": "AN202606121823514323",
+        "title": "南亚新材:董事、高级管理人员薪酬管理制度(2026年6月)",
+        "date": "2026-06-13",
+        "time": "17:59",
+        "category": "管理办法/制度",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606121823514323.html"
+      },
+      {
+        "art_code": "AN202606121823514315",
+        "title": "南亚新材:2026年第二次临时股东大会会议资料",
+        "date": "2026-06-13",
+        "time": "17:59",
+        "category": "股东大会资料",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606121823514315.html"
+      },
+      {
+        "art_code": "AN202606121823514312",
+        "title": "南亚新材:关于召开2026年第二次临时股东会的通知",
+        "date": "2026-06-13",
+        "time": "17:59",
+        "category": "召开股东大会通知",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606121823514312.html"
+      },
+      {
+        "art_code": "AN202606121823509537",
+        "title": "长川科技:杭州长川科技股份有限公司第四届董事会第十八次会议决议的公告",
+        "date": "2026-06-13",
+        "time": "16:33",
+        "category": "董事会决议公告",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202606121823509537.html"
+      },
+      {
+        "art_code": "AN202606121823509536",
+        "title": "长川科技:杭州长川科技股份有限公司董事、高级管理人员薪酬管理制度(2026年6月)",
+        "date": "2026-06-13",
+        "time": "16:33",
+        "category": "管理办法/制度",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202606121823509536.html"
+      },
+      {
+        "art_code": "AN202606121823509543",
+        "title": "长川科技:杭州长川科技股份有限公司关于召开2026年第二次临时股东会通知的公告",
+        "date": "2026-06-13",
+        "time": "16:33",
+        "category": "召开股东大会通知",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202606121823509543.html"
+      },
+      {
+        "art_code": "AN202606121823508553",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于延期回复《关于普冉半导体(上海)股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函》的公告",
+        "date": "2026-06-13",
+        "time": "16:16",
+        "category": "变更募集资金投资项目,延期回复问询函公告",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202606121823508553.html"
+      },
+      {
+        "art_code": "AN202606121823505553",
+        "title": "关于同意江波龙再融资注册的批复",
+        "date": "2026-06-12",
+        "time": "15:18",
+        "category": "创业板发行上市审核注册结果通知",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202606121823505553.html"
+      },
+      {
+        "art_code": "AN202606121823518877",
+        "title": "江波龙:关于向特定对象发行股票申请获得中国证监会同意注册批复的公告",
+        "date": "2026-06-12",
+        "time": "19:31",
+        "category": "增发获准公告",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202606121823518877.html"
+      },
+      {
+        "art_code": "AN202606121823516367",
+        "title": "德福科技:公司2026年第一次临时股东会决议公告",
+        "date": "2026-06-12",
+        "time": "18:33",
+        "category": "股东大会决议公告",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606121823516367.html"
+      },
+      {
+        "art_code": "AN202606121823516350",
+        "title": "德福科技:北京市金杜律师事务所上海分所关于九江德福科技股份有限公司2026年第一次临时股东会之法律意见书",
+        "date": "2026-06-12",
+        "time": "18:33",
+        "category": "法律意见书",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606121823516350.html"
+      },
+      {
+        "art_code": "AN202606121823516340",
+        "title": "中际旭创:第六届董事会第一次会议决议公告",
+        "date": "2026-06-12",
+        "time": "18:33",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202606121823516340.html"
+      },
+      {
+        "art_code": "AN202606121823516354",
+        "title": "中际旭创:关于董事会完成换届选举暨聘任高级管理人员和证券事务代表的公告",
+        "date": "2026-06-12",
+        "time": "18:33",
+        "category": "高管人员任职变动",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202606121823516354.html"
+      },
+      {
+        "art_code": "AN202606121823516359",
+        "title": "中际旭创:北京中银(苏州)律师事务所关于公司2026年第二次临时股东会之法律意见书",
+        "date": "2026-06-12",
+        "time": "18:33",
+        "category": "法律意见书",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202606121823516359.html"
+      },
+      {
+        "art_code": "AN202606121823516355",
+        "title": "中际旭创:2026年第二次临时股东会决议公告",
+        "date": "2026-06-12",
+        "time": "18:33",
+        "category": "股东大会决议公告,高管人员任职变动",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202606121823516355.html"
+      },
+      {
+        "art_code": "AN202606121823516342",
+        "title": "中际旭创:关于选举第六届董事会职工代表董事的公告",
+        "date": "2026-06-12",
+        "time": "18:33",
+        "category": "高管人员任职变动",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202606121823516342.html"
+      },
+      {
+        "art_code": "AN202606121823516293",
+        "title": "德福科技:关于向2026年限制性股票激励计划激励对象授予限制性股票的公告",
+        "date": "2026-06-12",
+        "time": "18:32",
+        "category": "股权激励进展公告",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606121823516293.html"
+      },
+      {
+        "art_code": "AN202606121823516296",
+        "title": "德福科技:董事会薪酬与考核委员会关于公司2026年限制性股票激励计划授予事项的核查意见",
+        "date": "2026-06-12",
+        "time": "18:32",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606121823516296.html"
+      },
+      {
+        "art_code": "AN202606121823516284",
+        "title": "德福科技:2026年限制性股票激励计划激励对象名单(授予日)",
+        "date": "2026-06-12",
+        "time": "18:32",
+        "category": "股权激励对象名单",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606121823516284.html"
+      },
+      {
+        "art_code": "AN202606121823516288",
+        "title": "德福科技:北京市金杜律师事务所上海分所关于九江德福科技股份有限公司2026年限制性股票激励计划授予事项之法律意见书",
+        "date": "2026-06-12",
+        "time": "18:32",
+        "category": "法律意见书",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606121823516288.html"
+      },
+      {
+        "art_code": "AN202606121823516292",
+        "title": "德福科技:第三届董事会第二十六次会议决议公告",
+        "date": "2026-06-12",
+        "time": "18:32",
+        "category": "董事会决议公告",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606121823516292.html"
+      },
+      {
+        "art_code": "AN202606121823512669",
+        "title": "震裕科技:关于对外担保的进展公告",
+        "date": "2026-06-12",
+        "time": "17:29",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "300953"
+        ],
+        "names": [
+          "震裕科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300953/AN202606121823512669.html"
+      }
+    ],
+    "reports": []
   }
 ]
