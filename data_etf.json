@@ -2174,71 +2174,71 @@
       {
         "name": "黄金股ETF永赢",
         "code": "517520",
-        "pct": 6.24,
-        "amount": 55529.0,
+        "pct": 6.36,
+        "amount": 64355.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "矿业ETF国泰",
+        "code": "561330",
+        "pct": 6.1,
+        "amount": 9219.0,
         "category": "有色/资源"
       },
       {
         "name": "黄金股ETF国泰",
         "code": "517400",
-        "pct": 5.97,
-        "amount": 5597.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "黄金股ETF华夏",
-        "code": "159562",
-        "pct": 5.78,
-        "amount": 16577.0,
+        "pct": 6.04,
+        "amount": 6400.0,
         "category": "有色/资源"
       },
       {
         "name": "工业有色ETF万家",
         "code": "560860",
-        "pct": 5.77,
-        "amount": 49414.0,
+        "pct": 5.95,
+        "amount": 65125.0,
         "category": "有色/资源"
       },
       {
-        "name": "工业有色ETF华泰柏瑞",
-        "code": "560490",
-        "pct": 5.75,
-        "amount": 2501.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "有色ETF景顺",
-        "code": "560290",
-        "pct": 5.58,
-        "amount": 1370.0,
+        "name": "黄金股ETF华夏",
+        "code": "159562",
+        "pct": 5.84,
+        "amount": 19220.0,
         "category": "有色/资源"
       },
       {
         "name": "有色金属ETF华夏",
         "code": "516650",
-        "pct": 5.44,
-        "amount": 34690.0,
+        "pct": 5.56,
+        "amount": 38855.0,
         "category": "有色/资源"
       },
       {
         "name": "有色ETF汇添富",
         "code": "159652",
-        "pct": 5.39,
-        "amount": 20376.0,
+        "pct": 5.45,
+        "amount": 23173.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "有色金属ETF国泰",
+        "code": "159881",
+        "pct": 5.42,
+        "amount": 2819.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "工业有色ETF平安",
+        "code": "560970",
+        "pct": 5.4,
+        "amount": 6324.0,
         "category": "有色/资源"
       },
       {
         "name": "有色ETF易方达",
         "code": "560470",
-        "pct": 5.35,
-        "amount": 1614.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "有色金属ETF南方",
-        "code": "512400",
-        "pct": 5.32,
-        "amount": 144596.0,
+        "pct": 5.24,
+        "amount": 2234.0,
         "category": "有色/资源"
       }
     ]
