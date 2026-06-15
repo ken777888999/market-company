@@ -10834,5 +10834,345 @@
     "period": "早间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-06-15",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202606151823572393",
+        "title": "南亚新材:提前终止减持计划暨减持股份结果公告",
+        "date": "2026-06-16",
+        "time": "17:30",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606151823572393.html"
+      },
+      {
+        "art_code": "AN202606151823572296",
+        "title": "广合科技:关于选举职工董事的公告",
+        "date": "2026-06-16",
+        "time": "17:28",
+        "category": "高管人员任职变动",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202606151823572296.html"
+      },
+      {
+        "art_code": "AN202606151823572076",
+        "title": "中国巨石:中国巨石董事会薪酬与考核委员会关于公司2025年限制性股票激励计划预留授予激励对象名单的公示情况说明及核查意见",
+        "date": "2026-06-16",
+        "time": "17:21",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202606151823572076.html"
+      },
+      {
+        "art_code": "AN202606151823569972",
+        "title": "新锐股份:新锐股份关于2026年度向特定对象发行A股股票申请获得上海证券交易所审核通过的公告",
+        "date": "2026-06-16",
+        "time": "16:31",
+        "category": "增发获准公告",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202606151823569972.html"
+      },
+      {
+        "art_code": "AN202606151823569974",
+        "title": "新锐股份:新锐股份董事会薪酬与考核委员会关于公司2024年限制性股票激励计划首次授予、预留授予部分第二个归属期及第二次预留授予部分第一个归属期归属名单的核查意见",
+        "date": "2026-06-16",
+        "time": "16:31",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202606151823569974.html"
+      },
+      {
+        "art_code": "AN202606151823569975",
+        "title": "新锐股份:新锐股份关于调整2024年限制性股票激励计划授予价格及数量的公告",
+        "date": "2026-06-16",
+        "time": "16:31",
+        "category": "股权激励行权价（数量）调整,股权激励进展公告",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202606151823569975.html"
+      },
+      {
+        "art_code": "AN202606151823569971",
+        "title": "新锐股份:上海市锦天城(苏州)律师事务所关于新锐股份2024年限制性股票激励计划相关事项法律意见书",
+        "date": "2026-06-16",
+        "time": "16:31",
+        "category": "法律意见书",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202606151823569971.html"
+      },
+      {
+        "art_code": "AN202606151823569970",
+        "title": "新锐股份:新锐股份第五届董事会第二十五次会议决议公告",
+        "date": "2026-06-16",
+        "time": "16:31",
+        "category": "董事会决议公告",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202606151823569970.html"
+      },
+      {
+        "art_code": "AN202606151823569973",
+        "title": "新锐股份:新锐股份关于2024年限制性股票激励计划首次授予、预留授予部分第二个归属期及第二次预留授予部分第一个归属期符合归属条件的公告",
+        "date": "2026-06-16",
+        "time": "16:31",
+        "category": "股权激励进展公告",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202606151823569973.html"
+      },
+      {
+        "art_code": "AN202606151823569969",
+        "title": "新锐股份:新锐股份关于作废2024年限制性股票激励计划部分已授予但尚未归属的限制性股票的公告",
+        "date": "2026-06-16",
+        "time": "16:31",
+        "category": "股权激励进展公告",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202606151823569969.html"
+      },
+      {
+        "art_code": "AN202606151823569846",
+        "title": "鼎龙股份:关于鼎龙转债恢复转股的提示性公告",
+        "date": "2026-06-16",
+        "time": "16:28",
+        "category": "其他,转股提示",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202606151823569846.html"
+      },
+      {
+        "art_code": "AN202606151823569327",
+        "title": "睿创微纳:2026年第一次临时股东会会议资料",
+        "date": "2026-06-16",
+        "time": "16:06",
+        "category": "股东大会资料",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202606151823569327.html"
+      },
+      {
+        "art_code": "AN202606151823577258",
+        "title": "协创数据:2026年第五次临时股东会决议公告",
+        "date": "2026-06-15",
+        "time": "19:27",
+        "category": "股东大会决议公告",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202606151823577258.html"
+      },
+      {
+        "art_code": "AN202606151823577261",
+        "title": "协创数据:广东信达律师事务所关于协创数据技术股份有限公司2026年第五次临时股东会的法律意见书",
+        "date": "2026-06-15",
+        "time": "19:27",
+        "category": "法律意见书",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202606151823577261.html"
+      },
+      {
+        "art_code": "AN202606151823577262",
+        "title": "协创数据:关于公司变更注册资本及经营范围并完成工商变更登记的公告",
+        "date": "2026-06-15",
+        "time": "19:27",
+        "category": "公司经营范围变更,公司注册资本变更",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202606151823577262.html"
+      },
+      {
+        "art_code": "AN202606151823574232",
+        "title": "通富微电:002156通富微电投资者关系管理信息20260615",
+        "date": "2026-06-15",
+        "time": "18:21",
+        "category": "调研活动",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606151823574232.html"
+      },
+      {
+        "art_code": "AN202606151823572670",
+        "title": "德福科技:关于为子公司提供担保的进展公告",
+        "date": "2026-06-15",
+        "time": "17:37",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606151823572670.html"
+      },
+      {
+        "art_code": "AN202606151823572667",
+        "title": "中一科技:国浩律师(武汉)事务所关于湖北中一科技股份有限公司2026年第一次临时股东会的法律意见书",
+        "date": "2026-06-15",
+        "time": "17:37",
+        "category": "法律意见书",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202606151823572667.html"
+      },
+      {
+        "art_code": "AN202606151823572673",
+        "title": "中一科技:关于完成补选第四届董事会非独立董事的公告",
+        "date": "2026-06-15",
+        "time": "17:37",
+        "category": "高管人员任职变动",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202606151823572673.html"
+      },
+      {
+        "art_code": "AN202606151823572668",
+        "title": "中一科技:2026年第一次临时股东会决议公告",
+        "date": "2026-06-15",
+        "time": "17:37",
+        "category": "股东大会决议公告,高管人员任职变动",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202606151823572668.html"
+      },
+      {
+        "art_code": "AN202606151823572672",
+        "title": "中一科技:关于变更办公地址的公告",
+        "date": "2026-06-15",
+        "time": "17:37",
+        "category": "公司办公地址变更",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202606151823572672.html"
+      },
+      {
+        "art_code": "AN202606151823571724",
+        "title": "深交所上市审核委员会2026年第36次审议会议公告",
+        "date": "2026-06-15",
+        "time": "17:17",
+        "category": "深主板发行上市审核上市委会议公告",
+        "codes": [
+          "300953"
+        ],
+        "names": [
+          "震裕科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300953/AN202606151823571724.html"
+      },
+      {
+        "art_code": "AN202606151823567971",
+        "title": "睿创微纳:投资者关系活动记录表20260611",
+        "date": "2026-06-15",
+        "time": "15:33",
+        "category": "调研活动",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202606151823567971.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "300604",
+        "name": "长川科技",
+        "title": "国产SoC测试机龙头，看好公司份额持续提升&存储测试机第二曲线",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-06-15",
+        "digest": ""
+      }
+    ]
   }
 ]
