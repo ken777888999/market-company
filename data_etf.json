@@ -2317,5 +2317,80 @@
         "category": "科创板"
       }
     ]
+  },
+  {
+    "date": "2026-06-16",
+    "top10": [
+      {
+        "name": "储能电池ETF易方达",
+        "code": "159566",
+        "pct": 4.19,
+        "amount": 40276.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "稀土ETF富国",
+        "code": "159713",
+        "pct": 3.66,
+        "amount": 8463.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "电池ETF嘉实",
+        "code": "562880",
+        "pct": 3.41,
+        "amount": 5915.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "G60创新ETF申万菱信",
+        "code": "510770",
+        "pct": 3.4,
+        "amount": 277.0,
+        "category": null
+      },
+      {
+        "name": "稀土ETF嘉实",
+        "code": "516150",
+        "pct": 3.39,
+        "amount": 20359.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "稀土ETF易方达",
+        "code": "159715",
+        "pct": 3.39,
+        "amount": 5911.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "电池ETF汇添富",
+        "code": "159796",
+        "pct": 3.38,
+        "amount": 30805.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "电池ETF华泰柏瑞",
+        "code": "560910",
+        "pct": 3.37,
+        "amount": 1042.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "稀土ETF华泰柏瑞",
+        "code": "516780",
+        "pct": 3.34,
+        "amount": 12041.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "电网设备ETF易方达",
+        "code": "560390",
+        "pct": 3.34,
+        "amount": 8430.0,
+        "category": null
+      }
+    ]
   }
 ]
