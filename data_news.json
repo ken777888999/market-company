@@ -11174,5 +11174,65 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-16",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202606161823587513",
+        "title": "扬杰科技:关于变更部分募集资金投资项目的公告",
+        "date": "2026-06-16",
+        "time": "08:13",
+        "category": "变更募集资金投资项目",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202606161823587513.html"
+      },
+      {
+        "art_code": "AN202606161823587512",
+        "title": "扬杰科技:关于召开2026年第一次临时股东会的通知",
+        "date": "2026-06-16",
+        "time": "08:13",
+        "category": "召开股东大会通知",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202606161823587512.html"
+      },
+      {
+        "art_code": "AN202606161823587514",
+        "title": "扬杰科技:第五届董事会第二十八次会议决议公告",
+        "date": "2026-06-16",
+        "time": "08:13",
+        "category": "董事会决议公告",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202606161823587514.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "300604",
+        "name": "长川科技",
+        "title": "国产SoC测试机龙头，看好公司份额持续提升&存储测试机第二曲线",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-06-15",
+        "digest": ""
+      }
+    ]
   }
 ]
