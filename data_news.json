@@ -11474,5 +11474,111 @@
       }
     ],
     "reports": []
+  },
+  {
+    "date": "2026-06-17",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202606171823639951",
+        "title": "智微智能:北京德恒(深圳)律师事务所关于深圳市智微智能科技股份有限公司2026年第二次临时股东会的法律意见",
+        "date": "2026-06-18",
+        "time": "19:23",
+        "category": "法律意见书",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202606171823639951.html"
+      },
+      {
+        "art_code": "AN202606171823639946",
+        "title": "智微智能:2026年第二次临时股东会决议公告",
+        "date": "2026-06-18",
+        "time": "19:23",
+        "category": "增发预案,股东大会决议公告",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202606171823639946.html"
+      },
+      {
+        "art_code": "AN202606171823639933",
+        "title": "智微智能:关于2026年股票期权激励计划股票期权首次授予登记完成的公告",
+        "date": "2026-06-18",
+        "time": "19:23",
+        "category": "股权激励进展公告",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202606171823639933.html"
+      },
+      {
+        "art_code": "AN202606171823639282",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于股票交易异常波动公告",
+        "date": "2026-06-18",
+        "time": "19:03",
+        "category": "股票交易异常波动",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202606171823639282.html"
+      },
+      {
+        "art_code": "AN202606171823635465",
+        "title": "中国巨石:中国巨石关于股票交易异常波动的公告",
+        "date": "2026-06-18",
+        "time": "17:34",
+        "category": "股票交易异常波动",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202606171823635465.html"
+      },
+      {
+        "art_code": "AN202606171823633918",
+        "title": "厦门钨业:厦门钨业关于股票交易异常波动的公告",
+        "date": "2026-06-18",
+        "time": "17:00",
+        "category": "股票交易异常波动",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202606171823633918.html"
+      },
+      {
+        "art_code": "AN202606171823631569",
+        "title": "中一科技:关于完成工商变更登记的公告",
+        "date": "2026-06-17",
+        "time": "16:07",
+        "category": "公司注册资本变更",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202606171823631569.html"
+      }
+    ],
+    "reports": []
   }
 ]
