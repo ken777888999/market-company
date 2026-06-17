@@ -2397,74 +2397,74 @@
     "date": "2026-06-17",
     "top10": [
       {
+        "name": "亚太精选ETF南方",
+        "code": "159687",
+        "pct": 3.45,
+        "amount": 163598.0,
+        "category": null
+      },
+      {
+        "name": "央企科技ETF银华",
+        "code": "562380",
+        "pct": 3.18,
+        "amount": 295.0,
+        "category": "国企/央企"
+      },
+      {
+        "name": "科创新材料ETF南方",
+        "code": "588160",
+        "pct": 3.08,
+        "amount": 4333.0,
+        "category": "科创板"
+      },
+      {
         "name": "VRETF银华",
         "code": "159786",
-        "pct": 3.7,
-        "amount": 1618.0,
+        "pct": 3.02,
+        "amount": 2140.0,
         "category": null
+      },
+      {
+        "name": "科创新材料ETF博时",
+        "code": "588010",
+        "pct": 2.61,
+        "amount": 14356.0,
+        "category": "科创板"
       },
       {
         "name": "消费电子ETF华夏",
         "code": "159732",
-        "pct": 3.45,
-        "amount": 29014.0,
+        "pct": 2.59,
+        "amount": 42486.0,
         "category": "消费/白酒"
       },
       {
         "name": "消费电子ETF招商",
         "code": "159779",
-        "pct": 3.17,
-        "amount": 1097.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "消费电子ETF平安",
-        "code": "561600",
-        "pct": 3.06,
-        "amount": 1475.0,
+        "pct": 2.47,
+        "amount": 1470.0,
         "category": "消费/白酒"
       },
       {
         "name": "央企科技ETF南方",
         "code": "560170",
-        "pct": 2.89,
-        "amount": 2975.0,
+        "pct": 2.37,
+        "amount": 3641.0,
         "category": "国企/央企"
       },
       {
-        "name": "消电ETF国泰",
-        "code": "561310",
-        "pct": 2.87,
-        "amount": 978.0,
-        "category": null
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 2.37,
+        "amount": 161415.0,
+        "category": "芯片/半导体"
       },
       {
-        "name": "消费电子ETF易方达",
-        "code": "562950",
-        "pct": 2.87,
-        "amount": 8087.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "电子50ETF华安",
-        "code": "515320",
-        "pct": 2.82,
-        "amount": 1054.0,
+        "name": "电子ETF天弘",
+        "code": "159997",
+        "pct": 2.36,
+        "amount": 5756.0,
         "category": "电子"
-      },
-      {
-        "name": "亚太精选ETF南方",
-        "code": "159687",
-        "pct": 2.81,
-        "amount": 90953.0,
-        "category": null
-      },
-      {
-        "name": "科创新材料ETF南方",
-        "code": "588160",
-        "pct": 2.78,
-        "amount": 2946.0,
-        "category": "科创板"
       }
     ]
   }
