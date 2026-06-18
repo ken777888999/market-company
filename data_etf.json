@@ -2474,72 +2474,72 @@
       {
         "name": "人工智能ETF华富",
         "code": "515980",
-        "pct": 4.73,
-        "amount": 30905.0,
+        "pct": 5.76,
+        "amount": 41021.0,
         "category": "AI"
+      },
+      {
+        "name": "集成电路ETF嘉实",
+        "code": "562820",
+        "pct": 5.75,
+        "amount": 5287.0,
+        "category": null
       },
       {
         "name": "科创创业人工智能ETF工银",
         "code": "588430",
-        "pct": 4.7,
-        "amount": 1306.0,
+        "pct": 5.75,
+        "amount": 1764.0,
         "category": "AI"
       },
       {
         "name": "科创创业人工智能ETF摩根",
         "code": "588420",
-        "pct": 4.57,
-        "amount": 2144.0,
-        "category": "AI"
-      },
-      {
-        "name": "半导体龙头ETF工银",
-        "code": "159665",
-        "pct": 4.53,
-        "amount": 5829.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体ETF鹏华",
-        "code": "159813",
-        "pct": 4.48,
-        "amount": 38770.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "科创创业人工智能ETF中金",
-        "code": "588480",
-        "pct": 4.46,
-        "amount": 3929.0,
-        "category": "AI"
-      },
-      {
-        "name": "芯片ETF华夏",
-        "code": "159995",
-        "pct": 4.46,
-        "amount": 140276.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "科创创业人工智能ETF鹏华",
-        "code": "588410",
-        "pct": 4.43,
-        "amount": 729.0,
+        "pct": 5.71,
+        "amount": 2625.0,
         "category": "AI"
       },
       {
         "name": "芯片ETF广发",
         "code": "159801",
-        "pct": 4.36,
-        "amount": 23176.0,
+        "pct": 5.64,
+        "amount": 31391.0,
         "category": "芯片/半导体"
+      },
+      {
+        "name": "科创创业人工智能ETF鹏华",
+        "code": "588410",
+        "pct": 5.57,
+        "amount": 1119.0,
+        "category": "AI"
       },
       {
         "name": "科创创业人工智能ETF华安",
         "code": "588470",
-        "pct": 4.34,
-        "amount": 10080.0,
+        "pct": 5.55,
+        "amount": 13780.0,
         "category": "AI"
+      },
+      {
+        "name": "芯片ETF华夏",
+        "code": "159995",
+        "pct": 5.54,
+        "amount": 173031.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体龙头ETF工银",
+        "code": "159665",
+        "pct": 5.53,
+        "amount": 7807.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体ETF鹏华",
+        "code": "159813",
+        "pct": 5.53,
+        "amount": 48991.0,
+        "category": "芯片/半导体"
       }
     ]
   }
