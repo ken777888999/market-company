@@ -2542,5 +2542,80 @@
         "category": null
       }
     ]
+  },
+  {
+    "date": "2026-06-19",
+    "top10": [
+      {
+        "name": "人工智能ETF华富",
+        "code": "515980",
+        "pct": 5.76,
+        "amount": 51391.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF鹏华",
+        "code": "588410",
+        "pct": 5.64,
+        "amount": 1374.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF摩根",
+        "code": "588420",
+        "pct": 5.5,
+        "amount": 3051.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF工银",
+        "code": "588430",
+        "pct": 5.47,
+        "amount": 2050.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF中金",
+        "code": "588480",
+        "pct": 5.32,
+        "amount": 5915.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF华安",
+        "code": "588470",
+        "pct": 5.25,
+        "amount": 16161.0,
+        "category": "AI"
+      },
+      {
+        "name": "AI人工智能ETF平安",
+        "code": "512930",
+        "pct": 5.04,
+        "amount": 25351.0,
+        "category": "AI"
+      },
+      {
+        "name": "人工智能ETF易方达",
+        "code": "159819",
+        "pct": 5.03,
+        "amount": 110442.0,
+        "category": "AI"
+      },
+      {
+        "name": "人工智能ETF华夏",
+        "code": "515070",
+        "pct": 4.96,
+        "amount": 38291.0,
+        "category": "AI"
+      },
+      {
+        "name": "集成电路ETF嘉实",
+        "code": "562820",
+        "pct": 4.95,
+        "amount": 6730.0,
+        "category": null
+      }
+    ]
   }
 ]
