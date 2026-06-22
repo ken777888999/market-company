@@ -2622,74 +2622,74 @@
     "date": "2026-06-22",
     "top10": [
       {
-        "name": "日经225ETF华安",
-        "code": "513880",
-        "pct": 3.61,
-        "amount": 23748.0,
-        "category": "海外QDII"
+        "name": "证券ETF浦银",
+        "code": "516730",
+        "pct": 4.92,
+        "amount": 754.0,
+        "category": "券商"
       },
       {
-        "name": "日经ETF工银",
-        "code": "159866",
-        "pct": 3.35,
-        "amount": 20123.0,
-        "category": "海外QDII"
+        "name": "证券ETF国联安",
+        "code": "159848",
+        "pct": 4.8,
+        "amount": 764.0,
+        "category": "券商"
       },
       {
-        "name": "日经225ETF易方达",
-        "code": "513000",
-        "pct": 3.01,
-        "amount": 14464.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "日经ETF华夏",
-        "code": "513520",
-        "pct": 2.61,
-        "amount": 24465.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "工业有色ETF平安",
-        "code": "560970",
-        "pct": 2.49,
-        "amount": 1069.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "工业有色ETF华泰柏瑞",
-        "code": "560490",
-        "pct": 2.37,
-        "amount": 1389.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "工业有色ETF中银",
-        "code": "560870",
-        "pct": 2.35,
-        "amount": 1028.0,
-        "category": "有色/资源"
+        "name": "证券ETF鹏华",
+        "code": "159993",
+        "pct": 4.73,
+        "amount": 15810.0,
+        "category": "券商"
       },
       {
         "name": "化工ETF鹏华",
         "code": "159870",
-        "pct": 2.26,
-        "amount": 38486.0,
+        "pct": 4.64,
+        "amount": 65556.0,
         "category": "化工"
       },
       {
         "name": "化工ETF国泰",
         "code": "516220",
-        "pct": 2.25,
-        "amount": 1036.0,
+        "pct": 4.6,
+        "amount": 1719.0,
         "category": "化工"
       },
       {
         "name": "化工ETF富国",
         "code": "516120",
-        "pct": 2.18,
-        "amount": 6232.0,
+        "pct": 4.58,
+        "amount": 9500.0,
         "category": "化工"
+      },
+      {
+        "name": "化工ETF华宝",
+        "code": "516020",
+        "pct": 4.56,
+        "amount": 15407.0,
+        "category": "化工"
+      },
+      {
+        "name": "证券ETF东财",
+        "code": "159692",
+        "pct": 4.51,
+        "amount": 10829.0,
+        "category": "券商"
+      },
+      {
+        "name": "证券ETF国泰",
+        "code": "512880",
+        "pct": 4.48,
+        "amount": 242588.0,
+        "category": "券商"
+      },
+      {
+        "name": "证券ETF易方达",
+        "code": "512570",
+        "pct": 4.45,
+        "amount": 14619.0,
+        "category": "券商"
       }
     ]
   }
