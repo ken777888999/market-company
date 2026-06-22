@@ -2622,73 +2622,73 @@
     "date": "2026-06-22",
     "top10": [
       {
+        "name": "证券先锋ETF华富",
+        "code": "516980",
+        "pct": 9.33,
+        "amount": 1316.0,
+        "category": "券商"
+      },
+      {
         "name": "证券ETF浦银",
         "code": "516730",
-        "pct": 7.01,
-        "amount": 1549.0,
-        "category": "券商"
-      },
-      {
-        "name": "证券ETF国联安",
-        "code": "159848",
-        "pct": 6.71,
-        "amount": 1414.0,
-        "category": "券商"
-      },
-      {
-        "name": "证券ETF建信",
-        "code": "515560",
-        "pct": 6.64,
-        "amount": 1768.0,
-        "category": "券商"
-      },
-      {
-        "name": "证券ETF鹏华",
-        "code": "159993",
-        "pct": 6.49,
-        "amount": 27695.0,
+        "pct": 8.58,
+        "amount": 2718.0,
         "category": "券商"
       },
       {
         "name": "证券ETF东财",
         "code": "159692",
-        "pct": 6.38,
-        "amount": 17203.0,
+        "pct": 8.0,
+        "amount": 27735.0,
         "category": "券商"
       },
       {
-        "name": "证券ETF嘉实",
-        "code": "562870",
-        "pct": 6.3,
-        "amount": 3361.0,
+        "name": "证券ETF鹏华",
+        "code": "159993",
+        "pct": 7.98,
+        "amount": 42263.0,
         "category": "券商"
       },
       {
-        "name": "证券ETF华安",
-        "code": "516200",
-        "pct": 6.27,
-        "amount": 1658.0,
+        "name": "证券ETF国联安",
+        "code": "159848",
+        "pct": 7.91,
+        "amount": 2044.0,
         "category": "券商"
       },
       {
         "name": "证券ETF易方达",
         "code": "512570",
-        "pct": 6.25,
-        "amount": 20898.0,
+        "pct": 7.77,
+        "amount": 26008.0,
         "category": "券商"
       },
       {
-        "name": "证券ETF汇添富",
-        "code": "560090",
-        "pct": 6.21,
-        "amount": 21232.0,
+        "name": "金融科技ETF富国",
+        "code": "515720",
+        "pct": 7.76,
+        "amount": 2498.0,
+        "category": null
+      },
+      {
+        "name": "证券ETF嘉实",
+        "code": "562870",
+        "pct": 7.76,
+        "amount": 4399.0,
         "category": "券商"
       },
       {
-        "name": "证券ETF天弘",
-        "code": "159841",
-        "pct": 6.2,
-        "amount": 64013.0,
+        "name": "证券ETF富国",
+        "code": "515850",
+        "pct": 7.73,
+        "amount": 8493.0,
+        "category": "券商"
+      },
+      {
+        "name": "证券ETF国泰",
+        "code": "512880",
+        "pct": 7.71,
+        "amount": 560492.0,
         "category": "券商"
       }
     ]
