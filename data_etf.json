@@ -2617,5 +2617,80 @@
         "category": null
       }
     ]
+  },
+  {
+    "date": "2026-06-22",
+    "top10": [
+      {
+        "name": "日经225ETF华安",
+        "code": "513880",
+        "pct": 3.61,
+        "amount": 23748.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "日经ETF工银",
+        "code": "159866",
+        "pct": 3.35,
+        "amount": 20123.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "日经225ETF易方达",
+        "code": "513000",
+        "pct": 3.01,
+        "amount": 14464.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "日经ETF华夏",
+        "code": "513520",
+        "pct": 2.61,
+        "amount": 24465.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "工业有色ETF平安",
+        "code": "560970",
+        "pct": 2.49,
+        "amount": 1069.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "工业有色ETF华泰柏瑞",
+        "code": "560490",
+        "pct": 2.37,
+        "amount": 1389.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "工业有色ETF中银",
+        "code": "560870",
+        "pct": 2.35,
+        "amount": 1028.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "化工ETF鹏华",
+        "code": "159870",
+        "pct": 2.26,
+        "amount": 38486.0,
+        "category": "化工"
+      },
+      {
+        "name": "化工ETF国泰",
+        "code": "516220",
+        "pct": 2.25,
+        "amount": 1036.0,
+        "category": "化工"
+      },
+      {
+        "name": "化工ETF富国",
+        "code": "516120",
+        "pct": 2.18,
+        "amount": 6232.0,
+        "category": "化工"
+      }
+    ]
   }
 ]
