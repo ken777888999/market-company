@@ -2699,71 +2699,71 @@
       {
         "name": "疫苗ETF招商",
         "code": "561920",
-        "pct": 3.62,
-        "amount": 173.0,
+        "pct": 3.13,
+        "amount": 242.0,
         "category": null
       },
       {
         "name": "标普生物科技ETF嘉实",
         "code": "159502",
-        "pct": 3.33,
-        "amount": 7396.0,
+        "pct": 2.98,
+        "amount": 12412.0,
         "category": "医药"
       },
       {
         "name": "科创医药ETF华夏",
         "code": "588130",
-        "pct": 3.03,
-        "amount": 1500.0,
+        "pct": 2.6,
+        "amount": 1926.0,
         "category": "医药"
       },
       {
         "name": "疫苗ETF嘉实",
         "code": "562860",
-        "pct": 3.01,
-        "amount": 562.0,
+        "pct": 2.51,
+        "amount": 650.0,
         "category": null
       },
       {
-        "name": "创新药ETF易方达",
-        "code": "516080",
-        "pct": 2.72,
-        "amount": 8662.0,
+        "name": "科创医药ETF鹏华",
+        "code": "588250",
+        "pct": 2.45,
+        "amount": 1158.0,
         "category": "医药"
       },
       {
         "name": "创新药ETF广发",
         "code": "515120",
-        "pct": 2.7,
-        "amount": 32255.0,
+        "pct": 2.34,
+        "amount": 42616.0,
         "category": "医药"
-      },
-      {
-        "name": "科创医药ETF鹏华",
-        "code": "588250",
-        "pct": 2.66,
-        "amount": 967.0,
-        "category": "医药"
-      },
-      {
-        "name": "疫苗ETF国泰",
-        "code": "159643",
-        "pct": 2.63,
-        "amount": 825.0,
-        "category": null
       },
       {
         "name": "生物医药ETF华安",
         "code": "159508",
-        "pct": 2.62,
-        "amount": 609.0,
+        "pct": 2.33,
+        "amount": 707.0,
         "category": "医药"
       },
       {
-        "name": "生物医药ETF汇添富",
-        "code": "159839",
-        "pct": 2.59,
-        "amount": 5071.0,
+        "name": "创新药ETF建信",
+        "code": "159835",
+        "pct": 2.25,
+        "amount": 1958.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF易方达",
+        "code": "516080",
+        "pct": 2.21,
+        "amount": 10322.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF南方",
+        "code": "159858",
+        "pct": 2.19,
+        "amount": 2234.0,
         "category": "医药"
       }
     ]
