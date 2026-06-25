@@ -2847,74 +2847,74 @@
     "date": "2026-06-25",
     "top10": [
       {
-        "name": "半导体龙头ETF工银",
-        "code": "159665",
-        "pct": 3.64,
-        "amount": 7179.0,
-        "category": "芯片/半导体"
-      },
-      {
         "name": "信创ETF国泰",
         "code": "159537",
-        "pct": 3.54,
-        "amount": 1602.0,
+        "pct": 4.92,
+        "amount": 2387.0,
         "category": "计算机/信创"
       },
       {
-        "name": "半导体ETF鹏华",
-        "code": "159813",
-        "pct": 3.54,
-        "amount": 33097.0,
+        "name": "半导体龙头ETF工银",
+        "code": "159665",
+        "pct": 4.88,
+        "amount": 9445.0,
         "category": "芯片/半导体"
       },
       {
         "name": "信创ETF易方达",
         "code": "159540",
-        "pct": 3.47,
-        "amount": 2908.0,
+        "pct": 4.85,
+        "amount": 3766.0,
         "category": "计算机/信创"
       },
       {
-        "name": "电子50ETF华安",
-        "code": "515320",
-        "pct": 3.46,
-        "amount": 1559.0,
-        "category": "电子"
+        "name": "半导体ETF鹏华",
+        "code": "159813",
+        "pct": 4.68,
+        "amount": 47037.0,
+        "category": "芯片/半导体"
       },
       {
         "name": "信创ETF富国",
         "code": "159538",
-        "pct": 3.43,
-        "amount": 4122.0,
+        "pct": 4.57,
+        "amount": 5094.0,
         "category": "计算机/信创"
       },
       {
-        "name": "消费电子ETF平安",
-        "code": "561600",
-        "pct": 3.42,
-        "amount": 3767.0,
-        "category": "消费/白酒"
+        "name": "芯片ETF华夏",
+        "code": "159995",
+        "pct": 4.55,
+        "amount": 139254.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "科创50ETF鹏华",
+        "code": "588040",
+        "pct": 4.46,
+        "amount": 1295.0,
+        "category": "科创板"
       },
       {
         "name": "芯片ETF广发",
         "code": "159801",
-        "pct": 3.42,
-        "amount": 27257.0,
+        "pct": 4.43,
+        "amount": 34664.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "消费电子ETF华夏",
-        "code": "159732",
-        "pct": 3.34,
-        "amount": 47454.0,
-        "category": "消费/白酒"
+        "name": "中韩半导体ETF华泰柏瑞",
+        "code": "513310",
+        "pct": 4.42,
+        "amount": 602923.0,
+        "category": "芯片/半导体"
       },
       {
-        "name": "日经225ETF华安",
-        "code": "513880",
-        "pct": 3.33,
-        "amount": 20680.0,
-        "category": "海外QDII"
+        "name": "集成电路ETF嘉实",
+        "code": "562820",
+        "pct": 4.41,
+        "amount": 6474.0,
+        "category": null
       }
     ]
   }
