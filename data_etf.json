@@ -2922,74 +2922,74 @@
     "date": "2026-06-26",
     "top10": [
       {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 2.43,
-        "amount": 27050.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 1.98,
-        "amount": 14497.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "光伏ETF易方达",
-        "code": "562970",
-        "pct": 1.37,
-        "amount": 2082.0,
-        "category": "光伏/新能源"
-      },
-      {
-        "name": "光伏ETF博时",
-        "code": "560310",
-        "pct": 1.32,
-        "amount": 174.0,
-        "category": "光伏/新能源"
-      },
-      {
-        "name": "光伏ETF汇添富",
-        "code": "516290",
-        "pct": 1.28,
-        "amount": 2452.0,
-        "category": "光伏/新能源"
-      },
-      {
-        "name": "光伏ETF天弘",
-        "code": "159857",
-        "pct": 1.28,
-        "amount": 7518.0,
-        "category": "光伏/新能源"
-      },
-      {
-        "name": "标普生物科技ETF嘉实",
-        "code": "159502",
-        "pct": 1.25,
-        "amount": 9854.0,
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 2.71,
+        "amount": 21189.0,
         "category": "医药"
       },
       {
         "name": "半导体设备ETF国泰",
         "code": "159516",
-        "pct": 1.23,
-        "amount": 273974.0,
+        "pct": 2.64,
+        "amount": 440042.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "光伏ETF平安",
-        "code": "516180",
-        "pct": 1.21,
-        "amount": 588.0,
-        "category": "光伏/新能源"
+        "name": "UC半导体设备ETF广发",
+        "code": "560780",
+        "pct": 2.46,
+        "amount": 75531.0,
+        "category": "芯片/半导体"
       },
       {
-        "name": "光伏ETF富国",
-        "code": "560230",
-        "pct": 1.21,
-        "amount": 996.0,
-        "category": "光伏/新能源"
+        "name": "半导体设备ETF易方达",
+        "code": "159558",
+        "pct": 2.45,
+        "amount": 113236.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF华夏",
+        "code": "562590",
+        "pct": 2.32,
+        "amount": 66347.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 2.15,
+        "amount": 34297.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "畜牧养殖ETF招商",
+        "code": "516670",
+        "pct": 2.05,
+        "amount": 4219.0,
+        "category": "农业"
+      },
+      {
+        "name": "畜牧养殖ETF广发",
+        "code": "512450",
+        "pct": 2.03,
+        "amount": 472.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF易方达",
+        "code": "562900",
+        "pct": 1.99,
+        "amount": 1501.0,
+        "category": "农业"
+      },
+      {
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 1.92,
+        "amount": 308922.0,
+        "category": "芯片/半导体"
       }
     ]
   }
