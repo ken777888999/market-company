@@ -1,32 +1,6 @@
 [
   {
     "date": "2026-05-09",
-    "time": "19:56",
-    "period": "晚间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "002545",
-        "name": "东方铁塔",
-        "title": "钾肥量价齐升驱动业绩上涨，分红积极回报投资者",
-        "org": "华源证券",
-        "rating": "",
-        "date": "2026-05-09",
-        "digest": ""
-      },
-      {
-        "code": "002545",
-        "name": "东方铁塔",
-        "title": "钾肥量增价升驱动高增，资源优势支撑长期价值",
-        "org": "华金证券",
-        "rating": "",
-        "date": "2026-05-09",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-05-09",
     "time": "21:00",
     "period": "晚间",
     "announcements": [],
@@ -12616,6 +12590,32 @@
         "url": "https://data.eastmoney.com/notices/detail/301308/AN202606261824813637.html"
       }
     ],
+    "reports": [
+      {
+        "code": "605117",
+        "name": "德业股份",
+        "title": "拟建9GWh工商业储能产能，受益全球储能高景气度",
+        "org": "国信证券",
+        "rating": "",
+        "date": "2026-06-26",
+        "digest": ""
+      },
+      {
+        "code": "300604",
+        "name": "长川科技",
+        "title": "2Q26业绩表现靓丽，估值合理",
+        "org": "群益证券",
+        "rating": "",
+        "date": "2026-06-26",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-06-27",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "605117",
