@@ -1,32 +1,6 @@
 [
   {
     "date": "2026-05-10",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "002545",
-        "name": "东方铁塔",
-        "title": "钾肥量价齐升驱动业绩上涨，分红积极回报投资者",
-        "org": "华源证券",
-        "rating": "",
-        "date": "2026-05-09",
-        "digest": ""
-      },
-      {
-        "code": "002545",
-        "name": "东方铁塔",
-        "title": "钾肥量增价升驱动高增，资源优势支撑长期价值",
-        "org": "华金证券",
-        "rating": "",
-        "date": "2026-05-09",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-05-10",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -12597,6 +12571,28 @@
     "time": "09:00",
     "period": "早间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-06-28",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202606281826514956",
+        "title": "广合科技:关于公司A股股价异动的公告",
+        "date": "2026-06-29",
+        "time": "15:33",
+        "category": "股票交易异常波动",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202606281826514956.html"
+      }
+    ],
     "reports": []
   }
 ]
