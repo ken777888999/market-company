@@ -2997,73 +2997,73 @@
     "date": "2026-06-29",
     "top10": [
       {
-        "name": "科创医药ETF华夏",
-        "code": "588130",
-        "pct": 8.64,
-        "amount": 2749.0,
+        "name": "创新药ETF摩根",
+        "code": "560900",
+        "pct": 9.98,
+        "amount": 3163.0,
         "category": "医药"
       },
       {
-        "name": "科创医药ETF鹏华",
-        "code": "588250",
-        "pct": 8.48,
-        "amount": 1642.0,
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 9.61,
+        "amount": 500171.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "创新药ETF国泰",
+        "code": "517110",
+        "pct": 9.12,
+        "amount": 4668.0,
         "category": "医药"
       },
       {
         "name": "创新药ETF华泰柏瑞",
         "code": "517120",
-        "pct": 8.29,
-        "amount": 3811.0,
+        "pct": 9.11,
+        "amount": 5278.0,
         "category": "医药"
       },
       {
-        "name": "创新药ETF易方达",
-        "code": "516080",
-        "pct": 7.85,
-        "amount": 21292.0,
+        "name": "半导体设备ETF国泰",
+        "code": "159516",
+        "pct": 9.08,
+        "amount": 666326.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "科创医药ETF华夏",
+        "code": "588130",
+        "pct": 8.97,
+        "amount": 3530.0,
         "category": "医药"
       },
       {
-        "name": "港股通创新药医疗ETF富国",
-        "code": "159506",
-        "pct": 7.75,
-        "amount": 81680.0,
+        "name": "半导体设备ETF易方达",
+        "code": "159558",
+        "pct": 8.97,
+        "amount": 257566.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "科创医药ETF鹏华",
+        "code": "588250",
+        "pct": 8.8,
+        "amount": 2536.0,
         "category": "医药"
       },
       {
-        "name": "创新药ETF国泰",
-        "code": "517110",
-        "pct": 7.73,
-        "amount": 3525.0,
-        "category": "医药"
-      },
-      {
-        "name": "创新药ETF东财",
-        "code": "159622",
-        "pct": 7.73,
-        "amount": 23014.0,
-        "category": "医药"
-      },
-      {
-        "name": "创新药ETF银华",
-        "code": "159992",
-        "pct": 7.7,
-        "amount": 151801.0,
-        "category": "医药"
-      },
-      {
-        "name": "创新药ETF摩根",
-        "code": "560900",
-        "pct": 7.64,
-        "amount": 2489.0,
+        "name": "创新药ETF广发",
+        "code": "515120",
+        "pct": 8.69,
+        "amount": 115007.0,
         "category": "医药"
       },
       {
         "name": "创新药ETF南方",
         "code": "159858",
-        "pct": 7.62,
-        "amount": 4502.0,
+        "pct": 8.61,
+        "amount": 5057.0,
         "category": "医药"
       }
     ]
