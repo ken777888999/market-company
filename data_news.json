@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-05-11",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "688308",
-        "name": "欧科亿",
-        "title": "公司动态研究报告：量价齐升业绩向好，格局重塑龙头启航",
-        "org": "华鑫证券",
-        "rating": "",
-        "date": "2026-05-10",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-05-11",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -12568,6 +12551,238 @@
     "time": "09:00",
     "period": "早间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-06-29",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202606291826550885",
+        "title": "南亚新材:关于全资子公司投资建设高端覆铜板研发及产业化项目的公告",
+        "date": "2026-06-30",
+        "time": "20:39",
+        "category": "其他",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606291826550885.html"
+      },
+      {
+        "art_code": "AN202606291826550884",
+        "title": "南亚新材:国浩律师(上海)事务所关于南亚新材料科技股份有限公司2026年第二次临时股东会的法律意见书",
+        "date": "2026-06-30",
+        "time": "20:39",
+        "category": "法律意见书",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606291826550884.html"
+      },
+      {
+        "art_code": "AN202606291826550886",
+        "title": "南亚新材:2026年第二次临时股东会会议决议公告",
+        "date": "2026-06-30",
+        "time": "20:39",
+        "category": "股东大会决议公告",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606291826550886.html"
+      },
+      {
+        "art_code": "AN202606291826547192",
+        "title": "石大胜华:石大胜华2026年第五次临时股东会法律意见书",
+        "date": "2026-06-30",
+        "time": "19:05",
+        "category": "法律意见书",
+        "codes": [
+          "603026"
+        ],
+        "names": [
+          "石大胜华"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603026/AN202606291826547192.html"
+      },
+      {
+        "art_code": "AN202606291826547190",
+        "title": "石大胜华:石大胜华2026年第五次临时股东会决议公告",
+        "date": "2026-06-30",
+        "time": "19:05",
+        "category": "股东大会决议公告",
+        "codes": [
+          "603026"
+        ],
+        "names": [
+          "石大胜华"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603026/AN202606291826547190.html"
+      },
+      {
+        "art_code": "AN202606291826546683",
+        "title": "中钨高新:北京市嘉源律师事务所关于中钨高新材料股份有限公司2026年第二次临时股东会的法律意见书",
+        "date": "2026-06-30",
+        "time": "18:58",
+        "category": "法律意见书",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202606291826546683.html"
+      },
+      {
+        "art_code": "AN202606291826542425",
+        "title": "长川科技:杭州长川科技股份有限公司2026年第二次临时股东会决议的公告",
+        "date": "2026-06-30",
+        "time": "17:59",
+        "category": "股东大会决议公告",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202606291826542425.html"
+      },
+      {
+        "art_code": "AN202606291826542423",
+        "title": "长川科技:国浩律师(杭州)事务所关于杭州长川科技股份有限公司2026年第二次临时股东会之法律意见书",
+        "date": "2026-06-30",
+        "time": "17:59",
+        "category": "法律意见书",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202606291826542423.html"
+      },
+      {
+        "art_code": "AN202606291826538782",
+        "title": "厦门钨业:厦门钨业关于拟收购部分股权标的公司涉及诉讼的进展公告",
+        "date": "2026-06-30",
+        "time": "17:04",
+        "category": "诉讼仲裁,收购出售资产/股权",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202606291826538782.html"
+      },
+      {
+        "art_code": "AN202606291826535111",
+        "title": "安孚科技:安徽安孚电池科技股份有限公司关于中证中小投资者服务中心有限责任公司公开征集投票权的公告",
+        "date": "2026-06-30",
+        "time": "16:07",
+        "category": "其他",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202606291826535111.html"
+      },
+      {
+        "art_code": "AN202606291826546680",
+        "title": "中钨高新:2026年第二次临时股东会决议公告",
+        "date": "2026-06-30",
+        "time": "18:58",
+        "category": "股东大会决议公告,高管人员任职变动",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202606291826546680.html"
+      },
+      {
+        "art_code": "AN202606291826544406",
+        "title": "雅创电子:关于为子公司提供担保的进展公告",
+        "date": "2026-06-29",
+        "time": "18:19",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202606291826544406.html"
+      },
+      {
+        "art_code": "AN202606291826544275",
+        "title": "雅创电子:关于为子公司提供担保的进展公告",
+        "date": "2026-06-29",
+        "time": "18:17",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202606291826544275.html"
+      },
+      {
+        "art_code": "AN202606291826541386",
+        "title": "华锐精密:投资者关系活动记录表(2026年6月29日)",
+        "date": "2026-06-29",
+        "time": "17:47",
+        "category": "调研活动",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202606291826541386.html"
+      },
+      {
+        "art_code": "AN202606291826537386",
+        "title": "德福科技:关于为子公司提供担保的进展公告",
+        "date": "2026-06-29",
+        "time": "16:41",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606291826537386.html"
+      },
+      {
+        "art_code": "AN202606291826532025",
+        "title": "沪电股份:2026年6月29日投资者关系活动记录表",
+        "date": "2026-06-29",
+        "time": "15:24",
+        "category": "调研活动",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202606291826532025.html"
+      }
+    ],
     "reports": []
   }
 ]
