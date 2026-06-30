@@ -3067,5 +3067,80 @@
         "category": "医药"
       }
     ]
+  },
+  {
+    "date": "2026-06-30",
+    "top10": [
+      {
+        "name": "VRETF银华",
+        "code": "159786",
+        "pct": 5.32,
+        "amount": 2328.0,
+        "category": null
+      },
+      {
+        "name": "机器人ETF景顺",
+        "code": "159559",
+        "pct": 5.11,
+        "amount": 10413.0,
+        "category": "机器人"
+      },
+      {
+        "name": "大数据ETF华夏",
+        "code": "516000",
+        "pct": 4.94,
+        "amount": 3296.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "通用航空ETF鹏华",
+        "code": "563870",
+        "pct": 4.9,
+        "amount": 501.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 4.69,
+        "amount": 55988.0,
+        "category": "机器人"
+      },
+      {
+        "name": "大数据ETF华宝",
+        "code": "516700",
+        "pct": 4.59,
+        "amount": 1297.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "信息安全ETF嘉实",
+        "code": "159613",
+        "pct": 4.59,
+        "amount": 675.0,
+        "category": null
+      },
+      {
+        "name": "信息安全ETF易方达",
+        "code": "562920",
+        "pct": 4.56,
+        "amount": 496.0,
+        "category": null
+      },
+      {
+        "name": "云计算ETF广发",
+        "code": "159527",
+        "pct": 4.52,
+        "amount": 1332.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "云计算50ETF新华",
+        "code": "560660",
+        "pct": 4.5,
+        "amount": 908.0,
+        "category": "云计算/大数据"
+      }
+    ]
   }
 ]
