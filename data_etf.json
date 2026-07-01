@@ -3147,74 +3147,74 @@
     "date": "2026-07-01",
     "top10": [
       {
-        "name": "养殖ETF国泰",
-        "code": "159865",
-        "pct": 5.94,
-        "amount": 24759.0,
-        "category": "农业"
+        "name": "创新药ETF富国",
+        "code": "159748",
+        "pct": 7.63,
+        "amount": 13033.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF国泰",
+        "code": "517110",
+        "pct": 5.87,
+        "amount": 6394.0,
+        "category": "医药"
       },
       {
         "name": "畜牧养殖ETF招商",
         "code": "516670",
-        "pct": 5.83,
-        "amount": 4792.0,
+        "pct": 5.65,
+        "amount": 5628.0,
         "category": "农业"
       },
       {
         "name": "养殖ETF平安",
         "code": "516760",
-        "pct": 5.71,
-        "amount": 895.0,
+        "pct": 5.33,
+        "amount": 984.0,
         "category": "农业"
       },
       {
-        "name": "畜牧养殖ETF广发",
-        "code": "512450",
-        "pct": 5.7,
-        "amount": 899.0,
+        "name": "养殖ETF国泰",
+        "code": "159865",
+        "pct": 5.33,
+        "amount": 29615.0,
         "category": "农业"
       },
       {
         "name": "金融科技ETF华宝",
         "code": "159851",
-        "pct": 5.62,
-        "amount": 33265.0,
+        "pct": 5.3,
+        "amount": 47049.0,
         "category": null
-      },
-      {
-        "name": "农业ETF易方达",
-        "code": "562900",
-        "pct": 5.55,
-        "amount": 1607.0,
-        "category": "农业"
       },
       {
         "name": "金融科技ETF富国",
         "code": "515720",
-        "pct": 5.32,
-        "amount": 1445.0,
+        "pct": 5.17,
+        "amount": 2003.0,
         "category": null
       },
       {
-        "name": "农牧渔ETF景顺",
-        "code": "560210",
-        "pct": 5.29,
-        "amount": 1148.0,
-        "category": "农业"
-      },
-      {
-        "name": "养殖ETF鹏华",
-        "code": "159867",
-        "pct": 5.2,
-        "amount": 3979.0,
-        "category": "农业"
-      },
-      {
-        "name": "金融科技ETF兴业",
-        "code": "563570",
-        "pct": 5.16,
-        "amount": 1486.0,
+        "name": "金融科技ETF华夏",
+        "code": "516100",
+        "pct": 5.11,
+        "amount": 6784.0,
         "category": null
+      },
+      {
+        "name": "创新药ETF华泰柏瑞",
+        "code": "517120",
+        "pct": 5.07,
+        "amount": 4193.0,
+        "category": "医药"
+      },
+      {
+        "name": "农业ETF易方达",
+        "code": "562900",
+        "pct": 4.89,
+        "amount": 1878.0,
+        "category": "农业"
       }
     ]
   }
