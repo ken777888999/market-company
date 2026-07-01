@@ -3147,73 +3147,73 @@
     "date": "2026-07-01",
     "top10": [
       {
-        "name": "港股国企ETF华夏",
-        "code": "513810",
-        "pct": 6.91,
-        "amount": 2311.0,
-        "category": "港股/中概"
+        "name": "养殖ETF国泰",
+        "code": "159865",
+        "pct": 5.94,
+        "amount": 24759.0,
+        "category": "农业"
       },
       {
-        "name": "半导体设备ETF华夏",
-        "code": "562590",
-        "pct": 5.61,
-        "amount": 42359.0,
-        "category": "芯片/半导体"
+        "name": "畜牧养殖ETF招商",
+        "code": "516670",
+        "pct": 5.83,
+        "amount": 4792.0,
+        "category": "农业"
       },
       {
-        "name": "科创半导体ETF华夏",
-        "code": "588170",
-        "pct": 5.57,
-        "amount": 334426.0,
-        "category": "芯片/半导体"
+        "name": "养殖ETF平安",
+        "code": "516760",
+        "pct": 5.71,
+        "amount": 895.0,
+        "category": "农业"
       },
       {
-        "name": "半导体设备ETF易方达",
-        "code": "159558",
-        "pct": 5.53,
-        "amount": 150523.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF国泰",
-        "code": "159516",
-        "pct": 5.52,
-        "amount": 348548.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF广发",
-        "code": "560780",
-        "pct": 5.47,
-        "amount": 76761.0,
-        "category": "芯片/半导体"
+        "name": "畜牧养殖ETF广发",
+        "code": "512450",
+        "pct": 5.7,
+        "amount": 899.0,
+        "category": "农业"
       },
       {
         "name": "金融科技ETF华宝",
         "code": "159851",
-        "pct": 4.82,
-        "amount": 20136.0,
+        "pct": 5.62,
+        "amount": 33265.0,
         "category": null
+      },
+      {
+        "name": "农业ETF易方达",
+        "code": "562900",
+        "pct": 5.55,
+        "amount": 1607.0,
+        "category": "农业"
       },
       {
         "name": "金融科技ETF富国",
         "code": "515720",
-        "pct": 4.45,
-        "amount": 866.0,
+        "pct": 5.32,
+        "amount": 1445.0,
         "category": null
       },
       {
-        "name": "金融科技ETF博时",
-        "code": "516860",
-        "pct": 4.37,
-        "amount": 5503.0,
-        "category": null
+        "name": "农牧渔ETF景顺",
+        "code": "560210",
+        "pct": 5.29,
+        "amount": 1148.0,
+        "category": "农业"
+      },
+      {
+        "name": "养殖ETF鹏华",
+        "code": "159867",
+        "pct": 5.2,
+        "amount": 3979.0,
+        "category": "农业"
       },
       {
         "name": "金融科技ETF兴业",
         "code": "563570",
-        "pct": 4.35,
-        "amount": 1411.0,
+        "pct": 5.16,
+        "amount": 1486.0,
         "category": null
       }
     ]
