@@ -3149,71 +3149,71 @@
       {
         "name": "创新药ETF富国",
         "code": "159748",
-        "pct": 7.63,
-        "amount": 13033.0,
+        "pct": 9.99,
+        "amount": 16553.0,
         "category": "医药"
       },
       {
         "name": "创新药ETF国泰",
         "code": "517110",
-        "pct": 5.87,
-        "amount": 6394.0,
+        "pct": 9.97,
+        "amount": 8570.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF华泰柏瑞",
+        "code": "517120",
+        "pct": 9.22,
+        "amount": 5602.0,
         "category": "医药"
       },
       {
         "name": "畜牧养殖ETF招商",
         "code": "516670",
-        "pct": 5.65,
-        "amount": 5628.0,
+        "pct": 6.56,
+        "amount": 6712.0,
         "category": "农业"
       },
       {
-        "name": "养殖ETF平安",
-        "code": "516760",
-        "pct": 5.33,
-        "amount": 984.0,
+        "name": "畜牧养殖ETF广发",
+        "code": "512450",
+        "pct": 6.07,
+        "amount": 1272.0,
         "category": "农业"
       },
       {
         "name": "养殖ETF国泰",
         "code": "159865",
-        "pct": 5.33,
-        "amount": 29615.0,
+        "pct": 5.74,
+        "amount": 35395.0,
         "category": "农业"
       },
       {
-        "name": "金融科技ETF华宝",
-        "code": "159851",
-        "pct": 5.3,
-        "amount": 47049.0,
-        "category": null
-      },
-      {
-        "name": "金融科技ETF富国",
-        "code": "515720",
-        "pct": 5.17,
-        "amount": 2003.0,
-        "category": null
-      },
-      {
-        "name": "金融科技ETF华夏",
-        "code": "516100",
-        "pct": 5.11,
-        "amount": 6784.0,
-        "category": null
-      },
-      {
-        "name": "创新药ETF华泰柏瑞",
-        "code": "517120",
-        "pct": 5.07,
-        "amount": 4193.0,
+        "name": "创新药ETF东财",
+        "code": "159622",
+        "pct": 5.53,
+        "amount": 26156.0,
         "category": "医药"
       },
       {
-        "name": "农业ETF易方达",
-        "code": "562900",
-        "pct": 4.89,
-        "amount": 1878.0,
+        "name": "养殖ETF平安",
+        "code": "516760",
+        "pct": 5.52,
+        "amount": 1237.0,
+        "category": "农业"
+      },
+      {
+        "name": "科创医药ETF鹏华",
+        "code": "588250",
+        "pct": 5.41,
+        "amount": 2976.0,
+        "category": "医药"
+      },
+      {
+        "name": "养殖ETF鹏华",
+        "code": "159867",
+        "pct": 5.4,
+        "amount": 5141.0,
         "category": "农业"
       }
     ]
