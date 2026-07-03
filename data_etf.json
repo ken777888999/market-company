@@ -3299,71 +3299,71 @@
       {
         "name": "黄金股ETF永赢",
         "code": "517520",
-        "pct": 7.25,
-        "amount": 36995.0,
+        "pct": 7.79,
+        "amount": 84190.0,
         "category": "有色/资源"
       },
       {
         "name": "黄金股ETF华夏",
         "code": "159562",
-        "pct": 6.6,
-        "amount": 11973.0,
+        "pct": 7.33,
+        "amount": 15700.0,
         "category": "有色/资源"
       },
       {
         "name": "机器人ETF易方达",
         "code": "159530",
-        "pct": 6.3,
-        "amount": 115772.0,
+        "pct": 6.67,
+        "amount": 144479.0,
         "category": "机器人"
       },
       {
         "name": "黄金股ETF国泰",
         "code": "517400",
-        "pct": 6.22,
-        "amount": 7209.0,
+        "pct": 6.37,
+        "amount": 8764.0,
         "category": "有色/资源"
       },
       {
         "name": "机器人ETF景顺",
         "code": "159559",
-        "pct": 6.01,
-        "amount": 17347.0,
+        "pct": 6.35,
+        "amount": 22442.0,
         "category": "机器人"
       },
       {
         "name": "机器人ETF银华",
         "code": "562360",
-        "pct": 5.26,
-        "amount": 3407.0,
-        "category": "机器人"
-      },
-      {
-        "name": "机器人ETF国泰",
-        "code": "159551",
-        "pct": 5.07,
-        "amount": 2861.0,
+        "pct": 5.83,
+        "amount": 4258.0,
         "category": "机器人"
       },
       {
         "name": "机器人ETF嘉实",
         "code": "159526",
-        "pct": 5.01,
-        "amount": 2539.0,
+        "pct": 5.55,
+        "amount": 3845.0,
         "category": "机器人"
       },
       {
         "name": "机器人ETF华夏",
         "code": "562500",
-        "pct": 4.88,
-        "amount": 81280.0,
+        "pct": 5.5,
+        "amount": 111411.0,
         "category": "机器人"
       },
       {
-        "name": "机器人ETF万家",
-        "code": "560630",
-        "pct": 4.81,
-        "amount": 931.0,
+        "name": "机器人ETF国泰",
+        "code": "159551",
+        "pct": 5.48,
+        "amount": 3742.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF天弘",
+        "code": "159770",
+        "pct": 5.48,
+        "amount": 27456.0,
         "category": "机器人"
       }
     ]
