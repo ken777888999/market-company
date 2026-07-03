@@ -3292,5 +3292,80 @@
         "category": "医药"
       }
     ]
+  },
+  {
+    "date": "2026-07-03",
+    "top10": [
+      {
+        "name": "黄金股ETF永赢",
+        "code": "517520",
+        "pct": 7.25,
+        "amount": 36995.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF华夏",
+        "code": "159562",
+        "pct": 6.6,
+        "amount": 11973.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 6.3,
+        "amount": 115772.0,
+        "category": "机器人"
+      },
+      {
+        "name": "黄金股ETF国泰",
+        "code": "517400",
+        "pct": 6.22,
+        "amount": 7209.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "机器人ETF景顺",
+        "code": "159559",
+        "pct": 6.01,
+        "amount": 17347.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF银华",
+        "code": "562360",
+        "pct": 5.26,
+        "amount": 3407.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF国泰",
+        "code": "159551",
+        "pct": 5.07,
+        "amount": 2861.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF嘉实",
+        "code": "159526",
+        "pct": 5.01,
+        "amount": 2539.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF华夏",
+        "code": "562500",
+        "pct": 4.88,
+        "amount": 81280.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF万家",
+        "code": "560630",
+        "pct": 4.81,
+        "amount": 931.0,
+        "category": "机器人"
+      }
+    ]
   }
 ]
