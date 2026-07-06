@@ -3372,74 +3372,74 @@
     "date": "2026-07-06",
     "top10": [
       {
-        "name": "港股医药ETF银华",
-        "code": "159776",
+        "name": "养殖ETF国泰",
+        "code": "159865",
+        "pct": 3.29,
+        "amount": 28204.0,
+        "category": "农业"
+      },
+      {
+        "name": "煤炭ETF国泰",
+        "code": "515220",
+        "pct": 3.23,
+        "amount": 79889.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "能源ETF汇添富",
+        "code": "159930",
         "pct": 3.14,
-        "amount": 5154.0,
-        "category": "医药"
+        "amount": 7010.0,
+        "category": "煤炭/能源"
       },
       {
-        "name": "恒生生物科技ETF南方",
-        "code": "159615",
-        "pct": 3.12,
-        "amount": 20356.0,
-        "category": "医药"
+        "name": "能源ETF广发",
+        "code": "159945",
+        "pct": 3.13,
+        "amount": 1118.0,
+        "category": "煤炭/能源"
       },
       {
-        "name": "恒生生物科技ETF汇添富",
-        "code": "513280",
-        "pct": 2.96,
-        "amount": 16057.0,
-        "category": "医药"
+        "name": "农业ETF银华",
+        "code": "159827",
+        "pct": 3.1,
+        "amount": 400.0,
+        "category": "农业"
       },
       {
-        "name": "港股创新药ETF银华",
-        "code": "159567",
-        "pct": 2.93,
-        "amount": 244931.0,
-        "category": "医药"
+        "name": "信创ETF易方达",
+        "code": "159540",
+        "pct": 3.09,
+        "amount": 5915.0,
+        "category": "计算机/信创"
       },
       {
-        "name": "港股通创新药ETF汇添富",
-        "code": "159570",
-        "pct": 2.91,
-        "amount": 408616.0,
-        "category": "医药"
+        "name": "农业ETF易方达",
+        "code": "562900",
+        "pct": 2.94,
+        "amount": 1820.0,
+        "category": "农业"
       },
       {
-        "name": "恒生医疗ETF嘉实",
-        "code": "159557",
-        "pct": 2.84,
-        "amount": 17213.0,
-        "category": "医药"
+        "name": "信创ETF华宝",
+        "code": "562030",
+        "pct": 2.92,
+        "amount": 1349.0,
+        "category": "计算机/信创"
       },
       {
-        "name": "港股通创新药医疗ETF富国",
-        "code": "159506",
-        "pct": 2.81,
-        "amount": 89652.0,
-        "category": "医药"
+        "name": "养殖ETF鹏华",
+        "code": "159867",
+        "pct": 2.85,
+        "amount": 4849.0,
+        "category": "农业"
       },
       {
-        "name": "恒生医药ETF华夏",
-        "code": "159892",
-        "pct": 2.8,
-        "amount": 105960.0,
-        "category": "医药"
-      },
-      {
-        "name": "港股通医药ETF鹏华",
-        "code": "513700",
-        "pct": 2.77,
-        "amount": 18066.0,
-        "category": "医药"
-      },
-      {
-        "name": "科创芯片ETF华安",
-        "code": "588290",
-        "pct": 2.71,
-        "amount": 35989.0,
-        "category": "芯片/半导体"
+        "name": "畜牧养殖ETF广发",
+        "code": "512450",
+        "pct": 2.82,
+        "amount": 808.0,
+        "category": "农业"
       }
     ]
   }
