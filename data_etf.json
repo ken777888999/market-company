@@ -3372,73 +3372,73 @@
     "date": "2026-07-06",
     "top10": [
       {
-        "name": "养殖ETF国泰",
-        "code": "159865",
-        "pct": 3.29,
-        "amount": 28204.0,
-        "category": "农业"
-      },
-      {
         "name": "煤炭ETF国泰",
         "code": "515220",
-        "pct": 3.23,
-        "amount": 79889.0,
+        "pct": 4.13,
+        "amount": 141450.0,
         "category": "煤炭/能源"
-      },
-      {
-        "name": "能源ETF汇添富",
-        "code": "159930",
-        "pct": 3.14,
-        "amount": 7010.0,
-        "category": "煤炭/能源"
-      },
-      {
-        "name": "能源ETF广发",
-        "code": "159945",
-        "pct": 3.13,
-        "amount": 1118.0,
-        "category": "煤炭/能源"
-      },
-      {
-        "name": "农业ETF银华",
-        "code": "159827",
-        "pct": 3.1,
-        "amount": 400.0,
-        "category": "农业"
-      },
-      {
-        "name": "信创ETF易方达",
-        "code": "159540",
-        "pct": 3.09,
-        "amount": 5915.0,
-        "category": "计算机/信创"
-      },
-      {
-        "name": "农业ETF易方达",
-        "code": "562900",
-        "pct": 2.94,
-        "amount": 1820.0,
-        "category": "农业"
-      },
-      {
-        "name": "信创ETF华宝",
-        "code": "562030",
-        "pct": 2.92,
-        "amount": 1349.0,
-        "category": "计算机/信创"
-      },
-      {
-        "name": "养殖ETF鹏华",
-        "code": "159867",
-        "pct": 2.85,
-        "amount": 4849.0,
-        "category": "农业"
       },
       {
         "name": "畜牧养殖ETF广发",
         "code": "512450",
-        "pct": 2.82,
-        "amount": 808.0,
+        "pct": 4.11,
+        "amount": 1262.0,
+        "category": "农业"
+      },
+      {
+        "name": "养殖ETF国泰",
+        "code": "159865",
+        "pct": 3.88,
+        "amount": 39485.0,
+        "category": "农业"
+      },
+      {
+        "name": "能源ETF汇添富",
+        "code": "159930",
+        "pct": 3.79,
+        "amount": 8754.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "农业ETF易方达",
+        "code": "562900",
+        "pct": 3.71,
+        "amount": 2621.0,
+        "category": "农业"
+      },
+      {
+        "name": "能源ETF广发",
+        "code": "159945",
+        "pct": 3.7,
+        "amount": 1976.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "养殖ETF鹏华",
+        "code": "159867",
+        "pct": 3.61,
+        "amount": 5677.0,
+        "category": "农业"
+      },
+      {
+        "name": "养殖ETF平安",
+        "code": "516760",
+        "pct": 3.6,
+        "amount": 1356.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF银华",
+        "code": "159827",
+        "pct": 3.36,
+        "amount": 602.0,
+        "category": "农业"
+      },
+      {
+        "name": "农牧渔ETF景顺",
+        "code": "560210",
+        "pct": 3.31,
+        "amount": 1013.0,
         "category": "农业"
       }
     ]
