@@ -1,28 +1,6 @@
 [
   {
     "date": "2026-05-18",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202605171822384944",
-        "title": "华明装备:002270华明装备投资者关系管理信息20260514",
-        "date": "2026-05-17",
-        "time": "21:54",
-        "category": "调研活动",
-        "codes": [
-          "002270"
-        ],
-        "names": [
-          "华明装备"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002270/AN202605171822384944.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-05-18",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11796,5 +11774,293 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-06",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607061826751827",
+        "title": "鼎龙股份:关于向香港联交所递交H股发行上市申请并刊发申请资料的公告",
+        "date": "2026-07-07",
+        "time": "19:13",
+        "category": "其他,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607061826751827.html"
+      },
+      {
+        "art_code": "AN202607061826750248",
+        "title": "兆易创新:兆易创新关于限制性股票回购注销实施公告",
+        "date": "2026-07-07",
+        "time": "18:39",
+        "category": "回购实施公告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607061826750248.html"
+      },
+      {
+        "art_code": "AN202607061826750247",
+        "title": "兆易创新:北京市中伦(深圳)律师事务所关于兆易创新回购注销相关事项的法律意见书",
+        "date": "2026-07-07",
+        "time": "18:39",
+        "category": "法律意见书",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607061826750247.html"
+      },
+      {
+        "art_code": "AN202607061826748603",
+        "title": "金海通:2026年第三次临时股东会会议资料",
+        "date": "2026-07-07",
+        "time": "17:54",
+        "category": "股东大会资料",
+        "codes": [
+          "603061"
+        ],
+        "names": [
+          "金海通"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607061826748603.html"
+      },
+      {
+        "art_code": "AN202607061826748194",
+        "title": "厦门钨业:厦门钨业关于使用闲置募集资金进行现金管理部分到期赎回的公告",
+        "date": "2026-07-07",
+        "time": "17:42",
+        "category": "投资理财",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202607061826748194.html"
+      },
+      {
+        "art_code": "AN202607061826744755",
+        "title": "安孚科技:安徽安孚电池科技股份有限公司2026年第三次临时股东会会议资料",
+        "date": "2026-07-07",
+        "time": "16:05",
+        "category": "股东大会资料,高管人员任职变动",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202607061826744755.html"
+      },
+      {
+        "art_code": "AN202607061826751696",
+        "title": "德福科技:2026年度向特定对象发行A股股票募集资金使用可行性分析报告",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "其他",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751696.html"
+      },
+      {
+        "art_code": "AN202607061826751720",
+        "title": "德福科技:未来三年(2026年-2028年)股东分红回报规划",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "其他",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751720.html"
+      },
+      {
+        "art_code": "AN202607061826751703",
+        "title": "德福科技:关于最近五年不存在被证券监管部门和交易所采取监管措施或处罚情况的公告",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "处罚",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751703.html"
+      },
+      {
+        "art_code": "AN202607061826751722",
+        "title": "德福科技:关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "获得补贴（资助）",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751722.html"
+      },
+      {
+        "art_code": "AN202607061826751727",
+        "title": "德福科技:关于暂不召开股东会的公告",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "其他",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751727.html"
+      },
+      {
+        "art_code": "AN202607061826751679",
+        "title": "德福科技:第三届董事会第二十七次会议决议公告",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "增发预案,董事会决议公告",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751679.html"
+      },
+      {
+        "art_code": "AN202607061826751713",
+        "title": "德福科技:2026年度向特定对象发行A股股票方案论证分析报告",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "其他",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751713.html"
+      },
+      {
+        "art_code": "AN202607061826751675",
+        "title": "德福科技:关于2026年度向特定对象发行A股股票摊薄即期回报与填补措施及相关主体承诺的公告",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "其他",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751675.html"
+      },
+      {
+        "art_code": "AN202607061826751709",
+        "title": "德福科技:前次募集资金使用情况报告",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751709.html"
+      },
+      {
+        "art_code": "AN202607061826751672",
+        "title": "德福科技:2026年度向特定对象发行A股股票预案",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "增发预案",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751672.html"
+      },
+      {
+        "art_code": "AN202607061826751693",
+        "title": "德福科技:前次募集资金使用情况报告及鉴证报告",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "保荐/核查意见",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751693.html"
+      },
+      {
+        "art_code": "AN202607061826751685",
+        "title": "德福科技:关于2026年度向特定对象发行A股股票预案披露的提示性公告",
+        "date": "2026-07-06",
+        "time": "19:11",
+        "category": "增发提示性公告",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607061826751685.html"
+      },
+      {
+        "art_code": "AN202607061826748097",
+        "title": "沪电股份:2026年7月6日投资者关系活动记录表",
+        "date": "2026-07-06",
+        "time": "17:44",
+        "category": "调研活动",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607061826748097.html"
+      },
+      {
+        "art_code": "AN202607061826748197",
+        "title": "上海新阳:关于子公司完成工商变更登记的公告",
+        "date": "2026-07-06",
+        "time": "17:43",
+        "category": "公司关联方基本资料变更",
+        "codes": [
+          "300236"
+        ],
+        "names": [
+          "上海新阳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300236/AN202607061826748197.html"
+      }
+    ],
+    "reports": []
   }
 ]
