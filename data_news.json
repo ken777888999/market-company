@@ -1,52 +1,6 @@
 [
   {
     "date": "2026-05-19",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202605181822409487",
-        "title": "长川科技:杭州长川科技股份有限公司2025年度股东会决议的公告",
-        "date": "2026-05-19",
-        "time": "21:03",
-        "category": "分配方案决议公告,股东大会决议公告",
-        "codes": [
-          "300604"
-        ],
-        "names": [
-          "长川科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300604/AN202605181822409487.html"
-      },
-      {
-        "art_code": "AN202605181822409488",
-        "title": "长川科技:国浩律师(杭州)事务所关于杭州长川科技股份有限公司2025年度股东会之法律意见书",
-        "date": "2026-05-19",
-        "time": "21:03",
-        "category": "法律意见书",
-        "codes": [
-          "300604"
-        ],
-        "names": [
-          "长川科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300604/AN202605181822409488.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "603986",
-        "name": "兆易创新",
-        "title": "存储量价齐升空间打开，定制化存储进程加速",
-        "org": "中航证券",
-        "rating": "",
-        "date": "2026-05-18",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-05-19",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11784,6 +11738,126 @@
     "time": "09:00",
     "period": "早间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-07-07",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607071826777296",
+        "title": "芯碁微装:港股公告:证券变动月报表",
+        "date": "2026-07-08",
+        "time": "18:57",
+        "category": "其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202607071826777296.html"
+      },
+      {
+        "art_code": "AN202607071826776661",
+        "title": "广合科技:H股公告-截至二零二六年六月三十日止月份之股份发行人的证券变动月报表",
+        "date": "2026-07-08",
+        "time": "18:29",
+        "category": "其他",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202607071826776661.html"
+      },
+      {
+        "art_code": "AN202607071826776550",
+        "title": "广合科技:2026年半年度业绩预告",
+        "date": "2026-07-08",
+        "time": "18:27",
+        "category": "业绩预告",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202607071826776550.html"
+      },
+      {
+        "art_code": "AN202607071826774061",
+        "title": "智微智能:2026年半年度业绩预告",
+        "date": "2026-07-08",
+        "time": "17:17",
+        "category": "业绩预告",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607071826774061.html"
+      },
+      {
+        "art_code": "AN202607071826777233",
+        "title": "雅创电子:关于实施2025年度利润分配后发行股份及支付现金购买资产的股份发行价格和发行数量调整的公告",
+        "date": "2026-07-07",
+        "time": "18:53",
+        "category": "增发方案修订,产品价格调整",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202607071826777233.html"
+      },
+      {
+        "art_code": "AN202607071826776775",
+        "title": "三环集团:关于境外上市股份(H股)公开发行价格的公告",
+        "date": "2026-07-07",
+        "time": "18:32",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607071826776775.html"
+      },
+      {
+        "art_code": "AN202607071826775188",
+        "title": "002156通富微电投资者关系管理信息20260707",
+        "date": "2026-07-07",
+        "time": "17:52",
+        "category": "调研活动",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202607071826775188.html"
+      },
+      {
+        "art_code": "AN202607071826773710",
+        "title": "沪电股份:2026年7月7日投资者关系活动记录表",
+        "date": "2026-07-07",
+        "time": "17:13",
+        "category": "调研活动",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607071826773710.html"
+      }
+    ],
     "reports": []
   }
 ]
