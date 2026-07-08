@@ -3522,73 +3522,73 @@
     "date": "2026-07-08",
     "top10": [
       {
-        "name": "云计算ETF招商",
-        "code": "159890",
-        "pct": 6.98,
-        "amount": 3424.0,
-        "category": "云计算/大数据"
+        "name": "信息安全ETF嘉实",
+        "code": "159613",
+        "pct": 6.82,
+        "amount": 2480.0,
+        "category": null
       },
       {
         "name": "云计算50ETF新华",
         "code": "560660",
         "pct": 6.65,
-        "amount": 1363.0,
+        "amount": 2132.0,
         "category": "云计算/大数据"
+      },
+      {
+        "name": "港股通互联网ETF富国",
+        "code": "159792",
+        "pct": 6.42,
+        "amount": 421096.0,
+        "category": "港股/中概"
       },
       {
         "name": "大数据ETF富国",
         "code": "515400",
         "pct": 6.34,
-        "amount": 10738.0,
+        "amount": 17736.0,
         "category": "云计算/大数据"
       },
       {
         "name": "云计算ETF华泰柏瑞",
         "code": "159738",
-        "pct": 6.02,
-        "amount": 2625.0,
+        "pct": 6.32,
+        "amount": 3228.0,
         "category": "云计算/大数据"
       },
       {
-        "name": "信息安全ETF嘉实",
-        "code": "159613",
-        "pct": 6.0,
-        "amount": 1321.0,
-        "category": null
+        "name": "云计算ETF招商",
+        "code": "159890",
+        "pct": 6.27,
+        "amount": 5219.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "云计算ETF鹏华",
+        "code": "159739",
+        "pct": 6.11,
+        "amount": 4102.0,
+        "category": "云计算/大数据"
       },
       {
         "name": "大数据ETF华夏",
         "code": "516000",
-        "pct": 5.99,
-        "amount": 2647.0,
-        "category": "云计算/大数据"
-      },
-      {
-        "name": "大数据ETF华宝",
-        "code": "516700",
-        "pct": 5.93,
-        "amount": 1639.0,
-        "category": "云计算/大数据"
-      },
-      {
-        "name": "云计算ETF广发",
-        "code": "159527",
-        "pct": 5.9,
-        "amount": 955.0,
+        "pct": 6.1,
+        "amount": 3502.0,
         "category": "云计算/大数据"
       },
       {
         "name": "云计算ETF华夏",
         "code": "516630",
         "pct": 5.89,
-        "amount": 5417.0,
+        "amount": 6824.0,
         "category": "云计算/大数据"
       },
       {
         "name": "云计算ETF天弘",
         "code": "517390",
-        "pct": 5.8,
-        "amount": 1195.0,
+        "pct": 5.85,
+        "amount": 1520.0,
         "category": "云计算/大数据"
       }
     ]
