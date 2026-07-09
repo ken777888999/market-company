@@ -3592,5 +3592,80 @@
         "category": "港股/中概"
       }
     ]
+  },
+  {
+    "date": "2026-07-09",
+    "top10": [
+      {
+        "name": "港股通信息技术ETF华安",
+        "code": "513240",
+        "pct": 5.04,
+        "amount": 15602.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "半导体龙头ETF工银",
+        "code": "159665",
+        "pct": 3.98,
+        "amount": 4758.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "科创信息ETF华安",
+        "code": "588260",
+        "pct": 3.77,
+        "amount": 210.0,
+        "category": "科创板"
+      },
+      {
+        "name": "集成电路ETF国泰",
+        "code": "159546",
+        "pct": 3.75,
+        "amount": 5769.0,
+        "category": null
+      },
+      {
+        "name": "集成电路ETF嘉实",
+        "code": "562820",
+        "pct": 3.65,
+        "amount": 3466.0,
+        "category": null
+      },
+      {
+        "name": "芯片ETF国泰",
+        "code": "512760",
+        "pct": 3.61,
+        "amount": 55865.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "芯片ETF富国",
+        "code": "516640",
+        "pct": 3.59,
+        "amount": 24222.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体ETF鹏华",
+        "code": "159813",
+        "pct": 3.59,
+        "amount": 36137.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "芯片ETF易方达",
+        "code": "516350",
+        "pct": 3.48,
+        "amount": 16955.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 3.46,
+        "amount": 78250.0,
+        "category": "海外QDII"
+      }
+    ]
   }
 ]
