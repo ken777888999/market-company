@@ -3674,71 +3674,71 @@
       {
         "name": "卫星ETF广发",
         "code": "512630",
-        "pct": 8.89,
-        "amount": 65744.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "卫星ETF易方达",
-        "code": "563530",
-        "pct": 8.74,
-        "amount": 57465.0,
+        "pct": 8.14,
+        "amount": 87167.0,
         "category": "军工/航空航天"
       },
       {
         "name": "卫星ETF富国",
         "code": "563230",
-        "pct": 8.73,
-        "amount": 117957.0,
+        "pct": 7.99,
+        "amount": 164023.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF易方达",
+        "code": "563530",
+        "pct": 7.77,
+        "amount": 84169.0,
         "category": "军工/航空航天"
       },
       {
         "name": "卫星ETF鹏华",
         "code": "563790",
-        "pct": 8.44,
-        "amount": 31271.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "通用航空ETF鹏华",
-        "code": "563870",
-        "pct": 7.92,
-        "amount": 1219.0,
+        "pct": 7.65,
+        "amount": 36937.0,
         "category": "军工/航空航天"
       },
       {
         "name": "通用航空ETF华泰柏瑞",
         "code": "563320",
-        "pct": 7.73,
-        "amount": 4454.0,
+        "pct": 7.3,
+        "amount": 5414.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "通用航空ETF鹏华",
+        "code": "563870",
+        "pct": 6.51,
+        "amount": 1358.0,
         "category": "军工/航空航天"
       },
       {
         "name": "通用航空ETF平安",
         "code": "561660",
-        "pct": 6.44,
-        "amount": 1783.0,
+        "pct": 6.33,
+        "amount": 1920.0,
         "category": "军工/航空航天"
+      },
+      {
+        "name": "疫苗ETF国泰",
+        "code": "159643",
+        "pct": 5.1,
+        "amount": 1252.0,
+        "category": null
       },
       {
         "name": "高端装备ETF嘉实",
         "code": "159638",
-        "pct": 6.04,
-        "amount": 8662.0,
+        "pct": 4.95,
+        "amount": 9987.0,
         "category": null
       },
       {
         "name": "航空航天ETF华泰柏瑞",
         "code": "563380",
-        "pct": 5.36,
-        "amount": 21285.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "军工龙头ETF富国",
-        "code": "512710",
-        "pct": 4.73,
-        "amount": 89104.0,
+        "pct": 4.47,
+        "amount": 24235.0,
         "category": "军工/航空航天"
       }
     ]
