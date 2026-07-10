@@ -3667,5 +3667,80 @@
         "category": "芯片/半导体"
       }
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "top10": [
+      {
+        "name": "大数据ETF华夏",
+        "code": "516000",
+        "pct": 5.0,
+        "amount": 6939.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "大数据ETF华宝",
+        "code": "516700",
+        "pct": 4.81,
+        "amount": 3734.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "云计算ETF广发",
+        "code": "159527",
+        "pct": 4.73,
+        "amount": 4212.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "大数据ETF富国",
+        "code": "515400",
+        "pct": 4.61,
+        "amount": 24622.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "云计算ETF招商",
+        "code": "159890",
+        "pct": 4.51,
+        "amount": 9844.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "云计算50ETF新华",
+        "code": "560660",
+        "pct": 4.5,
+        "amount": 3464.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "云计算ETF易方达",
+        "code": "516510",
+        "pct": 4.38,
+        "amount": 33906.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "云计算ETF华夏",
+        "code": "516630",
+        "pct": 4.14,
+        "amount": 7493.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "传媒ETF鹏华",
+        "code": "159805",
+        "pct": 4.14,
+        "amount": 3966.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "信息安全ETF易方达",
+        "code": "562920",
+        "pct": 4.09,
+        "amount": 953.0,
+        "category": null
+      }
+    ]
   }
 ]
