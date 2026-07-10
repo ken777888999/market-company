@@ -3672,73 +3672,73 @@
     "date": "2026-07-10",
     "top10": [
       {
-        "name": "大数据ETF华夏",
-        "code": "516000",
-        "pct": 5.0,
-        "amount": 6939.0,
-        "category": "云计算/大数据"
+        "name": "疫苗ETF国泰",
+        "code": "159643",
+        "pct": 6.08,
+        "amount": 720.0,
+        "category": null
       },
       {
-        "name": "大数据ETF华宝",
-        "code": "516700",
-        "pct": 4.81,
-        "amount": 3734.0,
-        "category": "云计算/大数据"
+        "name": "疫苗ETF嘉实",
+        "code": "562860",
+        "pct": 5.48,
+        "amount": 854.0,
+        "category": null
       },
       {
-        "name": "云计算ETF广发",
-        "code": "159527",
-        "pct": 4.73,
-        "amount": 4212.0,
-        "category": "云计算/大数据"
+        "name": "疫苗ETF富国",
+        "code": "159645",
+        "pct": 5.4,
+        "amount": 79.0,
+        "category": null
       },
       {
-        "name": "大数据ETF富国",
-        "code": "515400",
-        "pct": 4.61,
-        "amount": 24622.0,
-        "category": "云计算/大数据"
+        "name": "生物医药ETF汇添富",
+        "code": "159839",
+        "pct": 5.36,
+        "amount": 7012.0,
+        "category": "医药"
       },
       {
-        "name": "云计算ETF招商",
-        "code": "159890",
-        "pct": 4.51,
-        "amount": 9844.0,
-        "category": "云计算/大数据"
+        "name": "生物医药ETF华安",
+        "code": "159508",
+        "pct": 5.08,
+        "amount": 1134.0,
+        "category": "医药"
       },
       {
-        "name": "云计算50ETF新华",
-        "code": "560660",
-        "pct": 4.5,
-        "amount": 3464.0,
-        "category": "云计算/大数据"
-      },
-      {
-        "name": "云计算ETF易方达",
-        "code": "516510",
-        "pct": 4.38,
-        "amount": 33906.0,
-        "category": "云计算/大数据"
-      },
-      {
-        "name": "云计算ETF华夏",
-        "code": "516630",
-        "pct": 4.14,
-        "amount": 7493.0,
-        "category": "云计算/大数据"
+        "name": "疫苗ETF鹏华",
+        "code": "159657",
+        "pct": 5.05,
+        "amount": 290.0,
+        "category": null
       },
       {
         "name": "传媒ETF鹏华",
         "code": "159805",
-        "pct": 4.14,
-        "amount": 3966.0,
+        "pct": 5.02,
+        "amount": 4693.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "信息安全ETF易方达",
-        "code": "562920",
-        "pct": 4.09,
-        "amount": 953.0,
+        "name": "创新药ETF南方",
+        "code": "159858",
+        "pct": 4.98,
+        "amount": 4760.0,
+        "category": "医药"
+      },
+      {
+        "name": "生物医药ETF天弘",
+        "code": "159859",
+        "pct": 4.97,
+        "amount": 23820.0,
+        "category": "医药"
+      },
+      {
+        "name": "疫苗ETF招商",
+        "code": "561920",
+        "pct": 4.88,
+        "amount": 131.0,
         "category": null
       }
     ]
