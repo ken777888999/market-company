@@ -1,52 +1,6 @@
 [
   {
     "date": "2026-05-22",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202605221822671298",
-        "title": "中国铝业:中国铝业第九届董事会第十三次会议决议公告",
-        "date": "2026-05-22",
-        "time": "07:47",
-        "category": "董事会决议公告",
-        "codes": [
-          "601600"
-        ],
-        "names": [
-          "中国铝业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601600/AN202605221822671298.html"
-      },
-      {
-        "art_code": "AN202605221822671294",
-        "title": "中国铝业:中国铝业关于拟投资建设几内亚氧化铝项目暨签署《矿业协议修订与重述版》的公告",
-        "date": "2026-05-22",
-        "time": "07:47",
-        "category": "签订协议",
-        "codes": [
-          "601600"
-        ],
-        "names": [
-          "中国铝业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601600/AN202605221822671294.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "600176",
-        "name": "中国巨石",
-        "title": "主业量价齐升，电子布正处大周期上行通道",
-        "org": "华源证券",
-        "rating": "",
-        "date": "2026-05-21",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-05-22",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11651,5 +11605,163 @@
       }
     ],
     "reports": []
+  },
+  {
+    "date": "2026-07-10",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607101826879209",
+        "title": "紫金矿业:紫金矿业自然相关财务披露工作报告",
+        "date": "2026-07-11",
+        "time": "18:51",
+        "category": "其他",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202607101826879209.html"
+      },
+      {
+        "art_code": "AN202607101826879019",
+        "title": "紫金矿业:紫金矿业集团股份有限公司第九届董事会临时会议决议公告",
+        "date": "2026-07-11",
+        "time": "18:44",
+        "category": "分配预案,董事会决议公告",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202607101826879019.html"
+      },
+      {
+        "art_code": "AN202607101826878836",
+        "title": "华锐精密:关于对外投资取得信丰华锐钨钼新材料有限公司控制权的自愿性披露公告",
+        "date": "2026-07-11",
+        "time": "18:35",
+        "category": "对外项目投资",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202607101826878836.html"
+      },
+      {
+        "art_code": "AN202607101826877739",
+        "title": "石大胜华:石大胜华2026年半年度业绩预盈公告",
+        "date": "2026-07-11",
+        "time": "18:06",
+        "category": "业绩预告",
+        "codes": [
+          "603026"
+        ],
+        "names": [
+          "石大胜华"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603026/AN202607101826877739.html"
+      },
+      {
+        "art_code": "AN202607101826874099",
+        "title": "安孚科技:安徽安孚电池科技股份有限公司关于提供担保的进展公告",
+        "date": "2026-07-11",
+        "time": "16:34",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202607101826874099.html"
+      },
+      {
+        "art_code": "AN202607101826874098",
+        "title": "安孚科技:安徽安孚电池科技股份有限公司2026年半年度业绩预告",
+        "date": "2026-07-11",
+        "time": "16:34",
+        "category": "业绩预告",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202607101826874098.html"
+      },
+      {
+        "art_code": "AN202607101826872615",
+        "title": "融捷股份:2026年半年度业绩预告",
+        "date": "2026-07-11",
+        "time": "15:43",
+        "category": "业绩预告",
+        "codes": [
+          "002192"
+        ],
+        "names": [
+          "融捷股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002192/AN202607101826872615.html"
+      },
+      {
+        "art_code": "AN202607101826880370",
+        "title": "300054鼎龙股份投资者关系管理信息20260710",
+        "date": "2026-07-10",
+        "time": "19:51",
+        "category": "调研活动",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607101826880370.html"
+      },
+      {
+        "art_code": "AN202607101826878108",
+        "title": "天华新能:股票交易异常波动公告",
+        "date": "2026-07-10",
+        "time": "18:17",
+        "category": "股票交易异常波动",
+        "codes": [
+          "300390"
+        ],
+        "names": [
+          "天华新能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300390/AN202607101826878108.html"
+      },
+      {
+        "art_code": "AN202607101826877569",
+        "title": "沪电股份:2026年7月10日投资者关系活动记录表",
+        "date": "2026-07-10",
+        "time": "18:01",
+        "category": "调研活动",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607101826877569.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "605117",
+        "name": "德业股份",
+        "title": "受益海外户储及工商储高景气，上半年业绩同比增长超7成",
+        "org": "国信证券",
+        "rating": "",
+        "date": "2026-07-10",
+        "digest": ""
+      }
+    ]
   }
 ]
