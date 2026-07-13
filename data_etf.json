@@ -3742,5 +3742,80 @@
         "category": "军工/航空航天"
       }
     ]
+  },
+  {
+    "date": "2026-07-13",
+    "top10": [
+      {
+        "name": "中药ETF银华",
+        "code": "562390",
+        "pct": 3.41,
+        "amount": 1017.0,
+        "category": "医药"
+      },
+      {
+        "name": "中药ETF鹏华",
+        "code": "159647",
+        "pct": 3.34,
+        "amount": 3504.0,
+        "category": "医药"
+      },
+      {
+        "name": "中药ETF汇添富",
+        "code": "560080",
+        "pct": 3.21,
+        "amount": 11959.0,
+        "category": "医药"
+      },
+      {
+        "name": "中药ETF华泰柏瑞",
+        "code": "561510",
+        "pct": 3.18,
+        "amount": 727.0,
+        "category": "医药"
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 3.08,
+        "amount": 52023.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 2.17,
+        "amount": 16778.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "豆粕ETF华夏",
+        "code": "159985",
+        "pct": 2.15,
+        "amount": 34158.0,
+        "category": null
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 1.97,
+        "amount": 37480.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "半导体设备ETF招商",
+        "code": "561980",
+        "pct": 1.6,
+        "amount": 47826.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "银行ETF鹏华",
+        "code": "512730",
+        "pct": 1.53,
+        "amount": 623.0,
+        "category": "银行"
+      }
+    ]
   }
 ]
