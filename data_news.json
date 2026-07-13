@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-05-25",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-05-25",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11568,6 +11561,308 @@
           "中际旭创"
         ],
         "url": "https://data.eastmoney.com/notices/detail/300308/AN202607121826913971.html"
+      }
+    ],
+    "reports": []
+  },
+  {
+    "date": "2026-07-13",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607131826935006",
+        "title": "生益科技:生益科技2026年半年度业绩预增公告",
+        "date": "2026-07-14",
+        "time": "20:00",
+        "category": "业绩预告",
+        "codes": [
+          "600183"
+        ],
+        "names": [
+          "生益科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600183/AN202607131826935006.html"
+      },
+      {
+        "art_code": "AN202607131826934033",
+        "title": "新锐股份:新锐股份2026年半年度业绩预告的自愿性披露公告",
+        "date": "2026-07-14",
+        "time": "19:07",
+        "category": "业绩预告",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202607131826934033.html"
+      },
+      {
+        "art_code": "AN202607131826933623",
+        "title": "芯碁微装:关于悉数行使超额配售权的公告",
+        "date": "2026-07-14",
+        "time": "18:53",
+        "category": "其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202607131826933623.html"
+      },
+      {
+        "art_code": "AN202607131826930026",
+        "title": "南亚新材:光大证券股份有限公司关于南亚新材料科技股份有限公司使用部分闲置募集资金临时补充流动资金的核查意见",
+        "date": "2026-07-14",
+        "time": "17:30",
+        "category": "保荐/核查意见",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202607131826930026.html"
+      },
+      {
+        "art_code": "AN202607131826930028",
+        "title": "南亚新材:光大证券股份有限公司关于南亚新材料科技股份有限公司开展远期外汇交易业务的核查意见",
+        "date": "2026-07-14",
+        "time": "17:30",
+        "category": "保荐/核查意见",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202607131826930028.html"
+      },
+      {
+        "art_code": "AN202607131826930030",
+        "title": "南亚新材:第三届董事会第三十四次会议决议公告",
+        "date": "2026-07-14",
+        "time": "17:30",
+        "category": "董事会决议公告",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202607131826930030.html"
+      },
+      {
+        "art_code": "AN202607131826930027",
+        "title": "南亚新材:关于开展远期外汇交易业务的公告",
+        "date": "2026-07-14",
+        "time": "17:30",
+        "category": "其他",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202607131826930027.html"
+      },
+      {
+        "art_code": "AN202607131826930025",
+        "title": "南亚新材:关于使用部分闲置募集资金临时补充流动资金的公告",
+        "date": "2026-07-14",
+        "time": "17:30",
+        "category": "募集资金补充流动资金",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202607131826930025.html"
+      },
+      {
+        "art_code": "AN202607131826930029",
+        "title": "南亚新材:关于开展资产池业务的公告",
+        "date": "2026-07-14",
+        "time": "17:30",
+        "category": "其他",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202607131826930029.html"
+      },
+      {
+        "art_code": "AN202607131826929961",
+        "title": "沪电股份:2026年半年度业绩预告",
+        "date": "2026-07-14",
+        "time": "17:27",
+        "category": "业绩预告",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607131826929961.html"
+      },
+      {
+        "art_code": "AN202607131826929469",
+        "title": "华宏科技:2026年半年度业绩预告",
+        "date": "2026-07-14",
+        "time": "17:19",
+        "category": "业绩预告",
+        "codes": [
+          "002645"
+        ],
+        "names": [
+          "华宏科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002645/AN202607131826929469.html"
+      },
+      {
+        "art_code": "AN202607131826928926",
+        "title": "安孚科技:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集安孚科技股东投票权的法律意见书",
+        "date": "2026-07-14",
+        "time": "17:08",
+        "category": "法律意见书",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202607131826928926.html"
+      },
+      {
+        "art_code": "AN202607131826928875",
+        "title": "安孚科技:安徽安孚电池科技股份有限公司2026年第三次临时股东会决议公告",
+        "date": "2026-07-14",
+        "time": "17:08",
+        "category": "股东大会决议公告,高管人员任职变动",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202607131826928875.html"
+      },
+      {
+        "art_code": "AN202607131826928874",
+        "title": "安孚科技:安徽承义律师事务所关于安徽安孚电池科技股份有限公司召开2026年第三次临时股东会的法律意见书",
+        "date": "2026-07-14",
+        "time": "17:08",
+        "category": "法律意见书",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202607131826928874.html"
+      },
+      {
+        "art_code": "AN202607131826927802",
+        "title": "中钨高新:2026年半年度业绩预告",
+        "date": "2026-07-14",
+        "time": "16:37",
+        "category": "业绩预告",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202607131826927802.html"
+      },
+      {
+        "art_code": "AN202607131826927562",
+        "title": "中国铝业:中国铝业2026年半年度业绩预增公告",
+        "date": "2026-07-14",
+        "time": "16:32",
+        "category": "业绩预告",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202607131826927562.html"
+      },
+      {
+        "art_code": "AN202607131826926874",
+        "title": "金海通:2026年半年度业绩预增公告",
+        "date": "2026-07-14",
+        "time": "16:01",
+        "category": "业绩预告",
+        "codes": [
+          "603061"
+        ],
+        "names": [
+          "金海通"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607131826926874.html"
+      },
+      {
+        "art_code": "AN202607131826934258",
+        "title": "协创数据:2026年第六次临时股东会决议公告",
+        "date": "2026-07-13",
+        "time": "19:17",
+        "category": "增发预案,股东大会决议公告",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202607131826934258.html"
+      },
+      {
+        "art_code": "AN202607131826934245",
+        "title": "协创数据:广东信达律师事务所关于协创数据技术股份有限公司2026年第六次临时股东会的法律意见书",
+        "date": "2026-07-13",
+        "time": "19:17",
+        "category": "法律意见书",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202607131826934245.html"
+      },
+      {
+        "art_code": "AN202607131826933095",
+        "title": "扬杰科技:关于董事离任的公告",
+        "date": "2026-07-13",
+        "time": "18:33",
+        "category": "高管人员任职变动",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202607131826933095.html"
+      },
+      {
+        "art_code": "AN202607131826929172",
+        "title": "广合科技:2026年7月13日投资者关系活动记录表",
+        "date": "2026-07-13",
+        "time": "17:16",
+        "category": "调研活动",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202607131826929172.html"
       }
     ],
     "reports": []
