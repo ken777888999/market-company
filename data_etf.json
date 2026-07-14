@@ -3822,74 +3822,74 @@
     "date": "2026-07-14",
     "top10": [
       {
-        "name": "有色ETF鹏华",
-        "code": "159880",
-        "pct": 4.77,
-        "amount": 3005.0,
-        "category": "有色/资源"
-      },
-      {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 4.74,
-        "amount": 285978.0,
+        "pct": 6.94,
+        "amount": 364325.0,
         "category": "海外QDII"
       },
       {
-        "name": "工业有色ETF平安",
-        "code": "560970",
-        "pct": 4.65,
-        "amount": 231.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "工业有色ETF万家",
-        "code": "560860",
-        "pct": 4.59,
-        "amount": 76877.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "通信ETF华夏",
-        "code": "515050",
-        "pct": 4.57,
-        "amount": 217434.0,
+        "name": "通信ETF银华",
+        "code": "159994",
+        "pct": 6.42,
+        "amount": 42759.0,
         "category": "通信/5G"
-      },
-      {
-        "name": "有色矿业ETF招商",
-        "code": "159690",
-        "pct": 4.56,
-        "amount": 2110.0,
-        "category": "有色/资源"
       },
       {
         "name": "科创成长ETF万家",
         "code": "588070",
-        "pct": 4.53,
-        "amount": 1073.0,
+        "pct": 6.39,
+        "amount": 1407.0,
         "category": "科创板"
+      },
+      {
+        "name": "通信ETF华夏",
+        "code": "515050",
+        "pct": 6.38,
+        "amount": 265041.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "工业有色ETF万家",
+        "code": "560860",
+        "pct": 6.37,
+        "amount": 97551.0,
+        "category": "有色/资源"
       },
       {
         "name": "工业有色ETF中银",
         "code": "560870",
-        "pct": 4.52,
-        "amount": 820.0,
+        "pct": 6.18,
+        "amount": 967.0,
         "category": "有色/资源"
       },
       {
-        "name": "工业有色ETF华泰柏瑞",
-        "code": "560490",
-        "pct": 4.49,
-        "amount": 781.0,
+        "name": "有色ETF鹏华",
+        "code": "159880",
+        "pct": 6.05,
+        "amount": 4753.0,
         "category": "有色/资源"
       },
       {
-        "name": "煤炭ETF国泰",
-        "code": "515220",
-        "pct": 4.46,
-        "amount": 107835.0,
-        "category": "煤炭/能源"
+        "name": "矿业ETF国泰",
+        "code": "561330",
+        "pct": 6.01,
+        "amount": 7625.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "有色ETF景顺",
+        "code": "560290",
+        "pct": 5.91,
+        "amount": 1619.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "科创成长ETF广发",
+        "code": "588110",
+        "pct": 5.85,
+        "amount": 5645.0,
+        "category": "科创板"
       }
     ]
   }
