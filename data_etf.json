@@ -3892,5 +3892,80 @@
         "category": "科创板"
       }
     ]
+  },
+  {
+    "date": "2026-07-15",
+    "top10": [
+      {
+        "name": "科创医药ETF鹏华",
+        "code": "588250",
+        "pct": 5.05,
+        "amount": 1819.0,
+        "category": "医药"
+      },
+      {
+        "name": "科创医药ETF华夏",
+        "code": "588130",
+        "pct": 4.85,
+        "amount": 3673.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF国泰",
+        "code": "517110",
+        "pct": 4.73,
+        "amount": 5995.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股通创新药医疗ETF富国",
+        "code": "159506",
+        "pct": 4.55,
+        "amount": 76776.0,
+        "category": "医药"
+      },
+      {
+        "name": "生物科技ETF民生加银",
+        "code": "516930",
+        "pct": 4.49,
+        "amount": 168.0,
+        "category": "医药"
+      },
+      {
+        "name": "疫苗ETF富国",
+        "code": "159645",
+        "pct": 4.44,
+        "amount": 187.0,
+        "category": null
+      },
+      {
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 4.43,
+        "amount": 1837.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "创新药ETF华泰柏瑞",
+        "code": "517120",
+        "pct": 4.38,
+        "amount": 4016.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF摩根",
+        "code": "560900",
+        "pct": 4.33,
+        "amount": 3341.0,
+        "category": "医药"
+      },
+      {
+        "name": "医疗健康ETF泰康",
+        "code": "159760",
+        "pct": 4.33,
+        "amount": 292.0,
+        "category": "医药"
+      }
+    ]
   }
 ]
