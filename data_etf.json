@@ -3899,71 +3899,71 @@
       {
         "name": "游戏ETF华泰柏瑞",
         "code": "516770",
-        "pct": 5.61,
-        "amount": 5643.0,
+        "pct": 5.97,
+        "amount": 6674.0,
         "category": "传媒/游戏"
       },
       {
         "name": "游戏ETF华夏",
         "code": "159869",
-        "pct": 5.21,
-        "amount": 86175.0,
+        "pct": 5.87,
+        "amount": 101126.0,
         "category": "传媒/游戏"
       },
       {
         "name": "游戏ETF国泰",
         "code": "516010",
-        "pct": 4.96,
-        "amount": 16377.0,
+        "pct": 5.34,
+        "amount": 18450.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "港股通创新药医疗ETF富国",
-        "code": "159506",
-        "pct": 4.88,
-        "amount": 150055.0,
-        "category": "医药"
-      },
-      {
-        "name": "创新药ETF国泰",
-        "code": "517110",
-        "pct": 4.86,
-        "amount": 9438.0,
-        "category": "医药"
-      },
-      {
-        "name": "恒生生物科技ETF华泰柏瑞",
-        "code": "513930",
-        "pct": 4.63,
-        "amount": 21005.0,
-        "category": "医药"
+        "name": "疫苗ETF鹏华",
+        "code": "159657",
+        "pct": 4.93,
+        "amount": 508.0,
+        "category": null
       },
       {
         "name": "酒ETF鹏华",
         "code": "512690",
-        "pct": 4.55,
-        "amount": 132658.0,
+        "pct": 4.8,
+        "amount": 147087.0,
         "category": "消费/白酒"
       },
       {
-        "name": "科创医药ETF华夏",
-        "code": "588130",
-        "pct": 4.47,
-        "amount": 5727.0,
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 4.71,
+        "amount": 2717.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "生物医药ETF天弘",
+        "code": "159859",
+        "pct": 4.68,
+        "amount": 53857.0,
         "category": "医药"
       },
       {
-        "name": "港股创新药ETF广发",
-        "code": "513120",
-        "pct": 4.43,
-        "amount": 1350501.0,
+        "name": "港股通创新药医疗ETF富国",
+        "code": "159506",
+        "pct": 4.55,
+        "amount": 185555.0,
         "category": "医药"
       },
       {
-        "name": "创新药ETF华泰柏瑞",
-        "code": "517120",
-        "pct": 4.38,
-        "amount": 6735.0,
+        "name": "生物医药ETF华安",
+        "code": "159508",
+        "pct": 4.51,
+        "amount": 3197.0,
+        "category": "医药"
+      },
+      {
+        "name": "科创医药ETF鹏华",
+        "code": "588250",
+        "pct": 4.49,
+        "amount": 3804.0,
         "category": "医药"
       }
     ]
