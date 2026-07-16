@@ -3974,72 +3974,72 @@
       {
         "name": "港股互联网ETF华宝",
         "code": "513770",
-        "pct": 4.96,
-        "amount": 107952.0,
+        "pct": 4.41,
+        "amount": 124993.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 4.02,
+        "amount": 6811.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "互联网ETF东财",
+        "code": "159550",
+        "pct": 3.71,
+        "amount": 1752.0,
+        "category": null
+      },
+      {
+        "name": "港股互联网ETF博时",
+        "code": "159568",
+        "pct": 3.67,
+        "amount": 25770.0,
         "category": "港股/中概"
       },
       {
         "name": "港股通互联网ETF易方达",
         "code": "513040",
-        "pct": 4.27,
-        "amount": 107495.0,
+        "pct": 3.65,
+        "amount": 144052.0,
         "category": "港股/中概"
-      },
-      {
-        "name": "港股互联网ETF博时",
-        "code": "159568",
-        "pct": 4.01,
-        "amount": 22362.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "港股通互联网ETF富国",
-        "code": "159792",
-        "pct": 4.01,
-        "amount": 428391.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "港股互联网ETF国泰",
-        "code": "513720",
-        "pct": 3.85,
-        "amount": 10190.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "互联网ETF东财",
-        "code": "159550",
-        "pct": 3.83,
-        "amount": 1253.0,
-        "category": null
-      },
-      {
-        "name": "影视ETF国泰",
-        "code": "516620",
-        "pct": 3.78,
-        "amount": 4591.0,
-        "category": "传媒/游戏"
       },
       {
         "name": "线上消费ETF平安",
         "code": "159793",
         "pct": 3.61,
-        "amount": 209.0,
+        "amount": 381.0,
         "category": "消费/白酒"
+      },
+      {
+        "name": "港股互联网ETF国泰",
+        "code": "513720",
+        "pct": 3.56,
+        "amount": 11008.0,
+        "category": "港股/中概"
       },
       {
         "name": "影视ETF银华",
         "code": "159855",
         "pct": 3.55,
-        "amount": 2540.0,
+        "amount": 3305.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "互联网ETF嘉实",
-        "code": "517200",
-        "pct": 3.2,
-        "amount": 328.0,
-        "category": null
+        "name": "港股通互联网ETF富国",
+        "code": "159792",
+        "pct": 3.17,
+        "amount": 527370.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "游戏传媒ETF浦银",
+        "code": "517770",
+        "pct": 3.12,
+        "amount": 2080.0,
+        "category": "传媒/游戏"
       }
     ]
   }
