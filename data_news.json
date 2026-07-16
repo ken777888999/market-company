@@ -1,65 +1,6 @@
 [
   {
     "date": "2026-05-28",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202605281822933209",
-        "title": "大金重工:关于刊发H股招股说明书、H股发行价格区间及H股香港公开发售等事宜的公告",
-        "date": "2026-05-28",
-        "time": "07:58",
-        "category": "其他",
-        "codes": [
-          "002487"
-        ],
-        "names": [
-          "大金重工"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002487/AN202605281822933209.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "002487",
-        "name": "大金重工",
-        "title": "一体化布局有序落地，全产业链服务出海加速",
-        "org": "国金证券",
-        "rating": "",
-        "date": "2026-05-28",
-        "digest": ""
-      },
-      {
-        "code": "300308",
-        "name": "中际旭创",
-        "title": "龙头交付优势充分体现，Scaleup光连接产品有望继续保持领先",
-        "org": "山西证券",
-        "rating": "",
-        "date": "2026-05-27",
-        "digest": ""
-      },
-      {
-        "code": "600176",
-        "name": "中国巨石",
-        "title": "电子布量价齐升，重申“买入”评级",
-        "org": "华源证券",
-        "rating": "",
-        "date": "2026-05-27",
-        "digest": ""
-      },
-      {
-        "code": "603986",
-        "name": "兆易创新",
-        "title": "全芯赋能，智创未来",
-        "org": "中邮证券",
-        "rating": "",
-        "date": "2026-05-27",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-05-28",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11656,5 +11597,125 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-16",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607161827028316",
+        "title": "生益科技:生益科技关于2024年度限制性股票激励计划第二个解除限售期解除限售暨上市的公告",
+        "date": "2026-07-17",
+        "time": "18:15",
+        "category": "限售股份上市流通",
+        "codes": [
+          "600183"
+        ],
+        "names": [
+          "生益科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600183/AN202607161827028316.html"
+      },
+      {
+        "art_code": "AN202607161827028315",
+        "title": "生益科技:北京市康达(广州)律师事务所关于生益科技2024年度限制性股票激励计划第二个解除限售期解除限售条件成就的法律意见书",
+        "date": "2026-07-17",
+        "time": "18:15",
+        "category": "法律意见书",
+        "codes": [
+          "600183"
+        ],
+        "names": [
+          "生益科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600183/AN202607161827028315.html"
+      },
+      {
+        "art_code": "AN202607161827026928",
+        "title": "欧科亿:欧科亿2026年半年度业绩预告的自愿性披露公告",
+        "date": "2026-07-17",
+        "time": "17:40",
+        "category": "业绩预告",
+        "codes": [
+          "688308"
+        ],
+        "names": [
+          "欧科亿"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688308/AN202607161827026928.html"
+      },
+      {
+        "art_code": "AN202607161827026151",
+        "title": "智微智能:关于完成工商变更登记的公告",
+        "date": "2026-07-17",
+        "time": "17:13",
+        "category": "公司注册资本变更",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607161827026151.html"
+      },
+      {
+        "art_code": "AN202607161827023987",
+        "title": "新锐股份:新锐股份关于2026年度向特定对象发行A股股票申请获得中国证券监督管理委员会同意注册批复的公告",
+        "date": "2026-07-17",
+        "time": "16:19",
+        "category": "增发获准公告",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202607161827023987.html"
+      },
+      {
+        "art_code": "AN202607161827026009",
+        "title": "沪电股份:2026年7月16日投资者关系活动记录表",
+        "date": "2026-07-16",
+        "time": "17:13",
+        "category": "调研活动",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607161827026009.html"
+      },
+      {
+        "art_code": "AN202607161827025656",
+        "title": "300054鼎龙股份投资者关系管理信息20260716",
+        "date": "2026-07-16",
+        "time": "17:07",
+        "category": "调研活动",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607161827025656.html"
+      },
+      {
+        "art_code": "AN202607161827025985",
+        "title": "关于同意苏州新锐合金工具股份有限公司向特定对象发行股票注册的批复",
+        "date": "2026-07-13",
+        "time": "17:11",
+        "category": "科创板再融资审核注册结果通知",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202607161827025985.html"
+      }
+    ],
+    "reports": []
   }
 ]
