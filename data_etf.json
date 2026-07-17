@@ -4042,5 +4042,80 @@
         "category": "传媒/游戏"
       }
     ]
+  },
+  {
+    "date": "2026-07-17",
+    "top10": [
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 3.99,
+        "amount": 97943.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "电力ETF南方",
+        "code": "560580",
+        "pct": 2.81,
+        "amount": 1892.0,
+        "category": "电力"
+      },
+      {
+        "name": "电力ETF易方达",
+        "code": "560930",
+        "pct": 2.8,
+        "amount": 1770.0,
+        "category": "电力"
+      },
+      {
+        "name": "绿色电力ETF富国",
+        "code": "561170",
+        "pct": 2.71,
+        "amount": 3161.0,
+        "category": "电力"
+      },
+      {
+        "name": "电力ETF汇添富",
+        "code": "516370",
+        "pct": 2.68,
+        "amount": 1637.0,
+        "category": "电力"
+      },
+      {
+        "name": "电力ETF广发",
+        "code": "159611",
+        "pct": 2.67,
+        "amount": 52237.0,
+        "category": "电力"
+      },
+      {
+        "name": "电力ETF华夏",
+        "code": "560830",
+        "pct": 2.63,
+        "amount": 2222.0,
+        "category": "电力"
+      },
+      {
+        "name": "电力ETF平安",
+        "code": "560460",
+        "pct": 2.51,
+        "amount": 552.0,
+        "category": "电力"
+      },
+      {
+        "name": "电力ETF工银",
+        "code": "560270",
+        "pct": 2.5,
+        "amount": 1026.0,
+        "category": "电力"
+      },
+      {
+        "name": "绿电ETF华夏",
+        "code": "562550",
+        "pct": 2.44,
+        "amount": 9088.0,
+        "category": "电力"
+      }
+    ]
   }
 ]
