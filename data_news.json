@@ -1,32 +1,6 @@
 [
   {
     "date": "2026-05-29",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "002487",
-        "name": "大金重工",
-        "title": "公司港股上市在即，新业务取得进展，建议“买进”",
-        "org": "群益证券",
-        "rating": "",
-        "date": "2026-05-28",
-        "digest": ""
-      },
-      {
-        "code": "002487",
-        "name": "大金重工",
-        "title": "一体化布局有序落地，全产业链服务出海加速",
-        "org": "国金证券",
-        "rating": "",
-        "date": "2026-05-28",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-05-29",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11417,5 +11391,718 @@
     "period": "早间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-07-17",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607171827063416",
+        "title": "湖南裕能:股东会议事规则(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063416.html"
+      },
+      {
+        "art_code": "AN202607171827063389",
+        "title": "湖南裕能:董事会成员及员工多元化政策(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063389.html"
+      },
+      {
+        "art_code": "AN202607171827063394",
+        "title": "湖南裕能:关于终止部分对外投资项目的公告",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "对外项目投资",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063394.html"
+      },
+      {
+        "art_code": "AN202607171827063414",
+        "title": "湖南裕能:关于增选公司独立非执行董事的公告",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "高管人员任职变动",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063414.html"
+      },
+      {
+        "art_code": "AN202607171827063403",
+        "title": "湖南裕能:内幕信息及知情人管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063403.html"
+      },
+      {
+        "art_code": "AN202607171827063408",
+        "title": "湖南裕能:董事会薪酬与考核委员会工作细则(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063408.html"
+      },
+      {
+        "art_code": "AN202607171827063406",
+        "title": "湖南裕能:董事会议事规则(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063406.html"
+      },
+      {
+        "art_code": "AN202607171827063409",
+        "title": "湖南裕能:关联(连)交易管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063409.html"
+      },
+      {
+        "art_code": "AN202607171827063407",
+        "title": "湖南裕能:信息披露管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063407.html"
+      },
+      {
+        "art_code": "AN202607171827063415",
+        "title": "湖南裕能:关于投资建设矿化一体新能源电池材料循环产业项目的公告",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "对外项目投资",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063415.html"
+      },
+      {
+        "art_code": "AN202607171827063418",
+        "title": "湖南裕能:独立董事工作制度(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063418.html"
+      },
+      {
+        "art_code": "AN202607171827063393",
+        "title": "湖南裕能:公司章程",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "公司章程",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063393.html"
+      },
+      {
+        "art_code": "AN202607171827063411",
+        "title": "湖南裕能:关于召开2026年第二次临时股东会的通知",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "召开股东大会通知",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063411.html"
+      },
+      {
+        "art_code": "AN202607171827063392",
+        "title": "湖南裕能:第二届董事会第二十三次会议决议公告",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063392.html"
+      },
+      {
+        "art_code": "AN202607171827063404",
+        "title": "湖南裕能:独立董事提名人声明与承诺(王付国)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063404.html"
+      },
+      {
+        "art_code": "AN202607171827063395",
+        "title": "湖南裕能:独立董事候选人声明与承诺(王付国)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063395.html"
+      },
+      {
+        "art_code": "AN202607171827063410",
+        "title": "湖南裕能:中信建投证券股份有限公司关于湖南裕能新能源电池材料股份有限公司终止部分对外投资项目的核查意见",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "保荐/核查意见",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063410.html"
+      },
+      {
+        "art_code": "AN202607171827063412",
+        "title": "湖南裕能:董事会战略委员会工作细则(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063412.html"
+      },
+      {
+        "art_code": "AN202607171827063390",
+        "title": "湖南裕能:公司章程(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,公司章程",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063390.html"
+      },
+      {
+        "art_code": "AN202607171827063396",
+        "title": "湖南裕能:关于公司董事会秘书变更的公告",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "高管人员任职变动",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063396.html"
+      },
+      {
+        "art_code": "AN202607171827063399",
+        "title": "湖南裕能:关于变更公司注册资本、修订《公司章程》并办理工商变更登记的公告",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "公司注册资本变更,公司章程修订",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063399.html"
+      },
+      {
+        "art_code": "AN202607171827063397",
+        "title": "湖南裕能:董事会审计委员会工作细则(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063397.html"
+      },
+      {
+        "art_code": "AN202607171827063400",
+        "title": "湖南裕能:董事、高级管理人员离职管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063400.html"
+      },
+      {
+        "art_code": "AN202607171827063405",
+        "title": "湖南裕能:境外发行证券及上市相关保密及档案管理工作制度",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "管理办法/制度",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063405.html"
+      },
+      {
+        "art_code": "AN202607171827063401",
+        "title": "湖南裕能:对外担保管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063401.html"
+      },
+      {
+        "art_code": "AN202607171827063398",
+        "title": "湖南裕能:关于修订H股发行并上市后适用的《公司章程》及其附件、修订及制定部分公司治理制度的公告",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "公司章程修订,其他,管理办法/制度",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063398.html"
+      },
+      {
+        "art_code": "AN202607171827063417",
+        "title": "湖南裕能:董事、高级管理人员所持公司股份及其变动管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063417.html"
+      },
+      {
+        "art_code": "AN202607171827063391",
+        "title": "湖南裕能:关于聘请H股发行并上市的审计机构的公告",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "审计机构变更,其他",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063391.html"
+      },
+      {
+        "art_code": "AN202607171827063402",
+        "title": "湖南裕能:董事会提名委员会工作细则(草案)(H股发行并上市后适用)",
+        "date": "2026-07-18",
+        "time": "20:16",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607171827063402.html"
+      },
+      {
+        "art_code": "AN202607171827062051",
+        "title": "智微智能:2026年半年度募集资金存放、管理与使用情况的专项报告",
+        "date": "2026-07-18",
+        "time": "19:11",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827062051.html"
+      },
+      {
+        "art_code": "AN202607171827062046",
+        "title": "智微智能:北京博星证券投资顾问有限公司关于深圳市智微智能科技股份有限公司2026年股票期权激励计划调整事项的独立财务顾问报告",
+        "date": "2026-07-18",
+        "time": "19:11",
+        "category": "保荐/核查意见",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827062046.html"
+      },
+      {
+        "art_code": "AN202607171827062049",
+        "title": "智微智能:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-07-18",
+        "time": "19:11",
+        "category": "资金占用",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827062049.html"
+      },
+      {
+        "art_code": "AN202607171827062045",
+        "title": "智微智能:广东信达律师事务所关于深圳市智微智能科技股份有限公司2026年股票期权激励计划调整事项的法律意见书",
+        "date": "2026-07-18",
+        "time": "19:11",
+        "category": "法律意见书",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827062045.html"
+      },
+      {
+        "art_code": "AN202607171827062053",
+        "title": "智微智能:关于举办2026年半年度业绩说明会的公告",
+        "date": "2026-07-18",
+        "time": "19:11",
+        "category": "其他",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827062053.html"
+      },
+      {
+        "art_code": "AN202607171827062050",
+        "title": "智微智能:关于会计政策变更的公告",
+        "date": "2026-07-18",
+        "time": "19:11",
+        "category": "其他",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827062050.html"
+      },
+      {
+        "art_code": "AN202607171827061991",
+        "title": "智微智能:《深圳市智微智能科技股份有限公司章程》(2026年7月修订)",
+        "date": "2026-07-18",
+        "time": "19:09",
+        "category": "公司章程修订",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827061991.html"
+      },
+      {
+        "art_code": "AN202607171827061988",
+        "title": "智微智能:关于变更公司注册资本及修订《公司章程》并办理工商登记的公告",
+        "date": "2026-07-18",
+        "time": "19:09",
+        "category": "公司注册资本变更,公司章程修订",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827061988.html"
+      },
+      {
+        "art_code": "AN202607171827061994",
+        "title": "智微智能:2026年半年度报告摘要",
+        "date": "2026-07-18",
+        "time": "19:09",
+        "category": "半年度报告摘要",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827061994.html"
+      },
+      {
+        "art_code": "AN202607171827061996",
+        "title": "智微智能:2026年半年度报告",
+        "date": "2026-07-18",
+        "time": "19:09",
+        "category": "半年度报告全文",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827061996.html"
+      },
+      {
+        "art_code": "AN202607171827061986",
+        "title": "智微智能:关于2026年半年度计提资产减值准备的公告",
+        "date": "2026-07-18",
+        "time": "19:09",
+        "category": "其他",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827061986.html"
+      },
+      {
+        "art_code": "AN202607171827061985",
+        "title": "智微智能:关于召开2026年第四次临时股东会的通知",
+        "date": "2026-07-18",
+        "time": "19:09",
+        "category": "召开股东大会通知",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827061985.html"
+      },
+      {
+        "art_code": "AN202607171827061978",
+        "title": "智微智能:关于调整2026年股票期权激励计划股票期权数量及行权价格的公告",
+        "date": "2026-07-18",
+        "time": "19:09",
+        "category": "股权激励行权价（数量）调整",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827061978.html"
+      },
+      {
+        "art_code": "AN202607171827061953",
+        "title": "中际旭创:公司章程(草案)",
+        "date": "2026-07-18",
+        "time": "19:08",
+        "category": "公司章程",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607171827061953.html"
+      },
+      {
+        "art_code": "AN202607171827061901",
+        "title": "中际旭创:第六届董事会第二次会议决议公告",
+        "date": "2026-07-18",
+        "time": "19:07",
+        "category": "董事会决议公告",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607171827061901.html"
+      },
+      {
+        "art_code": "AN202607171827061891",
+        "title": "中际旭创:关于境外发行股份(H股)并在香港联交所上市进展的公告",
+        "date": "2026-07-18",
+        "time": "19:07",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607171827061891.html"
+      },
+      {
+        "art_code": "AN202607171827055594",
+        "title": "华锐精密:2026年半年度业绩预告的自愿性披露公告",
+        "date": "2026-07-18",
+        "time": "16:01",
+        "category": "业绩预告",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202607171827055594.html"
+      },
+      {
+        "art_code": "AN202607171827061981",
+        "title": "智微智能:第三届董事会第七次会议决议公告",
+        "date": "2026-07-18",
+        "time": "19:09",
+        "category": "董事会决议公告",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607171827061981.html"
+      },
+      {
+        "art_code": "AN202607171827057994",
+        "title": "002156通富微电投资者关系管理信息20260717",
+        "date": "2026-07-17",
+        "time": "17:14",
+        "category": "调研活动",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202607171827057994.html"
+      },
+      {
+        "art_code": "AN202607171827057625",
+        "title": "协创数据:关于公司开展融资租赁业务的进展公告",
+        "date": "2026-07-17",
+        "time": "17:06",
+        "category": "其他",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202607171827057625.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "688308",
+        "name": "欧科亿",
+        "title": "2026年半年度业绩预告点评：26Q2业绩高增，并购永鑫精工打造新成长曲线",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-07-17",
+        "digest": ""
+      },
+      {
+        "code": "603986",
+        "name": "兆易创新",
+        "title": "产能替代窗口开启：大厂淡出与长鑫赋能共振",
+        "org": "交银国际证券",
+        "rating": "",
+        "date": "2026-07-17",
+        "digest": ""
+      }
+    ]
   }
 ]
