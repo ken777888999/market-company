@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-05-31",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-05-31",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11506,5 +11499,135 @@
     "period": "早间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-07-19",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607191827109789",
+        "title": "协创数据:2026年半年度业绩预告",
+        "date": "2026-07-20",
+        "time": "16:30",
+        "category": "业绩预告",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202607191827109789.html"
+      },
+      {
+        "art_code": "AN202607191827109709",
+        "title": "扬杰科技:2026年半年度业绩预告",
+        "date": "2026-07-20",
+        "time": "16:16",
+        "category": "业绩预告",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202607191827109709.html"
+      },
+      {
+        "art_code": "AN202607191827109112",
+        "title": "凯格精机:东莞市凯格精机股份有限公司章程(2026年7月)",
+        "date": "2026-07-20",
+        "time": "15:32",
+        "category": "公司章程",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202607191827109112.html"
+      },
+      {
+        "art_code": "AN202607191827109116",
+        "title": "凯格精机:关于部分募投项目新增实施主体、实施地点、变更实施方式、调整内部投资结构及延期的公告",
+        "date": "2026-07-20",
+        "time": "15:32",
+        "category": "变更募集资金投资项目",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202607191827109116.html"
+      },
+      {
+        "art_code": "AN202607191827109133",
+        "title": "凯格精机:国信证券股份有限公司关于东莞市凯格精机股份有限公司部分募投项目新增实施主体、实施地点、变更实施方式、调整内部投资结构及延期的核查意见",
+        "date": "2026-07-20",
+        "time": "15:32",
+        "category": "保荐/核查意见",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202607191827109133.html"
+      },
+      {
+        "art_code": "AN202607191827109119",
+        "title": "凯格精机:关于召开2026年第一次临时股东会的通知",
+        "date": "2026-07-20",
+        "time": "15:32",
+        "category": "召开股东大会通知",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202607191827109119.html"
+      },
+      {
+        "art_code": "AN202607191827109123",
+        "title": "凯格精机:第三届董事会第五次会议决议公告",
+        "date": "2026-07-20",
+        "time": "15:32",
+        "category": "董事会决议公告",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202607191827109123.html"
+      },
+      {
+        "art_code": "AN202607191827109124",
+        "title": "凯格精机:关于变更注册资本、修订《公司章程》并办理工商登记的公告",
+        "date": "2026-07-20",
+        "time": "15:32",
+        "category": "公司注册资本变更,公司章程修订",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202607191827109124.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "000657",
+        "name": "中钨高新",
+        "title": "公司事件点评报告：2026H1业绩大幅增长，钨价中枢上移叠加AI PCB微钻扩产看点多",
+        "org": "华鑫证券",
+        "rating": "",
+        "date": "2026-07-19",
+        "digest": ""
+      }
+    ]
   }
 ]
