@@ -4122,74 +4122,74 @@
     "date": "2026-07-20",
     "top10": [
       {
-        "name": "煤炭ETF国泰",
-        "code": "515220",
-        "pct": 5.45,
-        "amount": 71998.0,
-        "category": "煤炭/能源"
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 7.02,
+        "amount": 104924.0,
+        "category": "海外QDII"
       },
       {
-        "name": "能源ETF广发",
-        "code": "159945",
-        "pct": 5.14,
-        "amount": 874.0,
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 6.65,
+        "amount": 232414.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "煤炭ETF国泰",
+        "code": "515220",
+        "pct": 5.62,
+        "amount": 90239.0,
         "category": "煤炭/能源"
       },
       {
         "name": "能源ETF汇添富",
         "code": "159930",
         "pct": 4.91,
-        "amount": 9032.0,
+        "amount": 13297.0,
         "category": "煤炭/能源"
       },
       {
-        "name": "创新药ETF华泰柏瑞",
-        "code": "517120",
-        "pct": 4.87,
-        "amount": 3912.0,
+        "name": "能源ETF广发",
+        "code": "159945",
+        "pct": 4.82,
+        "amount": 1310.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "央企创新ETF广发",
+        "code": "515600",
+        "pct": 4.68,
+        "amount": 735.0,
+        "category": "国企/央企"
+      },
+      {
+        "name": "央企ESGETF融通",
+        "code": "560810",
+        "pct": 4.57,
+        "amount": 481.0,
+        "category": "国企/央企"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 4.06,
+        "amount": 38326.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "800现金流ETF汇添富",
+        "code": "563680",
+        "pct": 3.8,
+        "amount": 331.0,
+        "category": null
+      },
+      {
+        "name": "港股通创新药医疗ETF富国",
+        "code": "159506",
+        "pct": 3.59,
+        "amount": 84349.0,
         "category": "医药"
-      },
-      {
-        "name": "云计算ETF华泰柏瑞",
-        "code": "159738",
-        "pct": 4.75,
-        "amount": 2755.0,
-        "category": "云计算/大数据"
-      },
-      {
-        "name": "云计算50ETF新华",
-        "code": "560660",
-        "pct": 4.5,
-        "amount": 1954.0,
-        "category": "云计算/大数据"
-      },
-      {
-        "name": "酒ETF鹏华",
-        "code": "512690",
-        "pct": 4.36,
-        "amount": 96434.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "云计算ETF天弘",
-        "code": "517390",
-        "pct": 4.34,
-        "amount": 993.0,
-        "category": "云计算/大数据"
-      },
-      {
-        "name": "石油ETF鹏华",
-        "code": "159697",
-        "pct": 4.3,
-        "amount": 7605.0,
-        "category": null
-      },
-      {
-        "name": "石油ETF景顺",
-        "code": "159588",
-        "pct": 4.28,
-        "amount": 910.0,
-        "category": null
       }
     ]
   }
