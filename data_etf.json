@@ -4117,5 +4117,80 @@
         "category": "电力"
       }
     ]
+  },
+  {
+    "date": "2026-07-20",
+    "top10": [
+      {
+        "name": "煤炭ETF国泰",
+        "code": "515220",
+        "pct": 5.18,
+        "amount": 60352.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 4.8,
+        "amount": 18722.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "能源ETF广发",
+        "code": "159945",
+        "pct": 4.34,
+        "amount": 462.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "能源ETF汇添富",
+        "code": "159930",
+        "pct": 4.14,
+        "amount": 6332.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "酒ETF鹏华",
+        "code": "512690",
+        "pct": 4.12,
+        "amount": 80405.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 4.0,
+        "amount": 24422.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 3.99,
+        "amount": 74898.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "创新药ETF华泰柏瑞",
+        "code": "517120",
+        "pct": 3.98,
+        "amount": 2933.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股创新药ETF景顺",
+        "code": "513780",
+        "pct": 3.85,
+        "amount": 37246.0,
+        "category": "医药"
+      },
+      {
+        "name": "食品饮料ETF华宝",
+        "code": "515710",
+        "pct": 3.51,
+        "amount": 2204.0,
+        "category": "消费/白酒"
+      }
+    ]
   }
 ]
