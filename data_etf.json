@@ -4124,72 +4124,72 @@
       {
         "name": "煤炭ETF国泰",
         "code": "515220",
-        "pct": 5.18,
-        "amount": 60352.0,
-        "category": "煤炭/能源"
-      },
-      {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 4.8,
-        "amount": 18722.0,
+        "pct": 5.45,
+        "amount": 71998.0,
         "category": "煤炭/能源"
       },
       {
         "name": "能源ETF广发",
         "code": "159945",
-        "pct": 4.34,
-        "amount": 462.0,
+        "pct": 5.14,
+        "amount": 874.0,
         "category": "煤炭/能源"
       },
       {
         "name": "能源ETF汇添富",
         "code": "159930",
-        "pct": 4.14,
-        "amount": 6332.0,
+        "pct": 4.91,
+        "amount": 9032.0,
         "category": "煤炭/能源"
-      },
-      {
-        "name": "酒ETF鹏华",
-        "code": "512690",
-        "pct": 4.12,
-        "amount": 80405.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 4.0,
-        "amount": 24422.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 3.99,
-        "amount": 74898.0,
-        "category": "海外QDII"
       },
       {
         "name": "创新药ETF华泰柏瑞",
         "code": "517120",
-        "pct": 3.98,
-        "amount": 2933.0,
+        "pct": 4.87,
+        "amount": 3912.0,
         "category": "医药"
       },
       {
-        "name": "港股创新药ETF景顺",
-        "code": "513780",
-        "pct": 3.85,
-        "amount": 37246.0,
-        "category": "医药"
+        "name": "云计算ETF华泰柏瑞",
+        "code": "159738",
+        "pct": 4.75,
+        "amount": 2755.0,
+        "category": "云计算/大数据"
       },
       {
-        "name": "食品饮料ETF华宝",
-        "code": "515710",
-        "pct": 3.51,
-        "amount": 2204.0,
+        "name": "云计算50ETF新华",
+        "code": "560660",
+        "pct": 4.5,
+        "amount": 1954.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "酒ETF鹏华",
+        "code": "512690",
+        "pct": 4.36,
+        "amount": 96434.0,
         "category": "消费/白酒"
+      },
+      {
+        "name": "云计算ETF天弘",
+        "code": "517390",
+        "pct": 4.34,
+        "amount": 993.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "石油ETF鹏华",
+        "code": "159697",
+        "pct": 4.3,
+        "amount": 7605.0,
+        "category": null
+      },
+      {
+        "name": "石油ETF景顺",
+        "code": "159588",
+        "pct": 4.28,
+        "amount": 910.0,
+        "category": null
       }
     ]
   }
