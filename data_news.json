@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-05-31",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202605311823106301",
-        "title": "大金重工:关于与挪威、希腊船东签署船舶建造合同的公告",
-        "date": "2026-06-01",
-        "time": "16:12",
-        "category": "重大合同",
-        "codes": [
-          "002487"
-        ],
-        "names": [
-          "大金重工"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002487/AN202605311823106301.html"
-      },
-      {
-        "art_code": "AN202605311823108387",
-        "title": "中际旭创:中际旭创关于网络传闻的澄清公告",
-        "date": "2026-06-01",
-        "time": "20:56",
-        "category": "",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202605311823108387.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-06-01",
     "time": "09:00",
     "period": "早间",
@@ -11616,6 +11580,38 @@
           "凯格精机"
         ],
         "url": "https://data.eastmoney.com/notices/detail/301338/AN202607191827109124.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "000657",
+        "name": "中钨高新",
+        "title": "公司事件点评报告：2026H1业绩大幅增长，钨价中枢上移叠加AI PCB微钻扩产看点多",
+        "org": "华鑫证券",
+        "rating": "",
+        "date": "2026-07-19",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202607201827124917",
+        "title": "中国铝业:中国铝业关于控股股东及其一致行动人增持公司股份计划的公告",
+        "date": "2026-07-20",
+        "time": "08:36",
+        "category": "股东/实际控制人股份增持",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202607201827124917.html"
       }
     ],
     "reports": [
