@@ -4192,5 +4192,80 @@
         "category": "电力"
       }
     ]
+  },
+  {
+    "date": "2026-07-21",
+    "top10": [
+      {
+        "name": "A50ETF鹏华",
+        "code": "512240",
+        "pct": 5.07,
+        "amount": 445.0,
+        "category": null
+      },
+      {
+        "name": "中韩半导体ETF华泰柏瑞",
+        "code": "513310",
+        "pct": 3.99,
+        "amount": 754640.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "智能电动车ETF华宝",
+        "code": "516380",
+        "pct": 3.52,
+        "amount": 118.0,
+        "category": null
+      },
+      {
+        "name": "800价值ETF汇添富",
+        "code": "560030",
+        "pct": 3.1,
+        "amount": 240.0,
+        "category": null
+      },
+      {
+        "name": "半导体设备ETF招商",
+        "code": "561980",
+        "pct": 2.82,
+        "amount": 34276.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "电池ETF广发",
+        "code": "159755",
+        "pct": 2.8,
+        "amount": 30922.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "锂电池ETF工银",
+        "code": "159840",
+        "pct": 2.79,
+        "amount": 4588.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "新能源车ETF平安",
+        "code": "515700",
+        "pct": 2.72,
+        "amount": 3965.0,
+        "category": "新能源车"
+      },
+      {
+        "name": "中国A50ETF南方",
+        "code": "159602",
+        "pct": 2.71,
+        "amount": 617.0,
+        "category": null
+      },
+      {
+        "name": "新能源车ETF国泰",
+        "code": "159806",
+        "pct": 2.71,
+        "amount": 1247.0,
+        "category": "新能源车"
+      }
+    ]
   }
 ]
