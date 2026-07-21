@@ -1,56 +1,6 @@
 [
   {
     "date": "2026-06-02",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202606011823131822",
-        "title": "7-1发行人及保荐机构回复意见(通富微电子股份有限公司)",
-        "date": "2026-06-01",
-        "time": "23:52",
-        "category": "深主板再融资问询与回复",
-        "codes": [
-          "002156"
-        ],
-        "names": [
-          "通富微电"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606011823131822.html"
-      },
-      {
-        "art_code": "AN202606011823131821",
-        "title": "7-3补充法律意见书(二)(通富微电子股份有限公司)",
-        "date": "2026-06-01",
-        "time": "23:52",
-        "category": "深主板再融资问询与回复",
-        "codes": [
-          "002156"
-        ],
-        "names": [
-          "通富微电"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606011823131821.html"
-      },
-      {
-        "art_code": "AN202606011823131820",
-        "title": "7-2会计师回复意见(通富微电子股份有限公司)",
-        "date": "2026-06-01",
-        "time": "23:52",
-        "category": "深主板再融资问询与回复",
-        "codes": [
-          "002156"
-        ],
-        "names": [
-          "通富微电"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606011823131820.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-06-02",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11603,5 +11553,237 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-21",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607211827218436",
+        "title": "三环集团:H股公告-翌日披露报表",
+        "date": "2026-07-22",
+        "time": "19:17",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607211827218436.html"
+      },
+      {
+        "art_code": "AN202607211827218367",
+        "title": "三环集团:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "date": "2026-07-22",
+        "time": "19:15",
+        "category": "回购进展情况",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607211827218367.html"
+      },
+      {
+        "art_code": "AN202607211827218366",
+        "title": "三环集团:关于首次回购公司股份的公告",
+        "date": "2026-07-22",
+        "time": "19:15",
+        "category": "回购实施公告",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607211827218366.html"
+      },
+      {
+        "art_code": "AN202607211827218239",
+        "title": "南亚新材:关于回购股份集中竞价减持股份进展公告",
+        "date": "2026-07-22",
+        "time": "19:10",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202607211827218239.html"
+      },
+      {
+        "art_code": "AN202607211827217402",
+        "title": "兆易创新:兆易创新第五届董事会第十三次会议决议公告",
+        "date": "2026-07-22",
+        "time": "18:58",
+        "category": "董事会决议公告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607211827217402.html"
+      },
+      {
+        "art_code": "AN202607211827217400",
+        "title": "兆易创新:兆易创新关于使用自有资金、外汇等方式支付募投项目部分款项并以A股募集资金等额置换的公告",
+        "date": "2026-07-22",
+        "time": "18:58",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607211827217400.html"
+      },
+      {
+        "art_code": "AN202607211827217399",
+        "title": "兆易创新:兆易创新关于使用A股部分募集资金向全资子公司增资以实施DRAM募投项目的公告",
+        "date": "2026-07-22",
+        "time": "18:58",
+        "category": "增资扩股,募集资金使用情况报告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607211827217399.html"
+      },
+      {
+        "art_code": "AN202607211827217401",
+        "title": "兆易创新:兆易创新关于统一采用中国企业会计准则编制财务报告及境外审计机构辞任的公告",
+        "date": "2026-07-22",
+        "time": "18:58",
+        "category": "高管人员任职变动",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607211827217401.html"
+      },
+      {
+        "art_code": "AN202607211827217403",
+        "title": "兆易创新:中国国际金融股份有限公司关于兆易创新科技集团股份有限公司使用A股部分募集资金向全资子公司增资以实施DRAM募投项目的核查意见",
+        "date": "2026-07-22",
+        "time": "18:58",
+        "category": "保荐/核查意见",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607211827217403.html"
+      },
+      {
+        "art_code": "AN202607211827217404",
+        "title": "兆易创新:中国国际金融股份有限公司关于兆易创新科技集团股份有限公司使用自有资金、外汇等方式支付募投项目部分款项并以A股募集资金等额置换的核查意见",
+        "date": "2026-07-22",
+        "time": "18:58",
+        "category": "保荐/核查意见",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607211827217404.html"
+      },
+      {
+        "art_code": "AN202607211827216441",
+        "title": "德业股份:关于收到控股股东2026年中期分红提议的提示性公告",
+        "date": "2026-07-22",
+        "time": "18:45",
+        "category": "其他",
+        "codes": [
+          "605117"
+        ],
+        "names": [
+          "德业股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/605117/AN202607211827216441.html"
+      },
+      {
+        "art_code": "AN202607211827212173",
+        "title": "厦门钨业:厦门钨业关于获准发行超短期融资券及中期票据的公告",
+        "date": "2026-07-22",
+        "time": "17:22",
+        "category": "其他",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202607211827212173.html"
+      },
+      {
+        "art_code": "AN202607211827211802",
+        "title": "融捷股份:关于实际控制人计划增持公司股份的公告",
+        "date": "2026-07-22",
+        "time": "17:07",
+        "category": "股东/实际控制人股份增持",
+        "codes": [
+          "002192"
+        ],
+        "names": [
+          "融捷股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002192/AN202607211827211802.html"
+      },
+      {
+        "art_code": "AN202607211827215280",
+        "title": "沪电股份:2026年7月21日投资者关系活动记录表",
+        "date": "2026-07-21",
+        "time": "18:25",
+        "category": "调研活动",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607211827215280.html"
+      },
+      {
+        "art_code": "AN202607211827208824",
+        "title": "中一科技:2026年半年度业绩预告",
+        "date": "2026-07-21",
+        "time": "16:35",
+        "category": "业绩预告",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202607211827208824.html"
+      },
+      {
+        "art_code": "AN202607211827199960",
+        "title": "三环集团:2026年半年度业绩预告",
+        "date": "2026-07-21",
+        "time": "12:02",
+        "category": "业绩预告",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607211827199960.html"
+      }
+    ],
+    "reports": []
   }
 ]
