@@ -4199,71 +4199,71 @@
       {
         "name": "科创半导体ETF华夏",
         "code": "588170",
-        "pct": 10.9,
-        "amount": 583915.0,
+        "pct": 13.01,
+        "amount": 737679.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF广发",
         "code": "560780",
         "pct": 10.04,
-        "amount": 130305.0,
+        "amount": 134407.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF华夏",
         "code": "562590",
         "pct": 10.04,
-        "amount": 97581.0,
+        "amount": 100279.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF易方达",
         "code": "159558",
         "pct": 10.04,
-        "amount": 253529.0,
+        "amount": 260475.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF国泰",
         "code": "159516",
         "pct": 9.98,
-        "amount": 681715.0,
+        "amount": 749840.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体ETF博时",
         "code": "159582",
         "pct": 9.96,
-        "amount": 19716.0,
+        "amount": 21665.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF招商",
         "code": "561980",
         "pct": 9.94,
-        "amount": 65615.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "芯片ETF国泰",
-        "code": "512760",
-        "pct": 9.03,
-        "amount": 62011.0,
+        "amount": 72963.0,
         "category": "芯片/半导体"
       },
       {
         "name": "科创芯片ETF华安",
         "code": "588290",
-        "pct": 8.99,
-        "amount": 36722.0,
+        "pct": 9.92,
+        "amount": 45148.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "UC科创芯片ETF嘉实",
-        "code": "588200",
-        "pct": 8.9,
-        "amount": 600200.0,
+        "name": "芯片ETF易方达",
+        "code": "516350",
+        "pct": 9.68,
+        "amount": 33261.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体ETF国联安",
+        "code": "512480",
+        "pct": 9.62,
+        "amount": 270509.0,
         "category": "芯片/半导体"
       }
     ]
