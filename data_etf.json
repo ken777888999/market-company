@@ -4199,72 +4199,72 @@
       {
         "name": "科创半导体ETF华夏",
         "code": "588170",
-        "pct": 13.01,
-        "amount": 737679.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF广发",
-        "code": "560780",
-        "pct": 10.04,
-        "amount": 134407.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF华夏",
-        "code": "562590",
-        "pct": 10.04,
-        "amount": 100279.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF易方达",
-        "code": "159558",
-        "pct": 10.04,
-        "amount": 260475.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF国泰",
-        "code": "159516",
-        "pct": 9.98,
-        "amount": 749840.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体ETF博时",
-        "code": "159582",
-        "pct": 9.96,
-        "amount": 21665.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF招商",
-        "code": "561980",
-        "pct": 9.94,
-        "amount": 72963.0,
+        "pct": 18.8,
+        "amount": 947983.0,
         "category": "芯片/半导体"
       },
       {
         "name": "科创芯片ETF华安",
         "code": "588290",
-        "pct": 9.92,
-        "amount": 45148.0,
+        "pct": 15.52,
+        "amount": 54094.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "芯片ETF易方达",
-        "code": "516350",
-        "pct": 9.68,
-        "amount": 33261.0,
+        "name": "UC科创芯片ETF嘉实",
+        "code": "588200",
+        "pct": 14.32,
+        "amount": 899236.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "半导体ETF国联安",
-        "code": "512480",
-        "pct": 9.62,
-        "amount": 270509.0,
-        "category": "芯片/半导体"
+        "name": "科创50ETF南方",
+        "code": "588150",
+        "pct": 12.49,
+        "amount": 8620.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创信息ETF嘉实",
+        "code": "588100",
+        "pct": 12.32,
+        "amount": 2574.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创成长ETF万家",
+        "code": "588070",
+        "pct": 12.22,
+        "amount": 2001.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创信息ETF华安",
+        "code": "588260",
+        "pct": 12.19,
+        "amount": 539.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创50ETF华安",
+        "code": "588280",
+        "pct": 11.69,
+        "amount": 9626.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创成长ETF广发",
+        "code": "588110",
+        "pct": 11.68,
+        "amount": 4918.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创50ETF华夏",
+        "code": "588000",
+        "pct": 11.07,
+        "amount": 1722503.0,
+        "category": "科创板"
       }
     ]
   }
