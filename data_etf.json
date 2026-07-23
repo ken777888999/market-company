@@ -4347,74 +4347,74 @@
     "date": "2026-07-23",
     "top10": [
       {
-        "name": "电网设备ETF易方达",
-        "code": "560390",
-        "pct": 4.0,
-        "amount": 19440.0,
-        "category": null
+        "name": "电池ETF鹏华",
+        "code": "560410",
+        "pct": 5.19,
+        "amount": 723.0,
+        "category": "电池/储能"
       },
       {
         "name": "电网设备ETF国泰",
         "code": "561380",
-        "pct": 4.0,
-        "amount": 11312.0,
+        "pct": 5.14,
+        "amount": 21207.0,
         "category": null
       },
       {
-        "name": "电池ETF鹏华",
-        "code": "560410",
-        "pct": 3.7,
-        "amount": 339.0,
-        "category": "电池/储能"
+        "name": "电网设备ETF易方达",
+        "code": "560390",
+        "pct": 5.08,
+        "amount": 31191.0,
+        "category": null
       },
       {
         "name": "电池ETF华夏",
         "code": "512460",
-        "pct": 3.69,
-        "amount": 1351.0,
+        "pct": 4.67,
+        "amount": 2179.0,
         "category": "电池/储能"
-      },
-      {
-        "name": "石油ETF鹏华",
-        "code": "159697",
-        "pct": 3.69,
-        "amount": 11804.0,
-        "category": null
       },
       {
         "name": "电池ETF招商",
         "code": "561910",
-        "pct": 3.6,
-        "amount": 9437.0,
+        "pct": 4.46,
+        "amount": 11680.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "新能源ETF华安",
+        "code": "516270",
+        "pct": 4.26,
+        "amount": 1714.0,
+        "category": "光伏/新能源"
+      },
+      {
+        "name": "电池ETF嘉实",
+        "code": "562880",
+        "pct": 4.19,
+        "amount": 2373.0,
         "category": "电池/储能"
       },
       {
         "name": "电池ETF华泰柏瑞",
         "code": "560910",
-        "pct": 3.59,
-        "amount": 1127.0,
+        "pct": 4.14,
+        "amount": 1373.0,
         "category": "电池/储能"
       },
       {
-        "name": "电池ETF汇添富",
-        "code": "159796",
-        "pct": 3.56,
-        "amount": 28282.0,
+        "name": "电池ETF富国",
+        "code": "561160",
+        "pct": 4.13,
+        "amount": 8460.0,
         "category": "电池/储能"
       },
       {
-        "name": "中韩半导体ETF华泰柏瑞",
-        "code": "513310",
-        "pct": 3.49,
-        "amount": 1749642.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "电池ETF嘉实",
-        "code": "562880",
-        "pct": 3.49,
-        "amount": 1956.0,
-        "category": "电池/储能"
+        "name": "新能源ETF嘉实",
+        "code": "159875",
+        "pct": 4.07,
+        "amount": 11992.0,
+        "category": "光伏/新能源"
       }
     ]
   }
