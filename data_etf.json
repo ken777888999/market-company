@@ -4347,74 +4347,74 @@
     "date": "2026-07-23",
     "top10": [
       {
-        "name": "石油ETF鹏华",
-        "code": "159697",
-        "pct": 3.45,
-        "amount": 6877.0,
-        "category": null
-      },
-      {
         "name": "有色金属ETF华夏",
         "code": "516650",
-        "pct": 3.44,
-        "amount": 9326.0,
+        "pct": 3.96,
+        "amount": 14253.0,
         "category": "有色/资源"
-      },
-      {
-        "name": "电网设备ETF国泰",
-        "code": "561380",
-        "pct": 3.43,
-        "amount": 5986.0,
-        "category": null
       },
       {
         "name": "有色ETF汇添富",
         "code": "159652",
-        "pct": 3.42,
-        "amount": 12245.0,
+        "pct": 3.88,
+        "amount": 17175.0,
         "category": "有色/资源"
       },
       {
-        "name": "电网设备ETF易方达",
-        "code": "560390",
-        "pct": 3.39,
-        "amount": 10416.0,
-        "category": null
+        "name": "有色ETF银华",
+        "code": "159871",
+        "pct": 3.73,
+        "amount": 3996.0,
+        "category": "有色/资源"
       },
       {
-        "name": "有色ETF华安",
-        "code": "512940",
-        "pct": 3.33,
-        "amount": 2046.0,
+        "name": "有色金属ETF国泰",
+        "code": "159881",
+        "pct": 3.65,
+        "amount": 1500.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "有色金属ETF南方",
+        "code": "512400",
+        "pct": 3.62,
+        "amount": 114893.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "有色ETF易方达",
+        "code": "560470",
+        "pct": 3.57,
+        "amount": 1536.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "工业有色ETF万家",
+        "code": "560860",
+        "pct": 3.54,
+        "amount": 34080.0,
         "category": "有色/资源"
       },
       {
         "name": "工业有色ETF中银",
         "code": "560870",
-        "pct": 3.3,
-        "amount": 329.0,
+        "pct": 3.53,
+        "amount": 477.0,
         "category": "有色/资源"
       },
       {
-        "name": "石油ETF景顺",
-        "code": "159588",
-        "pct": 3.3,
-        "amount": 1283.0,
+        "name": "石油ETF鹏华",
+        "code": "159697",
+        "pct": 3.53,
+        "amount": 8834.0,
         "category": null
       },
       {
-        "name": "有色金属ETF国泰",
-        "code": "159881",
-        "pct": 3.29,
-        "amount": 1077.0,
+        "name": "工业有色ETF华夏",
+        "code": "515040",
+        "pct": 3.49,
+        "amount": 2362.0,
         "category": "有色/资源"
-      },
-      {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 3.28,
-        "amount": 96088.0,
-        "category": "海外QDII"
       }
     ]
   }
