@@ -1,671 +1,5 @@
 [
   {
-    "date": "2026-06-04",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202606041823258296",
-        "title": "通富微电:国泰海通证券股份有限公司关于公司2026年度向特定对象发行A股股票之发行保荐书",
-        "date": "2026-06-05",
-        "time": "20:42",
-        "category": "发行保荐书",
-        "codes": [
-          "002156"
-        ],
-        "names": [
-          "通富微电"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606041823258296.html"
-      },
-      {
-        "art_code": "AN202606041823258295",
-        "title": "通富微电:关于向特定对象发行股票提交募集说明书(注册稿)等申请文件的提示性公告",
-        "date": "2026-06-05",
-        "time": "20:42",
-        "category": "增发提示性公告",
-        "codes": [
-          "002156"
-        ],
-        "names": [
-          "通富微电"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606041823258295.html"
-      },
-      {
-        "art_code": "AN202606041823258298",
-        "title": "通富微电:通富微电子股份有限公司2026年度向特定对象发行A股股票募集说明书(注册稿)",
-        "date": "2026-06-05",
-        "time": "20:42",
-        "category": "深主板再融资募集说明书注册稿",
-        "codes": [
-          "002156"
-        ],
-        "names": [
-          "通富微电"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606041823258298.html"
-      },
-      {
-        "art_code": "AN202606041823258299",
-        "title": "通富微电:国泰海通证券股份有限公司关于公司2026年度向特定对象发行A股股票之上市保荐书",
-        "date": "2026-06-05",
-        "time": "20:42",
-        "category": "上市保荐书",
-        "codes": [
-          "002156"
-        ],
-        "names": [
-          "通富微电"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002156/AN202606041823258299.html"
-      },
-      {
-        "art_code": "AN202606041823257304",
-        "title": "睿创微纳:关于召开2026年第一次临时股东会的通知",
-        "date": "2026-06-05",
-        "time": "20:00",
-        "category": "召开股东大会通知,其它",
-        "codes": [
-          "688002"
-        ],
-        "names": [
-          "睿创微纳"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688002/AN202606041823257304.html"
-      },
-      {
-        "art_code": "AN202606041823257303",
-        "title": "睿创微纳:董事会薪酬与考核委员会关于公司2026年员工持股计划相关事项的核查意见",
-        "date": "2026-06-05",
-        "time": "20:00",
-        "category": "专项说明/独立意见,保荐/核查意见",
-        "codes": [
-          "688002"
-        ],
-        "names": [
-          "睿创微纳"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688002/AN202606041823257303.html"
-      },
-      {
-        "art_code": "AN202606041823257300",
-        "title": "睿创微纳:北京金诚同达(沈阳)律师事务所关于烟台睿创微纳技术股份有限公司2026年员工持股计划的法律意见书",
-        "date": "2026-06-05",
-        "time": "19:59",
-        "category": "法律意见书",
-        "codes": [
-          "688002"
-        ],
-        "names": [
-          "睿创微纳"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688002/AN202606041823257300.html"
-      },
-      {
-        "art_code": "AN202606041823257299",
-        "title": "睿创微纳:2026年员工持股计划(草案)",
-        "date": "2026-06-05",
-        "time": "19:59",
-        "category": "员工持股计划,其它",
-        "codes": [
-          "688002"
-        ],
-        "names": [
-          "睿创微纳"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688002/AN202606041823257299.html"
-      },
-      {
-        "art_code": "AN202606041823257302",
-        "title": "睿创微纳:2026年员工持股计划草案摘要公告",
-        "date": "2026-06-05",
-        "time": "19:59",
-        "category": "员工持股计划,其它",
-        "codes": [
-          "688002"
-        ],
-        "names": [
-          "睿创微纳"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688002/AN202606041823257302.html"
-      },
-      {
-        "art_code": "AN202606041823257298",
-        "title": "睿创微纳:2026年员工持股计划管理办法",
-        "date": "2026-06-05",
-        "time": "19:59",
-        "category": "员工持股计划,管理办法/制度",
-        "codes": [
-          "688002"
-        ],
-        "names": [
-          "睿创微纳"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688002/AN202606041823257298.html"
-      },
-      {
-        "art_code": "AN202606041823257297",
-        "title": "睿创微纳:关于变更回购股份用途并注销暨减少注册资本的公告",
-        "date": "2026-06-05",
-        "time": "19:59",
-        "category": "公司注册资本变更,回购方案修订,注册资本变更",
-        "codes": [
-          "688002"
-        ],
-        "names": [
-          "睿创微纳"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688002/AN202606041823257297.html"
-      },
-      {
-        "art_code": "AN202606041823257301",
-        "title": "睿创微纳:第四届董事会第六次会议决议公告",
-        "date": "2026-06-05",
-        "time": "19:59",
-        "category": "董事会决议公告,其它",
-        "codes": [
-          "688002"
-        ],
-        "names": [
-          "睿创微纳"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688002/AN202606041823257301.html"
-      },
-      {
-        "art_code": "AN202606041823255681",
-        "title": "中一科技:关于2024年限制性股票激励计划首次授予部分第一个归属期归属结果暨股份上市的公告",
-        "date": "2026-06-05",
-        "time": "19:03",
-        "category": "限售股份上市流通",
-        "codes": [
-          "301150"
-        ],
-        "names": [
-          "中一科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301150/AN202606041823255681.html"
-      },
-      {
-        "art_code": "AN202606041823254196",
-        "title": "德明利:关于董事会换届选举的公告",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "高管人员任职变动",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254196.html"
-      },
-      {
-        "art_code": "AN202606041823254190",
-        "title": "德明利:上市公司独立董事提名人声明与承诺-张国新",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "独立董事提名人声明",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254190.html"
-      },
-      {
-        "art_code": "AN202606041823254178",
-        "title": "德明利:董事会薪酬与考核委员会关于2023年限制性股票激励计划预留部分限制性股票第二个解除限售期解除限售条件成就事项的核查意见",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "专项说明/独立意见,保荐/核查意见",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254178.html"
-      },
-      {
-        "art_code": "AN202606041823254201",
-        "title": "德明利:上市公司独立董事候选人声明与承诺-杨汝岱",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "独立董事候选人声明",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254201.html"
-      },
-      {
-        "art_code": "AN202606041823254186",
-        "title": "德明利:关于增加公司2026年度担保额度预计的公告",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "担保年度额度预计",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254186.html"
-      },
-      {
-        "art_code": "AN202606041823254176",
-        "title": "德明利:上市公司独立董事提名人声明与承诺-郑学定",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "独立董事提名人声明",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254176.html"
-      },
-      {
-        "art_code": "AN202606041823254189",
-        "title": "德明利:第二届董事会第四十三次会议决议公告",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "高管人员任职变动,董事会决议公告",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254189.html"
-      },
-      {
-        "art_code": "AN202606041823254197",
-        "title": "德明利:董事会薪酬与考核委员会关于回购注销2023年和2024年限制性股票激励计划部分限制性股票事项的核查意见",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "专项说明/独立意见,保荐/核查意见",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254197.html"
-      },
-      {
-        "art_code": "AN202606041823254192",
-        "title": "德明利:关于2023年限制性股票激励计划预留部分限制性股票第二个解除限售期解除限售条件成就的公告",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "限售股份上市流通",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254192.html"
-      },
-      {
-        "art_code": "AN202606041823254200",
-        "title": "德明利:关于召开2026年第二次临时股东会的通知",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "召开股东大会通知",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254200.html"
-      },
-      {
-        "art_code": "AN202606041823254187",
-        "title": "德明利:上市公司独立董事候选人声明与承诺-张国新",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "独立董事候选人声明",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254187.html"
-      },
-      {
-        "art_code": "AN202606041823254185",
-        "title": "德明利:广东信达律师事务所关于深圳市德明利技术股份有限公司2023年限制性股票激励计划预留部分限制性股票第二个解除限售期解除限售条件成就的法律意见书",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "法律意见书",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254185.html"
-      },
-      {
-        "art_code": "AN202606041823254181",
-        "title": "德明利:广东信达律师事务所关于深圳市德明利技术股份有限公司回购注销2023年和2024年限制性股票激励计划部分限制性股票的法律意见书",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "法律意见书",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254181.html"
-      },
-      {
-        "art_code": "AN202606041823254199",
-        "title": "德明利:关于回购注销2023年和2024年限制性股票激励计划部分限制性股票的公告",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "回购进展情况",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254199.html"
-      },
-      {
-        "art_code": "AN202606041823254179",
-        "title": "德明利:关于增加公司及控股子公司2026年度向金融机构申请综合授信借款额度的公告",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "借贷",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254179.html"
-      },
-      {
-        "art_code": "AN202606041823254203",
-        "title": "德明利:上市公司独立董事提名人声明与承诺-杨汝岱",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "独立董事提名人声明",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254203.html"
-      },
-      {
-        "art_code": "AN202606041823254180",
-        "title": "德明利:上市公司独立董事候选人声明与承诺-郑学定",
-        "date": "2026-06-05",
-        "time": "18:28",
-        "category": "独立董事候选人声明",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606041823254180.html"
-      },
-      {
-        "art_code": "AN202606041823253608",
-        "title": "中国巨石:中国巨石关于2026年度第五期超短期融资券发行结果的公告",
-        "date": "2026-06-05",
-        "time": "18:16",
-        "category": "其他,一般债券发行结果",
-        "codes": [
-          "600176"
-        ],
-        "names": [
-          "中国巨石"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600176/AN202606041823253608.html"
-      },
-      {
-        "art_code": "AN202606041823253199",
-        "title": "鼎龙股份:湖北鼎龙控股股份有限公司向不特定对象发行可转换公司债券受托管理事务报告(2025年度)",
-        "date": "2026-06-05",
-        "time": "18:08",
-        "category": "其他,受托管理事务定期报告",
-        "codes": [
-          "300054"
-        ],
-        "names": [
-          "鼎龙股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202606041823253199.html"
-      },
-      {
-        "art_code": "AN202606041823253208",
-        "title": "鼎龙股份:关于实施权益分派期间鼎龙转债暂停转股的公告",
-        "date": "2026-06-05",
-        "time": "18:08",
-        "category": "其他,开始/暂停/恢复转股公告",
-        "codes": [
-          "300054"
-        ],
-        "names": [
-          "鼎龙股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202606041823253208.html"
-      },
-      {
-        "art_code": "AN202606041823253054",
-        "title": "广合科技:H股公告-截至二零二六年五月三十一日止月份之股份发行人的证券变动月报表",
-        "date": "2026-06-05",
-        "time": "18:06",
-        "category": "其他",
-        "codes": [
-          "001389"
-        ],
-        "names": [
-          "广合科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202606041823253054.html"
-      },
-      {
-        "art_code": "AN202606041823252972",
-        "title": "中际旭创:关于公司第三期限制性股票激励计划预留部分第一个归属期归属结果暨股份上市公告",
-        "date": "2026-06-05",
-        "time": "18:04",
-        "category": "限售股份上市流通",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202606041823252972.html"
-      },
-      {
-        "art_code": "AN202606041823249436",
-        "title": "厦门钨业:厦门钨业关于股票交易异常波动的公告",
-        "date": "2026-06-05",
-        "time": "16:59",
-        "category": "股票交易异常波动",
-        "codes": [
-          "600549"
-        ],
-        "names": [
-          "厦门钨业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600549/AN202606041823249436.html"
-      },
-      {
-        "art_code": "AN202606041823249435",
-        "title": "厦门钨业:厦门钨业关于使用闲置募集资金进行现金管理部分到期赎回的公告",
-        "date": "2026-06-05",
-        "time": "16:59",
-        "category": "投资理财",
-        "codes": [
-          "600549"
-        ],
-        "names": [
-          "厦门钨业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600549/AN202606041823249435.html"
-      },
-      {
-        "art_code": "AN202606041823249306",
-        "title": "兆易创新:兆易创新关于归还部分用于暂时补充流动资金的A股募集资金的公告",
-        "date": "2026-06-05",
-        "time": "16:56",
-        "category": "归还募集资金",
-        "codes": [
-          "603986"
-        ],
-        "names": [
-          "兆易创新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603986/AN202606041823249306.html"
-      },
-      {
-        "art_code": "AN202606041823248915",
-        "title": "宝鼎科技:关于子公司补缴税款获得关联方部分补偿的公告",
-        "date": "2026-06-05",
-        "time": "16:47",
-        "category": "其他",
-        "codes": [
-          "002552"
-        ],
-        "names": [
-          "宝鼎科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002552/AN202606041823248915.html"
-      },
-      {
-        "art_code": "AN202606041823248914",
-        "title": "宝鼎科技:第五届董事会第三十一次会议决议公告",
-        "date": "2026-06-05",
-        "time": "16:47",
-        "category": "董事会决议公告",
-        "codes": [
-          "002552"
-        ],
-        "names": [
-          "宝鼎科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002552/AN202606041823248914.html"
-      },
-      {
-        "art_code": "AN202606041823248917",
-        "title": "宝鼎科技:关于公司董事、高级管理人员薪酬方案的公告",
-        "date": "2026-06-05",
-        "time": "16:47",
-        "category": "其他",
-        "codes": [
-          "002552"
-        ],
-        "names": [
-          "宝鼎科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002552/AN202606041823248917.html"
-      },
-      {
-        "art_code": "AN202606041823248916",
-        "title": "宝鼎科技:董事、高级管理人员薪酬管理制度(2026年6月)",
-        "date": "2026-06-05",
-        "time": "16:47",
-        "category": "管理办法/制度",
-        "codes": [
-          "002552"
-        ],
-        "names": [
-          "宝鼎科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002552/AN202606041823248916.html"
-      },
-      {
-        "art_code": "AN202606041823248918",
-        "title": "宝鼎科技:关于召开2026年第一次临时股东会的通知",
-        "date": "2026-06-05",
-        "time": "16:47",
-        "category": "召开股东大会通知",
-        "codes": [
-          "002552"
-        ],
-        "names": [
-          "宝鼎科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002552/AN202606041823248918.html"
-      },
-      {
-        "art_code": "AN202606041823248003",
-        "title": "华宏科技:股票交易异常波动公告",
-        "date": "2026-06-05",
-        "time": "16:32",
-        "category": "股票交易异常波动",
-        "codes": [
-          "002645"
-        ],
-        "names": [
-          "华宏科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002645/AN202606041823248003.html"
-      },
-      {
-        "art_code": "AN202606041823246403",
-        "title": "华锐精密:关于董事、高级管理人员提前终止减持计划暨减持股份结果公告",
-        "date": "2026-06-05",
-        "time": "15:43",
-        "category": "高管人员持股变动,股东/实际控制人股份减持",
-        "codes": [
-          "688059"
-        ],
-        "names": [
-          "华锐精密"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688059/AN202606041823246403.html"
-      },
-      {
-        "art_code": "AN202606041823257405",
-        "title": "德福科技:关于持股5%以上股东权益变动达到1%整数倍的公告",
-        "date": "2026-06-04",
-        "time": "20:03",
-        "category": "权益变动报告书",
-        "codes": [
-          "301511"
-        ],
-        "names": [
-          "德福科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606041823257405.html"
-      },
-      {
-        "art_code": "AN202606041823254184",
-        "title": "德福科技:关于为子公司提供担保的进展公告",
-        "date": "2026-06-04",
-        "time": "18:28",
-        "category": "提供/对外担保公告",
-        "codes": [
-          "301511"
-        ],
-        "names": [
-          "德福科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606041823254184.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-06-05",
     "time": "09:00",
     "period": "早间",
@@ -11629,6 +10963,280 @@
     "time": "09:00",
     "period": "早间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-07-24",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607241827324500",
+        "title": "睿创微纳:关于公司2025年限制性股票激励计划第一个归属期归属结果暨股份上市的公告",
+        "date": "2026-07-25",
+        "time": "19:24",
+        "category": "限售股份上市流通,其它",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202607241827324500.html"
+      },
+      {
+        "art_code": "AN202607241827324499",
+        "title": "睿创微纳:关于本次限制性股票归属登记完成后调整可转债转股价格暨转股停牌的公告",
+        "date": "2026-07-25",
+        "time": "19:24",
+        "category": "股本变动,停牌公告,转股价格调整和修正,转股价格调整和修正公告",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202607241827324499.html"
+      },
+      {
+        "art_code": "AN202607241827323215",
+        "title": "生益科技:生益科技2026年第一次临时股东会决议公告",
+        "date": "2026-07-25",
+        "time": "18:49",
+        "category": "股东大会决议公告,高管人员任职变动",
+        "codes": [
+          "600183"
+        ],
+        "names": [
+          "生益科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600183/AN202607241827323215.html"
+      },
+      {
+        "art_code": "AN202607241827323214",
+        "title": "生益科技:北京市康达(广州)律师事务所关于生益科技2026年第一次临时股东会的法律意见书",
+        "date": "2026-07-25",
+        "time": "18:49",
+        "category": "法律意见书",
+        "codes": [
+          "600183"
+        ],
+        "names": [
+          "生益科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600183/AN202607241827323214.html"
+      },
+      {
+        "art_code": "AN202607241827322720",
+        "title": "德明利:关于控股股东自愿承诺不减持公司股票的公告",
+        "date": "2026-07-25",
+        "time": "18:37",
+        "category": "其他",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202607241827322720.html"
+      },
+      {
+        "art_code": "AN202607241827322486",
+        "title": "融捷股份:关于实际控制人增持股份的进展公告",
+        "date": "2026-07-25",
+        "time": "18:31",
+        "category": "股东/实际控制人股份增持",
+        "codes": [
+          "002192"
+        ],
+        "names": [
+          "融捷股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002192/AN202607241827322486.html"
+      },
+      {
+        "art_code": "AN202607241827321962",
+        "title": "三环集团:H股公告-翌日披露报表",
+        "date": "2026-07-25",
+        "time": "18:21",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607241827321962.html"
+      },
+      {
+        "art_code": "AN202607241827320130",
+        "title": "中国铝业:中国铝业关于控股股东取得股票增持专项贷款承诺函的公告",
+        "date": "2026-07-25",
+        "time": "17:30",
+        "category": "借贷,其他",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202607241827320130.html"
+      },
+      {
+        "art_code": "AN202607241827320155",
+        "title": "金海通:前次募集资金使用情况专项报告",
+        "date": "2026-07-25",
+        "time": "17:30",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "603061"
+        ],
+        "names": [
+          "金海通"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607241827320155.html"
+      },
+      {
+        "art_code": "AN202607241827320154",
+        "title": "金海通:前次募集资金使用情况鉴证报告",
+        "date": "2026-07-25",
+        "time": "17:30",
+        "category": "保荐/核查意见",
+        "codes": [
+          "603061"
+        ],
+        "names": [
+          "金海通"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607241827320154.html"
+      },
+      {
+        "art_code": "AN202607241827319585",
+        "title": "安孚科技:安徽安孚电池科技股份有限公司关于回购股份事项前十大股东及前十大无限售条件股东持股情况的公告",
+        "date": "2026-07-25",
+        "time": "17:15",
+        "category": "回购进展情况",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202607241827319585.html"
+      },
+      {
+        "art_code": "AN202607241827318226",
+        "title": "南亚新材:第三届董事会第三十五次会议决议公告",
+        "date": "2026-07-25",
+        "time": "16:49",
+        "category": "增发预案,董事会决议公告",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202607241827318226.html"
+      },
+      {
+        "art_code": "AN202607241827317865",
+        "title": "沪电股份:关于为控股子公司提供担保的进展公告",
+        "date": "2026-07-25",
+        "time": "16:41",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607241827317865.html"
+      },
+      {
+        "art_code": "AN202607241827317261",
+        "title": "厦门钨业:厦门钨业关于收购江西巨通实业有限公司1.3483%股权暨关联交易的公告",
+        "date": "2026-07-25",
+        "time": "16:26",
+        "category": "收购出售资产/股权,关联交易",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202607241827317261.html"
+      },
+      {
+        "art_code": "AN202607241827316593",
+        "title": "芯碁微装:关于向特定对象发行股票募投项目结项并将节余募集资金永久补充流动资金及注销相关募集资金专户、理财产品专用结算账户的公告",
+        "date": "2026-07-25",
+        "time": "16:02",
+        "category": "募集资金使用情况报告,募集资金补充流动资金,投资理财",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202607241827316593.html"
+      },
+      {
+        "art_code": "AN202607241827316595",
+        "title": "芯碁微装:国泰海通证券股份有限公司关于公司向特定对象发行股票募投项目结项并将节余募集资金永久补充流动资金及注销相关募集资金专户、理财产品专用结算账户的专项核查意见",
+        "date": "2026-07-25",
+        "time": "16:02",
+        "category": "保荐/核查意见",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202607241827316595.html"
+      },
+      {
+        "art_code": "AN202607241827323785",
+        "title": "湖南裕能:关于5%以上股东权益变动触及1%整数倍的公告",
+        "date": "2026-07-24",
+        "time": "19:03",
+        "category": "权益变动报告书",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607241827323785.html"
+      },
+      {
+        "art_code": "AN202607241827323210",
+        "title": "雅创电子:关于与专业投资机构共同投资的公告",
+        "date": "2026-07-24",
+        "time": "18:49",
+        "category": "投资设立公司",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202607241827323210.html"
+      },
+      {
+        "art_code": "AN202607241827320740",
+        "title": "智微智能:2026年7月24日投资者关系活动记录表",
+        "date": "2026-07-24",
+        "time": "17:52",
+        "category": "调研活动",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607241827320740.html"
+      }
+    ],
     "reports": []
   }
 ]
