@@ -4424,72 +4424,72 @@
       {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 2.05,
-        "amount": 120876.0,
+        "pct": 2.96,
+        "amount": 231913.0,
         "category": "海外QDII"
       },
       {
         "name": "科创半导体ETF华夏",
         "code": "588170",
-        "pct": 1.84,
-        "amount": 311891.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF华夏",
-        "code": "562590",
-        "pct": 1.67,
-        "amount": 35786.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF国泰",
-        "code": "159516",
-        "pct": 1.67,
-        "amount": 199265.0,
+        "pct": 2.55,
+        "amount": 449037.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF广发",
         "code": "560780",
-        "pct": 1.6,
-        "amount": 39182.0,
+        "pct": 2.54,
+        "amount": 56944.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF易方达",
         "code": "159558",
-        "pct": 1.59,
-        "amount": 90411.0,
+        "pct": 2.48,
+        "amount": 132366.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "纳指生物科技ETF汇添富",
-        "code": "513290",
-        "pct": 1.58,
-        "amount": 20299.0,
-        "category": "医药"
+        "name": "半导体设备ETF华夏",
+        "code": "562590",
+        "pct": 2.36,
+        "amount": 48854.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF国泰",
+        "code": "159516",
+        "pct": 2.36,
+        "amount": 299638.0,
+        "category": "芯片/半导体"
       },
       {
         "name": "半导体ETF博时",
         "code": "159582",
-        "pct": 1.37,
-        "amount": 8622.0,
+        "pct": 2.24,
+        "amount": 12937.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF招商",
         "code": "561980",
-        "pct": 1.24,
-        "amount": 21531.0,
+        "pct": 2.06,
+        "amount": 29344.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "半导体龙头ETF工银",
-        "code": "159665",
-        "pct": 1.18,
-        "amount": 4976.0,
-        "category": "芯片/半导体"
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 1.79,
+        "amount": 128624.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 1.14,
+        "amount": 24219.0,
+        "category": "医药"
       }
     ]
   }
