@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-06-04",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "600549",
-        "name": "厦门钨业",
-        "title": "钨全产业链龙头",
-        "org": "国信证券",
-        "rating": "",
-        "date": "2026-06-03",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-04",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11639,6 +11622,13 @@
         "url": "https://data.eastmoney.com/notices/detail/301308/AN202607231827292502.html"
       }
     ],
+    "reports": []
+  },
+  {
+    "date": "2026-07-24",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": []
   }
 ]
