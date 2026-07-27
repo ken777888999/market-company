@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-06-07",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "300390",
-        "name": "天华新能",
-        "title": "氢氧化锂龙头，深度绑定大客户，锂资源加速布局",
-        "org": "华源证券",
-        "rating": "",
-        "date": "2026-06-06",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-07",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -10903,6 +10886,13 @@
     "date": "2026-07-26",
     "time": "21:00",
     "period": "晚间",
+    "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-07-27",
+    "time": "09:00",
+    "period": "早间",
     "announcements": [],
     "reports": []
   }
