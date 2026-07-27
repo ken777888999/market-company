@@ -4492,5 +4492,80 @@
         "category": "芯片/半导体"
       }
     ]
+  },
+  {
+    "date": "2026-07-27",
+    "top10": [
+      {
+        "name": "科创新材料ETF南方",
+        "code": "588160",
+        "pct": 4.31,
+        "amount": 5870.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创新材料ETF博时",
+        "code": "588010",
+        "pct": 4.2,
+        "amount": 10270.0,
+        "category": "科创板"
+      },
+      {
+        "name": "疫苗ETF国泰",
+        "code": "159643",
+        "pct": 3.58,
+        "amount": 408.0,
+        "category": null
+      },
+      {
+        "name": "生物医药ETF天弘",
+        "code": "159859",
+        "pct": 3.49,
+        "amount": 12724.0,
+        "category": "医药"
+      },
+      {
+        "name": "中证2000ETF华泰柏瑞",
+        "code": "563300",
+        "pct": 3.42,
+        "amount": 34008.0,
+        "category": "中证2000"
+      },
+      {
+        "name": "科创200ETF广发",
+        "code": "588140",
+        "pct": 3.42,
+        "amount": 228.0,
+        "category": "科创板"
+      },
+      {
+        "name": "生物医药ETF华安",
+        "code": "159508",
+        "pct": 3.39,
+        "amount": 605.0,
+        "category": "医药"
+      },
+      {
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 3.36,
+        "amount": 418080.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "机床ETF华夏",
+        "code": "159663",
+        "pct": 3.3,
+        "amount": 5764.0,
+        "category": null
+      },
+      {
+        "name": "创新药ETF南方",
+        "code": "159858",
+        "pct": 3.28,
+        "amount": 3325.0,
+        "category": "医药"
+      }
+    ]
   }
 ]
