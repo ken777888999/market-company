@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-06-07",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202606071823341308",
-        "title": "鼎龙股份:关于部分募集资金专项账户注销的公告",
-        "date": "2026-06-08",
-        "time": "16:13",
-        "category": "募集资金使用进展情况,其它",
-        "codes": [
-          "300054"
-        ],
-        "names": [
-          "鼎龙股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202606071823341308.html"
-      },
-      {
-        "art_code": "AN202606071823341017",
-        "title": "鼎龙股份:关于公司部分董事、高级管理人员减持股份预披露公告",
-        "date": "2026-06-08",
-        "time": "15:32",
-        "category": "高管人员持股变动,股东/实际控制人股份减持,其它",
-        "codes": [
-          "300054"
-        ],
-        "names": [
-          "鼎龙股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202606071823341017.html"
-      },
-      {
-        "art_code": "AN202606071823341003",
-        "title": "鼎龙股份:关于控股股东部分股份质押及解除质押的公告",
-        "date": "2026-06-08",
-        "time": "15:32",
-        "category": "股份质押、冻结,其它",
-        "codes": [
-          "300054"
-        ],
-        "names": [
-          "鼎龙股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202606071823341003.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-06-08",
     "time": "09:00",
     "period": "早间",
@@ -10894,6 +10844,140 @@
     "time": "09:00",
     "period": "早间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-07-27",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607271827391047",
+        "title": "德明利:华泰联合证券有限责任公司关于深圳市德明利技术股份有限公司2023年向特定对象发行股票部分限售股解除限售并上市流通的核查意见",
+        "date": "2026-07-28",
+        "time": "20:04",
+        "category": "保荐/核查意见",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202607271827391047.html"
+      },
+      {
+        "art_code": "AN202607271827391048",
+        "title": "德明利:关于控股股东认购的2023年向特定对象发行股票限售股解除限售上市流通并承诺十二个月内不减持公司股票的提示性公告",
+        "date": "2026-07-28",
+        "time": "20:04",
+        "category": "限售股份上市流通",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202607271827391048.html"
+      },
+      {
+        "art_code": "AN202607271827390788",
+        "title": "长川科技:杭州长川科技股份有限公司关于签署募集资金三方及四方监管协议的公告",
+        "date": "2026-07-28",
+        "time": "19:51",
+        "category": "签订协议",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202607271827390788.html"
+      },
+      {
+        "art_code": "AN202607271827389193",
+        "title": "三环集团:H股公告-翌日披露报表",
+        "date": "2026-07-28",
+        "time": "18:37",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607271827389193.html"
+      },
+      {
+        "art_code": "AN202607271827387889",
+        "title": "中国铝业:中国铝业高级管理人员减持股份结果公告",
+        "date": "2026-07-28",
+        "time": "18:04",
+        "category": "高管人员持股变动,股东/实际控制人股份减持",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202607271827387889.html"
+      },
+      {
+        "art_code": "AN202607271827385037",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于以集中竞价交易方式回购股份的回购报告书",
+        "date": "2026-07-28",
+        "time": "16:50",
+        "category": "回购报告书",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202607271827385037.html"
+      },
+      {
+        "art_code": "AN202607271827385038",
+        "title": "普冉股份:关于第三届董事会第六次会议决议公告",
+        "date": "2026-07-28",
+        "time": "16:50",
+        "category": "董事会决议公告",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202607271827385038.html"
+      },
+      {
+        "art_code": "AN202607271827388132",
+        "title": "协创数据:关于公司为全资子公司提供担保的进展公告",
+        "date": "2026-07-27",
+        "time": "18:06",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202607271827388132.html"
+      },
+      {
+        "art_code": "AN202607271827377977",
+        "title": "雅创电子:关于为子公司提供担保的进展公告",
+        "date": "2026-07-27",
+        "time": "11:44",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202607271827377977.html"
+      }
+    ],
     "reports": []
   }
 ]
