@@ -4497,74 +4497,74 @@
     "date": "2026-07-27",
     "top10": [
       {
-        "name": "港股互联网ETF国泰",
-        "code": "513720",
-        "pct": 3.53,
-        "amount": 2615.0,
-        "category": "港股/中概"
+        "name": "科创新材料ETF南方",
+        "code": "588160",
+        "pct": 5.78,
+        "amount": 15823.0,
+        "category": "科创板"
       },
       {
-        "name": "港股互联网ETF博时",
-        "code": "159568",
-        "pct": 3.46,
-        "amount": 14056.0,
-        "category": "港股/中概"
+        "name": "科创新材料ETF博时",
+        "code": "588010",
+        "pct": 5.41,
+        "amount": 25363.0,
+        "category": "科创板"
       },
       {
-        "name": "港股通互联网ETF易方达",
-        "code": "513040",
-        "pct": 3.36,
-        "amount": 41756.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "港股通互联网ETF富国",
-        "code": "159792",
-        "pct": 3.31,
-        "amount": 171433.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "疫苗ETF国泰",
-        "code": "159643",
-        "pct": 3.2,
-        "amount": 656.0,
+        "name": "湖北ETF博时",
+        "code": "159743",
+        "pct": 5.01,
+        "amount": 468.0,
         "category": null
       },
       {
-        "name": "沪港深300ETF易方达",
-        "code": "517030",
-        "pct": 2.92,
-        "amount": 33.0,
-        "category": null
-      },
-      {
-        "name": "恒生互联网ETF华安",
-        "code": "159688",
-        "pct": 2.9,
-        "amount": 9576.0,
-        "category": "港股/中概"
+        "name": "创业板200ETF易方达",
+        "code": "159572",
+        "pct": 4.37,
+        "amount": 2367.0,
+        "category": "创业板"
       },
       {
         "name": "中证2000ETF华泰柏瑞",
         "code": "563300",
-        "pct": 2.79,
-        "amount": 55735.0,
+        "pct": 4.3,
+        "amount": 79402.0,
         "category": "中证2000"
       },
       {
-        "name": "中概互联网ETF嘉实",
-        "code": "159607",
-        "pct": 2.78,
-        "amount": 14453.0,
-        "category": "港股/中概"
+        "name": "科创200ETF易方达",
+        "code": "588270",
+        "pct": 4.23,
+        "amount": 2583.0,
+        "category": "科创板"
       },
       {
-        "name": "恒生互联网ETF华夏",
-        "code": "513330",
-        "pct": 2.68,
-        "amount": 164929.0,
-        "category": "港股/中概"
+        "name": "中证2000增强ETF银华",
+        "code": "159555",
+        "pct": 4.23,
+        "amount": 470.0,
+        "category": "中证2000"
+      },
+      {
+        "name": "科创200ETF广发",
+        "code": "588140",
+        "pct": 4.16,
+        "amount": 430.0,
+        "category": "科创板"
+      },
+      {
+        "name": "中证2000ETF南方",
+        "code": "159531",
+        "pct": 4.11,
+        "amount": 21539.0,
+        "category": "中证2000"
+      },
+      {
+        "name": "中证1000ETF华泰柏瑞",
+        "code": "516300",
+        "pct": 4.06,
+        "amount": 1088.0,
+        "category": "中证1000"
       }
     ]
   }
