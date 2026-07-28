@@ -4572,73 +4572,73 @@
     "date": "2026-07-28",
     "top10": [
       {
-        "name": "食品ETF广发",
-        "code": "563850",
-        "pct": 2.44,
-        "amount": 206.0,
-        "category": "消费/白酒"
-      },
-      {
         "name": "食品ETF易方达",
         "code": "560160",
-        "pct": 2.28,
-        "amount": 412.0,
+        "pct": 2.39,
+        "amount": 471.0,
         "category": "消费/白酒"
       },
       {
-        "name": "酒ETF鹏华",
-        "code": "512690",
-        "pct": 2.14,
-        "amount": 60098.0,
+        "name": "消费ETF易方达",
+        "code": "159798",
+        "pct": 2.36,
+        "amount": 2061.0,
         "category": "消费/白酒"
       },
       {
-        "name": "食品饮料ETF天弘",
-        "code": "159736",
-        "pct": 2.08,
-        "amount": 2678.0,
+        "name": "食品ETF广发",
+        "code": "563850",
+        "pct": 2.33,
+        "amount": 223.0,
         "category": "消费/白酒"
       },
       {
-        "name": "食品饮料ETF华安",
-        "code": "516900",
-        "pct": 2.04,
-        "amount": 318.0,
+        "name": "消费ETF华夏",
+        "code": "510630",
+        "pct": 2.0,
+        "amount": 5218.0,
         "category": "消费/白酒"
       },
       {
-        "name": "食品ETF前海开源",
-        "code": "560420",
-        "pct": 2.03,
-        "amount": 178.0,
+        "name": "消费50ETF国联安",
+        "code": "159670",
+        "pct": 1.97,
+        "amount": 358.0,
         "category": "消费/白酒"
       },
       {
         "name": "银行ETF华泰柏瑞",
         "code": "560670",
-        "pct": 2.03,
-        "amount": 1470.0,
+        "pct": 1.93,
+        "amount": 1664.0,
         "category": "银行"
       },
       {
-        "name": "消费ETF易方达",
-        "code": "159798",
-        "pct": 2.01,
-        "amount": 1511.0,
+        "name": "食品ETF前海开源",
+        "code": "560420",
+        "pct": 1.92,
+        "amount": 200.0,
         "category": "消费/白酒"
       },
       {
-        "name": "食品饮料ETF华夏",
-        "code": "515170",
-        "pct": 1.96,
-        "amount": 7451.0,
+        "name": "食品饮料ETF天弘",
+        "code": "159736",
+        "pct": 1.91,
+        "amount": 2907.0,
         "category": "消费/白酒"
       },
       {
-        "name": "食品ETF南方",
-        "code": "515840",
-        "pct": 1.94,
-        "amount": 938.0,
+        "name": "酒ETF鹏华",
+        "code": "512690",
+        "pct": 1.9,
+        "amount": 71160.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "食品饮料ETF招商",
+        "code": "159843",
+        "pct": 1.87,
+        "amount": 712.0,
         "category": "消费/白酒"
       }
     ]
