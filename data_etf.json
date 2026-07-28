@@ -4567,5 +4567,80 @@
         "category": "中证1000"
       }
     ]
+  },
+  {
+    "date": "2026-07-28",
+    "top10": [
+      {
+        "name": "食品ETF前海开源",
+        "code": "560420",
+        "pct": 2.15,
+        "amount": 131.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "食品ETF广发",
+        "code": "563850",
+        "pct": 2.1,
+        "amount": 153.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "汽车ETF广发",
+        "code": "159512",
+        "pct": 2.0,
+        "amount": 650.0,
+        "category": "汽车"
+      },
+      {
+        "name": "食品ETF易方达",
+        "code": "560160",
+        "pct": 1.94,
+        "amount": 134.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "房地产ETF华夏",
+        "code": "515060",
+        "pct": 1.82,
+        "amount": 4770.0,
+        "category": "地产"
+      },
+      {
+        "name": "房地产ETF南方",
+        "code": "512200",
+        "pct": 1.75,
+        "amount": 15846.0,
+        "category": "地产"
+      },
+      {
+        "name": "传媒ETF广发",
+        "code": "512980",
+        "pct": 1.7,
+        "amount": 11247.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "传媒ETF鹏华",
+        "code": "159805",
+        "pct": 1.59,
+        "amount": 1635.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "港股通互联网ETF易方达",
+        "code": "513040",
+        "pct": 1.57,
+        "amount": 58904.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "恒生互联网ETF华夏",
+        "code": "513330",
+        "pct": 1.57,
+        "amount": 131099.0,
+        "category": "港股/中概"
+      }
+    ]
   }
 ]
