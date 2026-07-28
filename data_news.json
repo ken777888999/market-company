@@ -1,209 +1,5 @@
 [
   {
-    "date": "2026-06-08",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202606081823367522",
-        "title": "鼎龙股份:关于扩建潜江CMP软抛光垫生产线的自愿性披露公告",
-        "date": "2026-06-09",
-        "time": "20:32",
-        "category": "其他,其它",
-        "codes": [
-          "300054"
-        ],
-        "names": [
-          "鼎龙股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202606081823367522.html"
-      },
-      {
-        "art_code": "AN202606081823364907",
-        "title": "中际旭创:关于使用部分自有资金进行现金管理的进展公告",
-        "date": "2026-06-09",
-        "time": "18:54",
-        "category": "投资理财",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202606081823364907.html"
-      },
-      {
-        "art_code": "AN202606081823362494",
-        "title": "紫金矿业:紫金矿业集团股份有限公司第九届董事会临时会议决议公告",
-        "date": "2026-06-09",
-        "time": "17:59",
-        "category": "增发预案,董事会决议公告",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202606081823362494.html"
-      },
-      {
-        "art_code": "AN202606081823362350",
-        "title": "德明利:关于召开2026年第二次临时股东会的提示性公告",
-        "date": "2026-06-09",
-        "time": "17:54",
-        "category": "召开股东大会提示性公告",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202606081823362350.html"
-      },
-      {
-        "art_code": "AN202606081823362145",
-        "title": "厦门钨业:厦门钨业2026年第三次临时股东会会议资料",
-        "date": "2026-06-09",
-        "time": "17:50",
-        "category": "股东大会资料,高管人员任职变动",
-        "codes": [
-          "600549"
-        ],
-        "names": [
-          "厦门钨业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600549/AN202606081823362145.html"
-      },
-      {
-        "art_code": "AN202606081823360031",
-        "title": "沪电股份:关于向香港联交所递交H股发行上市申请并刊发申请资料的进展公告",
-        "date": "2026-06-09",
-        "time": "17:01",
-        "category": "其他",
-        "codes": [
-          "002463"
-        ],
-        "names": [
-          "沪电股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002463/AN202606081823360031.html"
-      },
-      {
-        "art_code": "AN202606081823359134",
-        "title": "南亚新材:关于向特定对象发行A股股票申请获得中国证券监督管理委员会同意注册批复的公告",
-        "date": "2026-06-09",
-        "time": "16:45",
-        "category": "增发获准公告",
-        "codes": [
-          "688519"
-        ],
-        "names": [
-          "南亚新材"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606081823359134.html"
-      },
-      {
-        "art_code": "AN202606081823358791",
-        "title": "华宏科技:江苏华宏科技股份有限公司公开发行可转换公司债券受托管理事务报告(2025年度)",
-        "date": "2026-06-09",
-        "time": "16:32",
-        "category": "其他,受托管理事务临时报告",
-        "codes": [
-          "002645"
-        ],
-        "names": [
-          "华宏科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002645/AN202606081823358791.html"
-      },
-      {
-        "art_code": "AN202606081823357705",
-        "title": "安孚科技:安徽安孚电池科技股份有限公司关于提供担保的进展公告",
-        "date": "2026-06-09",
-        "time": "15:41",
-        "category": "提供/对外担保公告",
-        "codes": [
-          "603031"
-        ],
-        "names": [
-          "安孚科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603031/AN202606081823357705.html"
-      },
-      {
-        "art_code": "AN202606081823366553",
-        "title": "德福科技:董事会薪酬与考核委员会关于公司2026年限制性股票激励计划激励对象名单的公示情况说明及核查意见",
-        "date": "2026-06-08",
-        "time": "19:41",
-        "category": "专项说明/独立意见,保荐/核查意见",
-        "codes": [
-          "301511"
-        ],
-        "names": [
-          "德福科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301511/AN202606081823366553.html"
-      },
-      {
-        "art_code": "AN202606081823364904",
-        "title": "凯格精机:关于控股股东、实际控制人及其一致行动人减持股份触及1%及5%整数倍暨披露简式权益变动报告书的提示性公告",
-        "date": "2026-06-08",
-        "time": "18:54",
-        "category": "权益变动报告书,股东/实际控制人股份减持",
-        "codes": [
-          "301338"
-        ],
-        "names": [
-          "凯格精机"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301338/AN202606081823364904.html"
-      },
-      {
-        "art_code": "AN202606081823364890",
-        "title": "凯格精机:简式权益变动报告书",
-        "date": "2026-06-08",
-        "time": "18:54",
-        "category": "权益变动报告书",
-        "codes": [
-          "301338"
-        ],
-        "names": [
-          "凯格精机"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301338/AN202606081823364890.html"
-      },
-      {
-        "art_code": "AN202606081823357943",
-        "title": "华锐精密:投资者关系活动记录表(2026年6月5日)",
-        "date": "2026-06-08",
-        "time": "15:52",
-        "category": "调研活动",
-        "codes": [
-          "688059"
-        ],
-        "names": [
-          "华锐精密"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688059/AN202606081823357943.html"
-      },
-      {
-        "art_code": "AN202606081823360605",
-        "title": "关于同意南亚新材料科技股份有限公司向特定对象发行股票注册的批复",
-        "date": "2026-06-03",
-        "time": "17:11",
-        "category": "科创板再融资审核注册结果通知",
-        "codes": [
-          "688519"
-        ],
-        "names": [
-          "南亚新材"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688519/AN202606081823360605.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-06-09",
     "time": "09:00",
     "period": "早间",
@@ -10994,5 +10790,149 @@
       }
     ],
     "reports": []
+  },
+  {
+    "date": "2026-07-28",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202607281827425861",
+        "title": "鼎龙股份:关于更换持续督导保荐代表人的公告",
+        "date": "2026-07-29",
+        "time": "20:13",
+        "category": "保荐代表人（机构）变更,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607281827425861.html"
+      },
+      {
+        "art_code": "AN202607281827423533",
+        "title": "广合科技:H股公告-董事会会议召开日期",
+        "date": "2026-07-29",
+        "time": "18:51",
+        "category": "其他",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202607281827423533.html"
+      },
+      {
+        "art_code": "AN202607281827423539",
+        "title": "三环集团:H股公告-翌日披露报表",
+        "date": "2026-07-29",
+        "time": "18:51",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607281827423539.html"
+      },
+      {
+        "art_code": "AN202607281827423025",
+        "title": "德业股份:关于向香港联交所递交H股发行并上市申请的进展公告",
+        "date": "2026-07-29",
+        "time": "18:31",
+        "category": "其他",
+        "codes": [
+          "605117"
+        ],
+        "names": [
+          "德业股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/605117/AN202607281827423025.html"
+      },
+      {
+        "art_code": "AN202607281827422885",
+        "title": "安孚科技:安徽安孚电池科技股份有限公司关于以集中竞价方式回购股份的回购报告书",
+        "date": "2026-07-29",
+        "time": "18:26",
+        "category": "回购报告书",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202607281827422885.html"
+      },
+      {
+        "art_code": "AN202607281827422431",
+        "title": "金海通:关于持股5%以上股东权益变动触及1%刻度的提示性公告",
+        "date": "2026-07-29",
+        "time": "18:09",
+        "category": "权益变动报告书",
+        "codes": [
+          "603061"
+        ],
+        "names": [
+          "金海通"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607281827422431.html"
+      },
+      {
+        "art_code": "AN202607281827419383",
+        "title": "中钨高新:关于变更财务总监的公告",
+        "date": "2026-07-29",
+        "time": "16:47",
+        "category": "高管人员任职变动",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202607281827419383.html"
+      },
+      {
+        "art_code": "AN202607281827419293",
+        "title": "中钨高新:第十一届董事会第十四次(临时)会议决议公告",
+        "date": "2026-07-29",
+        "time": "16:45",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202607281827419293.html"
+      },
+      {
+        "art_code": "AN202607281827425978",
+        "title": "鼎龙股份:300054鼎龙股份投资者关系管理信息20260728",
+        "date": "2026-07-28",
+        "time": "20:19",
+        "category": "调研活动",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607281827425978.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "600549",
+        "name": "厦门钨业",
+        "title": "是钨矿资源龙头，更是AI材料平台",
+        "org": "国金证券",
+        "rating": "",
+        "date": "2026-07-28",
+        "digest": ""
+      }
+    ]
   }
 ]
