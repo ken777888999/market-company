@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-06-08",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-06-08",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -10976,6 +10969,28 @@
           "雅创电子"
         ],
         "url": "https://data.eastmoney.com/notices/detail/301099/AN202607271827377977.html"
+      }
+    ],
+    "reports": []
+  },
+  {
+    "date": "2026-07-28",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202607281827401691",
+        "title": "中际旭创:关于境外上市股份(H股)公开发行价格的公告",
+        "date": "2026-07-28",
+        "time": "08:05",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607281827401691.html"
       }
     ],
     "reports": []
