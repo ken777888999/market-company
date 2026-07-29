@@ -1,126 +1,6 @@
 [
   {
     "date": "2026-06-09",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202606091823376784",
-        "title": "震裕科技:关于宁波震裕科技股份有限公司向不特定对象发行可转换公司债券的审核问询函的回复报告(修订稿)",
-        "date": "2026-06-09",
-        "time": "08:09",
-        "category": "回复问询函公告",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202606091823376784.html"
-      },
-      {
-        "art_code": "AN202606091823376787",
-        "title": "震裕科技:中汇会计师事务所(特殊普通合伙)关于深圳证券交易所《关于宁波震裕科技股份有限公司申请向不特定对象发行可转换公司债券的审核问询函》有关财务问题回复的专项说明(修订稿)",
-        "date": "2026-06-09",
-        "time": "08:09",
-        "category": "会计师事务所问询函回复公告,专项说明/独立意见",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202606091823376787.html"
-      },
-      {
-        "art_code": "AN202606091823376786",
-        "title": "震裕科技:浙江天册律师事务所关于宁波震裕科技股份有限公司向不特定对象发行可转换公司债券的补充法律意见书(四)",
-        "date": "2026-06-09",
-        "time": "08:09",
-        "category": "法律意见书",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202606091823376786.html"
-      },
-      {
-        "art_code": "AN202606091823376789",
-        "title": "震裕科技:向不特定对象发行可转换公司债券募集说明书(修订稿)",
-        "date": "2026-06-09",
-        "time": "08:09",
-        "category": "其他",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202606091823376789.html"
-      },
-      {
-        "art_code": "AN202606091823376783",
-        "title": "震裕科技:广发证券股份有限公司关于宁波震裕科技股份有限公司向不特定对象发行可转换公司债券之上市保荐书(修订稿)",
-        "date": "2026-06-09",
-        "time": "08:09",
-        "category": "上市保荐书",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202606091823376783.html"
-      },
-      {
-        "art_code": "AN202606091823376782",
-        "title": "震裕科技:浙江天册律师事务所关于宁波震裕科技股份有限公司向不特定对象发行可转换公司债券的补充法律意见书(三)",
-        "date": "2026-06-09",
-        "time": "08:09",
-        "category": "法律意见书",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202606091823376782.html"
-      },
-      {
-        "art_code": "AN202606091823376788",
-        "title": "震裕科技:广发证券股份有限公司关于宁波震裕科技股份有限公司向不特定对象发行可转换公司债券之发行保荐书(修订稿)",
-        "date": "2026-06-09",
-        "time": "08:09",
-        "category": "发行保荐书",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202606091823376788.html"
-      },
-      {
-        "art_code": "AN202606091823376790",
-        "title": "震裕科技:关于公司向不特定对象发行可转换公司债券的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "date": "2026-06-09",
-        "time": "08:09",
-        "category": "回复问询函公告",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202606091823376790.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-06-09",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -10921,6 +10801,52 @@
           "鼎龙股份"
         ],
         "url": "https://data.eastmoney.com/notices/detail/300054/AN202607281827425978.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "600549",
+        "name": "厦门钨业",
+        "title": "是钨矿资源龙头，更是AI材料平台",
+        "org": "国金证券",
+        "rating": "",
+        "date": "2026-07-28",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202607281827429093",
+        "title": "中际旭创:关于收到董事长提议回购公司股份的公告",
+        "date": "2026-07-29",
+        "time": "22:08",
+        "category": "回购预案",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607281827429093.html"
+      },
+      {
+        "art_code": "AN202607281827430032",
+        "title": "中际旭创:投资者关系活动记录表20260728",
+        "date": "2026-07-28",
+        "time": "23:37",
+        "category": "调研活动",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607281827430032.html"
       }
     ],
     "reports": [
