@@ -4649,72 +4649,72 @@
       {
         "name": "游戏ETF华泰柏瑞",
         "code": "516770",
-        "pct": 4.68,
-        "amount": 4427.0,
+        "pct": 5.99,
+        "amount": 6052.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "游戏ETF华夏",
+        "code": "159869",
+        "pct": 5.78,
+        "amount": 82441.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "游戏ETF国泰",
+        "code": "516010",
+        "pct": 5.54,
+        "amount": 14852.0,
         "category": "传媒/游戏"
       },
       {
         "name": "港股通互联网ETF富国",
         "code": "159792",
-        "pct": 4.55,
-        "amount": 155766.0,
+        "pct": 3.54,
+        "amount": 232541.0,
         "category": "港股/中概"
       },
       {
-        "name": "游戏ETF华夏",
-        "code": "159869",
-        "pct": 4.51,
-        "amount": 61674.0,
+        "name": "传媒ETF华夏",
+        "code": "516190",
+        "pct": 3.44,
+        "amount": 1485.0,
         "category": "传媒/游戏"
       },
       {
         "name": "港股互联网ETF国泰",
         "code": "513720",
-        "pct": 4.45,
-        "amount": 3484.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "港股互联网ETF华宝",
-        "code": "513770",
-        "pct": 4.4,
-        "amount": 57413.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "游戏ETF国泰",
-        "code": "516010",
-        "pct": 4.35,
-        "amount": 10295.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "港股通互联网ETF易方达",
-        "code": "513040",
-        "pct": 3.96,
-        "amount": 64936.0,
+        "pct": 3.41,
+        "amount": 4700.0,
         "category": "港股/中概"
       },
       {
         "name": "港股消费ETF银华",
         "code": "159735",
-        "pct": 3.84,
-        "amount": 4861.0,
+        "pct": 3.4,
+        "amount": 6414.0,
         "category": "消费/白酒"
       },
       {
-        "name": "恒生互联网ETF华安",
-        "code": "159688",
-        "pct": 3.81,
-        "amount": 9811.0,
+        "name": "建材ETF易方达",
+        "code": "159787",
+        "pct": 3.31,
+        "amount": 497.0,
+        "category": "基建/建材"
+      },
+      {
+        "name": "港股互联网ETF华宝",
+        "code": "513770",
+        "pct": 3.3,
+        "amount": 82525.0,
         "category": "港股/中概"
       },
       {
-        "name": "港股互联网ETF博时",
-        "code": "159568",
-        "pct": 3.75,
-        "amount": 13430.0,
-        "category": "港股/中概"
+        "name": "在线消费ETF南方",
+        "code": "159728",
+        "pct": 3.28,
+        "amount": 596.0,
+        "category": "消费/白酒"
       }
     ]
   }
