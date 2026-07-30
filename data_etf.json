@@ -4717,5 +4717,80 @@
         "category": "港股/中概"
       }
     ]
+  },
+  {
+    "date": "2026-07-30",
+    "top10": [
+      {
+        "name": "教育ETF博时",
+        "code": "513360",
+        "pct": 4.16,
+        "amount": 13267.0,
+        "category": null
+      },
+      {
+        "name": "酒ETF鹏华",
+        "code": "512690",
+        "pct": 3.9,
+        "amount": 59793.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "消费ETF汇添富",
+        "code": "159928",
+        "pct": 2.95,
+        "amount": 28856.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "消费ETF南方",
+        "code": "159689",
+        "pct": 2.93,
+        "amount": 366.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "汽车ETF南方",
+        "code": "516840",
+        "pct": 2.9,
+        "amount": 332.0,
+        "category": "汽车"
+      },
+      {
+        "name": "消费ETF华夏",
+        "code": "510630",
+        "pct": 2.88,
+        "amount": 3833.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "食品饮料ETF华安",
+        "code": "516900",
+        "pct": 2.76,
+        "amount": 672.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "消费ETF嘉实",
+        "code": "512600",
+        "pct": 2.74,
+        "amount": 2214.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "食品饮料ETF华宝",
+        "code": "515710",
+        "pct": 2.74,
+        "amount": 2894.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "食品饮料ETF招商",
+        "code": "159843",
+        "pct": 2.7,
+        "amount": 924.0,
+        "category": "消费/白酒"
+      }
+    ]
   }
 ]
