@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-06-10",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "300054",
-        "name": "鼎龙股份",
-        "title": "CMP抛光液领域取得多项突破，给予“买进”的投资建议",
-        "org": "群益证券",
-        "rating": "",
-        "date": "2026-06-09",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-10",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -10835,6 +10818,32 @@
         "url": "https://data.eastmoney.com/notices/detail/300857/AN202607291827455498.html"
       }
     ],
+    "reports": [
+      {
+        "code": "301511",
+        "name": "德福科技",
+        "title": "以高品质铜箔连接世界",
+        "org": "中邮证券",
+        "rating": "",
+        "date": "2026-07-29",
+        "digest": ""
+      },
+      {
+        "code": "603061",
+        "name": "金海通",
+        "title": "深耕三温分选筑壁垒，绑定头部客户启新程",
+        "org": "山西证券",
+        "rating": "",
+        "date": "2026-07-29",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "301511",
