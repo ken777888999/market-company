@@ -4722,74 +4722,74 @@
     "date": "2026-07-30",
     "top10": [
       {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 3.72,
+        "amount": 210251.0,
+        "category": "海外QDII"
+      },
+      {
         "name": "酒ETF鹏华",
         "code": "512690",
-        "pct": 3.21,
-        "amount": 97838.0,
+        "pct": 3.67,
+        "amount": 112040.0,
         "category": "消费/白酒"
       },
       {
         "name": "汽车ETF南方",
         "code": "516840",
-        "pct": 3.03,
-        "amount": 840.0,
+        "pct": 3.41,
+        "amount": 1863.0,
         "category": "汽车"
+      },
+      {
+        "name": "银行ETF华安",
+        "code": "516210",
+        "pct": 3.3,
+        "amount": 1412.0,
+        "category": "银行"
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 3.16,
+        "amount": 91112.0,
+        "category": "海外QDII"
       },
       {
         "name": "消费ETF汇添富",
         "code": "159928",
-        "pct": 2.5,
-        "amount": 48611.0,
+        "pct": 2.95,
+        "amount": 60436.0,
         "category": "消费/白酒"
       },
       {
         "name": "汽车ETF广发",
         "code": "159512",
-        "pct": 2.45,
-        "amount": 3382.0,
+        "pct": 2.9,
+        "amount": 4777.0,
         "category": "汽车"
-      },
-      {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 2.4,
-        "amount": 141462.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "教育ETF博时",
-        "code": "513360",
-        "pct": 2.31,
-        "amount": 21580.0,
-        "category": null
       },
       {
         "name": "消费ETF南方",
         "code": "159689",
-        "pct": 2.31,
-        "amount": 637.0,
+        "pct": 2.77,
+        "amount": 748.0,
         "category": "消费/白酒"
-      },
-      {
-        "name": "消费ETF嘉实",
-        "code": "512600",
-        "pct": 2.22,
-        "amount": 2946.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "银行ETF华安",
-        "code": "516210",
-        "pct": 2.22,
-        "amount": 842.0,
-        "category": "银行"
       },
       {
         "name": "食品饮料ETF华安",
         "code": "516900",
-        "pct": 2.17,
-        "amount": 1143.0,
+        "pct": 2.76,
+        "amount": 3828.0,
         "category": "消费/白酒"
+      },
+      {
+        "name": "银行ETF天弘",
+        "code": "515290",
+        "pct": 2.65,
+        "amount": 5027.0,
+        "category": "银行"
       }
     ]
   }
