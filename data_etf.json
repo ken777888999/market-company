@@ -4799,71 +4799,71 @@
       {
         "name": "云计算ETF广发",
         "code": "159527",
-        "pct": 9.86,
-        "amount": 2705.0,
+        "pct": 9.55,
+        "amount": 3848.0,
         "category": "云计算/大数据"
       },
       {
-        "name": "中韩半导体ETF华泰柏瑞",
-        "code": "513310",
-        "pct": 8.97,
-        "amount": 1175482.0,
-        "category": "芯片/半导体"
+        "name": "线上消费ETF工银",
+        "code": "159725",
+        "pct": 8.5,
+        "amount": 1992.0,
+        "category": "消费/白酒"
       },
       {
-        "name": "科创创业人工智能ETF工银",
-        "code": "588430",
-        "pct": 8.59,
-        "amount": 1271.0,
-        "category": "AI"
+        "name": "计算机ETF南方",
+        "code": "159586",
+        "pct": 8.06,
+        "amount": 4969.0,
+        "category": "计算机/信创"
       },
       {
         "name": "科创创业人工智能ETF鹏华",
         "code": "588410",
-        "pct": 8.54,
-        "amount": 812.0,
+        "pct": 7.19,
+        "amount": 1032.0,
         "category": "AI"
       },
       {
-        "name": "科创创业人工智能ETF摩根",
-        "code": "588420",
-        "pct": 8.21,
-        "amount": 2110.0,
-        "category": "AI"
+        "name": "云计算ETF易方达",
+        "code": "516510",
+        "pct": 7.06,
+        "amount": 22682.0,
+        "category": "云计算/大数据"
       },
       {
-        "name": "科创创业人工智能ETF中金",
-        "code": "588480",
-        "pct": 8.17,
-        "amount": 2279.0,
-        "category": "AI"
+        "name": "传媒ETF鹏华",
+        "code": "159805",
+        "pct": 7.02,
+        "amount": 12455.0,
+        "category": "传媒/游戏"
       },
       {
-        "name": "科创创业人工智能ETF华安",
-        "code": "588470",
-        "pct": 8.14,
-        "amount": 2442.0,
+        "name": "科创创业人工智能ETF工银",
+        "code": "588430",
+        "pct": 7.01,
+        "amount": 1336.0,
         "category": "AI"
       },
       {
         "name": "云计算50ETF新华",
         "code": "560660",
-        "pct": 8.09,
-        "amount": 1903.0,
+        "pct": 6.99,
+        "amount": 2085.0,
         "category": "云计算/大数据"
       },
       {
-        "name": "云计算ETF华夏",
-        "code": "516630",
-        "pct": 7.96,
-        "amount": 16751.0,
-        "category": "云计算/大数据"
+        "name": "中韩半导体ETF华泰柏瑞",
+        "code": "513310",
+        "pct": 6.93,
+        "amount": 1619461.0,
+        "category": "芯片/半导体"
       },
       {
-        "name": "人工智能ETF华富",
-        "code": "515980",
-        "pct": 7.91,
-        "amount": 42087.0,
+        "name": "科创创业人工智能ETF华安",
+        "code": "588470",
+        "pct": 6.87,
+        "amount": 2734.0,
         "category": "AI"
       }
     ]
