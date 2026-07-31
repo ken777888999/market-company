@@ -4797,74 +4797,74 @@
     "date": "2026-07-31",
     "top10": [
       {
-        "name": "科创成长ETF广发",
-        "code": "588110",
-        "pct": 9.59,
-        "amount": 6471.0,
-        "category": "科创板"
-      },
-      {
-        "name": "科创成长ETF易方达",
-        "code": "588020",
-        "pct": 9.33,
-        "amount": 17229.0,
-        "category": "科创板"
+        "name": "云计算ETF广发",
+        "code": "159527",
+        "pct": 9.24,
+        "amount": 2194.0,
+        "category": "云计算/大数据"
       },
       {
         "name": "科创创业人工智能ETF鹏华",
         "code": "588410",
         "pct": 9.16,
-        "amount": 572.0,
-        "category": "AI"
-      },
-      {
-        "name": "科创成长ETF万家",
-        "code": "588070",
-        "pct": 9.06,
-        "amount": 966.0,
-        "category": "科创板"
-      },
-      {
-        "name": "云计算ETF广发",
-        "code": "159527",
-        "pct": 8.78,
-        "amount": 1550.0,
-        "category": "云计算/大数据"
-      },
-      {
-        "name": "科创创业人工智能ETF摩根",
-        "code": "588420",
-        "pct": 8.57,
-        "amount": 1390.0,
+        "amount": 651.0,
         "category": "AI"
       },
       {
         "name": "科创创业人工智能ETF工银",
         "code": "588430",
-        "pct": 8.5,
-        "amount": 906.0,
+        "pct": 8.94,
+        "amount": 1174.0,
         "category": "AI"
       },
       {
-        "name": "科创半导体ETF华夏",
-        "code": "588170",
-        "pct": 8.46,
-        "amount": 833603.0,
-        "category": "芯片/半导体"
+        "name": "科创创业人工智能ETF摩根",
+        "code": "588420",
+        "pct": 8.75,
+        "amount": 1613.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创成长ETF广发",
+        "code": "588110",
+        "pct": 8.61,
+        "amount": 7684.0,
+        "category": "科创板"
       },
       {
         "name": "科创创业人工智能ETF华安",
         "code": "588470",
-        "pct": 8.14,
-        "amount": 1740.0,
+        "pct": 8.52,
+        "amount": 2100.0,
         "category": "AI"
       },
       {
-        "name": "通信ETF富国",
-        "code": "159583",
-        "pct": 8.06,
-        "amount": 55593.0,
-        "category": "通信/5G"
+        "name": "科创创业人工智能ETF中金",
+        "code": "588480",
+        "pct": 8.28,
+        "amount": 1743.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创成长ETF易方达",
+        "code": "588020",
+        "pct": 8.18,
+        "amount": 20137.0,
+        "category": "科创板"
+      },
+      {
+        "name": "云计算ETF易方达",
+        "code": "516510",
+        "pct": 8.15,
+        "amount": 17103.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "人工智能ETF华富",
+        "code": "515980",
+        "pct": 8.02,
+        "amount": 37017.0,
+        "category": "AI"
       }
     ]
   }
