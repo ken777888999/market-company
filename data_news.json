@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-06-13",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [],
-    "reports": []
-  },
-  {
     "date": "2026-06-14",
     "time": "09:00",
     "period": "早间",
@@ -10554,6 +10547,42 @@
     "time": "09:00",
     "period": "早间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-08-02",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608021827568774",
+        "title": "兆易创新:兆易创新2026年第二次临时股东会会议资料",
+        "date": "2026-08-03",
+        "time": "17:19",
+        "category": "股东大会资料",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608021827568774.html"
+      },
+      {
+        "art_code": "AN202608021827568775",
+        "title": "兆易创新:兆易创新关于召开2026年第二次临时股东会的通知",
+        "date": "2026-08-03",
+        "time": "17:19",
+        "category": "召开股东大会通知",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608021827568775.html"
+      }
+    ],
     "reports": []
   }
 ]
