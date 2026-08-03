@@ -4867,5 +4867,80 @@
         "category": "AI"
       }
     ]
+  },
+  {
+    "date": "2026-08-03",
+    "top10": [
+      {
+        "name": "线上消费ETF平安",
+        "code": "159793",
+        "pct": 3.18,
+        "amount": 644.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "机器人ETF景顺",
+        "code": "159559",
+        "pct": 2.52,
+        "amount": 9651.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 2.5,
+        "amount": 65651.0,
+        "category": "机器人"
+      },
+      {
+        "name": "游戏ETF华夏",
+        "code": "159869",
+        "pct": 2.33,
+        "amount": 54283.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "中概互联网ETF易方达",
+        "code": "513050",
+        "pct": 2.18,
+        "amount": 186999.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "游戏ETF国泰",
+        "code": "516010",
+        "pct": 2.17,
+        "amount": 11234.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "恒生互联网ETF华安",
+        "code": "159688",
+        "pct": 2.09,
+        "amount": 10112.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "游戏ETF华泰柏瑞",
+        "code": "516770",
+        "pct": 2.05,
+        "amount": 3165.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "港股互联网ETF国泰",
+        "code": "513720",
+        "pct": 1.86,
+        "amount": 3651.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "港股互联网ETF华宝",
+        "code": "513770",
+        "pct": 1.84,
+        "amount": 44823.0,
+        "category": "港股/中概"
+      }
+    ]
   }
 ]
