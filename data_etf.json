@@ -4874,71 +4874,71 @@
       {
         "name": "线上消费ETF平安",
         "code": "159793",
-        "pct": 2.82,
-        "amount": 1390.0,
+        "pct": 3.67,
+        "amount": 2220.0,
         "category": "消费/白酒"
       },
       {
         "name": "中概互联网ETF易方达",
         "code": "513050",
-        "pct": 2.79,
-        "amount": 313555.0,
+        "pct": 3.06,
+        "amount": 362182.0,
         "category": "港股/中概"
       },
       {
         "name": "恒生互联网ETF华安",
         "code": "159688",
-        "pct": 2.33,
-        "amount": 16055.0,
+        "pct": 2.7,
+        "amount": 19228.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "港股互联网ETF国泰",
+        "code": "513720",
+        "pct": 2.43,
+        "amount": 6290.0,
         "category": "港股/中概"
       },
       {
         "name": "港股通互联网ETF易方达",
         "code": "513040",
-        "pct": 2.32,
-        "amount": 135982.0,
+        "pct": 2.42,
+        "amount": 155924.0,
         "category": "港股/中概"
+      },
+      {
+        "name": "卫星ETF广发",
+        "code": "512630",
+        "pct": 2.41,
+        "amount": 11139.0,
+        "category": "军工/航空航天"
       },
       {
         "name": "港股互联网ETF博时",
         "code": "159568",
-        "pct": 2.14,
-        "amount": 15766.0,
+        "pct": 2.39,
+        "amount": 17732.0,
         "category": "港股/中概"
       },
       {
-        "name": "港股互联网ETF华宝",
-        "code": "513770",
-        "pct": 2.11,
-        "amount": 88637.0,
-        "category": "港股/中概"
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 2.35,
+        "amount": 111136.0,
+        "category": "机器人"
       },
       {
         "name": "机器人ETF景顺",
         "code": "159559",
-        "pct": 2.02,
-        "amount": 12887.0,
+        "pct": 2.27,
+        "amount": 15855.0,
         "category": "机器人"
       },
       {
-        "name": "港股互联网ETF国泰",
-        "code": "513720",
-        "pct": 2.0,
-        "amount": 5295.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "中概互联ETF广发",
-        "code": "159605",
-        "pct": 2.0,
-        "amount": 36466.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "通用航空ETF平安",
-        "code": "561660",
-        "pct": 1.95,
-        "amount": 166.0,
+        "name": "卫星ETF富国",
+        "code": "563230",
+        "pct": 2.22,
+        "amount": 38714.0,
         "category": "军工/航空航天"
       }
     ]
