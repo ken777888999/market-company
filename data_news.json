@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-06-15",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-06-15",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -10878,6 +10871,13 @@
         "url": "https://data.eastmoney.com/notices/detail/301099/AN202608031827586740.html"
       }
     ],
+    "reports": []
+  },
+  {
+    "date": "2026-08-04",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": []
   }
 ]
