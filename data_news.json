@@ -1,223 +1,5 @@
 [
   {
-    "date": "2026-06-16",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202606161823607691",
-        "title": "宝鼎科技:关于股票交易异常波动暨风险提示的公告",
-        "date": "2026-06-17",
-        "time": "18:19",
-        "category": "股票交易异常波动",
-        "codes": [
-          "002552"
-        ],
-        "names": [
-          "宝鼎科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002552/AN202606161823607691.html"
-      },
-      {
-        "art_code": "AN202606161823606412",
-        "title": "兆易创新:兆易创新验资报告",
-        "date": "2026-06-17",
-        "time": "17:53",
-        "category": "保荐/核查意见",
-        "codes": [
-          "603986"
-        ],
-        "names": [
-          "兆易创新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603986/AN202606161823606412.html"
-      },
-      {
-        "art_code": "AN202606161823606400",
-        "title": "兆易创新:兆易创新关于2024年股票期权激励计划第二个行权期行权结果暨股份过户登记及上市的公告",
-        "date": "2026-06-17",
-        "time": "17:53",
-        "category": "股权激励行权结果",
-        "codes": [
-          "603986"
-        ],
-        "names": [
-          "兆易创新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603986/AN202606161823606400.html"
-      },
-      {
-        "art_code": "AN202606161823605139",
-        "title": "厦门钨业:厦门钨业关于非独立董事离任暨选举非独立董事的公告",
-        "date": "2026-06-17",
-        "time": "17:21",
-        "category": "高管人员任职变动",
-        "codes": [
-          "600549"
-        ],
-        "names": [
-          "厦门钨业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600549/AN202606161823605139.html"
-      },
-      {
-        "art_code": "AN202606161823605135",
-        "title": "厦门钨业:厦门钨业关于使用闲置募集资金进行现金管理部分到期赎回的公告",
-        "date": "2026-06-17",
-        "time": "17:21",
-        "category": "投资理财",
-        "codes": [
-          "600549"
-        ],
-        "names": [
-          "厦门钨业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600549/AN202606161823605135.html"
-      },
-      {
-        "art_code": "AN202606161823605138",
-        "title": "厦门钨业:厦门钨业2026年第三次临时股东会决议公告",
-        "date": "2026-06-17",
-        "time": "17:21",
-        "category": "股东大会决议公告,高管人员任职变动",
-        "codes": [
-          "600549"
-        ],
-        "names": [
-          "厦门钨业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600549/AN202606161823605138.html"
-      },
-      {
-        "art_code": "AN202606161823605136",
-        "title": "厦门钨业:福建至理律师事务所关于厦门钨业股份有限公司2026年第三次临时股东会的法律意见书",
-        "date": "2026-06-17",
-        "time": "17:21",
-        "category": "法律意见书",
-        "codes": [
-          "600549"
-        ],
-        "names": [
-          "厦门钨业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600549/AN202606161823605136.html"
-      },
-      {
-        "art_code": "AN202606161823604617",
-        "title": "中国铝业:中国铝业关于2021年限制性股票激励计划首次授予部分第三个解除限售期解锁暨上市的公告",
-        "date": "2026-06-17",
-        "time": "17:11",
-        "category": "限售股份上市流通",
-        "codes": [
-          "601600"
-        ],
-        "names": [
-          "中国铝业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601600/AN202606161823604617.html"
-      },
-      {
-        "art_code": "AN202606161823604616",
-        "title": "石大胜华:石大胜华2026年第五次临时股东会会议材料",
-        "date": "2026-06-17",
-        "time": "17:10",
-        "category": "股东大会资料",
-        "codes": [
-          "603026"
-        ],
-        "names": [
-          "石大胜华"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603026/AN202606161823604616.html"
-      },
-      {
-        "art_code": "AN202606161823603109",
-        "title": "金海通:关于更换持续督导保荐代表人的公告",
-        "date": "2026-06-17",
-        "time": "16:32",
-        "category": "保荐代表人（机构）变更",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202606161823603109.html"
-      },
-      {
-        "art_code": "AN202606161823607280",
-        "title": "扬杰科技:关于获得欧盟理事会九个月豁免期的公告",
-        "date": "2026-06-16",
-        "time": "18:12",
-        "category": "其他",
-        "codes": [
-          "300373"
-        ],
-        "names": [
-          "扬杰科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300373/AN202606161823607280.html"
-      },
-      {
-        "art_code": "AN202606161823607187",
-        "title": "协创数据:关于公司为全资子公司提供担保的进展公告",
-        "date": "2026-06-16",
-        "time": "18:10",
-        "category": "提供/对外担保公告",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202606161823607187.html"
-      },
-      {
-        "art_code": "AN202606161823606981",
-        "title": "雅创电子:关于为子公司提供担保的进展公告",
-        "date": "2026-06-16",
-        "time": "18:04",
-        "category": "提供/对外担保公告",
-        "codes": [
-          "301099"
-        ],
-        "names": [
-          "雅创电子"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301099/AN202606161823606981.html"
-      },
-      {
-        "art_code": "AN202606161823606360",
-        "title": "沪电股份:2026年6月16日投资者关系活动记录表",
-        "date": "2026-06-16",
-        "time": "17:57",
-        "category": "调研活动",
-        "codes": [
-          "002463"
-        ],
-        "names": [
-          "沪电股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002463/AN202606161823606360.html"
-      },
-      {
-        "art_code": "AN202606161823604700",
-        "title": "华锐精密:投资者关系活动记录表(2026年6月15日)",
-        "date": "2026-06-16",
-        "time": "17:14",
-        "category": "调研活动",
-        "codes": [
-          "688059"
-        ],
-        "names": [
-          "华锐精密"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688059/AN202606161823604700.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-06-17",
     "time": "09:00",
     "period": "早间",
@@ -10688,6 +10470,322 @@
           "石大胜华"
         ],
         "url": "https://data.eastmoney.com/notices/detail/603026/AN202608041827632692.html"
+      }
+    ],
+    "reports": []
+  },
+  {
+    "date": "2026-08-05",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608051827678376",
+        "title": "石大胜华:申万宏源证券承销保荐有限责任公司关于石大胜华新材料集团股份有限公司增加日常关联交易预计额度的核查意见",
+        "date": "2026-08-06",
+        "time": "19:46",
+        "category": "保荐/核查意见",
+        "codes": [
+          "603026"
+        ],
+        "names": [
+          "石大胜华"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603026/AN202608051827678376.html"
+      },
+      {
+        "art_code": "AN202608051827675997",
+        "title": "广合科技:H股公告-截至二零二六年七月三十一日止月份之股份发行人的证券变动月报表",
+        "date": "2026-08-06",
+        "time": "18:42",
+        "category": "其他",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202608051827675997.html"
+      },
+      {
+        "art_code": "AN202608051827675909",
+        "title": "中际旭创:H股公告(截至2026年7月31日止股份发行人的证券变动月报表)",
+        "date": "2026-08-06",
+        "time": "18:40",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608051827675909.html"
+      },
+      {
+        "art_code": "AN202608051827675766",
+        "title": "融捷股份:2026年第二次临时股东会决议公告",
+        "date": "2026-08-06",
+        "time": "18:33",
+        "category": "股东大会决议公告",
+        "codes": [
+          "002192"
+        ],
+        "names": [
+          "融捷股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002192/AN202608051827675766.html"
+      },
+      {
+        "art_code": "AN202608051827675765",
+        "title": "融捷股份:关于为子公司提供担保的进展公告",
+        "date": "2026-08-06",
+        "time": "18:33",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "002192"
+        ],
+        "names": [
+          "融捷股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002192/AN202608051827675765.html"
+      },
+      {
+        "art_code": "AN202608051827675764",
+        "title": "融捷股份:广东连越律师事务所关于融捷股份有限公司2026年第二次临时股东会法律意见书",
+        "date": "2026-08-06",
+        "time": "18:33",
+        "category": "法律意见书",
+        "codes": [
+          "002192"
+        ],
+        "names": [
+          "融捷股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002192/AN202608051827675764.html"
+      },
+      {
+        "art_code": "AN202608051827673468",
+        "title": "长川科技:华泰联合证券有限责任公司关于杭州长川科技股份有限公司2025年向特定对象发行股票并在创业板上市之上市保荐书",
+        "date": "2026-08-06",
+        "time": "17:42",
+        "category": "上市保荐书",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202608051827673468.html"
+      },
+      {
+        "art_code": "AN202608051827673465",
+        "title": "长川科技:杭州长川科技股份有限公司关于控股股东因公司向特定对象发行股票导致持股比例被动稀释触及1%整数倍的公告",
+        "date": "2026-08-06",
+        "time": "17:42",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202608051827673465.html"
+      },
+      {
+        "art_code": "AN202608051827673466",
+        "title": "长川科技:杭州长川科技股份有限公司2025年度向特定对象发行股票并在创业板上市上市公告书",
+        "date": "2026-08-06",
+        "time": "17:42",
+        "category": "增发上市公告书",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202608051827673466.html"
+      },
+      {
+        "art_code": "AN202608051827673467",
+        "title": "长川科技:杭州长川科技股份有限公司关于董事、高级管理人员持股情况变动的报告",
+        "date": "2026-08-06",
+        "time": "17:42",
+        "category": "高管人员持股变动",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202608051827673467.html"
+      },
+      {
+        "art_code": "AN202608051827673464",
+        "title": "长川科技:杭州长川科技股份有限公司关于2025年度向特定对象发行股票上市公告书披露的提示性公告",
+        "date": "2026-08-06",
+        "time": "17:42",
+        "category": "增发提示性公告",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202608051827673464.html"
+      },
+      {
+        "art_code": "AN202608051827671571",
+        "title": "芯碁微装:港股公告:证券变动月报表",
+        "date": "2026-08-06",
+        "time": "17:03",
+        "category": "其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608051827671571.html"
+      },
+      {
+        "art_code": "AN202608051827668043",
+        "title": "厦门钨业:厦门钨业关于使用闲置募集资金进行现金管理部分到期赎回的公告",
+        "date": "2026-08-06",
+        "time": "15:48",
+        "category": "投资理财",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608051827668043.html"
+      },
+      {
+        "art_code": "AN202608051827679657",
+        "title": "三环集团:君合律师事务所上海分所关于潮州三环(集团)股份有限公司2026年第一次临时股东会的法律意见书",
+        "date": "2026-08-05",
+        "time": "20:46",
+        "category": "法律意见书",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608051827679657.html"
+      },
+      {
+        "art_code": "AN202608051827679658",
+        "title": "三环集团:关于完成董事会换届选举及聘任高级管理人员的公告",
+        "date": "2026-08-05",
+        "time": "20:46",
+        "category": "高管人员任职变动",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608051827679658.html"
+      },
+      {
+        "art_code": "AN202608051827679661",
+        "title": "三环集团:关于选举第十二届董事会职工代表董事的公告",
+        "date": "2026-08-05",
+        "time": "20:46",
+        "category": "高管人员任职变动",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608051827679661.html"
+      },
+      {
+        "art_code": "AN202608051827679660",
+        "title": "三环集团:第十二届董事会第一次会议决议公告",
+        "date": "2026-08-05",
+        "time": "20:46",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608051827679660.html"
+      },
+      {
+        "art_code": "AN202608051827679667",
+        "title": "三环集团:关于2026年第一次临时股东会决议公告",
+        "date": "2026-08-05",
+        "time": "20:46",
+        "category": "股东大会决议公告,高管人员任职变动",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608051827679667.html"
+      },
+      {
+        "art_code": "AN202608051827679170",
+        "title": "湖南裕能:北京国枫(深圳)律师事务所关于湖南裕能新能源电池材料股份有限公司2026年第二次临时股东会的法律意见书",
+        "date": "2026-08-05",
+        "time": "20:18",
+        "category": "法律意见书",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608051827679170.html"
+      },
+      {
+        "art_code": "AN202608051827679194",
+        "title": "湖南裕能:2026年第二次临时股东会决议公告",
+        "date": "2026-08-05",
+        "time": "20:18",
+        "category": "股东大会决议公告,高管人员任职变动",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608051827679194.html"
+      },
+      {
+        "art_code": "AN202608051827677875",
+        "title": "凯格精机:上海市锦天城(深圳)律师事务所关于东莞市凯格精机股份有限公司2026年第一次临时股东会的法律意见书",
+        "date": "2026-08-05",
+        "time": "19:27",
+        "category": "法律意见书",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608051827677875.html"
+      },
+      {
+        "art_code": "AN202608051827677872",
+        "title": "凯格精机:2026年第一次临时股东会决议公告",
+        "date": "2026-08-05",
+        "time": "19:27",
+        "category": "股东大会决议公告",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608051827677872.html"
       }
     ],
     "reports": []
