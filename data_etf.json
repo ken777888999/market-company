@@ -5022,74 +5022,74 @@
     "date": "2026-08-05",
     "top10": [
       {
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 9.48,
+        "amount": 763251.0,
+        "category": "芯片/半导体"
+      },
+      {
         "name": "半导体设备ETF广发",
         "code": "560780",
-        "pct": 5.95,
-        "amount": 61976.0,
+        "pct": 9.46,
+        "amount": 89638.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF国泰",
         "code": "159516",
-        "pct": 5.94,
-        "amount": 238343.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF易方达",
-        "code": "159558",
-        "pct": 5.88,
-        "amount": 116422.0,
+        "pct": 9.22,
+        "amount": 379205.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF华夏",
         "code": "562590",
-        "pct": 5.75,
-        "amount": 40714.0,
+        "pct": 9.18,
+        "amount": 58321.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "科创半导体ETF华夏",
-        "code": "588170",
-        "pct": 5.66,
-        "amount": 506842.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "黄金股ETF永赢",
-        "code": "517520",
-        "pct": 5.42,
-        "amount": 26630.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "黄金股ETF国泰",
-        "code": "517400",
-        "pct": 5.37,
-        "amount": 4541.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "半导体ETF博时",
-        "code": "159582",
-        "pct": 5.23,
-        "amount": 9218.0,
+        "name": "半导体设备ETF易方达",
+        "code": "159558",
+        "pct": 9.17,
+        "amount": 178775.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF招商",
         "code": "561980",
-        "pct": 5.13,
-        "amount": 31085.0,
+        "pct": 8.4,
+        "amount": 46264.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "黄金股ETF华夏",
-        "code": "159562",
-        "pct": 5.07,
-        "amount": 9659.0,
-        "category": "有色/资源"
+        "name": "半导体ETF博时",
+        "code": "159582",
+        "pct": 8.35,
+        "amount": 14000.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "中韩半导体ETF华泰柏瑞",
+        "code": "513310",
+        "pct": 6.9,
+        "amount": 944998.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "芯片ETF东财",
+        "code": "159599",
+        "pct": 6.64,
+        "amount": 24248.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体ETF国联安",
+        "code": "512480",
+        "pct": 6.6,
+        "amount": 163172.0,
+        "category": "芯片/半导体"
       }
     ]
   }
