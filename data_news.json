@@ -1,66 +1,6 @@
 [
   {
     "date": "2026-06-16",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202606161823587513",
-        "title": "扬杰科技:关于变更部分募集资金投资项目的公告",
-        "date": "2026-06-16",
-        "time": "08:13",
-        "category": "变更募集资金投资项目",
-        "codes": [
-          "300373"
-        ],
-        "names": [
-          "扬杰科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300373/AN202606161823587513.html"
-      },
-      {
-        "art_code": "AN202606161823587512",
-        "title": "扬杰科技:关于召开2026年第一次临时股东会的通知",
-        "date": "2026-06-16",
-        "time": "08:13",
-        "category": "召开股东大会通知",
-        "codes": [
-          "300373"
-        ],
-        "names": [
-          "扬杰科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300373/AN202606161823587512.html"
-      },
-      {
-        "art_code": "AN202606161823587514",
-        "title": "扬杰科技:第五届董事会第二十八次会议决议公告",
-        "date": "2026-06-16",
-        "time": "08:13",
-        "category": "董事会决议公告",
-        "codes": [
-          "300373"
-        ],
-        "names": [
-          "扬杰科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300373/AN202606161823587514.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "300604",
-        "name": "长川科技",
-        "title": "国产SoC测试机龙头，看好公司份额持续提升&存储测试机第二曲线",
-        "org": "东吴证券",
-        "rating": "",
-        "date": "2026-06-15",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-16",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -10712,6 +10652,42 @@
           "湖南裕能"
         ],
         "url": "https://data.eastmoney.com/notices/detail/301358/AN202608041827620561.html"
+      }
+    ],
+    "reports": []
+  },
+  {
+    "date": "2026-08-05",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202608041827632693",
+        "title": "石大胜华:石大胜华关于2025年年度报告的信息披露监管问询函的回复公告",
+        "date": "2026-08-05",
+        "time": "22:45",
+        "category": "回复问询函公告",
+        "codes": [
+          "603026"
+        ],
+        "names": [
+          "石大胜华"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603026/AN202608041827632693.html"
+      },
+      {
+        "art_code": "AN202608041827632692",
+        "title": "石大胜华:立信会计师事务所(特殊普通合伙)关于石大胜华新材料集团股份有限公司2025年年报的审核问询函回复",
+        "date": "2026-08-05",
+        "time": "22:45",
+        "category": "会计师事务所问询函回复公告",
+        "codes": [
+          "603026"
+        ],
+        "names": [
+          "石大胜华"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603026/AN202608041827632692.html"
       }
     ],
     "reports": []
