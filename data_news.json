@@ -1,28 +1,6 @@
 [
   {
     "date": "2026-06-17",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202606171823618775",
-        "title": "芯碁微装:关于刊发H股招股说明书、H股发行价格上限及H股香港公开发售等事宜的公告",
-        "date": "2026-06-17",
-        "time": "07:33",
-        "category": "其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202606171823618775.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-06-17",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -10788,6 +10766,13 @@
         "url": "https://data.eastmoney.com/notices/detail/301338/AN202608051827677872.html"
       }
     ],
+    "reports": []
+  },
+  {
+    "date": "2026-08-06",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": []
   }
 ]
