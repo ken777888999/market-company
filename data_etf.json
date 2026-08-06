@@ -5099,72 +5099,72 @@
       {
         "name": "煤炭ETF国泰",
         "code": "515220",
-        "pct": 3.32,
-        "amount": 64588.0,
+        "pct": 5.71,
+        "amount": 92318.0,
         "category": "煤炭/能源"
       },
       {
-        "name": "黄金ETF前海开源",
-        "code": "159812",
-        "pct": 2.27,
-        "amount": 3920.0,
-        "category": "有色/资源"
+        "name": "红利国企ETF国泰",
+        "code": "510720",
+        "pct": 2.67,
+        "amount": 17028.0,
+        "category": "红利/高股息"
       },
       {
-        "name": "科创半导体ETF华夏",
-        "code": "588170",
-        "pct": 2.21,
-        "amount": 698212.0,
-        "category": "芯片/半导体"
+        "name": "能源ETF汇添富",
+        "code": "159930",
+        "pct": 2.57,
+        "amount": 7321.0,
+        "category": "煤炭/能源"
       },
       {
-        "name": "黄金股ETF华夏",
-        "code": "159562",
-        "pct": 2.21,
-        "amount": 36597.0,
-        "category": "有色/资源"
+        "name": "能源ETF广发",
+        "code": "159945",
+        "pct": 2.44,
+        "amount": 618.0,
+        "category": "煤炭/能源"
       },
       {
         "name": "金ETF天弘",
         "code": "159830",
-        "pct": 2.2,
-        "amount": 10492.0,
+        "pct": 2.21,
+        "amount": 12025.0,
         "category": null
       },
       {
-        "name": "金ETF富国",
-        "code": "518680",
-        "pct": 2.17,
-        "amount": 17047.0,
+        "name": "金ETF嘉实",
+        "code": "159831",
+        "pct": 2.18,
+        "amount": 12227.0,
         "category": null
+      },
+      {
+        "name": "黄金ETF工银",
+        "code": "518660",
+        "pct": 2.16,
+        "amount": 32938.0,
+        "category": "有色/资源"
       },
       {
         "name": "黄金ETF国泰",
         "code": "518800",
         "pct": 2.16,
-        "amount": 76105.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "黄金ETF博时",
-        "code": "159937",
-        "pct": 2.16,
-        "amount": 86755.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "黄金ETF工银",
-        "code": "518660",
-        "pct": 2.14,
-        "amount": 26754.0,
+        "amount": 87950.0,
         "category": "有色/资源"
       },
       {
         "name": "金ETF广发",
         "code": "518600",
-        "pct": 2.12,
-        "amount": 21645.0,
+        "pct": 2.14,
+        "amount": 27470.0,
         "category": null
+      },
+      {
+        "name": "黄金ETF博时",
+        "code": "159937",
+        "pct": 2.14,
+        "amount": 104930.0,
+        "category": "有色/资源"
       }
     ]
   }
