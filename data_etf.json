@@ -5092,5 +5092,80 @@
         "category": "有色/资源"
       }
     ]
+  },
+  {
+    "date": "2026-08-06",
+    "top10": [
+      {
+        "name": "黄金股ETF华夏",
+        "code": "159562",
+        "pct": 3.54,
+        "amount": 27413.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF国泰",
+        "code": "517400",
+        "pct": 3.16,
+        "amount": 29966.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF永赢",
+        "code": "517520",
+        "pct": 3.14,
+        "amount": 84155.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "工业母机ETF国泰",
+        "code": "159667",
+        "pct": 3.01,
+        "amount": 11067.0,
+        "category": "智能制造"
+      },
+      {
+        "name": "机床ETF华夏",
+        "code": "159663",
+        "pct": 2.92,
+        "amount": 3226.0,
+        "category": null
+      },
+      {
+        "name": "金ETF天弘",
+        "code": "159830",
+        "pct": 2.87,
+        "amount": 6799.0,
+        "category": null
+      },
+      {
+        "name": "金ETF嘉实",
+        "code": "159831",
+        "pct": 2.86,
+        "amount": 6695.0,
+        "category": null
+      },
+      {
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 2.85,
+        "amount": 453810.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF国泰",
+        "code": "159516",
+        "pct": 2.85,
+        "amount": 271705.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "黄金ETF博时",
+        "code": "159937",
+        "pct": 2.83,
+        "amount": 53694.0,
+        "category": "有色/资源"
+      }
+    ]
   }
 ]
