@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-06-18",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "001339",
-        "name": "智微智能",
-        "title": "智算业务兑现增长，LPU与具身智能打开AI硬件新空间",
-        "org": "中邮证券",
-        "rating": "",
-        "date": "2026-06-18",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-18",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11135,6 +11118,38 @@
           "凯格精机"
         ],
         "url": "https://data.eastmoney.com/notices/detail/301338/AN202608061827710923.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "001339",
+        "name": "智微智能",
+        "title": "业绩快速增长，行业需求保持向好",
+        "org": "太平洋",
+        "rating": "",
+        "date": "2026-08-06",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202608061827722283",
+        "title": "扬杰科技:300373扬杰科技投资者关系管理信息20260806",
+        "date": "2026-08-06",
+        "time": "21:16",
+        "category": "调研活动",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608061827722283.html"
       }
     ],
     "reports": [
