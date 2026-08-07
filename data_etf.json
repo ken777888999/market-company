@@ -5167,5 +5167,80 @@
         "category": "中证2000"
       }
     ]
+  },
+  {
+    "date": "2026-08-07",
+    "top10": [
+      {
+        "name": "通信ETF华夏",
+        "code": "515050",
+        "pct": 4.34,
+        "amount": 52532.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "科创成长ETF万家",
+        "code": "588070",
+        "pct": 4.34,
+        "amount": 538.0,
+        "category": "科创板"
+      },
+      {
+        "name": "通信ETF银华",
+        "code": "159994",
+        "pct": 4.34,
+        "amount": 15690.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "科创成长ETF易方达",
+        "code": "588020",
+        "pct": 4.08,
+        "amount": 13988.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创成长ETF广发",
+        "code": "588110",
+        "pct": 4.04,
+        "amount": 2185.0,
+        "category": "科创板"
+      },
+      {
+        "name": "5GETF博时",
+        "code": "159811",
+        "pct": 3.7,
+        "amount": 1368.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "创新药ETF天弘",
+        "code": "517380",
+        "pct": 3.43,
+        "amount": 5561.0,
+        "category": "医药"
+      },
+      {
+        "name": "工业有色ETF中银",
+        "code": "560870",
+        "pct": 3.39,
+        "amount": 192.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "创新药ETF工银",
+        "code": "516060",
+        "pct": 3.38,
+        "amount": 1078.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF易方达",
+        "code": "516080",
+        "pct": 3.38,
+        "amount": 20349.0,
+        "category": "医药"
+      }
+    ]
   }
 ]
