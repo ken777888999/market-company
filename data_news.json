@@ -1,219 +1,5 @@
 [
   {
-    "date": "2026-06-21",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202606211823708851",
-        "title": "广合科技:关于回购注销部分限制性股票减少注册资本暨通知债权人的公告",
-        "date": "2026-06-22",
-        "time": "15:35",
-        "category": "公司注册资本变更,通知债权人公告",
-        "codes": [
-          "001389"
-        ],
-        "names": [
-          "广合科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202606211823708851.html"
-      },
-      {
-        "art_code": "AN202606211823708477",
-        "title": "广合科技:2025年年度股东会决议公告",
-        "date": "2026-06-22",
-        "time": "15:34",
-        "category": "股东大会决议公告,高管人员任职变动",
-        "codes": [
-          "001389"
-        ],
-        "names": [
-          "广合科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202606211823708477.html"
-      },
-      {
-        "art_code": "AN202606211823708827",
-        "title": "广合科技:上海市锦天城(深圳)律师事务所关于广州广合科技股份有限公司2025年年度股东会的法律意见书",
-        "date": "2026-06-22",
-        "time": "15:33",
-        "category": "法律意见书",
-        "codes": [
-          "001389"
-        ],
-        "names": [
-          "广合科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202606211823708827.html"
-      },
-      {
-        "art_code": "AN202606211823708836",
-        "title": "广合科技:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集广州广合科技股份有限公司表决权的法律意见书",
-        "date": "2026-06-22",
-        "time": "15:33",
-        "category": "法律意见书",
-        "codes": [
-          "001389"
-        ],
-        "names": [
-          "广合科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202606211823708836.html"
-      },
-      {
-        "art_code": "AN202606211823708829",
-        "title": "智微智能:关于变更经营范围及修订《公司章程》并办理工商登记的公告",
-        "date": "2026-06-22",
-        "time": "15:32",
-        "category": "公司经营范围变更,公司章程修订",
-        "codes": [
-          "001339"
-        ],
-        "names": [
-          "智微智能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001339/AN202606211823708829.html"
-      },
-      {
-        "art_code": "AN202606211823708847",
-        "title": "智微智能:股票交易异常波动公告",
-        "date": "2026-06-22",
-        "time": "15:32",
-        "category": "股票交易异常波动",
-        "codes": [
-          "001339"
-        ],
-        "names": [
-          "智微智能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001339/AN202606211823708847.html"
-      },
-      {
-        "art_code": "AN202606211823708819",
-        "title": "智微智能:关于增加公司及子公司2026年度向银行等金融机构申请综合授信额度的公告",
-        "date": "2026-06-22",
-        "time": "15:32",
-        "category": "借贷",
-        "codes": [
-          "001339"
-        ],
-        "names": [
-          "智微智能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001339/AN202606211823708819.html"
-      },
-      {
-        "art_code": "AN202606211823708867",
-        "title": "智微智能:关于公司拟购买资产的公告",
-        "date": "2026-06-22",
-        "time": "15:32",
-        "category": "收购出售资产/股权",
-        "codes": [
-          "001339"
-        ],
-        "names": [
-          "智微智能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001339/AN202606211823708867.html"
-      },
-      {
-        "art_code": "AN202606211823708839",
-        "title": "智微智能:关于召开2026年第三次临时股东会的通知",
-        "date": "2026-06-22",
-        "time": "15:32",
-        "category": "召开股东大会通知",
-        "codes": [
-          "001339"
-        ],
-        "names": [
-          "智微智能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001339/AN202606211823708839.html"
-      },
-      {
-        "art_code": "AN202606211823708634",
-        "title": "沪电股份:第八届董事会第十九次会议决议公告",
-        "date": "2026-06-22",
-        "time": "15:32",
-        "category": "董事会决议公告",
-        "codes": [
-          "002463"
-        ],
-        "names": [
-          "沪电股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002463/AN202606211823708634.html"
-      },
-      {
-        "art_code": "AN202606211823708473",
-        "title": "沪电股份:关于吸收合并全资子公司的公告",
-        "date": "2026-06-22",
-        "time": "15:32",
-        "category": "吸收合并",
-        "codes": [
-          "002463"
-        ],
-        "names": [
-          "沪电股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002463/AN202606211823708473.html"
-      },
-      {
-        "art_code": "AN202606211823708484",
-        "title": "智微智能:《深圳市智微智能科技股份有限公司章程》(2026年6月修订)",
-        "date": "2026-06-22",
-        "time": "15:32",
-        "category": "公司章程修订",
-        "codes": [
-          "001339"
-        ],
-        "names": [
-          "智微智能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001339/AN202606211823708484.html"
-      },
-      {
-        "art_code": "AN202606211823708514",
-        "title": "智微智能:第三届董事会第五次会议决议公告",
-        "date": "2026-06-22",
-        "time": "15:32",
-        "category": "董事会决议公告",
-        "codes": [
-          "001339"
-        ],
-        "names": [
-          "智微智能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001339/AN202606211823708514.html"
-      },
-      {
-        "art_code": "AN202606211823708340",
-        "title": "紫金矿业:福建至理律师事务所关于紫金矿业集团股份有限公司差异化分红事项的法律意见书",
-        "date": "2026-06-22",
-        "time": "15:32",
-        "category": "法律意见书",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202606211823708340.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "600549",
-        "name": "厦门钨业",
-        "title": "业绩续创新高，不断提升钨原料自给率",
-        "org": "太平洋",
-        "rating": "",
-        "date": "2026-06-21",
-        "digest": ""
-      }
-    ]
-  },
-  {
     "date": "2026-06-22",
     "time": "09:00",
     "period": "早间",
@@ -11395,6 +11181,434 @@
     "time": "09:00",
     "period": "早间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-08-10",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608101827817081",
+        "title": "江波龙:董事会提名委员会工作细则(草案)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "议事规则/实施细则",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817081.html"
+      },
+      {
+        "art_code": "AN202608101827817072",
+        "title": "江波龙:董事会秘书工作制度(2026年修订)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "管理办法/制度",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817072.html"
+      },
+      {
+        "art_code": "AN202608101827817077",
+        "title": "江波龙:股东会议事规则(草案)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "议事规则/实施细则",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817077.html"
+      },
+      {
+        "art_code": "AN202608101827817084",
+        "title": "江波龙:董事会战略与ESG委员会工作细则(草案)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "议事规则/实施细则",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817084.html"
+      },
+      {
+        "art_code": "AN202608101827817080",
+        "title": "江波龙:2026年半年度报告",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "半年度报告全文",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817080.html"
+      },
+      {
+        "art_code": "AN202608101827817091",
+        "title": "江波龙:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "资金占用",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817091.html"
+      },
+      {
+        "art_code": "AN202608101827817086",
+        "title": "江波龙:2026年半年度募集资金存放、管理与使用情况的专项报告",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817086.html"
+      },
+      {
+        "art_code": "AN202608101827817065",
+        "title": "江波龙:关于使用部分闲置自有资金进行现金管理的公告",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "投资理财",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817065.html"
+      },
+      {
+        "art_code": "AN202608101827817057",
+        "title": "江波龙:独立董事工作制度(草案)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "管理办法/制度",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817057.html"
+      },
+      {
+        "art_code": "AN202608101827817076",
+        "title": "江波龙:2026年半年度报告摘要",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "半年度报告摘要",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817076.html"
+      },
+      {
+        "art_code": "AN202608101827817066",
+        "title": "江波龙:董事会薪酬与考核委员会工作细则(草案)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "议事规则/实施细则",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817066.html"
+      },
+      {
+        "art_code": "AN202608101827817070",
+        "title": "江波龙:2025年度环境、社会与公司治理(ESG)报告(英文版)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "ESG公告",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817070.html"
+      },
+      {
+        "art_code": "AN202608101827817087",
+        "title": "江波龙:董事会议事规则(草案)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "议事规则/实施细则",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817087.html"
+      },
+      {
+        "art_code": "AN202608101827817062",
+        "title": "江波龙:董事会秘书履职保障制度",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817062.html"
+      },
+      {
+        "art_code": "AN202608101827817085",
+        "title": "江波龙:董事、高级管理人员所持本公司股份及其变动管理制度(草案)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "管理办法/制度",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817085.html"
+      },
+      {
+        "art_code": "AN202608101827817094",
+        "title": "江波龙:公司章程(草案)修订对照表",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "公司章程修订",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817094.html"
+      },
+      {
+        "art_code": "AN202608101827817089",
+        "title": "江波龙:董事会审计委员会工作细则(草案)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "议事规则/实施细则",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817089.html"
+      },
+      {
+        "art_code": "AN202608101827817078",
+        "title": "江波龙:第三届董事会第二十次会议决议公告",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "董事会决议公告",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817078.html"
+      },
+      {
+        "art_code": "AN202608101827817060",
+        "title": "江波龙:关于“质量回报双提升”行动方案的进展公告",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "其他",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817060.html"
+      },
+      {
+        "art_code": "AN202608101827817058",
+        "title": "江波龙:关于公司及子公司开展应收账款无追索权保理业务的公告",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "其他",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817058.html"
+      },
+      {
+        "art_code": "AN202608101827817071",
+        "title": "江波龙:深圳市江波龙电子股份有限公司章程(草案)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "公司章程",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817071.html"
+      },
+      {
+        "art_code": "AN202608101827817067",
+        "title": "江波龙:关于回购公司股份方案的公告",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "回购预案",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817067.html"
+      },
+      {
+        "art_code": "AN202608101827817082",
+        "title": "江波龙:关联(连)交易管理制度(草案)",
+        "date": "2026-08-11",
+        "time": "19:57",
+        "category": "管理办法/制度",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608101827817082.html"
+      },
+      {
+        "art_code": "AN202608101827815952",
+        "title": "睿创微纳:关于实施回购股份注销暨股份变动的公告",
+        "date": "2026-08-11",
+        "time": "19:21",
+        "category": "股本变动,其它",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202608101827815952.html"
+      },
+      {
+        "art_code": "AN202608101827815411",
+        "title": "南亚新材:关于回购股份集中竞价减持股份进展暨结果公告",
+        "date": "2026-08-11",
+        "time": "19:07",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608101827815411.html"
+      },
+      {
+        "art_code": "AN202608101827810680",
+        "title": "兆易创新:兆易创新关于参与投资境外私募股权投资基金的公告",
+        "date": "2026-08-11",
+        "time": "17:50",
+        "category": "投资设立公司",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608101827810680.html"
+      },
+      {
+        "art_code": "AN202608101827806837",
+        "title": "安孚科技:安徽安孚电池科技股份有限公司关于提供担保的进展公告",
+        "date": "2026-08-11",
+        "time": "16:16",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202608101827806837.html"
+      },
+      {
+        "art_code": "AN202608101827814222",
+        "title": "三环集团:H股公告-翌日披露报表",
+        "date": "2026-08-10",
+        "time": "18:52",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608101827814222.html"
+      },
+      {
+        "art_code": "AN202608101827811953",
+        "title": "凯格精机:关于签订募集资金四方监管协议的公告",
+        "date": "2026-08-10",
+        "time": "18:14",
+        "category": "签订协议",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608101827811953.html"
+      },
+      {
+        "art_code": "AN202608101827808923",
+        "title": "广合科技:2026年8月10日投资者关系活动记录表",
+        "date": "2026-08-10",
+        "time": "17:21",
+        "category": "调研活动",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202608101827808923.html"
+      }
+    ],
     "reports": []
   }
 ]
