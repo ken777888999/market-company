@@ -5242,5 +5242,80 @@
         "category": "医药"
       }
     ]
+  },
+  {
+    "date": "2026-08-10",
+    "top10": [
+      {
+        "name": "医疗ETF易方达",
+        "code": "159847",
+        "pct": 3.39,
+        "amount": 4061.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股医疗ETF银华",
+        "code": "513620",
+        "pct": 3.38,
+        "amount": 4093.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股创新药ETF景顺",
+        "code": "513780",
+        "pct": 3.26,
+        "amount": 57590.0,
+        "category": "医药"
+      },
+      {
+        "name": "医疗ETF国泰",
+        "code": "159828",
+        "pct": 3.26,
+        "amount": 13059.0,
+        "category": "医药"
+      },
+      {
+        "name": "恒生生物科技ETF汇添富",
+        "code": "513280",
+        "pct": 3.1,
+        "amount": 7030.0,
+        "category": "医药"
+      },
+      {
+        "name": "恒生生物科技ETF南方",
+        "code": "159615",
+        "pct": 3.06,
+        "amount": 10663.0,
+        "category": "医药"
+      },
+      {
+        "name": "恒生生物科技ETF华泰柏瑞",
+        "code": "513930",
+        "pct": 3.03,
+        "amount": 6004.0,
+        "category": "医药"
+      },
+      {
+        "name": "恒生医药ETF华夏",
+        "code": "159892",
+        "pct": 2.97,
+        "amount": 69186.0,
+        "category": "医药"
+      },
+      {
+        "name": "医疗ETF广发",
+        "code": "560260",
+        "pct": 2.96,
+        "amount": 1827.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股创新药ETF广发",
+        "code": "513120",
+        "pct": 2.94,
+        "amount": 532688.0,
+        "category": "医药"
+      }
+    ]
   }
 ]
