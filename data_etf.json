@@ -5317,5 +5317,80 @@
         "category": "农业"
       }
     ]
+  },
+  {
+    "date": "2026-08-11",
+    "top10": [
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 4.63,
+        "amount": 25214.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 4.21,
+        "amount": 28996.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "疫苗ETF招商",
+        "code": "561920",
+        "pct": 2.23,
+        "amount": 48.0,
+        "category": null
+      },
+      {
+        "name": "港股医疗ETF银华",
+        "code": "513620",
+        "pct": 2.21,
+        "amount": 3908.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF工银",
+        "code": "516060",
+        "pct": 2.2,
+        "amount": 1010.0,
+        "category": "医药"
+      },
+      {
+        "name": "储能电池ETF易方达",
+        "code": "159566",
+        "pct": 2.15,
+        "amount": 16594.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "恒生医药ETF华夏",
+        "code": "159892",
+        "pct": 2.15,
+        "amount": 65060.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF摩根",
+        "code": "560900",
+        "pct": 2.13,
+        "amount": 1409.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF建信",
+        "code": "159835",
+        "pct": 2.11,
+        "amount": 2112.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF广发",
+        "code": "515120",
+        "pct": 2.04,
+        "amount": 52975.0,
+        "category": "医药"
+      }
+    ]
   }
 ]
