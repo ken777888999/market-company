@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-06-22",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "600549",
-        "name": "厦门钨业",
-        "title": "业绩续创新高，不断提升钨原料自给率",
-        "org": "太平洋",
-        "rating": "",
-        "date": "2026-06-21",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-22",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11609,6 +11592,13 @@
         "url": "https://data.eastmoney.com/notices/detail/001389/AN202608101827808923.html"
       }
     ],
+    "reports": []
+  },
+  {
+    "date": "2026-08-11",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": []
   }
 ]
