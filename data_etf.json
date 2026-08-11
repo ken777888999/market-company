@@ -5324,72 +5324,72 @@
       {
         "name": "标普油气ETF嘉实",
         "code": "159518",
-        "pct": 4.54,
-        "amount": 30142.0,
+        "pct": 4.9,
+        "amount": 37850.0,
         "category": "海外QDII"
       },
       {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 4.13,
-        "amount": 35566.0,
+        "pct": 4.38,
+        "amount": 45449.0,
         "category": "海外QDII"
       },
       {
-        "name": "创新药ETF工银",
-        "code": "516060",
-        "pct": 3.3,
-        "amount": 1659.0,
-        "category": "医药"
+        "name": "机器人ETF景顺",
+        "code": "159559",
+        "pct": 3.01,
+        "amount": 12470.0,
+        "category": "机器人"
       },
       {
-        "name": "科创医药ETF华夏",
-        "code": "588130",
-        "pct": 3.12,
-        "amount": 11668.0,
-        "category": "医药"
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 3.0,
+        "amount": 86050.0,
+        "category": "机器人"
       },
       {
-        "name": "创新药ETF广发",
-        "code": "515120",
-        "pct": 3.06,
-        "amount": 76551.0,
-        "category": "医药"
+        "name": "疫苗ETF招商",
+        "code": "561920",
+        "pct": 2.23,
+        "amount": 111.0,
+        "category": null
+      },
+      {
+        "name": "机器人ETF银华",
+        "code": "562360",
+        "pct": 2.2,
+        "amount": 1977.0,
+        "category": "机器人"
       },
       {
         "name": "科创医药ETF鹏华",
         "code": "588250",
-        "pct": 3.05,
-        "amount": 1298.0,
+        "pct": 2.13,
+        "amount": 1621.0,
         "category": "医药"
       },
       {
-        "name": "创新药ETF摩根",
-        "code": "560900",
-        "pct": 3.04,
-        "amount": 2027.0,
-        "category": "医药"
+        "name": "机器人ETF国泰",
+        "code": "159551",
+        "pct": 2.13,
+        "amount": 2389.0,
+        "category": "机器人"
       },
       {
-        "name": "创新药ETF南方",
-        "code": "159858",
-        "pct": 2.98,
-        "amount": 3976.0,
-        "category": "医药"
+        "name": "机器人ETF万家",
+        "code": "560630",
+        "pct": 2.11,
+        "amount": 775.0,
+        "category": "机器人"
       },
       {
-        "name": "创新药ETF建信",
-        "code": "159835",
-        "pct": 2.95,
-        "amount": 2993.0,
-        "category": "医药"
-      },
-      {
-        "name": "创新药ETF易方达",
-        "code": "516080",
-        "pct": 2.86,
-        "amount": 29837.0,
-        "category": "医药"
+        "name": "疫苗ETF嘉实",
+        "code": "562860",
+        "pct": 2.1,
+        "amount": 1098.0,
+        "category": null
       }
     ]
   }
