@@ -5392,5 +5392,80 @@
         "category": "机器人"
       }
     ]
+  },
+  {
+    "date": "2026-08-12",
+    "top10": [
+      {
+        "name": "东南亚科技ETF华泰柏瑞",
+        "code": "513730",
+        "pct": 2.39,
+        "amount": 5946.0,
+        "category": null
+      },
+      {
+        "name": "通信ETF广发",
+        "code": "159507",
+        "pct": 2.28,
+        "amount": 1896.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF富国",
+        "code": "159583",
+        "pct": 2.27,
+        "amount": 23183.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF南方",
+        "code": "159511",
+        "pct": 2.23,
+        "amount": 1246.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF嘉实",
+        "code": "159695",
+        "pct": 2.2,
+        "amount": 4031.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "科创成长ETF万家",
+        "code": "588070",
+        "pct": 2.19,
+        "amount": 620.0,
+        "category": "科创板"
+      },
+      {
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 2.17,
+        "amount": 132511.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "科创成长ETF易方达",
+        "code": "588020",
+        "pct": 2.15,
+        "amount": 9917.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创成长ETF广发",
+        "code": "588110",
+        "pct": 2.12,
+        "amount": 3098.0,
+        "category": "科创板"
+      },
+      {
+        "name": "通信ETF华夏",
+        "code": "515050",
+        "pct": 2.06,
+        "amount": 59059.0,
+        "category": "通信/5G"
+      }
+    ]
   }
 ]
