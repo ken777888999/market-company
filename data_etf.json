@@ -5397,74 +5397,74 @@
     "date": "2026-08-12",
     "top10": [
       {
+        "name": "房地产ETF银华",
+        "code": "159768",
+        "pct": 4.51,
+        "amount": 4592.0,
+        "category": "地产"
+      },
+      {
+        "name": "地产ETF华宝",
+        "code": "159707",
+        "pct": 4.45,
+        "amount": 11861.0,
+        "category": "地产"
+      },
+      {
+        "name": "房地产ETF华夏",
+        "code": "515060",
+        "pct": 3.92,
+        "amount": 3987.0,
+        "category": "地产"
+      },
+      {
+        "name": "房地产ETF南方",
+        "code": "512200",
+        "pct": 3.69,
+        "amount": 10662.0,
+        "category": "地产"
+      },
+      {
         "name": "通信ETF富国",
         "code": "159583",
-        "pct": 4.29,
-        "amount": 35463.0,
+        "pct": 3.15,
+        "amount": 45876.0,
         "category": "通信/5G"
       },
       {
         "name": "通信ETF嘉实",
         "code": "159695",
-        "pct": 3.95,
-        "amount": 5368.0,
+        "pct": 3.07,
+        "amount": 6468.0,
         "category": "通信/5G"
       },
       {
         "name": "通信ETF广发",
         "code": "159507",
-        "pct": 3.85,
-        "amount": 3400.0,
-        "category": "通信/5G"
-      },
-      {
-        "name": "通信ETF国泰",
-        "code": "515880",
-        "pct": 3.72,
-        "amount": 229680.0,
+        "pct": 3.0,
+        "amount": 4248.0,
         "category": "通信/5G"
       },
       {
         "name": "通信ETF南方",
         "code": "159511",
-        "pct": 3.48,
-        "amount": 2046.0,
+        "pct": 2.66,
+        "amount": 2405.0,
         "category": "通信/5G"
       },
       {
-        "name": "科创成长ETF广发",
-        "code": "588110",
-        "pct": 3.42,
-        "amount": 6382.0,
-        "category": "科创板"
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 2.54,
+        "amount": 4438.0,
+        "category": "传媒/游戏"
       },
       {
-        "name": "科创成长ETF万家",
-        "code": "588070",
-        "pct": 3.36,
-        "amount": 874.0,
-        "category": "科创板"
-      },
-      {
-        "name": "通信ETF华夏",
-        "code": "515050",
-        "pct": 3.24,
-        "amount": 92915.0,
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 2.48,
+        "amount": 302425.0,
         "category": "通信/5G"
-      },
-      {
-        "name": "通信ETF银华",
-        "code": "159994",
-        "pct": 3.21,
-        "amount": 17825.0,
-        "category": "通信/5G"
-      },
-      {
-        "name": "科创成长ETF易方达",
-        "code": "588020",
-        "pct": 3.11,
-        "amount": 15012.0,
-        "category": "科创板"
       }
     ]
   }
