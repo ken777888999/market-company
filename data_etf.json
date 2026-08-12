@@ -5399,71 +5399,71 @@
       {
         "name": "房地产ETF银华",
         "code": "159768",
-        "pct": 4.51,
-        "amount": 4592.0,
+        "pct": 4.97,
+        "amount": 6229.0,
         "category": "地产"
       },
       {
         "name": "地产ETF华宝",
         "code": "159707",
-        "pct": 4.45,
-        "amount": 11861.0,
+        "pct": 4.66,
+        "amount": 15344.0,
         "category": "地产"
       },
       {
         "name": "房地产ETF华夏",
         "code": "515060",
-        "pct": 3.92,
-        "amount": 3987.0,
+        "pct": 4.09,
+        "amount": 5319.0,
         "category": "地产"
       },
       {
         "name": "房地产ETF南方",
         "code": "512200",
-        "pct": 3.69,
-        "amount": 10662.0,
+        "pct": 4.02,
+        "amount": 18467.0,
         "category": "地产"
-      },
-      {
-        "name": "通信ETF富国",
-        "code": "159583",
-        "pct": 3.15,
-        "amount": 45876.0,
-        "category": "通信/5G"
       },
       {
         "name": "通信ETF嘉实",
         "code": "159695",
-        "pct": 3.07,
-        "amount": 6468.0,
+        "pct": 3.73,
+        "amount": 7477.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF富国",
+        "code": "159583",
+        "pct": 3.66,
+        "amount": 54125.0,
         "category": "通信/5G"
       },
       {
         "name": "通信ETF广发",
         "code": "159507",
-        "pct": 3.0,
-        "amount": 4248.0,
+        "pct": 3.25,
+        "amount": 5161.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 3.1,
+        "amount": 354988.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF华夏",
+        "code": "515050",
+        "pct": 3.05,
+        "amount": 126367.0,
         "category": "通信/5G"
       },
       {
         "name": "通信ETF南方",
         "code": "159511",
-        "pct": 2.66,
-        "amount": 2405.0,
-        "category": "通信/5G"
-      },
-      {
-        "name": "影视ETF国泰",
-        "code": "516620",
-        "pct": 2.54,
-        "amount": 4438.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "通信ETF国泰",
-        "code": "515880",
-        "pct": 2.48,
-        "amount": 302425.0,
+        "pct": 2.88,
+        "amount": 2591.0,
         "category": "通信/5G"
       }
     ]
