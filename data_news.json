@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-06-24",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "300604",
-        "name": "长川科技",
-        "title": "2026半年报业绩预告点评：Q2业绩超市场预期，国产测试机龙头SoC&存储双轮驱动",
-        "org": "东吴证券",
-        "rating": "",
-        "date": "2026-06-23",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-24",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11239,6 +11222,13 @@
         "url": "https://data.eastmoney.com/notices/detail/002463/AN202608121827909283.html"
       }
     ],
+    "reports": []
+  },
+  {
+    "date": "2026-08-13",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": []
   }
 ]
