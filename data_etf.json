@@ -5550,71 +5550,71 @@
         "name": "通信ETF嘉实",
         "code": "159695",
         "pct": 3.71,
-        "amount": 6283.0,
-        "category": "通信/5G"
-      },
-      {
-        "name": "通信ETF广发",
-        "code": "159507",
-        "pct": 3.48,
-        "amount": 4402.0,
+        "amount": 8520.0,
         "category": "通信/5G"
       },
       {
         "name": "通信ETF国泰",
         "code": "515880",
-        "pct": 3.45,
-        "amount": 270478.0,
+        "pct": 3.6,
+        "amount": 351979.0,
         "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF广发",
+        "code": "159507",
+        "pct": 3.6,
+        "amount": 6390.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "稀土ETF华泰柏瑞",
+        "code": "516780",
+        "pct": 3.15,
+        "amount": 10634.0,
+        "category": "有色/资源"
       },
       {
         "name": "通信ETF富国",
         "code": "159583",
-        "pct": 3.08,
-        "amount": 49521.0,
-        "category": "通信/5G"
-      },
-      {
-        "name": "通信ETF华夏",
-        "code": "515050",
-        "pct": 2.58,
-        "amount": 73222.0,
+        "pct": 3.14,
+        "amount": 62608.0,
         "category": "通信/5G"
       },
       {
         "name": "科创新材料ETF博时",
         "code": "588010",
-        "pct": 2.58,
-        "amount": 19657.0,
+        "pct": 2.95,
+        "amount": 24054.0,
         "category": "科创板"
       },
       {
-        "name": "稀土ETF华泰柏瑞",
-        "code": "516780",
-        "pct": 2.57,
-        "amount": 7333.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "通信ETF银华",
-        "code": "159994",
-        "pct": 2.57,
-        "amount": 19389.0,
-        "category": "通信/5G"
-      },
-      {
-        "name": "通信ETF南方",
-        "code": "159511",
-        "pct": 2.5,
-        "amount": 1635.0,
-        "category": "通信/5G"
+        "name": "纳指科技ETF景顺",
+        "code": "159509",
+        "pct": 2.94,
+        "amount": 107312.0,
+        "category": "海外QDII"
       },
       {
         "name": "科创新材料ETF南方",
         "code": "588160",
-        "pct": 2.43,
-        "amount": 21527.0,
+        "pct": 2.88,
+        "amount": 26097.0,
         "category": "科创板"
+      },
+      {
+        "name": "通信ETF华夏",
+        "code": "515050",
+        "pct": 2.78,
+        "amount": 96117.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "稀土ETF富国",
+        "code": "159713",
+        "pct": 2.72,
+        "amount": 8538.0,
+        "category": "有色/资源"
       }
     ]
   }
