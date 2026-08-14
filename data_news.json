@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-06-25",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "300308",
-        "name": "中际旭创",
-        "title": "业绩持续超预期增长，光互连全栈布局成型",
-        "org": "太平洋",
-        "rating": "",
-        "date": "2026-06-24",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-25",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11061,6 +11044,23 @@
         "url": "https://data.eastmoney.com/notices/detail/300857/AN202608131827940924.html"
       }
     ],
+    "reports": [
+      {
+        "code": "301308",
+        "name": "江波龙",
+        "title": "2026半年报点评：多业务协同+自研芯片夯实长期竞争力",
+        "org": "爱建证券",
+        "rating": "",
+        "date": "2026-08-13",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "301308",
