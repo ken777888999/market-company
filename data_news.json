@@ -1,32 +1,6 @@
 [
   {
     "date": "2026-06-27",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "605117",
-        "name": "德业股份",
-        "title": "拟建9GWh工商业储能产能，受益全球储能高景气度",
-        "org": "国信证券",
-        "rating": "",
-        "date": "2026-06-26",
-        "digest": ""
-      },
-      {
-        "code": "300604",
-        "name": "长川科技",
-        "title": "2Q26业绩表现靓丽，估值合理",
-        "org": "群益证券",
-        "rating": "",
-        "date": "2026-06-26",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-27",
     "time": "21:00",
     "period": "晚间",
     "announcements": [],
@@ -10301,6 +10275,56 @@
     "time": "09:00",
     "period": "早间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-08-16",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608161828029046",
+        "title": "震裕科技:宁波震裕科技股份有限公司向不特定对象发行可转换公司债券发行提示性公告",
+        "date": "2026-08-17",
+        "time": "15:32",
+        "category": "其他,其它",
+        "codes": [
+          "300953"
+        ],
+        "names": [
+          "震裕科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608161828029046.html"
+      },
+      {
+        "art_code": "AN202608161828028911",
+        "title": "兆易创新:兆易创新关于回购A股股份事项前十大股东、前十大无限售条件股东持股情况的公告",
+        "date": "2026-08-17",
+        "time": "15:32",
+        "category": "回购进展情况",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608161828028911.html"
+      },
+      {
+        "art_code": "AN202608161828028905",
+        "title": "厦门钨业:厦门钨业关于2026年度第一期超短期融资券发行结果的公告",
+        "date": "2026-08-17",
+        "time": "15:30",
+        "category": "其他",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608161828028905.html"
+      }
+    ],
     "reports": []
   }
 ]
