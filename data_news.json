@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-06-27",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [],
-    "reports": []
-  },
-  {
     "date": "2026-06-28",
     "time": "09:00",
     "period": "早间",
@@ -10323,6 +10316,28 @@
           "厦门钨业"
         ],
         "url": "https://data.eastmoney.com/notices/detail/600549/AN202608161828028905.html"
+      }
+    ],
+    "reports": []
+  },
+  {
+    "date": "2026-08-17",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202608171828035812",
+        "title": "湖南裕能:关于向香港联交所递交境外上市外资股(H股)发行并上市申请并刊发申请资料的公告",
+        "date": "2026-08-17",
+        "time": "07:49",
+        "category": "其他",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608171828035812.html"
       }
     ],
     "reports": []
