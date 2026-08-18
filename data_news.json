@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-06-29",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-06-29",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -10848,6 +10841,514 @@
         "org": "招银国际",
         "rating": "",
         "date": "2026-08-17",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608181828116164",
+        "title": "株冶集团:株冶集团独立董事专门会议决议",
+        "date": "2026-08-19",
+        "time": "19:23",
+        "category": "董事会决议公告",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202608181828116164.html"
+      },
+      {
+        "art_code": "AN202608181828116166",
+        "title": "株冶集团:株冶集团董事会提名委员会关于聘任公司董事会秘书的书面审核意见",
+        "date": "2026-08-19",
+        "time": "19:23",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202608181828116166.html"
+      },
+      {
+        "art_code": "AN202608181828116171",
+        "title": "株冶集团:株冶集团关于对五矿集团财务有限责任公司的风险持续评估报告",
+        "date": "2026-08-19",
+        "time": "19:23",
+        "category": "其他",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202608181828116171.html"
+      },
+      {
+        "art_code": "AN202608181828116165",
+        "title": "株冶集团:株冶集团关于聘任公司董事会秘书的公告",
+        "date": "2026-08-19",
+        "time": "19:23",
+        "category": "高管人员任职变动",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202608181828116165.html"
+      },
+      {
+        "art_code": "AN202608181828116170",
+        "title": "株冶集团:株冶集团第八届董事会第十九次会议决议公告",
+        "date": "2026-08-19",
+        "time": "19:23",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202608181828116170.html"
+      },
+      {
+        "art_code": "AN202608181828116167",
+        "title": "株冶集团:株冶集团2026年半年度报告摘要",
+        "date": "2026-08-19",
+        "time": "19:23",
+        "category": "半年度报告摘要",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202608181828116167.html"
+      },
+      {
+        "art_code": "AN202608181828116163",
+        "title": "株冶集团:株冶集团董事会审计委员会会议决议暨审核意见",
+        "date": "2026-08-19",
+        "time": "19:23",
+        "category": "董事会决议公告,专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202608181828116163.html"
+      },
+      {
+        "art_code": "AN202608181828116168",
+        "title": "株冶集团:株冶集团关于调整2026年度日常关联交易预计额度的公告",
+        "date": "2026-08-19",
+        "time": "19:23",
+        "category": "关联交易",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202608181828116168.html"
+      },
+      {
+        "art_code": "AN202608181828116169",
+        "title": "株冶集团:株冶集团2026年半年度报告",
+        "date": "2026-08-19",
+        "time": "19:23",
+        "category": "半年度报告全文",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202608181828116169.html"
+      },
+      {
+        "art_code": "AN202608181828114694",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于公司2026年度“提质增效重回报”专项行动方案的半年度评估报告",
+        "date": "2026-08-19",
+        "time": "18:38",
+        "category": "其他",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608181828114694.html"
+      },
+      {
+        "art_code": "AN202608181828114695",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于计提2026年半年度资产减值准备的公告",
+        "date": "2026-08-19",
+        "time": "18:38",
+        "category": "其他",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608181828114695.html"
+      },
+      {
+        "art_code": "AN202608181828114693",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司2026年半年度报告摘要",
+        "date": "2026-08-19",
+        "time": "18:38",
+        "category": "半年度报告摘要",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608181828114693.html"
+      },
+      {
+        "art_code": "AN202608181828114691",
+        "title": "普冉股份:关于第三届董事会第八次会议决议公告",
+        "date": "2026-08-19",
+        "time": "18:38",
+        "category": "董事会决议公告",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608181828114691.html"
+      },
+      {
+        "art_code": "AN202608181828114690",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司2026年半年度报告",
+        "date": "2026-08-19",
+        "time": "18:38",
+        "category": "半年度报告全文",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608181828114690.html"
+      },
+      {
+        "art_code": "AN202608181828114689",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于公司2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+        "date": "2026-08-19",
+        "time": "18:38",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608181828114689.html"
+      },
+      {
+        "art_code": "AN202608181828113910",
+        "title": "兆易创新:兆易创新第五届董事会第十五次会议决议公告",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113910.html"
+      },
+      {
+        "art_code": "AN202608181828113911",
+        "title": "兆易创新:兆易创新2026年第三次临时股东会会议资料",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "股东大会资料",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113911.html"
+      },
+      {
+        "art_code": "AN202608181828113920",
+        "title": "兆易创新:兆易创新关于召开2026年半年度业绩说明会的公告",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113920.html"
+      },
+      {
+        "art_code": "AN202608181828113919",
+        "title": "兆易创新:北京市中伦(深圳)律师事务所关于兆易创新2023年股票期权激励计划第三个行权期行权条件成就相关事项的法律意见书",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "法律意见书",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113919.html"
+      },
+      {
+        "art_code": "AN202608181828113917",
+        "title": "兆易创新:兆易创新2026年半年度报告摘要",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "半年度报告摘要",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113917.html"
+      },
+      {
+        "art_code": "AN202608181828113913",
+        "title": "兆易创新:兆易创新关于变更董事会秘书及联席公司秘书的公告",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "高管人员任职变动",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113913.html"
+      },
+      {
+        "art_code": "AN202608181828113918",
+        "title": "兆易创新:兆易创新关于召开2026年第三次临时股东会的通知",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "召开股东大会通知",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113918.html"
+      },
+      {
+        "art_code": "AN202608181828113909",
+        "title": "兆易创新:兆易创新2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113909.html"
+      },
+      {
+        "art_code": "AN202608181828113912",
+        "title": "兆易创新:兆易创新2026年度“提质增效重回报”行动方案暨半年度评估报告",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113912.html"
+      },
+      {
+        "art_code": "AN202608181828113915",
+        "title": "兆易创新:兆易创新关于2023年股票期权激励计划第三个行权期行权条件成就的公告",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "股权激励进展公告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113915.html"
+      },
+      {
+        "art_code": "AN202608181828113916",
+        "title": "兆易创新:兆易创新2026年H股股份奖励计划",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113916.html"
+      },
+      {
+        "art_code": "AN202608181828113914",
+        "title": "兆易创新:兆易创新2026年半年度报告",
+        "date": "2026-08-19",
+        "time": "18:22",
+        "category": "半年度报告全文",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608181828113914.html"
+      },
+      {
+        "art_code": "AN202608181828111925",
+        "title": "融捷股份:关于首次回购公司股份的公告",
+        "date": "2026-08-19",
+        "time": "17:34",
+        "category": "回购实施公告",
+        "codes": [
+          "002192"
+        ],
+        "names": [
+          "融捷股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002192/AN202608181828111925.html"
+      },
+      {
+        "art_code": "AN202608181828107621",
+        "title": "震裕科技:宁波震裕科技股份有限公司向不特定对象发行可转换公司债券中签号码公告",
+        "date": "2026-08-19",
+        "time": "15:43",
+        "category": "其他,可转债网上中签结果",
+        "codes": [
+          "300953"
+        ],
+        "names": [
+          "震裕科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608181828107621.html"
+      },
+      {
+        "art_code": "AN202608181828117254",
+        "title": "江波龙:关于与专业投资机构共同投资的公告",
+        "date": "2026-08-18",
+        "time": "20:09",
+        "category": "投资设立公司",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608181828117254.html"
+      },
+      {
+        "art_code": "AN202608181828117241",
+        "title": "江波龙:回购股份报告书",
+        "date": "2026-08-18",
+        "time": "20:07",
+        "category": "回购报告书",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608181828117241.html"
+      },
+      {
+        "art_code": "AN202608181828111101",
+        "title": "协创数据:关于公司开展融资租赁业务的进展公告",
+        "date": "2026-08-18",
+        "time": "17:13",
+        "category": "其他",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608181828111101.html"
+      },
+      {
+        "art_code": "AN202608181828107548",
+        "title": "天华新能:2026年半年度报告",
+        "date": "2026-08-18",
+        "time": "15:42",
+        "category": "半年度报告全文",
+        "codes": [
+          "300390"
+        ],
+        "names": [
+          "天华新能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300390/AN202608181828107548.html"
+      },
+      {
+        "art_code": "AN202608181828107547",
+        "title": "天华新能:2026年半年度报告摘要",
+        "date": "2026-08-18",
+        "time": "15:42",
+        "category": "半年度报告摘要",
+        "codes": [
+          "300390"
+        ],
+        "names": [
+          "天华新能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300390/AN202608181828107547.html"
+      },
+      {
+        "art_code": "AN202608181828096514",
+        "title": "协创数据:关于变更保荐机构后重新签订募集资金三方监管协议的公告",
+        "date": "2026-08-18",
+        "time": "11:44",
+        "category": "保荐代表人（机构）变更,签订协议",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608181828096514.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "603031",
+        "name": "安孚科技",
+        "title": "南孚表现稳健，新兴产业布局深化",
+        "org": "国金证券",
+        "rating": "",
+        "date": "2026-08-18",
         "digest": ""
       }
     ]
