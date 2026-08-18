@@ -5692,5 +5692,80 @@
         "category": "芯片/半导体"
       }
     ]
+  },
+  {
+    "date": "2026-08-18",
+    "top10": [
+      {
+        "name": "粮食ETF广发",
+        "code": "159587",
+        "pct": 6.19,
+        "amount": 6182.0,
+        "category": "农业"
+      },
+      {
+        "name": "粮食ETF鹏华",
+        "code": "159698",
+        "pct": 6.08,
+        "amount": 10474.0,
+        "category": "农业"
+      },
+      {
+        "name": "农牧渔ETF景顺",
+        "code": "560210",
+        "pct": 3.02,
+        "amount": 851.0,
+        "category": "农业"
+      },
+      {
+        "name": "豆粕ETF华夏",
+        "code": "159985",
+        "pct": 2.61,
+        "amount": 20992.0,
+        "category": null
+      },
+      {
+        "name": "养殖ETF鹏华",
+        "code": "159867",
+        "pct": 2.57,
+        "amount": 2843.0,
+        "category": "农业"
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 2.52,
+        "amount": 37371.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "农业ETF银华",
+        "code": "159827",
+        "pct": 2.45,
+        "amount": 313.0,
+        "category": "农业"
+      },
+      {
+        "name": "养殖ETF平安",
+        "code": "516760",
+        "pct": 2.43,
+        "amount": 446.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF华夏",
+        "code": "516810",
+        "pct": 2.42,
+        "amount": 4230.0,
+        "category": "农业"
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 2.4,
+        "amount": 14332.0,
+        "category": "海外QDII"
+      }
+    ]
   }
 ]
