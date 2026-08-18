@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-06-28",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202606281826514956",
-        "title": "广合科技:关于公司A股股价异动的公告",
-        "date": "2026-06-29",
-        "time": "15:33",
-        "category": "股票交易异常波动",
-        "codes": [
-          "001389"
-        ],
-        "names": [
-          "广合科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202606281826514956.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-06-29",
     "time": "09:00",
     "period": "早间",
@@ -10845,6 +10823,23 @@
         "url": "https://data.eastmoney.com/notices/detail/300408/AN202608171828058900.html"
       }
     ],
+    "reports": [
+      {
+        "code": "600183",
+        "name": "生益科技",
+        "title": "Robust Q2 earnings; AI-driven mix upgrade and ASP hikes in full swing",
+        "org": "招银国际",
+        "rating": "",
+        "date": "2026-08-17",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "600183",
