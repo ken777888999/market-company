@@ -1,52 +1,6 @@
 [
   {
     "date": "2026-06-30",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202606301826563582",
-        "title": "三环集团:关于刊发H股招股说明书、H股发行价格上限及H股香港公开发售等事宜的公告",
-        "date": "2026-06-30",
-        "time": "08:46",
-        "category": "其他",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202606301826563582.html"
-      },
-      {
-        "art_code": "AN202606291826553333",
-        "title": "兆易创新:兆易创新关于股票交易风险提示的公告",
-        "date": "2026-06-30",
-        "time": "22:32",
-        "category": "风险提示性公告",
-        "codes": [
-          "603986"
-        ],
-        "names": [
-          "兆易创新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603986/AN202606291826553333.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "603986",
-        "name": "兆易创新",
-        "title": "公司动态研究报告：存储、MCU迎涨价浪潮，多业务推动业绩强劲增长",
-        "org": "华鑫证券",
-        "rating": "",
-        "date": "2026-06-29",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11137,5 +11091,237 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-19",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608191828160531",
+        "title": "湖南裕能:2026年半年度报告",
+        "date": "2026-08-20",
+        "time": "18:35",
+        "category": "半年度报告全文",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608191828160531.html"
+      },
+      {
+        "art_code": "AN202608191828160523",
+        "title": "湖南裕能:关于“质量回报双提升”行动方案的进展公告",
+        "date": "2026-08-20",
+        "time": "18:35",
+        "category": "其他",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608191828160523.html"
+      },
+      {
+        "art_code": "AN202608191828160520",
+        "title": "湖南裕能:第二届董事会第二十四次会议决议公告",
+        "date": "2026-08-20",
+        "time": "18:35",
+        "category": "董事会决议公告",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608191828160520.html"
+      },
+      {
+        "art_code": "AN202608191828160521",
+        "title": "湖南裕能:非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-20",
+        "time": "18:35",
+        "category": "资金占用",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608191828160521.html"
+      },
+      {
+        "art_code": "AN202608191828160528",
+        "title": "湖南裕能:2026年半年度报告摘要",
+        "date": "2026-08-20",
+        "time": "18:35",
+        "category": "半年度报告摘要",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608191828160528.html"
+      },
+      {
+        "art_code": "AN202608191828160526",
+        "title": "湖南裕能:关于2026年半年度计提减值准备的公告",
+        "date": "2026-08-20",
+        "time": "18:35",
+        "category": "其他",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608191828160526.html"
+      },
+      {
+        "art_code": "AN202608191828160459",
+        "title": "湖南裕能:2026年半年度募集资金存放、管理与使用情况的专项报告",
+        "date": "2026-08-20",
+        "time": "18:33",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608191828160459.html"
+      },
+      {
+        "art_code": "AN202608191828159331",
+        "title": "长电科技:江苏长电科技股份有限公司关于2025年股票期权激励计划内幕信息知情人买卖公司股票情况的自查报告",
+        "date": "2026-08-20",
+        "time": "18:05",
+        "category": "自查报告",
+        "codes": [
+          "600584"
+        ],
+        "names": [
+          "长电科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600584/AN202608191828159331.html"
+      },
+      {
+        "art_code": "AN202608191828159330",
+        "title": "长电科技:江苏世纪同仁律师事务所关于江苏长电科技股份有限公司2026年第一次临时股东会的法律意见书",
+        "date": "2026-08-20",
+        "time": "18:05",
+        "category": "法律意见书",
+        "codes": [
+          "600584"
+        ],
+        "names": [
+          "长电科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600584/AN202608191828159330.html"
+      },
+      {
+        "art_code": "AN202608191828159329",
+        "title": "长电科技:江苏长电科技股份有限公司2026年第一次临时股东会决议公告",
+        "date": "2026-08-20",
+        "time": "18:05",
+        "category": "股东大会决议公告",
+        "codes": [
+          "600584"
+        ],
+        "names": [
+          "长电科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600584/AN202608191828159329.html"
+      },
+      {
+        "art_code": "AN202608191828159134",
+        "title": "石大胜华:石大胜华2026年第六次临时股东会决议公告",
+        "date": "2026-08-20",
+        "time": "18:01",
+        "category": "股东大会决议公告",
+        "codes": [
+          "603026"
+        ],
+        "names": [
+          "石大胜华"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603026/AN202608191828159134.html"
+      },
+      {
+        "art_code": "AN202608191828159135",
+        "title": "石大胜华:关于石大胜华2026年第六次临时股东会法律意见书",
+        "date": "2026-08-20",
+        "time": "18:01",
+        "category": "法律意见书",
+        "codes": [
+          "603026"
+        ],
+        "names": [
+          "石大胜华"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603026/AN202608191828159135.html"
+      },
+      {
+        "art_code": "AN202608191828158150",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于召开2026年半年度业绩说明会的公告",
+        "date": "2026-08-20",
+        "time": "17:39",
+        "category": "其他",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202608191828158150.html"
+      },
+      {
+        "art_code": "AN202608191828155966",
+        "title": "厦门钨业:厦门钨业关于控股子公司厦钨新能披露其2026年半年度报告的提示性公告",
+        "date": "2026-08-20",
+        "time": "16:44",
+        "category": "其他",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608191828155966.html"
+      },
+      {
+        "art_code": "AN202608191828158388",
+        "title": "雅创电子:关于为子公司提供担保的进展公告",
+        "date": "2026-08-19",
+        "time": "17:45",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608191828158388.html"
+      },
+      {
+        "art_code": "AN202608191828154971",
+        "title": "华锐精密:投资者关系活动记录表(2026年8月18日)",
+        "date": "2026-08-19",
+        "time": "16:32",
+        "category": "调研活动",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202608191828154971.html"
+      }
+    ],
+    "reports": []
   }
 ]
