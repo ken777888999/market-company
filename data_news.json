@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-07-01",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "605117",
-        "name": "德业股份",
-        "title": "储能业务爆发式增长，新产品积极推进，建议“买进”",
-        "org": "群益证券",
-        "rating": "",
-        "date": "2026-06-30",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-07-01",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11137,6 +11120,817 @@
         "org": "东吴证券",
         "rating": "",
         "date": "2026-08-19",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608201828213929",
+        "title": "兆易创新:兆易创新关于回购A股股份用于注销并减少注册资本暨通知债权人的公告",
+        "date": "2026-08-21",
+        "time": "19:07",
+        "category": "公司注册资本变更,通知债权人公告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608201828213929.html"
+      },
+      {
+        "art_code": "AN202608201828213928",
+        "title": "兆易创新:北京中银律师事务所关于兆易创新科技集团股份有限公司2026年第二次临时股东会的法律意见书",
+        "date": "2026-08-21",
+        "time": "19:07",
+        "category": "法律意见书",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608201828213928.html"
+      },
+      {
+        "art_code": "AN202608201828213930",
+        "title": "兆易创新:兆易创新关于以集中竞价交易方式回购公司A股股份的回购报告书",
+        "date": "2026-08-21",
+        "time": "19:07",
+        "category": "回购报告书",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608201828213930.html"
+      },
+      {
+        "art_code": "AN202608201828213932",
+        "title": "兆易创新:兆易创新2026年第二次临时股东会决议公告",
+        "date": "2026-08-21",
+        "time": "19:07",
+        "category": "股东大会决议公告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608201828213932.html"
+      },
+      {
+        "art_code": "AN202608201828211594",
+        "title": "震裕科技:宁波震裕科技股份有限公司向不特定对象发行可转换公司债券发行结果公告",
+        "date": "2026-08-21",
+        "time": "18:27",
+        "category": "其他,一般债券发行结果",
+        "codes": [
+          "300953"
+        ],
+        "names": [
+          "震裕科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608201828211594.html"
+      },
+      {
+        "art_code": "AN202608201828210448",
+        "title": "融捷股份:关于实际控制人完成增持计划的公告",
+        "date": "2026-08-21",
+        "time": "18:05",
+        "category": "股东/实际控制人股份增持",
+        "codes": [
+          "002192"
+        ],
+        "names": [
+          "融捷股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002192/AN202608201828210448.html"
+      },
+      {
+        "art_code": "AN202608201828209036",
+        "title": "厦门钨业:厦门钨业关于与控股股东签署《一致行动协议》暨关联交易的公告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "签订协议,关联交易",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209036.html"
+      },
+      {
+        "art_code": "AN202608201828209040",
+        "title": "厦门钨业:厦门钨业关于收购江西巨通实业有限公司股权后被动形成关联借款暨关联交易的公告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "借贷,收购出售资产/股权,关联交易",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209040.html"
+      },
+      {
+        "art_code": "AN202608201828209031",
+        "title": "厦门钨业:厦门钨业关于向控股子公司九江大地矿业开发有限公司提供借款暨关联交易的公告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "借贷,关联交易",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209031.html"
+      },
+      {
+        "art_code": "AN202608201828209039",
+        "title": "厦门钨业:关于厦门钨业股份有限公司拟收购江西巨通实业有限公司31.5166%股权的法律意见书",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "法律意见书",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209039.html"
+      },
+      {
+        "art_code": "AN202608201828209046",
+        "title": "厦门钨业:厦门钨业2026年半年度报告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "半年度报告全文",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209046.html"
+      },
+      {
+        "art_code": "AN202608201828209033",
+        "title": "厦门钨业:厦门钨业第十届董事会独立董事专门会议第十七次会议决议",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "董事会决议公告",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209033.html"
+      },
+      {
+        "art_code": "AN202608201828209045",
+        "title": "厦门钨业:厦门钨业关于收购江西巨通实业有限公司30.1683%股权暨关联交易的公告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "收购出售资产/股权,关联交易",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209045.html"
+      },
+      {
+        "art_code": "AN202608201828209049",
+        "title": "厦门钨业:厦门钨业第十届董事会第三十一次会议决议公告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209049.html"
+      },
+      {
+        "art_code": "AN202608201828209043",
+        "title": "厦门钨业:厦门钨业关于2026年半年度募集资金存放与实际使用情况的专项报告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209043.html"
+      },
+      {
+        "art_code": "AN202608201828209044",
+        "title": "厦门钨业:厦门钨业关于2026年半年度计提资产减值准备的公告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "其他",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209044.html"
+      },
+      {
+        "art_code": "AN202608201828209034",
+        "title": "厦门钨业:厦门钨业关于会计政策变更的公告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "其他",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209034.html"
+      },
+      {
+        "art_code": "AN202608201828209035",
+        "title": "厦门钨业:厦门钨业《审计问题整改管理办法》",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "管理办法/制度",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209035.html"
+      },
+      {
+        "art_code": "AN202608201828209041",
+        "title": "厦门钨业:厦门钨业《内部审计制度》",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "管理办法/制度",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209041.html"
+      },
+      {
+        "art_code": "AN202608201828209032",
+        "title": "厦门钨业:厦门钨业审计委员会关于第十届董事会第三十一次会议相关事项的书面确认意见",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "专项说明/独立意见",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209032.html"
+      },
+      {
+        "art_code": "AN202608201828209042",
+        "title": "厦门钨业:厦门钨业2026年半年度报告摘要",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "半年度报告摘要",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209042.html"
+      },
+      {
+        "art_code": "AN202608201828209048",
+        "title": "厦门钨业:厦门钨业关于召开2026年第四次临时股东会的通知",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "召开股东大会通知",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209048.html"
+      },
+      {
+        "art_code": "AN202608201828209037",
+        "title": "厦门钨业:江西巨通实业有限公司股东全部权益价值资产评估报告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "其他",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209037.html"
+      },
+      {
+        "art_code": "AN202608201828206882",
+        "title": "上海新阳:第六届董事会第十一次会议决议公告",
+        "date": "2026-08-21",
+        "time": "16:57",
+        "category": "董事会决议公告",
+        "codes": [
+          "300236"
+        ],
+        "names": [
+          "上海新阳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300236/AN202608201828206882.html"
+      },
+      {
+        "art_code": "AN202608201828206890",
+        "title": "上海新阳:关于上海化学工业区建设项目调整产能布局、追加投资的议案的公告",
+        "date": "2026-08-21",
+        "time": "16:57",
+        "category": "对外项目投资",
+        "codes": [
+          "300236"
+        ],
+        "names": [
+          "上海新阳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300236/AN202608201828206890.html"
+      },
+      {
+        "art_code": "AN202608201828206895",
+        "title": "上海新阳:2026年半年度报告",
+        "date": "2026-08-21",
+        "time": "16:57",
+        "category": "半年度报告全文",
+        "codes": [
+          "300236"
+        ],
+        "names": [
+          "上海新阳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300236/AN202608201828206895.html"
+      },
+      {
+        "art_code": "AN202608201828206866",
+        "title": "上海新阳:2026年半年度报告摘要",
+        "date": "2026-08-21",
+        "time": "16:57",
+        "category": "半年度报告摘要",
+        "codes": [
+          "300236"
+        ],
+        "names": [
+          "上海新阳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300236/AN202608201828206866.html"
+      },
+      {
+        "art_code": "AN202608201828206875",
+        "title": "上海新阳:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-21",
+        "time": "16:57",
+        "category": "资金占用",
+        "codes": [
+          "300236"
+        ],
+        "names": [
+          "上海新阳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300236/AN202608201828206875.html"
+      },
+      {
+        "art_code": "AN202608201828206840",
+        "title": "上海新阳:2026年半年度募集资金存放、管理与使用情况的专项报告",
+        "date": "2026-08-21",
+        "time": "16:57",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "300236"
+        ],
+        "names": [
+          "上海新阳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300236/AN202608201828206840.html"
+      },
+      {
+        "art_code": "AN202608201828206848",
+        "title": "上海新阳:关于公司为上海芯刻微材料技术有限责任公司申请融资额度提供担保的公告",
+        "date": "2026-08-21",
+        "time": "16:57",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "300236"
+        ],
+        "names": [
+          "上海新阳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300236/AN202608201828206848.html"
+      },
+      {
+        "art_code": "AN202608201828205438",
+        "title": "安孚科技:华泰联合证券有限责任公司关于安徽安孚电池科技股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之部分限售股上市流通的核查意见",
+        "date": "2026-08-21",
+        "time": "16:34",
+        "category": "保荐/核查意见",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202608201828205438.html"
+      },
+      {
+        "art_code": "AN202608201828205436",
+        "title": "安孚科技:华安证券股份有限公司关于安徽安孚电池科技股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之部分限售股上市流通的核查意见",
+        "date": "2026-08-21",
+        "time": "16:34",
+        "category": "保荐/核查意见",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202608201828205436.html"
+      },
+      {
+        "art_code": "AN202608201828205437",
+        "title": "安孚科技:安徽安孚电池科技股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易之部分限售股上市流通的公告",
+        "date": "2026-08-21",
+        "time": "16:34",
+        "category": "限售股份上市流通,关联交易",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202608201828205437.html"
+      },
+      {
+        "art_code": "AN202608201828203116",
+        "title": "中国巨石:中国巨石董事会薪酬与考核委员会关于公司董事、高级管理人员2026年度薪酬方案的核查意见",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203116.html"
+      },
+      {
+        "art_code": "AN202608201828203127",
+        "title": "中国巨石:中国巨石董事会战略与可持续发展(ESG)委员会关于巨石集团有限公司年产20万吨玻璃纤维池窑拉丝生产线冷修技改项目的意见",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "专项说明/独立意见",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203127.html"
+      },
+      {
+        "art_code": "AN202608201828203126",
+        "title": "中国巨石:中国巨石2026年半年度报告",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "半年度报告全文",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203126.html"
+      },
+      {
+        "art_code": "AN202608201828203118",
+        "title": "中国巨石:中国巨石关于2026年“提质增效重回报”行动方案的半年度评估报告的公告",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "其他",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203118.html"
+      },
+      {
+        "art_code": "AN202608201828203122",
+        "title": "中国巨石:中国巨石第七届董事会第三十四次会议决议公告",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "分配预案,董事会决议公告",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203122.html"
+      },
+      {
+        "art_code": "AN202608201828203124",
+        "title": "中国巨石:中国巨石关于巨石集团有限公司年产20万吨玻璃纤维池窑拉丝生产线冷修技改项目的公告",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "对外项目投资",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203124.html"
+      },
+      {
+        "art_code": "AN202608201828203128",
+        "title": "中国巨石:中国巨石股份有限公司信息披露事务管理制度(2026年8月)",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "管理办法/制度",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203128.html"
+      },
+      {
+        "art_code": "AN202608201828203123",
+        "title": "中国巨石:中国巨石关于公司对中国建材集团财务有限公司办理存贷款业务的持续风险评估报告",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "其他",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203123.html"
+      },
+      {
+        "art_code": "AN202608201828203130",
+        "title": "中国巨石:中国巨石董事会战略与可持续发展(ESG)委员会关于巨石绿色能源(涟水)有限公司500MW风力发电配套工程项目实施方案变更的意见",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "专项说明/独立意见",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203130.html"
+      },
+      {
+        "art_code": "AN202608201828203117",
+        "title": "中国巨石:中国巨石董事会审计委员会关于《关于公司对中国建材集团财务有限公司办理存贷款业务的持续风险评估报告》的审核意见",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "专项说明/独立意见",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203117.html"
+      },
+      {
+        "art_code": "AN202608201828203120",
+        "title": "中国巨石:中国巨石2026年半年度报告摘要",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "半年度报告摘要",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203120.html"
+      },
+      {
+        "art_code": "AN202608201828203125",
+        "title": "中国巨石:中国巨石董事会审计委员会关于公司2026年半年度报告的审核意见",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203125.html"
+      },
+      {
+        "art_code": "AN202608201828203129",
+        "title": "中国巨石:中国巨石关于公司董事、高级管理人员2026年度薪酬方案的公告",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "其他",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203129.html"
+      },
+      {
+        "art_code": "AN202608201828203121",
+        "title": "中国巨石:中国巨石关于巨石绿色能源(涟水)有限公司500MW风力发电配套工程项目实施方案变更的公告",
+        "date": "2026-08-21",
+        "time": "15:50",
+        "category": "对外项目投资",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608201828203121.html"
+      },
+      {
+        "art_code": "AN202608201828209038",
+        "title": "厦门钨业:厦门钨业关于调整公司第十届董事会专门委员会委员的公告",
+        "date": "2026-08-21",
+        "time": "17:43",
+        "category": "高管人员任职变动",
+        "codes": [
+          "600549"
+        ],
+        "names": [
+          "厦门钨业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608201828209038.html"
+      },
+      {
+        "art_code": "AN202608201828207401",
+        "title": "睿创微纳:投资者关系活动记录表20260818",
+        "date": "2026-08-20",
+        "time": "17:07",
+        "category": "调研活动",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202608201828207401.html"
+      },
+      {
+        "art_code": "AN202608201828216820",
+        "title": "3-3上市保荐书(申报稿)(深圳市智微智能科技股份有限公司)",
+        "date": "2026-08-20",
+        "time": "20:10",
+        "category": "深主板再融资上市保荐书",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202608201828216820.html"
+      },
+      {
+        "art_code": "AN202608201828216817",
+        "title": "3-1证券发行保荐书(申报稿)(深圳市智微智能科技股份有限公司)",
+        "date": "2026-08-20",
+        "time": "20:10",
+        "category": "深主板再融资发行保荐书",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202608201828216817.html"
+      },
+      {
+        "art_code": "AN202608201828216815",
+        "title": "4-1法律意见书(申报稿)(深圳市智微智能科技股份有限公司)",
+        "date": "2026-08-20",
+        "time": "20:10",
+        "category": "深主板再融资法律意见书",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202608201828216815.html"
+      },
+      {
+        "art_code": "AN202608201828216810",
+        "title": "6-1发行人最近一年的财务报告及其审计报告以及最近一期的财务报告(申报稿)(深圳市智微智能科技股份有限公司)",
+        "date": "2026-08-20",
+        "time": "20:10",
+        "category": "深主板再融资审计报告",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202608201828216810.html"
+      },
+      {
+        "art_code": "AN202608201828216822",
+        "title": "1-1募集说明书(申报稿)(深圳市智微智能科技股份有限公司)",
+        "date": "2026-08-20",
+        "time": "20:09",
+        "category": "深主板再融资募集说明书申报稿",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202608201828216822.html"
+      },
+      {
+        "art_code": "AN202608201828210872",
+        "title": "协创数据:广东信达律师事务所关于协创数据技术股份有限公司2026年第七次临时股东会的法律意见书",
+        "date": "2026-08-20",
+        "time": "18:11",
+        "category": "法律意见书",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608201828210872.html"
+      },
+      {
+        "art_code": "AN202608201828210731",
+        "title": "协创数据:2026年第七次临时股东会决议公告",
+        "date": "2026-08-20",
+        "time": "18:09",
+        "category": "股东大会决议公告",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608201828210731.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "301358",
+        "name": "湖南裕能",
+        "title": "2026年半年报点评：Q2业绩超预期，满产满销盈利维持高位",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-08-20",
+        "digest": ""
+      },
+      {
+        "code": "603986",
+        "name": "兆易创新",
+        "title": "存储产品量价齐升，MCU价格开启温和上行",
+        "org": "交银国际证券",
+        "rating": "",
+        "date": "2026-08-20",
         "digest": ""
       }
     ]
