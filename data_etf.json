@@ -5842,5 +5842,80 @@
         "category": "银行"
       }
     ]
+  },
+  {
+    "date": "2026-08-20",
+    "top10": [
+      {
+        "name": "疫苗ETF招商",
+        "code": "561920",
+        "pct": 10.02,
+        "amount": 988.0,
+        "category": null
+      },
+      {
+        "name": "疫苗ETF嘉实",
+        "code": "562860",
+        "pct": 9.97,
+        "amount": 5051.0,
+        "category": null
+      },
+      {
+        "name": "疫苗ETF富国",
+        "code": "159645",
+        "pct": 8.79,
+        "amount": 837.0,
+        "category": null
+      },
+      {
+        "name": "疫苗ETF鹏华",
+        "code": "159657",
+        "pct": 8.57,
+        "amount": 2007.0,
+        "category": null
+      },
+      {
+        "name": "疫苗ETF国泰",
+        "code": "159643",
+        "pct": 8.32,
+        "amount": 5029.0,
+        "category": null
+      },
+      {
+        "name": "生物医药ETF华安",
+        "code": "159508",
+        "pct": 7.66,
+        "amount": 1824.0,
+        "category": "医药"
+      },
+      {
+        "name": "生物医药ETF汇添富",
+        "code": "159839",
+        "pct": 7.11,
+        "amount": 9202.0,
+        "category": "医药"
+      },
+      {
+        "name": "生物医药ETF天弘",
+        "code": "159859",
+        "pct": 7.07,
+        "amount": 26553.0,
+        "category": "医药"
+      },
+      {
+        "name": "科创医药ETF鹏华",
+        "code": "588250",
+        "pct": 7.06,
+        "amount": 1861.0,
+        "category": "医药"
+      },
+      {
+        "name": "科创医药ETF华夏",
+        "code": "588130",
+        "pct": 7.01,
+        "amount": 6276.0,
+        "category": "医药"
+      }
+    ]
   }
 ]
