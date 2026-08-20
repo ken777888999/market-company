@@ -5850,70 +5850,70 @@
         "name": "疫苗ETF招商",
         "code": "561920",
         "pct": 10.02,
-        "amount": 992.0,
+        "amount": 1594.0,
         "category": null
       },
       {
         "name": "疫苗ETF嘉实",
         "code": "562860",
         "pct": 9.97,
-        "amount": 5197.0,
+        "amount": 5246.0,
         "category": null
       },
       {
         "name": "疫苗ETF富国",
         "code": "159645",
-        "pct": 9.9,
-        "amount": 1781.0,
+        "pct": 7.99,
+        "amount": 3146.0,
         "category": null
       },
       {
         "name": "疫苗ETF鹏华",
         "code": "159657",
-        "pct": 9.88,
-        "amount": 2496.0,
+        "pct": 7.58,
+        "amount": 4103.0,
         "category": null
       },
       {
         "name": "疫苗ETF国泰",
         "code": "159643",
-        "pct": 9.56,
-        "amount": 6689.0,
+        "pct": 7.43,
+        "amount": 13123.0,
         "category": null
       },
       {
-        "name": "生物医药ETF华安",
-        "code": "159508",
-        "pct": 8.25,
-        "amount": 2017.0,
-        "category": "医药"
-      },
-      {
-        "name": "生物医药ETF天弘",
-        "code": "159859",
-        "pct": 7.8,
-        "amount": 33128.0,
-        "category": "医药"
-      },
-      {
-        "name": "科创医药ETF华夏",
-        "code": "588130",
-        "pct": 7.59,
-        "amount": 9454.0,
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 6.08,
+        "amount": 35199.0,
         "category": "医药"
       },
       {
         "name": "科创医药ETF鹏华",
         "code": "588250",
-        "pct": 7.53,
-        "amount": 2544.0,
+        "pct": 6.03,
+        "amount": 2959.0,
         "category": "医药"
       },
       {
-        "name": "生物医药ETF汇添富",
-        "code": "159839",
-        "pct": 7.37,
-        "amount": 10342.0,
+        "name": "标普生物科技ETF嘉实",
+        "code": "159502",
+        "pct": 5.97,
+        "amount": 31761.0,
+        "category": "医药"
+      },
+      {
+        "name": "科创医药ETF华夏",
+        "code": "588130",
+        "pct": 5.96,
+        "amount": 11219.0,
+        "category": "医药"
+      },
+      {
+        "name": "生物医药ETF华安",
+        "code": "159508",
+        "pct": 5.74,
+        "amount": 2400.0,
         "category": "医药"
       }
     ]
