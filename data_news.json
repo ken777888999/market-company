@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-07-02",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-07-02",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -11978,6 +11971,826 @@
         "org": "交银国际证券",
         "rating": "",
         "date": "2026-08-20",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608211828282421",
+        "title": "中际旭创:H股公告(截至二零二六年六月三十日止六个月之中期股息)",
+        "date": "2026-08-22",
+        "time": "20:20",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828282421.html"
+      },
+      {
+        "art_code": "AN202608211828282420",
+        "title": "中际旭创:H股公告(截至2026年6月30日止六个月的中期业绩公告)",
+        "date": "2026-08-22",
+        "time": "20:20",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828282420.html"
+      },
+      {
+        "art_code": "AN202608211828279964",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于调整2026年员工持股计划受让价格的公告",
+        "date": "2026-08-22",
+        "time": "19:24",
+        "category": "员工持股计划",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202608211828279964.html"
+      },
+      {
+        "art_code": "AN202608211828279963",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于控股子公司紫金矿业集团财务有限公司的风险持续评估报告",
+        "date": "2026-08-22",
+        "time": "19:24",
+        "category": "其他",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202608211828279963.html"
+      },
+      {
+        "art_code": "AN202608211828279959",
+        "title": "紫金矿业:紫金矿业集团股份有限公司第九届董事会第四次会议决议公告",
+        "date": "2026-08-22",
+        "time": "19:24",
+        "category": "董事会决议公告",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202608211828279959.html"
+      },
+      {
+        "art_code": "AN202608211828279958",
+        "title": "紫金矿业:福建至理律师事务所关于紫金矿业集团股份有限公司2026年员工持股计划调整受让价格的法律意见书",
+        "date": "2026-08-22",
+        "time": "19:24",
+        "category": "法律意见书",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202608211828279958.html"
+      },
+      {
+        "art_code": "AN202608211828279957",
+        "title": "紫金矿业:紫金矿业集团股份有限公司2026年半年度报告",
+        "date": "2026-08-22",
+        "time": "19:23",
+        "category": "半年度报告全文",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202608211828279957.html"
+      },
+      {
+        "art_code": "AN202608211828279962",
+        "title": "紫金矿业:紫金矿业集团股份有限公司2026年半年度报告摘要",
+        "date": "2026-08-22",
+        "time": "19:23",
+        "category": "半年度报告摘要",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202608211828279962.html"
+      },
+      {
+        "art_code": "AN202608211828276699",
+        "title": "中际旭创:第六届董事会第三次会议决议公告",
+        "date": "2026-08-22",
+        "time": "18:38",
+        "category": "分配预案,董事会决议公告",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276699.html"
+      },
+      {
+        "art_code": "AN202608211828276725",
+        "title": "中际旭创:2026年半年度报告披露的提示性公告",
+        "date": "2026-08-22",
+        "time": "18:38",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276725.html"
+      },
+      {
+        "art_code": "AN202608211828276726",
+        "title": "中际旭创:2026年半年度报告摘要",
+        "date": "2026-08-22",
+        "time": "18:38",
+        "category": "半年度报告摘要",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276726.html"
+      },
+      {
+        "art_code": "AN202608211828276708",
+        "title": "中际旭创:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-22",
+        "time": "18:38",
+        "category": "资金占用",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276708.html"
+      },
+      {
+        "art_code": "AN202608211828276722",
+        "title": "中际旭创:2026年半年度报告",
+        "date": "2026-08-22",
+        "time": "18:38",
+        "category": "半年度报告全文",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608211828276722.html"
+      },
+      {
+        "art_code": "AN202608211828276018",
+        "title": "扬杰科技:独立董事提名人声明与承诺(刘志弘)",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276018.html"
+      },
+      {
+        "art_code": "AN202608211828276016",
+        "title": "扬杰科技:独立董事候选人声明与承诺(GUOQIANG)",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276016.html"
+      },
+      {
+        "art_code": "AN202608211828276002",
+        "title": "扬杰科技:关于使用银行承兑汇票、信用证等方式支付募投项目所需资金并以募集资金等额置换的公告",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276002.html"
+      },
+      {
+        "art_code": "AN202608211828276014",
+        "title": "扬杰科技:关于召开2026年第二次临时股东会的通知",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "召开股东大会通知",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276014.html"
+      },
+      {
+        "art_code": "AN202608211828276022",
+        "title": "扬杰科技:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "资金占用",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276022.html"
+      },
+      {
+        "art_code": "AN202608211828275989",
+        "title": "扬杰科技:独立董事提名人声明与承诺(GUOQIANG)",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828275989.html"
+      },
+      {
+        "art_code": "AN202608211828275993",
+        "title": "扬杰科技:2026年半年度募集资金存放与使用情况的专项报告",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828275993.html"
+      },
+      {
+        "art_code": "AN202608211828276001",
+        "title": "扬杰科技:关于董事会换届选举的公告",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "高管人员任职变动",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276001.html"
+      },
+      {
+        "art_code": "AN202608211828275998",
+        "title": "扬杰科技:2026年半年度报告摘要",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "半年度报告摘要",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828275998.html"
+      },
+      {
+        "art_code": "AN202608211828276011",
+        "title": "扬杰科技:关于“质量回报双提升”行动方案的进展公告",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "其他",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276011.html"
+      },
+      {
+        "art_code": "AN202608211828275987",
+        "title": "扬杰科技:关于选举职工代表董事的公告",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "高管人员任职变动",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828275987.html"
+      },
+      {
+        "art_code": "AN202608211828276012",
+        "title": "扬杰科技:独立董事提名人声明与承诺(于平)",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276012.html"
+      },
+      {
+        "art_code": "AN202608211828276019",
+        "title": "扬杰科技:第五届董事会第三十次会议决议公告",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276019.html"
+      },
+      {
+        "art_code": "AN202608211828275999",
+        "title": "扬杰科技:独立董事候选人声明与承诺(于平)",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828275999.html"
+      },
+      {
+        "art_code": "AN202608211828276006",
+        "title": "扬杰科技:独立董事候选人声明与承诺(刘志弘)",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276006.html"
+      },
+      {
+        "art_code": "AN202608211828276015",
+        "title": "扬杰科技:2026年半年度报告",
+        "date": "2026-08-22",
+        "time": "18:29",
+        "category": "半年度报告全文",
+        "codes": [
+          "300373"
+        ],
+        "names": [
+          "扬杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300373/AN202608211828276015.html"
+      },
+      {
+        "art_code": "AN202608211828275450",
+        "title": "德福科技:第三届董事会第二十八次会议决议公告",
+        "date": "2026-08-22",
+        "time": "18:21",
+        "category": "分配预案,董事会决议公告",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202608211828275450.html"
+      },
+      {
+        "art_code": "AN202608211828275455",
+        "title": "德福科技:关于调整公司组织架构的公告",
+        "date": "2026-08-22",
+        "time": "18:21",
+        "category": "其他",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202608211828275455.html"
+      },
+      {
+        "art_code": "AN202608211828275423",
+        "title": "德福科技:2026年上半年募集资金存放与实际使用情况专项报告",
+        "date": "2026-08-22",
+        "time": "18:21",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202608211828275423.html"
+      },
+      {
+        "art_code": "AN202608210006743894",
+        "title": "德福科技:2026年半年度报告摘要",
+        "date": "2026-08-22",
+        "time": "18:21",
+        "category": "半年度报告摘要",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202608210006743894.html"
+      },
+      {
+        "art_code": "AN202608210006743890",
+        "title": "德福科技:2026年半年度报告",
+        "date": "2026-08-22",
+        "time": "18:21",
+        "category": "半年度报告全文",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202608210006743890.html"
+      },
+      {
+        "art_code": "AN202608211828274431",
+        "title": "德福科技:公司2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-22",
+        "time": "18:11",
+        "category": "资金占用",
+        "codes": [
+          "301511"
+        ],
+        "names": [
+          "德福科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202608211828274431.html"
+      },
+      {
+        "art_code": "AN202608211828263897",
+        "title": "凯格精机:关于使用闲置募集资金(含超募资金)进行现金管理的公告",
+        "date": "2026-08-22",
+        "time": "16:57",
+        "category": "投资理财",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608211828263897.html"
+      },
+      {
+        "art_code": "AN202608211828263887",
+        "title": "凯格精机:国信证券股份有限公司关于东莞市凯格精机股份有限公司使用闲置募集资金(含超募资金)进行现金管理的核查意见",
+        "date": "2026-08-22",
+        "time": "16:57",
+        "category": "保荐/核查意见",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608211828263887.html"
+      },
+      {
+        "art_code": "AN202608211828263492",
+        "title": "兆易创新:兆易创新关于以集中竞价交易方式首次回购A股股份的公告",
+        "date": "2026-08-22",
+        "time": "16:52",
+        "category": "回购实施公告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608211828263492.html"
+      },
+      {
+        "art_code": "AN202608211828262448",
+        "title": "宝鼎科技:2026年半年度募集资金存放与实际使用情况的专项报告",
+        "date": "2026-08-22",
+        "time": "16:33",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "002552"
+        ],
+        "names": [
+          "宝鼎科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002552/AN202608211828262448.html"
+      },
+      {
+        "art_code": "AN202608211828262436",
+        "title": "宝鼎科技:2026年半年度报告",
+        "date": "2026-08-22",
+        "time": "16:33",
+        "category": "半年度报告全文",
+        "codes": [
+          "002552"
+        ],
+        "names": [
+          "宝鼎科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002552/AN202608211828262436.html"
+      },
+      {
+        "art_code": "AN202608211828262442",
+        "title": "宝鼎科技:第五届董事会第三十二次会议决议公告",
+        "date": "2026-08-22",
+        "time": "16:33",
+        "category": "董事会决议公告",
+        "codes": [
+          "002552"
+        ],
+        "names": [
+          "宝鼎科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002552/AN202608211828262442.html"
+      },
+      {
+        "art_code": "AN202608211828262416",
+        "title": "宝鼎科技:2026年半年度报告摘要",
+        "date": "2026-08-22",
+        "time": "16:33",
+        "category": "半年度报告摘要",
+        "codes": [
+          "002552"
+        ],
+        "names": [
+          "宝鼎科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002552/AN202608211828262416.html"
+      },
+      {
+        "art_code": "AN202608211828262431",
+        "title": "宝鼎科技:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-22",
+        "time": "16:33",
+        "category": "资金占用",
+        "codes": [
+          "002552"
+        ],
+        "names": [
+          "宝鼎科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002552/AN202608211828262431.html"
+      },
+      {
+        "art_code": "AN202608211828262428",
+        "title": "宝鼎科技:关于公司与山东招金集团财务有限公司之间关联存贷款等金融业务的风险持续评估报告",
+        "date": "2026-08-22",
+        "time": "16:33",
+        "category": "其他",
+        "codes": [
+          "002552"
+        ],
+        "names": [
+          "宝鼎科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002552/AN202608211828262428.html"
+      },
+      {
+        "art_code": "AN202608211828259255",
+        "title": "凯格精机:2026半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-22",
+        "time": "15:54",
+        "category": "资金占用",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608211828259255.html"
+      },
+      {
+        "art_code": "AN202608211828259222",
+        "title": "凯格精机:关于举行2026年半年度业绩说明会的公告",
+        "date": "2026-08-22",
+        "time": "15:54",
+        "category": "其他",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608211828259222.html"
+      },
+      {
+        "art_code": "AN202608211828259200",
+        "title": "凯格精机:2026年半年度募集资金存放与使用情况的专项报告",
+        "date": "2026-08-22",
+        "time": "15:54",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608211828259200.html"
+      },
+      {
+        "art_code": "AN202608211828259184",
+        "title": "凯格精机:关于接受关联方财务资助暨关联交易的公告",
+        "date": "2026-08-22",
+        "time": "15:54",
+        "category": "获得补贴（资助）",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608211828259184.html"
+      },
+      {
+        "art_code": "AN202608211828259245",
+        "title": "凯格精机:第三届董事会第七次会议决议公告",
+        "date": "2026-08-22",
+        "time": "15:54",
+        "category": "董事会决议公告",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608211828259245.html"
+      },
+      {
+        "art_code": "AN202608210006743699",
+        "title": "凯格精机:2026年半年度报告摘要",
+        "date": "2026-08-22",
+        "time": "15:53",
+        "category": "半年度报告摘要",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608210006743699.html"
+      },
+      {
+        "art_code": "AN202608210006743708",
+        "title": "凯格精机:2026年半年度报告",
+        "date": "2026-08-22",
+        "time": "15:53",
+        "category": "半年度报告全文",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608210006743708.html"
+      },
+      {
+        "art_code": "AN202608211828256088",
+        "title": "金海通:关于原持股5%以上股东质押股份全部解除质押的公告",
+        "date": "2026-08-22",
+        "time": "15:32",
+        "category": "股份质押、冻结",
+        "codes": [
+          "603061"
+        ],
+        "names": [
+          "金海通"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603061/AN202608211828256088.html"
+      },
+      {
+        "art_code": "AN202608211828277812",
+        "title": "江波龙:关于香港联交所审议公司发行境外上市外资股(H股)的公告",
+        "date": "2026-08-21",
+        "time": "18:51",
+        "category": "其他",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608211828277812.html"
+      },
+      {
+        "art_code": "AN202608211828272268",
+        "title": "雅创电子:关于为子公司提供担保的进展公告",
+        "date": "2026-08-21",
+        "time": "18:01",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608211828272268.html"
+      },
+      {
+        "art_code": "AN202608211828263198",
+        "title": "广合科技:2026年8月13日-20日投资者关系活动记录表",
+        "date": "2026-08-21",
+        "time": "16:49",
+        "category": "调研活动",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202608211828263198.html"
+      },
+      {
+        "art_code": "AN202608211828260455",
+        "title": "华锐精密:投资者关系活动记录表(2026年8月20日)",
+        "date": "2026-08-21",
+        "time": "16:06",
+        "category": "调研活动",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202608211828260455.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "600176",
+        "name": "中国巨石",
+        "title": "半年报点评：电子布涨价贡献弹性，关注粗纱冷修加速",
+        "org": "国金证券",
+        "rating": "",
+        "date": "2026-08-21",
+        "digest": ""
+      },
+      {
+        "code": "600961",
+        "name": "株冶集团",
+        "title": "受益于贵金属及硫酸价格上行，26H1归母净利同比增长232.7%",
+        "org": "国信证券",
+        "rating": "",
+        "date": "2026-08-21",
+        "digest": ""
+      },
+      {
+        "code": "600549",
+        "name": "厦门钨业",
+        "title": "钻针棒材放量，看好钨价回升",
+        "org": "国金证券",
+        "rating": "",
+        "date": "2026-08-21",
         "digest": ""
       }
     ]
