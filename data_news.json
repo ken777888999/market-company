@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-07-03",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-07-03",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -12625,5 +12618,27 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-22",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608220006745989",
+        "title": "宝鼎科技:2026年半年度报告摘要",
+        "date": "2026-08-22",
+        "time": "14:31",
+        "category": "半年度报告摘要",
+        "codes": [
+          "002552"
+        ],
+        "names": [
+          "宝鼎科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002552/AN202608220006745989.html"
+      }
+    ],
+    "reports": []
   }
 ]
