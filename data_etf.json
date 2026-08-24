@@ -5992,5 +5992,80 @@
         "category": "有色/资源"
       }
     ]
+  },
+  {
+    "date": "2026-08-24",
+    "top10": [
+      {
+        "name": "黄金股ETF国泰",
+        "code": "517400",
+        "pct": 3.46,
+        "amount": 19152.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF华夏",
+        "code": "159562",
+        "pct": 3.12,
+        "amount": 24344.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF永赢",
+        "code": "517520",
+        "pct": 2.9,
+        "amount": 75603.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "煤炭ETF国泰",
+        "code": "515220",
+        "pct": 2.82,
+        "amount": 40999.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "红利价值ETF易方达",
+        "code": "563700",
+        "pct": 2.17,
+        "amount": 1007.0,
+        "category": "红利/高股息"
+      },
+      {
+        "name": "黄金ETF博时",
+        "code": "159937",
+        "pct": 2.08,
+        "amount": 39943.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "金ETF天弘",
+        "code": "159830",
+        "pct": 2.07,
+        "amount": 5938.0,
+        "category": null
+      },
+      {
+        "name": "金ETF嘉实",
+        "code": "159831",
+        "pct": 2.07,
+        "amount": 9819.0,
+        "category": null
+      },
+      {
+        "name": "黄金ETF华夏",
+        "code": "518850",
+        "pct": 2.05,
+        "amount": 35654.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "金ETF广发",
+        "code": "518600",
+        "pct": 2.04,
+        "amount": 20172.0,
+        "category": null
+      }
+    ]
   }
 ]
