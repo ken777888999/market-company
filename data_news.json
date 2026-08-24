@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-07-05",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-07-05",
     "time": "21:00",
     "period": "晚间",
     "announcements": [],
@@ -12530,6 +12523,531 @@
         "org": "国信证券",
         "rating": "",
         "date": "2026-08-23",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608241828373794",
+        "title": "雅创电子:关于部分募投项目增加实施主体并开立募集资金专户的公告",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373794.html"
+      },
+      {
+        "art_code": "AN202608241828373801",
+        "title": "雅创电子:关于整合公司自研IC业务品牌暨启用雅创芯和新品牌的公告",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "其他",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373801.html"
+      },
+      {
+        "art_code": "AN202608241828373799",
+        "title": "雅创电子:第三届董事会第十次会议决议公告",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "董事会决议公告",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373799.html"
+      },
+      {
+        "art_code": "AN202608241828373792",
+        "title": "雅创电子:关于2026半年度募集资金存放、管理与使用情况的专项报告",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373792.html"
+      },
+      {
+        "art_code": "AN202608241828373796",
+        "title": "雅创电子:关于新增日常关联交易预计的公告",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "关联交易",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373796.html"
+      },
+      {
+        "art_code": "AN202608241828373800",
+        "title": "雅创电子:2026年半年度非经营性资金占用及其他关联资金往来情况的专项说明",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "专项说明/独立意见",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373800.html"
+      },
+      {
+        "art_code": "AN202608241828373797",
+        "title": "雅创电子:2026年半年度报告",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "半年度报告全文",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373797.html"
+      },
+      {
+        "art_code": "AN202608241828373791",
+        "title": "雅创电子:关于2026年半年度计提及转回减值损失的公告",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "其他",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373791.html"
+      },
+      {
+        "art_code": "AN202608241828373793",
+        "title": "雅创电子:关于公司以现金方式进一步购买上海类比半导体技术有限公司部分股权暨取得控制权的公告",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "收购出售资产/股权",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373793.html"
+      },
+      {
+        "art_code": "AN202608241828373795",
+        "title": "雅创电子:2026年半年度报告摘要",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "半年度报告摘要",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373795.html"
+      },
+      {
+        "art_code": "AN202608241828371982",
+        "title": "睿创微纳:关于参加科创板2026年半年度集体业绩说明会的公告",
+        "date": "2026-08-25",
+        "time": "19:28",
+        "category": "其他,其它",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202608241828371982.html"
+      },
+      {
+        "art_code": "AN202608241828371983",
+        "title": "睿创微纳:关于2026年员工持股计划完成股票非交易过户的公告",
+        "date": "2026-08-25",
+        "time": "19:28",
+        "category": "员工持股计划,其它",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202608241828371983.html"
+      },
+      {
+        "art_code": "AN202608241828371568",
+        "title": "华宏科技:关于会计政策变更的公告",
+        "date": "2026-08-25",
+        "time": "19:16",
+        "category": "其他",
+        "codes": [
+          "002645"
+        ],
+        "names": [
+          "华宏科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002645/AN202608241828371568.html"
+      },
+      {
+        "art_code": "AN202608241828371536",
+        "title": "华宏科技:关于2026年半年度募集资金存放、管理与使用情况公告",
+        "date": "2026-08-25",
+        "time": "19:16",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "002645"
+        ],
+        "names": [
+          "华宏科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002645/AN202608241828371536.html"
+      },
+      {
+        "art_code": "AN202608241828371583",
+        "title": "华宏科技:2026年半年度非经营性资金占用及其他关联资金往来情况表",
+        "date": "2026-08-25",
+        "time": "19:16",
+        "category": "资金占用",
+        "codes": [
+          "002645"
+        ],
+        "names": [
+          "华宏科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002645/AN202608241828371583.html"
+      },
+      {
+        "art_code": "AN202608241828371557",
+        "title": "华宏科技:关于召开2026年第一次临时股东会的通知",
+        "date": "2026-08-25",
+        "time": "19:16",
+        "category": "召开股东大会通知",
+        "codes": [
+          "002645"
+        ],
+        "names": [
+          "华宏科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002645/AN202608241828371557.html"
+      },
+      {
+        "art_code": "AN202608241828371523",
+        "title": "华宏科技:第八届董事会第二次会议决议的公告",
+        "date": "2026-08-25",
+        "time": "19:16",
+        "category": "董事会决议公告",
+        "codes": [
+          "002645"
+        ],
+        "names": [
+          "华宏科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002645/AN202608241828371523.html"
+      },
+      {
+        "art_code": "AN202608241828371549",
+        "title": "华宏科技:关于变更注册资本并修订《公司章程》的公告",
+        "date": "2026-08-25",
+        "time": "19:16",
+        "category": "公司注册资本变更,公司章程修订",
+        "codes": [
+          "002645"
+        ],
+        "names": [
+          "华宏科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002645/AN202608241828371549.html"
+      },
+      {
+        "art_code": "AN202608240006746526",
+        "title": "华宏科技:2026年半年度报告摘要",
+        "date": "2026-08-25",
+        "time": "19:15",
+        "category": "半年度报告摘要",
+        "codes": [
+          "002645"
+        ],
+        "names": [
+          "华宏科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002645/AN202608240006746526.html"
+      },
+      {
+        "art_code": "AN202608240006746521",
+        "title": "华宏科技:2026年半年度报告",
+        "date": "2026-08-25",
+        "time": "19:15",
+        "category": "半年度报告全文",
+        "codes": [
+          "002645"
+        ],
+        "names": [
+          "华宏科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002645/AN202608240006746521.html"
+      },
+      {
+        "art_code": "AN202608241828370458",
+        "title": "兆易创新:H股公告-翌日披露报表",
+        "date": "2026-08-25",
+        "time": "18:54",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608241828370458.html"
+      },
+      {
+        "art_code": "AN202608241828368697",
+        "title": "鼎龙股份:关于控股股东部分股份质押的公告",
+        "date": "2026-08-25",
+        "time": "18:21",
+        "category": "股份质押、冻结,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202608241828368697.html"
+      },
+      {
+        "art_code": "AN202608241828366081",
+        "title": "长川科技:杭州长川科技股份有限公司关于董事、董事会战略委员会委员离任的公告",
+        "date": "2026-08-25",
+        "time": "17:41",
+        "category": "高管人员任职变动",
+        "codes": [
+          "300604"
+        ],
+        "names": [
+          "长川科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202608241828366081.html"
+      },
+      {
+        "art_code": "AN202608241828365340",
+        "title": "普冉股份:国浩律师(上海)事务所关于普冉半导体(上海)股份有限公司2026年第二次临时股东会之法律意见书",
+        "date": "2026-08-25",
+        "time": "17:28",
+        "category": "法律意见书",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608241828365340.html"
+      },
+      {
+        "art_code": "AN202608241828365344",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司2026年第二次临时股东会决议公告",
+        "date": "2026-08-25",
+        "time": "17:28",
+        "category": "股东大会决议公告",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608241828365344.html"
+      },
+      {
+        "art_code": "AN202608241828365342",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于2026年限制性股票激励计划内幕信息知情人买卖公司股票情况的自查报告",
+        "date": "2026-08-25",
+        "time": "17:28",
+        "category": "自查报告",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608241828365342.html"
+      },
+      {
+        "art_code": "AN202608241828359750",
+        "title": "华锐精密:关于完成工商变更登记并换发营业执照的公告",
+        "date": "2026-08-25",
+        "time": "15:32",
+        "category": "公司注册资本变更",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202608241828359750.html"
+      },
+      {
+        "art_code": "AN202608241828373798",
+        "title": "雅创电子:国信证券股份有限公司关于上海雅创电子集团股份有限公司部分募投项目增加实施主体并开立募集资金专户的核查意见",
+        "date": "2026-08-25",
+        "time": "20:35",
+        "category": "保荐/核查意见",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608241828373798.html"
+      },
+      {
+        "art_code": "AN202608241828374088",
+        "title": "兆易创新:投资者关系活动记录表(2026-003)",
+        "date": "2026-08-24",
+        "time": "20:52",
+        "category": "调研活动",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608241828374088.html"
+      },
+      {
+        "art_code": "AN202608241828367992",
+        "title": "江波龙:关于刊发境外上市外资股(H股)发行聆讯后资料集的公告",
+        "date": "2026-08-24",
+        "time": "18:11",
+        "category": "其他",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608241828367992.html"
+      },
+      {
+        "art_code": "AN202608241828367972",
+        "title": "江波龙:关于与专业投资机构共同投资的进展公告",
+        "date": "2026-08-24",
+        "time": "18:11",
+        "category": "投资设立公司",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608241828367972.html"
+      },
+      {
+        "art_code": "AN202608241828363160",
+        "title": "震裕科技:关于签订募集资金三方监管协议的公告",
+        "date": "2026-08-24",
+        "time": "16:47",
+        "category": "签订协议",
+        "codes": [
+          "300953"
+        ],
+        "names": [
+          "震裕科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608241828363160.html"
+      },
+      {
+        "art_code": "AN202608241828362891",
+        "title": "华锐精密:投资者关系活动记录表(2026年8月21日)",
+        "date": "2026-08-24",
+        "time": "16:44",
+        "category": "调研活动",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202608241828362891.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "600176",
+        "name": "中国巨石",
+        "title": "Q2盈利弹性释放，电子布高景气持续",
+        "org": "中邮证券",
+        "rating": "",
+        "date": "2026-08-24",
+        "digest": ""
+      },
+      {
+        "code": "601899",
+        "name": "紫金矿业",
+        "title": "半年报点评：二季度扣非利润表现亮眼，内增外拓强化多元化布局",
+        "org": "国信证券",
+        "rating": "",
+        "date": "2026-08-24",
+        "digest": ""
+      },
+      {
+        "code": "600549",
+        "name": "厦门钨业",
+        "title": "受益于钨价上行，26H1归母净利同比上升126.4%",
+        "org": "国信证券",
+        "rating": "",
+        "date": "2026-08-24",
+        "digest": ""
+      },
+      {
+        "code": "600176",
+        "name": "中国巨石",
+        "title": "2026年半年报点评：电子布景气加速上涨",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-08-24",
+        "digest": ""
+      },
+      {
+        "code": "300308",
+        "name": "中际旭创",
+        "title": "业绩符合预期；追光不止，下一代光互连蓄势待发",
+        "org": "招银国际",
+        "rating": "",
+        "date": "2026-08-24",
+        "digest": ""
+      },
+      {
+        "code": "301338",
+        "name": "凯格精机",
+        "title": "2026中报点评：业绩快速增长，多项业务全面开花",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-08-24",
         "digest": ""
       }
     ]
