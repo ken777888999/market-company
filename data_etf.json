@@ -6074,72 +6074,72 @@
       {
         "name": "港股医疗ETF银华",
         "code": "513620",
-        "pct": 2.82,
-        "amount": 4608.0,
-        "category": "医药"
-      },
-      {
-        "name": "生物医药ETF天弘",
-        "code": "159859",
-        "pct": 2.81,
-        "amount": 20189.0,
-        "category": "医药"
-      },
-      {
-        "name": "生物医药ETF汇添富",
-        "code": "159839",
-        "pct": 2.74,
-        "amount": 7241.0,
+        "pct": 3.73,
+        "amount": 4970.0,
         "category": "医药"
       },
       {
         "name": "生物医药ETF华安",
         "code": "159508",
-        "pct": 2.73,
-        "amount": 1053.0,
+        "pct": 3.23,
+        "amount": 1360.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股创新药ETF景顺",
+        "code": "513780",
+        "pct": 3.12,
+        "amount": 91483.0,
+        "category": "医药"
+      },
+      {
+        "name": "生物医药ETF天弘",
+        "code": "159859",
+        "pct": 3.06,
+        "amount": 24169.0,
+        "category": "医药"
+      },
+      {
+        "name": "生物医药ETF汇添富",
+        "code": "159839",
+        "pct": 3.01,
+        "amount": 8554.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股通医药ETF鹏华",
+        "code": "513700",
+        "pct": 2.83,
+        "amount": 16607.0,
         "category": "医药"
       },
       {
         "name": "医疗ETF易方达",
         "code": "159847",
         "pct": 2.72,
-        "amount": 2156.0,
+        "amount": 2674.0,
         "category": "医药"
       },
       {
-        "name": "医疗ETF国泰",
-        "code": "159828",
+        "name": "港股创新药ETF广发",
+        "code": "513120",
+        "pct": 2.71,
+        "amount": 828786.0,
+        "category": "医药"
+      },
+      {
+        "name": "医药ETF华安",
+        "code": "512120",
+        "pct": 2.62,
+        "amount": 1437.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股通医药ETF易方达",
+        "code": "513200",
         "pct": 2.61,
-        "amount": 5796.0,
+        "amount": 18116.0,
         "category": "医药"
-      },
-      {
-        "name": "机器人ETF景顺",
-        "code": "159559",
-        "pct": 2.57,
-        "amount": 7273.0,
-        "category": "机器人"
-      },
-      {
-        "name": "机器人ETF易方达",
-        "code": "159530",
-        "pct": 2.56,
-        "amount": 59772.0,
-        "category": "机器人"
-      },
-      {
-        "name": "影视ETF国泰",
-        "code": "516620",
-        "pct": 2.51,
-        "amount": 1973.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "影视ETF银华",
-        "code": "159855",
-        "pct": 2.4,
-        "amount": 824.0,
-        "category": "传媒/游戏"
       }
     ]
   }
