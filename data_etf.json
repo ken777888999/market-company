@@ -6072,74 +6072,74 @@
     "date": "2026-08-25",
     "top10": [
       {
-        "name": "纳指科技ETF景顺",
-        "code": "159509",
-        "pct": 2.57,
-        "amount": 33619.0,
-        "category": "海外QDII"
-      },
-      {
         "name": "港股医疗ETF银华",
         "code": "513620",
-        "pct": 2.55,
-        "amount": 3977.0,
+        "pct": 2.82,
+        "amount": 4608.0,
         "category": "医药"
       },
       {
-        "name": "粮食ETF鹏华",
-        "code": "159698",
-        "pct": 2.21,
-        "amount": 12954.0,
-        "category": "农业"
-      },
-      {
-        "name": "港股创新药ETF景顺",
-        "code": "513780",
-        "pct": 2.16,
-        "amount": 64033.0,
+        "name": "生物医药ETF天弘",
+        "code": "159859",
+        "pct": 2.81,
+        "amount": 20189.0,
         "category": "医药"
       },
       {
-        "name": "医疗ETF国泰",
-        "code": "159828",
-        "pct": 2.14,
-        "amount": 4526.0,
+        "name": "生物医药ETF汇添富",
+        "code": "159839",
+        "pct": 2.74,
+        "amount": 7241.0,
         "category": "医药"
       },
       {
         "name": "生物医药ETF华安",
         "code": "159508",
-        "pct": 2.11,
-        "amount": 794.0,
+        "pct": 2.73,
+        "amount": 1053.0,
         "category": "医药"
+      },
+      {
+        "name": "医疗ETF易方达",
+        "code": "159847",
+        "pct": 2.72,
+        "amount": 2156.0,
+        "category": "医药"
+      },
+      {
+        "name": "医疗ETF国泰",
+        "code": "159828",
+        "pct": 2.61,
+        "amount": 5796.0,
+        "category": "医药"
+      },
+      {
+        "name": "机器人ETF景顺",
+        "code": "159559",
+        "pct": 2.57,
+        "amount": 7273.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 2.56,
+        "amount": 59772.0,
+        "category": "机器人"
       },
       {
         "name": "影视ETF国泰",
         "code": "516620",
-        "pct": 2.01,
-        "amount": 1338.0,
+        "pct": 2.51,
+        "amount": 1973.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "标普消费ETF景顺",
-        "code": "159529",
-        "pct": 2.01,
-        "amount": 23742.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "粮食ETF广发",
-        "code": "159587",
-        "pct": 1.96,
-        "amount": 5675.0,
-        "category": "农业"
-      },
-      {
-        "name": "生物医药ETF汇添富",
-        "code": "159839",
-        "pct": 1.92,
-        "amount": 5187.0,
-        "category": "医药"
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 2.4,
+        "amount": 824.0,
+        "category": "传媒/游戏"
       }
     ]
   }
