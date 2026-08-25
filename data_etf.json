@@ -6067,5 +6067,80 @@
         "category": "有色/资源"
       }
     ]
+  },
+  {
+    "date": "2026-08-25",
+    "top10": [
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 2.79,
+        "amount": 37199.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "粮食ETF鹏华",
+        "code": "159698",
+        "pct": 1.77,
+        "amount": 11156.0,
+        "category": "农业"
+      },
+      {
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 1.63,
+        "amount": 830.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "粮食ETF广发",
+        "code": "159587",
+        "pct": 1.54,
+        "amount": 5041.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF易方达",
+        "code": "562900",
+        "pct": 1.47,
+        "amount": 808.0,
+        "category": "农业"
+      },
+      {
+        "name": "畜牧养殖ETF鑫元",
+        "code": "561400",
+        "pct": 1.42,
+        "amount": 144.0,
+        "category": "农业"
+      },
+      {
+        "name": "旅游ETF华夏",
+        "code": "562510",
+        "pct": 1.42,
+        "amount": 1693.0,
+        "category": "旅游/交运"
+      },
+      {
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 1.41,
+        "amount": 405.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "家电ETF广发",
+        "code": "560880",
+        "pct": 1.4,
+        "amount": 944.0,
+        "category": "家电"
+      },
+      {
+        "name": "畜牧养殖ETF天弘",
+        "code": "561470",
+        "pct": 1.39,
+        "amount": 129.0,
+        "category": "农业"
+      }
+    ]
   }
 ]
