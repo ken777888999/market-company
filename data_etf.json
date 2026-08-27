@@ -6224,72 +6224,72 @@
       {
         "name": "科创成长ETF易方达",
         "code": "588020",
-        "pct": 4.06,
-        "amount": 36965.0,
+        "pct": 5.5,
+        "amount": 45015.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创成长ETF万家",
+        "code": "588070",
+        "pct": 5.08,
+        "amount": 1717.0,
         "category": "科创板"
       },
       {
         "name": "集成电路ETF国泰",
         "code": "159546",
-        "pct": 4.01,
-        "amount": 5871.0,
-        "category": null
-      },
-      {
-        "name": "集成电路ETF嘉实",
-        "code": "562820",
-        "pct": 3.85,
-        "amount": 2952.0,
+        "pct": 5.07,
+        "amount": 7377.0,
         "category": null
       },
       {
         "name": "科创成长ETF广发",
         "code": "588110",
-        "pct": 3.73,
-        "amount": 6836.0,
+        "pct": 5.03,
+        "amount": 8433.0,
         "category": "科创板"
+      },
+      {
+        "name": "集成电路ETF嘉实",
+        "code": "562820",
+        "pct": 4.93,
+        "amount": 3958.0,
+        "category": null
+      },
+      {
+        "name": "科创芯片ETF嘉实",
+        "code": "588200",
+        "pct": 4.79,
+        "amount": 380606.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "信创ETF广发",
+        "code": "159539",
+        "pct": 4.72,
+        "amount": 931.0,
+        "category": "计算机/信创"
       },
       {
         "name": "科创新材料ETF南方",
         "code": "588160",
-        "pct": 3.68,
-        "amount": 20827.0,
-        "category": "科创板"
-      },
-      {
-        "name": "粮食ETF广发",
-        "code": "159587",
-        "pct": 3.67,
-        "amount": 6082.0,
-        "category": "农业"
-      },
-      {
-        "name": "粮食ETF鹏华",
-        "code": "159698",
-        "pct": 3.66,
-        "amount": 14818.0,
-        "category": "农业"
-      },
-      {
-        "name": "科创成长ETF万家",
-        "code": "588070",
-        "pct": 3.59,
-        "amount": 1275.0,
+        "pct": 4.71,
+        "amount": 23178.0,
         "category": "科创板"
       },
       {
         "name": "科创新材料ETF博时",
         "code": "588010",
-        "pct": 3.57,
-        "amount": 11411.0,
+        "pct": 4.64,
+        "amount": 13468.0,
         "category": "科创板"
       },
       {
-        "name": "科创创业人工智能ETF鹏华",
-        "code": "588410",
-        "pct": 3.51,
-        "amount": 481.0,
-        "category": "AI"
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 4.63,
+        "amount": 358865.0,
+        "category": "通信/5G"
       }
     ]
   }
