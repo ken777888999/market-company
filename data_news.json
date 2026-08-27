@@ -1,125 +1,5 @@
 [
   {
-    "date": "2026-07-07",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202607071826777296",
-        "title": "芯碁微装:港股公告:证券变动月报表",
-        "date": "2026-07-08",
-        "time": "18:57",
-        "category": "其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202607071826777296.html"
-      },
-      {
-        "art_code": "AN202607071826776661",
-        "title": "广合科技:H股公告-截至二零二六年六月三十日止月份之股份发行人的证券变动月报表",
-        "date": "2026-07-08",
-        "time": "18:29",
-        "category": "其他",
-        "codes": [
-          "001389"
-        ],
-        "names": [
-          "广合科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202607071826776661.html"
-      },
-      {
-        "art_code": "AN202607071826776550",
-        "title": "广合科技:2026年半年度业绩预告",
-        "date": "2026-07-08",
-        "time": "18:27",
-        "category": "业绩预告",
-        "codes": [
-          "001389"
-        ],
-        "names": [
-          "广合科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202607071826776550.html"
-      },
-      {
-        "art_code": "AN202607071826774061",
-        "title": "智微智能:2026年半年度业绩预告",
-        "date": "2026-07-08",
-        "time": "17:17",
-        "category": "业绩预告",
-        "codes": [
-          "001339"
-        ],
-        "names": [
-          "智微智能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001339/AN202607071826774061.html"
-      },
-      {
-        "art_code": "AN202607071826777233",
-        "title": "雅创电子:关于实施2025年度利润分配后发行股份及支付现金购买资产的股份发行价格和发行数量调整的公告",
-        "date": "2026-07-07",
-        "time": "18:53",
-        "category": "增发方案修订,产品价格调整",
-        "codes": [
-          "301099"
-        ],
-        "names": [
-          "雅创电子"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301099/AN202607071826777233.html"
-      },
-      {
-        "art_code": "AN202607071826776775",
-        "title": "三环集团:关于境外上市股份(H股)公开发行价格的公告",
-        "date": "2026-07-07",
-        "time": "18:32",
-        "category": "其他",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607071826776775.html"
-      },
-      {
-        "art_code": "AN202607071826775188",
-        "title": "002156通富微电投资者关系管理信息20260707",
-        "date": "2026-07-07",
-        "time": "17:52",
-        "category": "调研活动",
-        "codes": [
-          "002156"
-        ],
-        "names": [
-          "通富微电"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002156/AN202607071826775188.html"
-      },
-      {
-        "art_code": "AN202607071826773710",
-        "title": "沪电股份:2026年7月7日投资者关系活动记录表",
-        "date": "2026-07-07",
-        "time": "17:13",
-        "category": "调研活动",
-        "codes": [
-          "002463"
-        ],
-        "names": [
-          "沪电股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607071826773710.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-07-08",
     "time": "09:00",
     "period": "早间",
@@ -14828,6 +14708,196 @@
       }
     ],
     "reports": [
+      {
+        "code": "002463",
+        "name": "沪电股份",
+        "title": "公司信息更新报告：2026Q2毛利率创新高，高端产能布局加速",
+        "org": "开源证券",
+        "rating": "",
+        "date": "2026-08-26",
+        "digest": ""
+      },
+      {
+        "code": "300054",
+        "name": "鼎龙股份",
+        "title": "半导体材料业务多点开花，给予“买进”的投资建议",
+        "org": "群益证券",
+        "rating": "",
+        "date": "2026-08-26",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202608271828513031",
+        "title": "中际旭创:关于悉数行使超额配售权、稳定价格行动及稳定价格期结束的公告",
+        "date": "2026-08-27",
+        "time": "07:44",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608271828513031.html"
+      },
+      {
+        "art_code": "AN202608261828499885",
+        "title": "芯碁微装:港股公告:致H股登记股东之通知信函？以电子方式发布公司通讯之安排",
+        "date": "2026-08-27",
+        "time": "21:55",
+        "category": "其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499885.html"
+      },
+      {
+        "art_code": "AN202608261828499886",
+        "title": "芯碁微装:港股公告:2026年第一次临时股东大会H股持有人代表委任表格",
+        "date": "2026-08-27",
+        "time": "21:55",
+        "category": "其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499886.html"
+      },
+      {
+        "art_code": "AN202608261828499887",
+        "title": "芯碁微装:港股公告:变更联席公司秘书、授权代表及法律程序代理人及豁免严格遵守上市规则第3.28条及第8.17条",
+        "date": "2026-08-27",
+        "time": "21:55",
+        "category": "其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499887.html"
+      },
+      {
+        "art_code": "AN202608261828499881",
+        "title": "芯碁微装:港股公告:致H股非登记持有人之通知信函及申请表格？以电子方式发布公司通讯之安排",
+        "date": "2026-08-27",
+        "time": "21:55",
+        "category": "其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499881.html"
+      },
+      {
+        "art_code": "AN202608261828499880",
+        "title": "芯碁微装:港股公告:2026年第一次临时股东大会通告",
+        "date": "2026-08-27",
+        "time": "21:55",
+        "category": "召开股东大会通知,其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499880.html"
+      },
+      {
+        "art_code": "AN202608261828499883",
+        "title": "芯碁微装:港股公告:变更公司注册资本及修订公司章程",
+        "date": "2026-08-27",
+        "time": "21:55",
+        "category": "公司注册资本变更,公司章程修订,其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499883.html"
+      },
+      {
+        "art_code": "AN202608261828499888",
+        "title": "芯碁微装:港股公告:截至2026年6月30日止六个月的中期业绩公告",
+        "date": "2026-08-27",
+        "time": "21:54",
+        "category": "其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499888.html"
+      },
+      {
+        "art_code": "AN202608261828499882",
+        "title": "芯碁微装:港股公告:2026年中期报告",
+        "date": "2026-08-27",
+        "time": "21:54",
+        "category": "其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499882.html"
+      },
+      {
+        "art_code": "AN202608261828499884",
+        "title": "芯碁微装:港股公告:变更公司注册资本及修订公司章程;增加使用闲置自有资金进行现金管理及2026年第一次临时股东大会通告",
+        "date": "2026-08-27",
+        "time": "21:54",
+        "category": "公司注册资本变更,公司章程修订,投资理财,其他",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499884.html"
+      },
+      {
+        "art_code": "AN202608261828499748",
+        "title": "中钨高新2026年8月25日投资者关系活动记录表",
+        "date": "2026-08-26",
+        "time": "21:51",
+        "category": "调研活动",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202608261828499748.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "688257",
+        "name": "新锐股份",
+        "title": "2026中报点评：业绩符合预告区间，量价齐升驱动盈利跨越式增长",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-08-27",
+        "digest": ""
+      },
       {
         "code": "002463",
         "name": "沪电股份",
