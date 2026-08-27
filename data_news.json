@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-07-08",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-07-08",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14914,6 +14907,677 @@
         "org": "群益证券",
         "rating": "",
         "date": "2026-08-26",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608271828555995",
+        "title": "德明利:关于非经常性损益的审核报告",
+        "date": "2026-08-28",
+        "time": "20:14",
+        "category": "保荐/核查意见",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608271828555995.html"
+      },
+      {
+        "art_code": "AN202608271828555988",
+        "title": "德明利:关于召开2026年第四次临时股东会的通知",
+        "date": "2026-08-28",
+        "time": "20:14",
+        "category": "召开股东大会通知",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608271828555988.html"
+      },
+      {
+        "art_code": "AN202608271828556003",
+        "title": "德明利:关于2026年半年度募集资金存放与实际使用情况的专项报告",
+        "date": "2026-08-28",
+        "time": "20:14",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608271828556003.html"
+      },
+      {
+        "art_code": "AN202608271828555981",
+        "title": "德明利:关于聘任公司副总经理的公告",
+        "date": "2026-08-28",
+        "time": "20:14",
+        "category": "高管人员任职变动",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608271828555981.html"
+      },
+      {
+        "art_code": "AN202608271828555998",
+        "title": "德明利:第三届董事会第四次会议决议公告",
+        "date": "2026-08-28",
+        "time": "20:14",
+        "category": "分配预案,高管人员任职变动,董事会决议公告",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608271828555998.html"
+      },
+      {
+        "art_code": "AN202608271828556000",
+        "title": "德明利:关于公司及控股子公司开展应收账款无追索权保理业务的公告",
+        "date": "2026-08-28",
+        "time": "20:14",
+        "category": "其他",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608271828556000.html"
+      },
+      {
+        "art_code": "AN202608271828555997",
+        "title": "德明利:关于前次募集资金使用情况的审核报告",
+        "date": "2026-08-28",
+        "time": "20:14",
+        "category": "保荐/核查意见",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608271828555997.html"
+      },
+      {
+        "art_code": "AN202608271828556006",
+        "title": "德明利:2026年半年度非经营性资金占用及其他关联方资金往来情况汇总表",
+        "date": "2026-08-28",
+        "time": "20:14",
+        "category": "资金占用",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608271828556006.html"
+      },
+      {
+        "art_code": "AN202608270006755124",
+        "title": "德明利:2026年半年度报告摘要",
+        "date": "2026-08-28",
+        "time": "20:13",
+        "category": "半年度报告摘要",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608270006755124.html"
+      },
+      {
+        "art_code": "AN202608270006755120",
+        "title": "德明利:2026年半年度报告",
+        "date": "2026-08-28",
+        "time": "20:13",
+        "category": "半年度报告全文",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608270006755120.html"
+      },
+      {
+        "art_code": "AN202608271828555910",
+        "title": "德明利:关于前次募集资金使用情况的专项报告",
+        "date": "2026-08-28",
+        "time": "20:12",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "001309"
+        ],
+        "names": [
+          "德明利"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608271828555910.html"
+      },
+      {
+        "art_code": "AN202608271828554248",
+        "title": "协创数据:关于2026年半年度报告披露的提示性公告",
+        "date": "2026-08-28",
+        "time": "19:29",
+        "category": "其他",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608271828554248.html"
+      },
+      {
+        "art_code": "AN202608271828554243",
+        "title": "协创数据:关于公司及子公司新增2026年度向银行等金融或非金融机构申请综合授信的公告",
+        "date": "2026-08-28",
+        "time": "19:29",
+        "category": "借贷",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608271828554243.html"
+      },
+      {
+        "art_code": "AN202608271828554237",
+        "title": "协创数据:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-28",
+        "time": "19:29",
+        "category": "资金占用",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608271828554237.html"
+      },
+      {
+        "art_code": "AN202608271828554246",
+        "title": "协创数据:关于计提2026年半年度信用减值损失及资产减值损失的公告",
+        "date": "2026-08-28",
+        "time": "19:29",
+        "category": "其他",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608271828554246.html"
+      },
+      {
+        "art_code": "AN202608271828554240",
+        "title": "协创数据:第四届董事会第十九次会议决议公告",
+        "date": "2026-08-28",
+        "time": "19:29",
+        "category": "董事会决议公告",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608271828554240.html"
+      },
+      {
+        "art_code": "AN202608270006754985",
+        "title": "协创数据:2026年半年度报告摘要",
+        "date": "2026-08-28",
+        "time": "19:29",
+        "category": "半年度报告摘要",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608270006754985.html"
+      },
+      {
+        "art_code": "AN202608270006754984",
+        "title": "协创数据:2026年半年度报告",
+        "date": "2026-08-28",
+        "time": "19:29",
+        "category": "半年度报告全文",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608270006754984.html"
+      },
+      {
+        "art_code": "AN202608271828554169",
+        "title": "协创数据:关于2026年半年度募集资金存放、管理与使用情况的专项报告",
+        "date": "2026-08-28",
+        "time": "19:27",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608271828554169.html"
+      },
+      {
+        "art_code": "AN202608271828551100",
+        "title": "中一科技:关于2026年第二季度转回资产减值准备的公告",
+        "date": "2026-08-28",
+        "time": "18:34",
+        "category": "其他",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202608271828551100.html"
+      },
+      {
+        "art_code": "AN202608271828551103",
+        "title": "中一科技:2026年半年度募集资金存放、管理与使用情况的专项报告",
+        "date": "2026-08-28",
+        "time": "18:34",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202608271828551103.html"
+      },
+      {
+        "art_code": "AN202608271828551111",
+        "title": "中一科技:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-28",
+        "time": "18:34",
+        "category": "资金占用",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202608271828551111.html"
+      },
+      {
+        "art_code": "AN202608271828551074",
+        "title": "中一科技:湖北中一科技股份有限公司董事会秘书工作细则",
+        "date": "2026-08-28",
+        "time": "18:34",
+        "category": "议事规则/实施细则",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202608271828551074.html"
+      },
+      {
+        "art_code": "AN202608271828551085",
+        "title": "中一科技:第四届董事会第七次会议决议公告",
+        "date": "2026-08-28",
+        "time": "18:34",
+        "category": "董事会决议公告",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202608271828551085.html"
+      },
+      {
+        "art_code": "AN202608270006754594",
+        "title": "中一科技:2026年半年度报告",
+        "date": "2026-08-28",
+        "time": "18:33",
+        "category": "半年度报告全文",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202608270006754594.html"
+      },
+      {
+        "art_code": "AN202608270006754589",
+        "title": "中一科技:2026年半年度报告摘要",
+        "date": "2026-08-28",
+        "time": "18:33",
+        "category": "半年度报告摘要",
+        "codes": [
+          "301150"
+        ],
+        "names": [
+          "中一科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301150/AN202608270006754589.html"
+      },
+      {
+        "art_code": "AN202608271828548381",
+        "title": "中国铝业:中国铝业第九届董事会第十六次会议决议公告",
+        "date": "2026-08-28",
+        "time": "18:01",
+        "category": "董事会决议公告",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202608271828548381.html"
+      },
+      {
+        "art_code": "AN202608271828548382",
+        "title": "中国铝业:中国铝业关于对中铝财务有限责任公司风险评估报告(2026年半年度)的公告",
+        "date": "2026-08-28",
+        "time": "18:01",
+        "category": "其他",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202608271828548382.html"
+      },
+      {
+        "art_code": "AN202608271828548383",
+        "title": "中国铝业:中国铝业2026年半年度报告",
+        "date": "2026-08-28",
+        "time": "18:00",
+        "category": "半年度报告全文",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202608271828548383.html"
+      },
+      {
+        "art_code": "AN202608271828548385",
+        "title": "中国铝业:中国铝业2026年半年度报告摘要",
+        "date": "2026-08-28",
+        "time": "18:00",
+        "category": "半年度报告摘要",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202608271828548385.html"
+      },
+      {
+        "art_code": "AN202608271828545909",
+        "title": "兆易创新:H股公告-翌日披露报表",
+        "date": "2026-08-28",
+        "time": "17:31",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608271828545909.html"
+      },
+      {
+        "art_code": "AN202608271828542908",
+        "title": "三环集团:第十二届董事会第二次会议决议公告",
+        "date": "2026-08-28",
+        "time": "16:52",
+        "category": "董事会决议公告",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608271828542908.html"
+      },
+      {
+        "art_code": "AN202608271828542891",
+        "title": "三环集团:关于会计政策变更的公告",
+        "date": "2026-08-28",
+        "time": "16:52",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608271828542891.html"
+      },
+      {
+        "art_code": "AN202608271828542888",
+        "title": "三环集团:2026年半年度报告",
+        "date": "2026-08-28",
+        "time": "16:52",
+        "category": "半年度报告全文",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608271828542888.html"
+      },
+      {
+        "art_code": "AN202608271828542903",
+        "title": "三环集团:关于募集资金2026年半年度存放、管理与使用情况的专项报告",
+        "date": "2026-08-28",
+        "time": "16:52",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608271828542903.html"
+      },
+      {
+        "art_code": "AN202608271828542901",
+        "title": "三环集团:公司章程(2026年8月修订)",
+        "date": "2026-08-28",
+        "time": "16:52",
+        "category": "公司章程修订",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608271828542901.html"
+      },
+      {
+        "art_code": "AN202608271828542904",
+        "title": "三环集团:2026年半年度报告摘要",
+        "date": "2026-08-28",
+        "time": "16:52",
+        "category": "半年度报告摘要",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608271828542904.html"
+      },
+      {
+        "art_code": "AN202608271828542619",
+        "title": "三环集团:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-28",
+        "time": "16:50",
+        "category": "资金占用",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608271828542619.html"
+      },
+      {
+        "art_code": "AN202608271828542618",
+        "title": "三环集团:董事会议事规则",
+        "date": "2026-08-28",
+        "time": "16:50",
+        "category": "议事规则/实施细则",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608271828542618.html"
+      },
+      {
+        "art_code": "AN202608271828541590",
+        "title": "新锐股份:新锐股份关于变更公司注册资本、修订《公司章程》并办理完成工商变更登记换发营业执照的公告",
+        "date": "2026-08-28",
+        "time": "16:35",
+        "category": "公司注册资本变更,公司章程修订",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202608271828541590.html"
+      },
+      {
+        "art_code": "AN202608271828541589",
+        "title": "新锐股份:新锐股份公司章程(2026年8月)",
+        "date": "2026-08-28",
+        "time": "16:35",
+        "category": "公司章程",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202608271828541589.html"
+      },
+      {
+        "art_code": "AN202608271828538834",
+        "title": "德业股份:关于使用部分暂时闲置募集资金购买理财产品到期赎回的公告",
+        "date": "2026-08-28",
+        "time": "16:21",
+        "category": "投资理财",
+        "codes": [
+          "605117"
+        ],
+        "names": [
+          "德业股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/605117/AN202608271828538834.html"
+      },
+      {
+        "art_code": "AN202608271828537566",
+        "title": "株冶集团:株冶集团关于参加2026年湖南辖区上市公司投资者网上集体接待日暨半年度业绩说明会活动的公告",
+        "date": "2026-08-28",
+        "time": "16:01",
+        "category": "调研活动",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202608271828537566.html"
+      },
+      {
+        "art_code": "AN202608271828549803",
+        "title": "中际旭创:关于境外上市股份(H股)调入港股通标的证券名单的公告",
+        "date": "2026-08-27",
+        "time": "18:22",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608271828549803.html"
+      },
+      {
+        "art_code": "AN202608271828539962",
+        "title": "震裕科技:关于控股股东、实际控制人部分股份质押的公告",
+        "date": "2026-08-27",
+        "time": "16:31",
+        "category": "股份质押、冻结",
+        "codes": [
+          "300953"
+        ],
+        "names": [
+          "震裕科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608271828539962.html"
+      },
+      {
+        "art_code": "AN202608271828534853",
+        "title": "中国巨石:投资者关系活动记录表",
+        "date": "2026-08-27",
+        "time": "15:37",
+        "category": "调研活动",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202608271828534853.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "300373",
+        "name": "扬杰科技",
+        "title": "汽车电子、AI数据中心与SiC业务成为核心增长引擎",
+        "org": "山西证券",
+        "rating": "",
+        "date": "2026-08-27",
+        "digest": ""
+      },
+      {
+        "code": "300953",
+        "name": "震裕科技",
+        "title": "2026年半年报点评：主业受铝价波动影响，机器人产品不断拓展",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-08-27",
         "digest": ""
       }
     ]
