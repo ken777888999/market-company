@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-07-09",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-07-09",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -15801,6 +15794,797 @@
         "org": "山西证券",
         "rating": "",
         "date": "2026-08-27",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202608281828644639",
+        "title": "睿创微纳:2026年第二次临时股东会会议资料",
+        "date": "2026-08-29",
+        "time": "19:14",
+        "category": "股东大会资料",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202608281828644639.html"
+      },
+      {
+        "art_code": "AN202608281828640821",
+        "title": "通富微电:北京大成律师事务所关于通富微电子股份有限公司2026年度向特定对象发行A股股票发行过程及认购对象合规性之法律意见书",
+        "date": "2026-08-29",
+        "time": "18:40",
+        "category": "法律意见书",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202608281828640821.html"
+      },
+      {
+        "art_code": "AN202608281828640822",
+        "title": "通富微电:通富微电子股份有限公司向特定对象发行股票发行情况报告书",
+        "date": "2026-08-29",
+        "time": "18:40",
+        "category": "其他增发事项公告",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202608281828640822.html"
+      },
+      {
+        "art_code": "AN202608281828640818",
+        "title": "通富微电:国泰海通证券股份有限公司、中信建投证券股份有限公司关于通富微电子股份有限公司向特定对象发行股票的发行过程和认购对象合规性报告",
+        "date": "2026-08-29",
+        "time": "18:40",
+        "category": "保荐/核查意见",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202608281828640818.html"
+      },
+      {
+        "art_code": "AN202608281828640730",
+        "title": "通富微电:关于向特定对象发行股票发行情况报告书披露的提示性公告",
+        "date": "2026-08-29",
+        "time": "18:39",
+        "category": "增发提示性公告",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202608281828640730.html"
+      },
+      {
+        "art_code": "AN202608281828640038",
+        "title": "华明装备:关于召开2026年第三次临时股东会的通知",
+        "date": "2026-08-29",
+        "time": "18:32",
+        "category": "召开股东大会通知",
+        "codes": [
+          "002270"
+        ],
+        "names": [
+          "华明装备"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002270/AN202608281828640038.html"
+      },
+      {
+        "art_code": "AN202608281828640042",
+        "title": "华明装备:关于第七届董事会第十一次会议决议的公告",
+        "date": "2026-08-29",
+        "time": "18:32",
+        "category": "分配预案,董事会决议公告",
+        "codes": [
+          "002270"
+        ],
+        "names": [
+          "华明装备"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002270/AN202608281828640042.html"
+      },
+      {
+        "art_code": "AN202608280006758220",
+        "title": "华明装备:2026年半年度报告摘要",
+        "date": "2026-08-29",
+        "time": "18:29",
+        "category": "半年度报告摘要",
+        "codes": [
+          "002270"
+        ],
+        "names": [
+          "华明装备"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002270/AN202608280006758220.html"
+      },
+      {
+        "art_code": "AN202608280006758211",
+        "title": "华明装备:2026年半年度报告",
+        "date": "2026-08-29",
+        "time": "18:29",
+        "category": "半年度报告全文",
+        "codes": [
+          "002270"
+        ],
+        "names": [
+          "华明装备"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002270/AN202608280006758211.html"
+      },
+      {
+        "art_code": "AN202608281828639604",
+        "title": "华明装备:2026半年度非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-29",
+        "time": "18:29",
+        "category": "资金占用",
+        "codes": [
+          "002270"
+        ],
+        "names": [
+          "华明装备"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002270/AN202608281828639604.html"
+      },
+      {
+        "art_code": "AN202608281828637286",
+        "title": "兆易创新:H股公告-翌日披露报表",
+        "date": "2026-08-29",
+        "time": "18:15",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608281828637286.html"
+      },
+      {
+        "art_code": "AN202608281828633527",
+        "title": "南亚新材:独立董事提名人声明与承诺-唐艳玲",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633527.html"
+      },
+      {
+        "art_code": "AN202608281828633534",
+        "title": "南亚新材:独立董事候选人声明与承诺-王旭",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633534.html"
+      },
+      {
+        "art_code": "AN202608281828633529",
+        "title": "南亚新材:第三届董事会第三十六次会议决议公告",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633529.html"
+      },
+      {
+        "art_code": "AN202608281828633535",
+        "title": "南亚新材:关于公司续聘2026年度审计机构的公告",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "审计机构变更",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633535.html"
+      },
+      {
+        "art_code": "AN202608281828633543",
+        "title": "南亚新材:独立董事提名人声明与承诺-吴芃",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633543.html"
+      },
+      {
+        "art_code": "AN202608281828633533",
+        "title": "南亚新材:2026年度“提质增效重回报”行动方案半年度评估报告",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "其他",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633533.html"
+      },
+      {
+        "art_code": "AN202608281828633541",
+        "title": "南亚新材:2026年半年度报告",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "半年度报告全文",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633541.html"
+      },
+      {
+        "art_code": "AN202608281828633536",
+        "title": "南亚新材:关于公司董事会换届选举的公告",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "高管人员任职变动",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633536.html"
+      },
+      {
+        "art_code": "AN202608281828633546",
+        "title": "南亚新材:2026年半年度报告摘要",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "半年度报告摘要",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633546.html"
+      },
+      {
+        "art_code": "AN202608281828633528",
+        "title": "南亚新材:独立董事候选人声明与承诺-唐艳玲",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633528.html"
+      },
+      {
+        "art_code": "AN202608281828633539",
+        "title": "南亚新材:关于召开2026年半年度现场业绩说明会暨投资者集体接待日活动的公告",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "调研活动",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633539.html"
+      },
+      {
+        "art_code": "AN202608281828633532",
+        "title": "南亚新材:2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633532.html"
+      },
+      {
+        "art_code": "AN202608281828633545",
+        "title": "南亚新材:市值管理制度",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "管理办法/制度",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633545.html"
+      },
+      {
+        "art_code": "AN202608281828633540",
+        "title": "南亚新材:董事会提名委员会关于第四届董事会董事候选人任职资格的审核意见",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633540.html"
+      },
+      {
+        "art_code": "AN202608281828633531",
+        "title": "南亚新材:独立董事提名人声明与承诺-王旭",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633531.html"
+      },
+      {
+        "art_code": "AN202608281828633547",
+        "title": "南亚新材:关于召开2026年第三次临时股东会的通知",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "召开股东大会通知",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633547.html"
+      },
+      {
+        "art_code": "AN202608281828633530",
+        "title": "南亚新材:独立董事候选人声明与承诺-吴芃",
+        "date": "2026-08-29",
+        "time": "17:42",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608281828633530.html"
+      },
+      {
+        "art_code": "AN202608281828632512",
+        "title": "通富微电:2026年1-6月募集资金存放与实际使用情况的专项报告",
+        "date": "2026-08-29",
+        "time": "17:33",
+        "category": "募集资金使用情况报告",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202608281828632512.html"
+      },
+      {
+        "art_code": "AN202608281828632504",
+        "title": "通富微电:第八届董事会第二十一次会议决议公告",
+        "date": "2026-08-29",
+        "time": "17:33",
+        "category": "董事会决议公告",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202608281828632504.html"
+      },
+      {
+        "art_code": "AN202608281828632501",
+        "title": "通富微电:通富微电子股份有限公司2026年6月30日非经营性资金占用及其他关联资金往来情况汇总表",
+        "date": "2026-08-29",
+        "time": "17:33",
+        "category": "资金占用",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202608281828632501.html"
+      },
+      {
+        "art_code": "AN202608280006757883",
+        "title": "通富微电:2026年半年度报告摘要",
+        "date": "2026-08-29",
+        "time": "17:33",
+        "category": "半年度报告摘要",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202608280006757883.html"
+      },
+      {
+        "art_code": "AN202608280006757877",
+        "title": "通富微电:2026年半年度报告",
+        "date": "2026-08-29",
+        "time": "17:33",
+        "category": "半年度报告全文",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202608280006757877.html"
+      },
+      {
+        "art_code": "AN202608281828630558",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于以集中竞价交易方式首次回购公司股份的公告",
+        "date": "2026-08-29",
+        "time": "17:18",
+        "category": "回购实施公告",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608281828630558.html"
+      },
+      {
+        "art_code": "AN202608281828626934",
+        "title": "安孚科技:安徽安孚电池科技股份有限公司关于2026年半年度业绩说明会召开情况的公告",
+        "date": "2026-08-29",
+        "time": "16:50",
+        "category": "调研活动",
+        "codes": [
+          "603031"
+        ],
+        "names": [
+          "安孚科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603031/AN202608281828626934.html"
+      },
+      {
+        "art_code": "AN202608281828623352",
+        "title": "华锐精密:关于签订募集资金专户存储四方监管协议的公告",
+        "date": "2026-08-29",
+        "time": "16:25",
+        "category": "签订协议",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202608281828623352.html"
+      },
+      {
+        "art_code": "AN202608281828620352",
+        "title": "沪电股份:关于部分股票期权注销完成的公告",
+        "date": "2026-08-29",
+        "time": "16:02",
+        "category": "股权激励进展公告",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202608281828620352.html"
+      },
+      {
+        "art_code": "AN202608281828647062",
+        "title": "江波龙:关于与专业投资机构共同投资的进展公告",
+        "date": "2026-08-28",
+        "time": "19:46",
+        "category": "投资设立公司",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608281828647062.html"
+      },
+      {
+        "art_code": "AN202608281828643189",
+        "title": "新锐股份:投资者关系活动记录表(2026年8月7日-2026年8月28日)",
+        "date": "2026-08-28",
+        "time": "19:03",
+        "category": "调研活动",
+        "codes": [
+          "688257"
+        ],
+        "names": [
+          "新锐股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688257/AN202608281828643189.html"
+      },
+      {
+        "art_code": "AN202608281828641857",
+        "title": "三环集团:第十二届董事会第三次会议决议公告",
+        "date": "2026-08-28",
+        "time": "18:50",
+        "category": "董事会决议公告",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608281828641857.html"
+      },
+      {
+        "art_code": "AN202608281828641856",
+        "title": "三环集团:董事会关于2026年A股员工持股计划草案合规性说明",
+        "date": "2026-08-28",
+        "time": "18:50",
+        "category": "专项说明/独立意见",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608281828641856.html"
+      },
+      {
+        "art_code": "AN202608281828641855",
+        "title": "三环集团:薪酬与考核委员会关于2026年A股员工持股计划相关事项的审核意见",
+        "date": "2026-08-28",
+        "time": "18:50",
+        "category": "保荐/核查意见",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608281828641855.html"
+      },
+      {
+        "art_code": "AN202608281828641860",
+        "title": "三环集团:2026年A股员工持股计划管理办法",
+        "date": "2026-08-28",
+        "time": "18:50",
+        "category": "员工持股计划,管理办法/制度",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608281828641860.html"
+      },
+      {
+        "art_code": "AN202608281828641858",
+        "title": "三环集团:2026年A股员工持股计划(草案)摘要",
+        "date": "2026-08-28",
+        "time": "18:50",
+        "category": "员工持股计划",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608281828641858.html"
+      },
+      {
+        "art_code": "AN202608281828641859",
+        "title": "三环集团:2026年A股员工持股计划(草案)",
+        "date": "2026-08-28",
+        "time": "18:50",
+        "category": "员工持股计划",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608281828641859.html"
+      },
+      {
+        "art_code": "AN202608281828641372",
+        "title": "凯格精机:关于全资子公司参与司法拍卖竞得资产暨募投项目进展的公告",
+        "date": "2026-08-28",
+        "time": "18:45",
+        "category": "募集资金使用进展情况,收购出售资产/股权",
+        "codes": [
+          "301338"
+        ],
+        "names": [
+          "凯格精机"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301338/AN202608281828641372.html"
+      },
+      {
+        "art_code": "AN202608281828638766",
+        "title": "雅创电子:关于全资子公司开立募集资金专户并签署募集资金五方监管协议的公告",
+        "date": "2026-08-28",
+        "time": "18:24",
+        "category": "签订协议",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202608281828638766.html"
+      },
+      {
+        "art_code": "AN202608281828638733",
+        "title": "震裕科技:宁波震裕科技股份有限公司向不特定对象发行可转换公司债券上市公告书",
+        "date": "2026-08-28",
+        "time": "18:24",
+        "category": "其他,上市公告",
+        "codes": [
+          "300953"
+        ],
+        "names": [
+          "震裕科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608281828638733.html"
+      },
+      {
+        "art_code": "AN202608281828638756",
+        "title": "震裕科技:浙江天册律师事务所关于宁波震裕科技股份有限公司向不特定对象发行可转换公司债券并在深圳证券交易所上市的法律意见书",
+        "date": "2026-08-28",
+        "time": "18:24",
+        "category": "其他,一般债券募集说明书法律意见书",
+        "codes": [
+          "300953"
+        ],
+        "names": [
+          "震裕科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608281828638756.html"
+      },
+      {
+        "art_code": "AN202608281828638745",
+        "title": "震裕科技:广发证券股份有限公司关于宁波震裕科技股份有限公司向不特定对象发行可转换公司债券之上市保荐书",
+        "date": "2026-08-28",
+        "time": "18:24",
+        "category": "其他,上市保荐书",
+        "codes": [
+          "300953"
+        ],
+        "names": [
+          "震裕科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608281828638745.html"
+      },
+      {
+        "art_code": "AN202608281828622085",
+        "title": "湖南裕能:关于参加2026年湖南辖区上市公司投资者网上集体接待日暨半年度业绩说明会活动的公告",
+        "date": "2026-08-28",
+        "time": "16:15",
+        "category": "调研活动",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608281828622085.html"
+      },
+      {
+        "art_code": "AN202608281828616229",
+        "title": "芯碁微装:投资者关系活动记录表(2026-02)",
+        "date": "2026-08-28",
+        "time": "15:33",
+        "category": "调研活动",
+        "codes": [
+          "688630"
+        ],
+        "names": [
+          "芯碁微装"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608281828616229.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "688630",
+        "name": "芯碁微装",
+        "title": "2026半年报点评：高端PCB设备放量，先进封装业务加速突破",
+        "org": "爱建证券",
+        "rating": "",
+        "date": "2026-08-28",
+        "digest": ""
+      },
+      {
+        "code": "301338",
+        "name": "凯格精机",
+        "title": "2026年半年报点评：业绩增长显著，产品布局完善",
+        "org": "国元证券",
+        "rating": "",
+        "date": "2026-08-28",
+        "digest": ""
+      },
+      {
+        "code": "300054",
+        "name": "鼎龙股份",
+        "title": "公司事件点评报告：半导体多点突破，平台化布局打开成长空间",
+        "org": "华鑫证券",
+        "rating": "",
+        "date": "2026-08-28",
+        "digest": ""
+      },
+      {
+        "code": "001389",
+        "name": "广合科技",
+        "title": "算力场景驱动增长",
+        "org": "中邮证券",
+        "rating": "",
+        "date": "2026-08-28",
+        "digest": ""
+      },
+      {
+        "code": "601899",
+        "name": "紫金矿业",
+        "title": "2026半年报点评报告：主要金属价格上涨业绩高增，增量项目有望逐步落地",
+        "org": "华龙证券",
+        "rating": "",
+        "date": "2026-08-28",
+        "digest": ""
+      },
+      {
+        "code": "300054",
+        "name": "鼎龙股份",
+        "title": "公司信息更新报告：多品类放量增长，产品结构优化增强整体盈利水平",
+        "org": "开源证券",
+        "rating": "",
+        "date": "2026-08-28",
         "digest": ""
       }
     ]
