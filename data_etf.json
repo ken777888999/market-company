@@ -6297,74 +6297,74 @@
     "date": "2026-08-28",
     "top10": [
       {
-        "name": "粮食ETF广发",
-        "code": "159587",
-        "pct": 2.49,
-        "amount": 5759.0,
-        "category": "农业"
-      },
-      {
-        "name": "粮食ETF鹏华",
-        "code": "159698",
-        "pct": 2.49,
-        "amount": 16830.0,
-        "category": "农业"
-      },
-      {
         "name": "石化ETF易方达",
         "code": "516570",
-        "pct": 2.21,
-        "amount": 2962.0,
-        "category": "化工"
-      },
-      {
-        "name": "化工ETF鹏华",
-        "code": "159870",
-        "pct": 1.95,
-        "amount": 38720.0,
+        "pct": 2.4,
+        "amount": 6372.0,
         "category": "化工"
       },
       {
         "name": "化工ETF华宝",
         "code": "516020",
-        "pct": 1.94,
-        "amount": 9311.0,
+        "pct": 2.17,
+        "amount": 12700.0,
+        "category": "化工"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 2.04,
+        "amount": 49420.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "石化ETF华夏",
+        "code": "159731",
+        "pct": 1.99,
+        "amount": 6212.0,
+        "category": "化工"
+      },
+      {
+        "name": "化工ETF国泰",
+        "code": "516220",
+        "pct": 1.97,
+        "amount": 2107.0,
         "category": "化工"
       },
       {
         "name": "化工ETF华泰柏瑞",
         "code": "561620",
         "pct": 1.91,
-        "amount": 1146.0,
+        "amount": 1501.0,
         "category": "化工"
       },
       {
         "name": "化工ETF富国",
         "code": "516120",
         "pct": 1.9,
-        "amount": 8858.0,
+        "amount": 11940.0,
         "category": "化工"
       },
       {
-        "name": "石化ETF华夏",
-        "code": "159731",
-        "pct": 1.88,
-        "amount": 5229.0,
+        "name": "化工ETF鹏华",
+        "code": "159870",
+        "pct": 1.83,
+        "amount": 64235.0,
         "category": "化工"
       },
       {
-        "name": "化工ETF国泰",
-        "code": "516220",
-        "pct": 1.86,
-        "amount": 1470.0,
-        "category": "化工"
+        "name": "粮食ETF鹏华",
+        "code": "159698",
+        "pct": 1.77,
+        "amount": 19850.0,
+        "category": "农业"
       },
       {
-        "name": "软件ETF鹏华",
-        "code": "560790",
-        "pct": 1.81,
-        "amount": 675.0,
-        "category": "计算机/信创"
+        "name": "粮食ETF广发",
+        "code": "159587",
+        "pct": 1.69,
+        "amount": 6834.0,
+        "category": "农业"
       }
     ]
   }
