@@ -6297,73 +6297,73 @@
     "date": "2026-08-28",
     "top10": [
       {
-        "name": "软件ETF招商",
-        "code": "159899",
-        "pct": 1.97,
-        "amount": 2430.0,
-        "category": "计算机/信创"
-      },
-      {
-        "name": "软件ETF万家",
-        "code": "560360",
-        "pct": 1.95,
-        "amount": 1378.0,
-        "category": "计算机/信创"
-      },
-      {
-        "name": "黄金股ETF永赢",
-        "code": "517520",
-        "pct": 1.82,
-        "amount": 61716.0,
-        "category": "有色/资源"
+        "name": "粮食ETF广发",
+        "code": "159587",
+        "pct": 2.49,
+        "amount": 5759.0,
+        "category": "农业"
       },
       {
         "name": "粮食ETF鹏华",
         "code": "159698",
-        "pct": 1.77,
-        "amount": 14092.0,
+        "pct": 2.49,
+        "amount": 16830.0,
         "category": "农业"
       },
       {
-        "name": "软件ETF嘉实",
-        "code": "159852",
-        "pct": 1.77,
-        "amount": 64957.0,
-        "category": "计算机/信创"
+        "name": "石化ETF易方达",
+        "code": "516570",
+        "pct": 2.21,
+        "amount": 2962.0,
+        "category": "化工"
       },
       {
-        "name": "黄金股ETF国泰",
-        "code": "517400",
-        "pct": 1.75,
-        "amount": 8716.0,
-        "category": "有色/资源"
+        "name": "化工ETF鹏华",
+        "code": "159870",
+        "pct": 1.95,
+        "amount": 38720.0,
+        "category": "化工"
       },
       {
-        "name": "软件ETF国泰",
-        "code": "515230",
-        "pct": 1.73,
-        "amount": 28001.0,
-        "category": "计算机/信创"
+        "name": "化工ETF华宝",
+        "code": "516020",
+        "pct": 1.94,
+        "amount": 9311.0,
+        "category": "化工"
       },
       {
-        "name": "云计算ETF广发",
-        "code": "159527",
-        "pct": 1.7,
-        "amount": 1468.0,
-        "category": "云计算/大数据"
+        "name": "化工ETF华泰柏瑞",
+        "code": "561620",
+        "pct": 1.91,
+        "amount": 1146.0,
+        "category": "化工"
       },
       {
-        "name": "软件ETF易方达",
-        "code": "562930",
-        "pct": 1.69,
-        "amount": 8117.0,
-        "category": "计算机/信创"
+        "name": "化工ETF富国",
+        "code": "516120",
+        "pct": 1.9,
+        "amount": 8858.0,
+        "category": "化工"
       },
       {
-        "name": "软件ETF汇添富",
-        "code": "159590",
-        "pct": 1.69,
-        "amount": 4980.0,
+        "name": "石化ETF华夏",
+        "code": "159731",
+        "pct": 1.88,
+        "amount": 5229.0,
+        "category": "化工"
+      },
+      {
+        "name": "化工ETF国泰",
+        "code": "516220",
+        "pct": 1.86,
+        "amount": 1470.0,
+        "category": "化工"
+      },
+      {
+        "name": "软件ETF鹏华",
+        "code": "560790",
+        "pct": 1.81,
+        "amount": 675.0,
         "category": "计算机/信创"
       }
     ]
