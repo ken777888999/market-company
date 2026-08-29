@@ -1,28 +1,6 @@
 [
   {
     "date": "2026-07-10",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202607091826853419",
-        "title": "300390天华新能投资者关系管理信息20260709",
-        "date": "2026-07-09",
-        "time": "23:35",
-        "category": "调研活动",
-        "codes": [
-          "300390"
-        ],
-        "names": [
-          "天华新能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300390/AN202607091826853419.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-07-10",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16166,5 +16144,12 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-29",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [],
+    "reports": []
   }
 ]
