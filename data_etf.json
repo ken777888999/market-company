@@ -6372,73 +6372,73 @@
     "date": "2026-08-31",
     "top10": [
       {
-        "name": "影视ETF银华",
-        "code": "159855",
-        "pct": 6.46,
-        "amount": 9158.0,
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 7.07,
+        "amount": 14983.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "影视ETF国泰",
-        "code": "516620",
-        "pct": 6.34,
-        "amount": 11369.0,
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 6.33,
+        "amount": 10776.0,
         "category": "传媒/游戏"
       },
       {
         "name": "能源化工ETF建信",
         "code": "159981",
-        "pct": 4.38,
-        "amount": 60142.0,
+        "pct": 5.09,
+        "amount": 75710.0,
         "category": "煤炭/能源"
-      },
-      {
-        "name": "传媒ETF鹏华",
-        "code": "159805",
-        "pct": 3.97,
-        "amount": 6905.0,
-        "category": "传媒/游戏"
       },
       {
         "name": "传媒ETF广发",
         "code": "512980",
-        "pct": 3.95,
-        "amount": 41972.0,
+        "pct": 3.83,
+        "amount": 56835.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "线上消费ETF工银",
-        "code": "159725",
-        "pct": 3.18,
-        "amount": 568.0,
-        "category": "消费/白酒"
+        "name": "传媒ETF鹏华",
+        "code": "159805",
+        "pct": 3.79,
+        "amount": 13078.0,
+        "category": "传媒/游戏"
       },
       {
         "name": "大数据ETF富国",
         "code": "515400",
-        "pct": 3.03,
-        "amount": 9958.0,
+        "pct": 3.73,
+        "amount": 13060.0,
         "category": "云计算/大数据"
       },
       {
         "name": "大数据ETF华宝",
         "code": "516700",
-        "pct": 3.02,
-        "amount": 2203.0,
+        "pct": 3.58,
+        "amount": 2556.0,
         "category": "云计算/大数据"
-      },
-      {
-        "name": "在线消费ETF南方",
-        "code": "159728",
-        "pct": 2.99,
-        "amount": 610.0,
-        "category": "消费/白酒"
       },
       {
         "name": "云计算ETF招商",
         "code": "159890",
-        "pct": 2.99,
-        "amount": 2369.0,
+        "pct": 3.45,
+        "amount": 3058.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "线上消费ETF工银",
+        "code": "159725",
+        "pct": 3.44,
+        "amount": 736.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "云计算ETF鹏华",
+        "code": "159739",
+        "pct": 3.42,
+        "amount": 1844.0,
         "category": "云计算/大数据"
       }
     ]
