@@ -6372,73 +6372,73 @@
     "date": "2026-08-31",
     "top10": [
       {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 3.74,
-        "amount": 30264.0,
-        "category": "煤炭/能源"
-      },
-      {
         "name": "影视ETF国泰",
         "code": "516620",
-        "pct": 2.8,
-        "amount": 2080.0,
+        "pct": 4.15,
+        "amount": 4477.0,
         "category": "传媒/游戏"
       },
       {
         "name": "影视ETF银华",
         "code": "159855",
-        "pct": 2.61,
-        "amount": 1447.0,
+        "pct": 3.99,
+        "amount": 3352.0,
         "category": "传媒/游戏"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 3.55,
+        "amount": 44475.0,
+        "category": "煤炭/能源"
       },
       {
         "name": "标普油气ETF富国",
         "code": "513350",
         "pct": 2.45,
-        "amount": 24965.0,
+        "amount": 41866.0,
         "category": "海外QDII"
+      },
+      {
+        "name": "传媒ETF广发",
+        "code": "512980",
+        "pct": 2.22,
+        "amount": 21381.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "传媒ETF鹏华",
+        "code": "159805",
+        "pct": 2.2,
+        "amount": 3303.0,
+        "category": "传媒/游戏"
       },
       {
         "name": "标普油气ETF嘉实",
         "code": "159518",
         "pct": 2.1,
-        "amount": 15956.0,
+        "amount": 24444.0,
         "category": "海外QDII"
-      },
-      {
-        "name": "煤炭ETF国泰",
-        "code": "515220",
-        "pct": 2.0,
-        "amount": 43376.0,
-        "category": "煤炭/能源"
       },
       {
         "name": "银行AH优选ETF招商",
         "code": "517900",
-        "pct": 1.71,
-        "amount": 1943.0,
-        "category": "银行"
-      },
-      {
-        "name": "银行ETF华安",
-        "code": "516210",
-        "pct": 1.59,
-        "amount": 339.0,
+        "pct": 2.03,
+        "amount": 2634.0,
         "category": "银行"
       },
       {
         "name": "港股通金融ETF华夏",
         "code": "513190",
-        "pct": 1.55,
-        "amount": 37760.0,
+        "pct": 1.77,
+        "amount": 46607.0,
         "category": "银行"
       },
       {
         "name": "银行ETF富国",
         "code": "159887",
-        "pct": 1.5,
-        "amount": 5085.0,
+        "pct": 1.73,
+        "amount": 7703.0,
         "category": "银行"
       }
     ]
