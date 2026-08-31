@@ -6372,74 +6372,74 @@
     "date": "2026-08-31",
     "top10": [
       {
-        "name": "影视ETF国泰",
-        "code": "516620",
-        "pct": 4.15,
-        "amount": 4477.0,
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 6.46,
+        "amount": 9158.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "影视ETF银华",
-        "code": "159855",
-        "pct": 3.99,
-        "amount": 3352.0,
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 6.34,
+        "amount": 11369.0,
         "category": "传媒/游戏"
       },
       {
         "name": "能源化工ETF建信",
         "code": "159981",
-        "pct": 3.55,
-        "amount": 44475.0,
+        "pct": 4.38,
+        "amount": 60142.0,
         "category": "煤炭/能源"
-      },
-      {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 2.45,
-        "amount": 41866.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "传媒ETF广发",
-        "code": "512980",
-        "pct": 2.22,
-        "amount": 21381.0,
-        "category": "传媒/游戏"
       },
       {
         "name": "传媒ETF鹏华",
         "code": "159805",
-        "pct": 2.2,
-        "amount": 3303.0,
+        "pct": 3.97,
+        "amount": 6905.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 2.1,
-        "amount": 24444.0,
-        "category": "海外QDII"
+        "name": "传媒ETF广发",
+        "code": "512980",
+        "pct": 3.95,
+        "amount": 41972.0,
+        "category": "传媒/游戏"
       },
       {
-        "name": "银行AH优选ETF招商",
-        "code": "517900",
-        "pct": 2.03,
-        "amount": 2634.0,
-        "category": "银行"
+        "name": "线上消费ETF工银",
+        "code": "159725",
+        "pct": 3.18,
+        "amount": 568.0,
+        "category": "消费/白酒"
       },
       {
-        "name": "港股通金融ETF华夏",
-        "code": "513190",
-        "pct": 1.77,
-        "amount": 46607.0,
-        "category": "银行"
+        "name": "大数据ETF富国",
+        "code": "515400",
+        "pct": 3.03,
+        "amount": 9958.0,
+        "category": "云计算/大数据"
       },
       {
-        "name": "银行ETF富国",
-        "code": "159887",
-        "pct": 1.73,
-        "amount": 7703.0,
-        "category": "银行"
+        "name": "大数据ETF华宝",
+        "code": "516700",
+        "pct": 3.02,
+        "amount": 2203.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "在线消费ETF南方",
+        "code": "159728",
+        "pct": 2.99,
+        "amount": 610.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "云计算ETF招商",
+        "code": "159890",
+        "pct": 2.99,
+        "amount": 2369.0,
+        "category": "云计算/大数据"
       }
     ]
   }
