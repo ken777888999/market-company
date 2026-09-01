@@ -6449,72 +6449,72 @@
       {
         "name": "粮食ETF广发",
         "code": "159587",
-        "pct": 5.98,
-        "amount": 8707.0,
+        "pct": 5.41,
+        "amount": 10608.0,
         "category": "农业"
       },
       {
         "name": "粮食ETF鹏华",
         "code": "159698",
-        "pct": 5.95,
-        "amount": 22998.0,
+        "pct": 5.32,
+        "amount": 27089.0,
         "category": "农业"
+      },
+      {
+        "name": "酒ETF鹏华",
+        "code": "512690",
+        "pct": 2.39,
+        "amount": 57156.0,
+        "category": "消费/白酒"
       },
       {
         "name": "农牧渔ETF景顺",
         "code": "560210",
-        "pct": 2.98,
-        "amount": 1373.0,
+        "pct": 2.38,
+        "amount": 1545.0,
         "category": "农业"
       },
       {
-        "name": "农业ETF易方达",
-        "code": "562900",
-        "pct": 2.81,
-        "amount": 1754.0,
-        "category": "农业"
+        "name": "金融科技ETF鹏华",
+        "code": "563670",
+        "pct": 2.18,
+        "amount": 117.0,
+        "category": null
       },
       {
-        "name": "农业ETF银华",
-        "code": "159827",
-        "pct": 2.59,
-        "amount": 288.0,
-        "category": "农业"
+        "name": "金融地产ETF华夏",
+        "code": "510650",
+        "pct": 2.12,
+        "amount": 110.0,
+        "category": "银行"
       },
       {
-        "name": "农业ETF华夏",
-        "code": "516810",
-        "pct": 2.58,
-        "amount": 6250.0,
-        "category": "农业"
+        "name": "银行ETF易方达",
+        "code": "516310",
+        "pct": 2.04,
+        "amount": 11831.0,
+        "category": "银行"
       },
       {
-        "name": "农业ETF富国",
-        "code": "159825",
-        "pct": 2.52,
-        "amount": 11065.0,
-        "category": "农业"
+        "name": "金融科技ETF华宝",
+        "code": "159851",
+        "pct": 2.04,
+        "amount": 22781.0,
+        "category": null
       },
       {
-        "name": "农业ETF天弘",
-        "code": "512620",
-        "pct": 2.29,
-        "amount": 1020.0,
-        "category": "农业"
+        "name": "金融ETF国泰",
+        "code": "510230",
+        "pct": 2.03,
+        "amount": 7073.0,
+        "category": "银行"
       },
       {
-        "name": "农牧ETF建信",
-        "code": "159616",
-        "pct": 2.23,
-        "amount": 1578.0,
-        "category": "农业"
-      },
-      {
-        "name": "影视ETF银华",
-        "code": "159855",
-        "pct": 2.2,
-        "amount": 5752.0,
-        "category": "传媒/游戏"
+        "name": "银行ETF富国",
+        "code": "159887",
+        "pct": 2.0,
+        "amount": 6691.0,
+        "category": "银行"
       }
     ]
   }
