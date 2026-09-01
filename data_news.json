@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-07-14",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "603061",
-        "name": "金海通",
-        "title": "AI拉动后道设备需求爆发，看好分选机龙头成长性",
-        "org": "国金证券",
-        "rating": "",
-        "date": "2026-07-14",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-07-14",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16360,6 +16343,308 @@
           "赛分科技"
         ],
         "url": "https://data.eastmoney.com/notices/detail/688758/AN202609011828873524.html"
+      },
+      {
+        "art_code": "AN202609011828885277",
+        "title": "300613富瀚微投资者关系管理信息20260828",
+        "date": "2026-09-01",
+        "time": "17:46",
+        "category": "调研活动",
+        "codes": [
+          "300613"
+        ],
+        "names": [
+          "富瀚微"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300613/AN202609011828885277.html"
+      }
+    ],
+    "reports": []
+  },
+  {
+    "date": "2026-09-01",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609011828889973",
+        "title": "沪电股份:关于公司2024年度股票期权激励计划第一个行权期采用自主行权模式的提示性公告",
+        "date": "2026-09-02",
+        "time": "20:27",
+        "category": "股权激励进展公告",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202609011828889973.html"
+      },
+      {
+        "art_code": "AN202609011828888279",
+        "title": "三环集团:关于回购股份比例达到1%暨回购进展的公告",
+        "date": "2026-09-02",
+        "time": "19:04",
+        "category": "回购进展情况",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202609011828888279.html"
+      },
+      {
+        "art_code": "AN202609011828888276",
+        "title": "三环集团:H股公告-翌日披露报表",
+        "date": "2026-09-02",
+        "time": "19:04",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202609011828888276.html"
+      },
+      {
+        "art_code": "AN202609011828888285",
+        "title": "三环集团:关于召开2026年第二次临时股东会的通知",
+        "date": "2026-09-02",
+        "time": "19:04",
+        "category": "召开股东大会通知",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202609011828888285.html"
+      },
+      {
+        "art_code": "AN202609011828886711",
+        "title": "澜起科技:H股公告-翌日披露报表",
+        "date": "2026-09-02",
+        "time": "18:17",
+        "category": "其他",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202609011828886711.html"
+      },
+      {
+        "art_code": "AN202609011828886354",
+        "title": "西部矿业:西部矿业关于公司控股子公司向西藏日喀则市吉隆县捐赠的公告",
+        "date": "2026-09-02",
+        "time": "18:09",
+        "category": "其他",
+        "codes": [
+          "601168"
+        ],
+        "names": [
+          "西部矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601168/AN202609011828886354.html"
+      },
+      {
+        "art_code": "AN202609011828886352",
+        "title": "西部矿业:西部矿业第九届董事会第二次会议决议公告",
+        "date": "2026-09-02",
+        "time": "18:09",
+        "category": "董事会决议公告",
+        "codes": [
+          "601168"
+        ],
+        "names": [
+          "西部矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601168/AN202609011828886352.html"
+      },
+      {
+        "art_code": "AN202609011828886233",
+        "title": "东山精密:关于回购公司股份的进展公告",
+        "date": "2026-09-02",
+        "time": "18:07",
+        "category": "回购进展情况",
+        "codes": [
+          "002384"
+        ],
+        "names": [
+          "东山精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002384/AN202609011828886233.html"
+      },
+      {
+        "art_code": "AN202609011828883733",
+        "title": "恒逸石化:关于提前赎回“恒逸转2”暨即将停止交易的重要提示性公告",
+        "date": "2026-09-02",
+        "time": "17:13",
+        "category": "其他,停牌提示性公告,赎回提示性公告",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609011828883733.html"
+      },
+      {
+        "art_code": "AN202609011828883218",
+        "title": "鼎龙股份:关于回购公司股份的进展公告",
+        "date": "2026-09-02",
+        "time": "17:05",
+        "category": "回购进展情况,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202609011828883218.html"
+      },
+      {
+        "art_code": "AN202609011828882915",
+        "title": "兆易创新:兆易创新关于以集中竞价交易方式回购A股股份的进展公告",
+        "date": "2026-09-02",
+        "time": "17:01",
+        "category": "回购进展情况",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609011828882915.html"
+      },
+      {
+        "art_code": "AN202609011828882873",
+        "title": "澜起科技:澜起科技关于以集中竞价交易方式回购A股股份的进展公告",
+        "date": "2026-09-02",
+        "time": "17:01",
+        "category": "回购进展情况",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202609011828882873.html"
+      },
+      {
+        "art_code": "AN202609011828880124",
+        "title": "三孚股份:关于召开2026年半年度业绩说明会的公告",
+        "date": "2026-09-02",
+        "time": "16:27",
+        "category": "其他",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609011828880124.html"
+      },
+      {
+        "art_code": "AN202609011828876244",
+        "title": "中微公司:关于参加科创板2026年半年度半导体制造、设备及材料行业集体业绩说明会的公告",
+        "date": "2026-09-02",
+        "time": "16:01",
+        "category": "其他",
+        "codes": [
+          "688012"
+        ],
+        "names": [
+          "中微公司"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688012/AN202609011828876244.html"
+      },
+      {
+        "art_code": "AN202609011828873527",
+        "title": "赛分科技:苏州赛分科技股份有限公司关于以集中竞价交易方式回购公司股份的进展公告",
+        "date": "2026-09-02",
+        "time": "15:33",
+        "category": "回购进展情况",
+        "codes": [
+          "688758"
+        ],
+        "names": [
+          "赛分科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688758/AN202609011828873527.html"
+      },
+      {
+        "art_code": "AN202609011828873524",
+        "title": "赛分科技:苏州赛分科技股份有限公司关于参加2026年半年度生物制品及CXO行业集体业绩说明会的公告",
+        "date": "2026-09-02",
+        "time": "15:33",
+        "category": "其他",
+        "codes": [
+          "688758"
+        ],
+        "names": [
+          "赛分科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688758/AN202609011828873524.html"
+      },
+      {
+        "art_code": "AN202609011828890248",
+        "title": "中际旭创:Ｈ股公告(翌日披露报表)",
+        "date": "2026-09-01",
+        "time": "20:42",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609011828890248.html"
+      },
+      {
+        "art_code": "AN202609011828887369",
+        "title": "中际旭创:关于首次回购公司股份的公告",
+        "date": "2026-09-01",
+        "time": "18:40",
+        "category": "回购实施公告",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609011828887369.html"
+      },
+      {
+        "art_code": "AN202609011828887368",
+        "title": "中际旭创:回购报告书",
+        "date": "2026-09-01",
+        "time": "18:40",
+        "category": "回购报告书",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609011828887368.html"
+      },
+      {
+        "art_code": "AN202609011828887252",
+        "title": "协创数据:关于公司开展融资租赁业务的进展公告",
+        "date": "2026-09-01",
+        "time": "18:33",
+        "category": "其他",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609011828887252.html"
       },
       {
         "art_code": "AN202609011828885277",
