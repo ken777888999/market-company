@@ -1,28 +1,6 @@
 [
   {
     "date": "2026-07-13",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202607121826913971",
-        "title": "中际旭创:投资者关系活动记录表20260712",
-        "date": "2026-07-12",
-        "time": "22:50",
-        "category": "调研活动",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607121826913971.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-07-13",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16377,5 +16355,139 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-01",
+    "time": "18:16",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609011828883218",
+        "title": "鼎龙股份:关于回购公司股份的进展公告",
+        "date": "2026-09-02",
+        "time": "17:05",
+        "category": "回购进展情况,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202609011828883218.html"
+      },
+      {
+        "art_code": "AN202609011828882915",
+        "title": "兆易创新:兆易创新关于以集中竞价交易方式回购A股股份的进展公告",
+        "date": "2026-09-02",
+        "time": "17:01",
+        "category": "回购进展情况",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609011828882915.html"
+      },
+      {
+        "art_code": "AN202609011828882382",
+        "title": "融捷股份:关于回购公司股份的进展公告",
+        "date": "2026-09-02",
+        "time": "16:53",
+        "category": "回购进展情况",
+        "codes": [
+          "002192"
+        ],
+        "names": [
+          "融捷股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002192/AN202609011828882382.html"
+      },
+      {
+        "art_code": "AN202609011828875878",
+        "title": "华锐精密:关于变更经营范围、修订《公司章程》并办理工商变更登记的公告",
+        "date": "2026-09-02",
+        "time": "15:56",
+        "category": "公司经营范围变更,公司章程修订",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202609011828875878.html"
+      },
+      {
+        "art_code": "AN202609011828875875",
+        "title": "华锐精密:第三届董事会第三十一次会议决议公告",
+        "date": "2026-09-02",
+        "time": "15:56",
+        "category": "董事会决议公告",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202609011828875875.html"
+      },
+      {
+        "art_code": "AN202609011828875877",
+        "title": "华锐精密:关于召开2026年第二次临时股东会的通知",
+        "date": "2026-09-02",
+        "time": "15:56",
+        "category": "召开股东大会通知",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202609011828875877.html"
+      },
+      {
+        "art_code": "AN202609011828875872",
+        "title": "华锐精密:《株洲华锐精密工具股份有限公司章程》",
+        "date": "2026-09-02",
+        "time": "15:56",
+        "category": "公司章程",
+        "codes": [
+          "688059"
+        ],
+        "names": [
+          "华锐精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202609011828875872.html"
+      },
+      {
+        "art_code": "AN202609011828884440",
+        "title": "雅创电子:关于为子公司提供担保的进展公告",
+        "date": "2026-09-01",
+        "time": "17:23",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "301099"
+        ],
+        "names": [
+          "雅创电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202609011828884440.html"
+      },
+      {
+        "art_code": "AN202609011828878400",
+        "title": "湖南裕能:关于股东部分股份解除质押的公告",
+        "date": "2026-09-01",
+        "time": "16:19",
+        "category": "股份质押、冻结",
+        "codes": [
+          "301358"
+        ],
+        "names": [
+          "湖南裕能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202609011828878400.html"
+      }
+    ],
+    "reports": []
   }
 ]
