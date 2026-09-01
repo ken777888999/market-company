@@ -6442,5 +6442,80 @@
         "category": "云计算/大数据"
       }
     ]
+  },
+  {
+    "date": "2026-09-01",
+    "top10": [
+      {
+        "name": "粮食ETF鹏华",
+        "code": "159698",
+        "pct": 6.16,
+        "amount": 20260.0,
+        "category": "农业"
+      },
+      {
+        "name": "粮食ETF广发",
+        "code": "159587",
+        "pct": 6.14,
+        "amount": 7173.0,
+        "category": "农业"
+      },
+      {
+        "name": "农牧渔ETF景顺",
+        "code": "560210",
+        "pct": 3.1,
+        "amount": 1105.0,
+        "category": "农业"
+      },
+      {
+        "name": "酒ETF鹏华",
+        "code": "512690",
+        "pct": 2.86,
+        "amount": 47094.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "农业ETF华夏",
+        "code": "516810",
+        "pct": 2.58,
+        "amount": 4949.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF易方达",
+        "code": "562900",
+        "pct": 2.52,
+        "amount": 1459.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF天弘",
+        "code": "512620",
+        "pct": 2.4,
+        "amount": 680.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF富国",
+        "code": "159825",
+        "pct": 2.39,
+        "amount": 8618.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF银华",
+        "code": "159827",
+        "pct": 2.34,
+        "amount": 181.0,
+        "category": "农业"
+      },
+      {
+        "name": "农牧ETF建信",
+        "code": "159616",
+        "pct": 2.1,
+        "amount": 1331.0,
+        "category": "农业"
+      }
+    ]
   }
 ]
