@@ -6524,71 +6524,71 @@
       {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 4.4,
-        "amount": 81033.0,
+        "pct": 3.96,
+        "amount": 92349.0,
         "category": "海外QDII"
       },
       {
         "name": "标普油气ETF嘉实",
         "code": "159518",
-        "pct": 3.23,
-        "amount": 47180.0,
+        "pct": 2.68,
+        "amount": 55687.0,
         "category": "海外QDII"
       },
       {
         "name": "能源化工ETF建信",
         "code": "159981",
         "pct": 2.3,
-        "amount": 63086.0,
+        "amount": 78548.0,
         "category": "煤炭/能源"
       },
       {
         "name": "军工龙头ETF富国",
         "code": "512710",
-        "pct": 1.58,
-        "amount": 39304.0,
+        "pct": 1.43,
+        "amount": 44770.0,
         "category": "军工/航空航天"
       },
       {
         "name": "航空航天ETF华泰柏瑞",
         "code": "563380",
-        "pct": 1.25,
-        "amount": 4079.0,
+        "pct": 0.94,
+        "amount": 4776.0,
         "category": "军工/航空航天"
       },
       {
         "name": "航空航天ETF嘉实",
         "code": "159638",
-        "pct": 1.07,
-        "amount": 2072.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "国防ETF鹏华",
-        "code": "512670",
-        "pct": 0.9,
-        "amount": 7237.0,
+        "pct": 0.83,
+        "amount": 2751.0,
         "category": "军工/航空航天"
       },
       {
         "name": "纳指生物科技ETF汇添富",
         "code": "513290",
-        "pct": 0.9,
-        "amount": 14235.0,
+        "pct": 0.79,
+        "amount": 17370.0,
         "category": "医药"
       },
       {
-        "name": "通用航空ETF华泰柏瑞",
-        "code": "563320",
-        "pct": 0.82,
-        "amount": 417.0,
+        "name": "国防ETF鹏华",
+        "code": "512670",
+        "pct": 0.77,
+        "amount": 8196.0,
         "category": "军工/航空航天"
       },
       {
-        "name": "军工ETF国泰",
-        "code": "512660",
+        "name": "军工ETF易方达",
+        "code": "512560",
         "pct": 0.7,
-        "amount": 35032.0,
+        "amount": 5413.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "军工ETF广发",
+        "code": "512680",
+        "pct": 0.69,
+        "amount": 7295.0,
         "category": "军工/航空航天"
       }
     ]
