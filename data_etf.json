@@ -6517,5 +6517,80 @@
         "category": null
       }
     ]
+  },
+  {
+    "date": "2026-09-02",
+    "top10": [
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 4.48,
+        "amount": 70696.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 3.46,
+        "amount": 39250.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 2.12,
+        "amount": 44577.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 1.18,
+        "amount": 11612.0,
+        "category": "医药"
+      },
+      {
+        "name": "银行ETF富国",
+        "code": "159887",
+        "pct": 0.44,
+        "amount": 4345.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF易方达",
+        "code": "516310",
+        "pct": 0.36,
+        "amount": 11635.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF鹏华",
+        "code": "512730",
+        "pct": 0.35,
+        "amount": 756.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF华安",
+        "code": "516210",
+        "pct": 0.35,
+        "amount": 477.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF天弘",
+        "code": "515290",
+        "pct": 0.33,
+        "amount": 4400.0,
+        "category": "银行"
+      },
+      {
+        "name": "港股创新药ETF银华",
+        "code": "159567",
+        "pct": 0.29,
+        "amount": 38317.0,
+        "category": "医药"
+      }
+    ]
   }
 ]
