@@ -6592,5 +6592,80 @@
         "category": null
       }
     ]
+  },
+  {
+    "date": "2026-09-03",
+    "top10": [
+      {
+        "name": "地产ETF华宝",
+        "code": "159707",
+        "pct": 3.39,
+        "amount": 4733.0,
+        "category": "地产"
+      },
+      {
+        "name": "房地产ETF银华",
+        "code": "159768",
+        "pct": 3.07,
+        "amount": 2483.0,
+        "category": "地产"
+      },
+      {
+        "name": "港股通非银ETF广发",
+        "code": "513750",
+        "pct": 3.04,
+        "amount": 43113.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "证券保险ETF易方达",
+        "code": "512070",
+        "pct": 2.36,
+        "amount": 28785.0,
+        "category": "券商"
+      },
+      {
+        "name": "香港证券ETF易方达",
+        "code": "513090",
+        "pct": 2.27,
+        "amount": 277438.0,
+        "category": "券商"
+      },
+      {
+        "name": "黄金股ETF国泰",
+        "code": "517400",
+        "pct": 2.16,
+        "amount": 4715.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF永赢",
+        "code": "517520",
+        "pct": 2.16,
+        "amount": 32218.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF华夏",
+        "code": "159562",
+        "pct": 2.16,
+        "amount": 11502.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "物流ETF银华",
+        "code": "516530",
+        "pct": 1.99,
+        "amount": 27.0,
+        "category": null
+      },
+      {
+        "name": "金ETF天弘",
+        "code": "159830",
+        "pct": 1.98,
+        "amount": 2999.0,
+        "category": null
+      }
+    ]
   }
 ]
