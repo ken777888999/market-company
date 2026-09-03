@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-07-16",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "688257",
-        "name": "新锐股份",
-        "title": "2026年半年度业绩预告点评：业绩稳步高增，并购慧联电子打造新成长曲线",
-        "org": "东吴证券",
-        "rating": "",
-        "date": "2026-07-15",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-07-16",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16433,6 +16416,201 @@
         "org": "国信证券",
         "rating": "",
         "date": "2026-09-02",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609031828965165",
+        "title": "兆易创新:H股公告-翌日披露报表",
+        "date": "2026-09-04",
+        "time": "18:15",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609031828965165.html"
+      },
+      {
+        "art_code": "AN202609031828964919",
+        "title": "澜起科技:H股公告-翌日披露报表",
+        "date": "2026-09-04",
+        "time": "18:09",
+        "category": "其他",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202609031828964919.html"
+      },
+      {
+        "art_code": "AN202609031828964311",
+        "title": "源杰科技:陕西源杰半导体科技股份有限公司关于完成工商变更登记并换发营业执照的公告",
+        "date": "2026-09-04",
+        "time": "17:45",
+        "category": "公司注册资本变更",
+        "codes": [
+          "688498"
+        ],
+        "names": [
+          "源杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688498/AN202609031828964311.html"
+      },
+      {
+        "art_code": "AN202609031828962995",
+        "title": "中国铝业:中国铝业截至二零二六年八月三十一日止股份发行人的证券变动月报表",
+        "date": "2026-09-04",
+        "time": "17:13",
+        "category": "其他",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202609031828962995.html"
+      },
+      {
+        "art_code": "AN202609031828961229",
+        "title": "鼎龙股份:招商证券股份有限公司关于湖北鼎龙控股股份有限公司2026年半年度持续督导跟踪报告",
+        "date": "2026-09-04",
+        "time": "16:35",
+        "category": "保荐/核查意见",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202609031828961229.html"
+      },
+      {
+        "art_code": "AN202609031828960439",
+        "title": "恒逸石化:关于提前赎回“恒逸转2”暨即将停止转股的重要提示性公告",
+        "date": "2026-09-04",
+        "time": "16:11",
+        "category": "其他,其它",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609031828960439.html"
+      },
+      {
+        "art_code": "AN202609031828959941",
+        "title": "德业股份:2026年第二次临时股东会会议资料",
+        "date": "2026-09-04",
+        "time": "15:58",
+        "category": "股东大会资料",
+        "codes": [
+          "605117"
+        ],
+        "names": [
+          "德业股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/605117/AN202609031828959941.html"
+      },
+      {
+        "art_code": "AN202609031828973232",
+        "title": "中际旭创:Ｈ股公告(翌日披露报表)",
+        "date": "2026-09-03",
+        "time": "20:38",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609031828973232.html"
+      },
+      {
+        "art_code": "AN202609031828969053",
+        "title": "江波龙:关于回购公司股份的进展公告",
+        "date": "2026-09-03",
+        "time": "19:32",
+        "category": "回购进展情况",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609031828969053.html"
+      },
+      {
+        "art_code": "AN202609031828966952",
+        "title": "三环集团:H股公告-证券变动月报表",
+        "date": "2026-09-03",
+        "time": "18:55",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202609031828966952.html"
+      },
+      {
+        "art_code": "AN202609031828962294",
+        "title": "协创数据:关于控股股东部分股份质押的公告",
+        "date": "2026-09-03",
+        "time": "16:57",
+        "category": "股份质押、冻结",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609031828962294.html"
+      },
+      {
+        "art_code": "AN202609031828958390",
+        "title": "澜起科技:-投资者关系活动记录表(2026-009)",
+        "date": "2026-09-03",
+        "time": "15:34",
+        "category": "调研活动",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202609031828958390.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "300394",
+        "name": "天孚通信",
+        "title": "2026年中报点评：无源器件高增，高速光互连打开成长空间",
+        "org": "西南证券",
+        "rating": "",
+        "date": "2026-09-03",
+        "digest": ""
+      },
+      {
+        "code": "300857",
+        "name": "协创数据",
+        "title": "上半年净利润逐季增长，“算-连-存”协同布局",
+        "org": "山西证券",
+        "rating": "",
+        "date": "2026-09-03",
         "digest": ""
       }
     ]
