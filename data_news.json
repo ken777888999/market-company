@@ -1,345 +1,5 @@
 [
   {
-    "date": "2026-07-15",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202607151826995695",
-        "title": "三环集团:第十一届董事会第二十一次会议决议公告",
-        "date": "2026-07-16",
-        "time": "18:53",
-        "category": "高管人员任职变动,董事会决议公告",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607151826995695.html"
-      },
-      {
-        "art_code": "AN202607151826995704",
-        "title": "三环集团:独立董事提名人声明与承诺(黄斯颖)",
-        "date": "2026-07-16",
-        "time": "18:53",
-        "category": "独立董事提名人声明",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607151826995704.html"
-      },
-      {
-        "art_code": "AN202607151826995703",
-        "title": "三环集团:独立董事候选人声明与承诺(黄斯颖)",
-        "date": "2026-07-16",
-        "time": "18:53",
-        "category": "独立董事候选人声明",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607151826995703.html"
-      },
-      {
-        "art_code": "AN202607151826995698",
-        "title": "三环集团:公司章程(2026年7月修订)",
-        "date": "2026-07-16",
-        "time": "18:53",
-        "category": "公司章程修订",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607151826995698.html"
-      },
-      {
-        "art_code": "AN202607151826995706",
-        "title": "三环集团:关于董事会换届选举的公告",
-        "date": "2026-07-16",
-        "time": "18:53",
-        "category": "高管人员任职变动",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607151826995706.html"
-      },
-      {
-        "art_code": "AN202607151826995697",
-        "title": "三环集团:关于召开2026年第一次临时股东会的通知",
-        "date": "2026-07-16",
-        "time": "18:53",
-        "category": "召开股东大会通知",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607151826995697.html"
-      },
-      {
-        "art_code": "AN202607151826995701",
-        "title": "三环集团:独立董事候选人声明与承诺(苏彦奇)",
-        "date": "2026-07-16",
-        "time": "18:53",
-        "category": "独立董事候选人声明",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607151826995701.html"
-      },
-      {
-        "art_code": "AN202607151826995696",
-        "title": "三环集团:独立董事提名人声明与承诺(苏彦奇)",
-        "date": "2026-07-16",
-        "time": "18:53",
-        "category": "独立董事提名人声明",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607151826995696.html"
-      },
-      {
-        "art_code": "AN202607151826995702",
-        "title": "三环集团:独立董事提名人声明与承诺(蒋利军)",
-        "date": "2026-07-16",
-        "time": "18:53",
-        "category": "独立董事提名人声明",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607151826995702.html"
-      },
-      {
-        "art_code": "AN202607151826995705",
-        "title": "三环集团:独立董事候选人声明与承诺(蒋利军)",
-        "date": "2026-07-16",
-        "time": "18:53",
-        "category": "独立董事候选人声明",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607151826995705.html"
-      },
-      {
-        "art_code": "AN202607151826995480",
-        "title": "长川科技:华泰联合证券有限责任公司关于杭州长川科技股份有限公司2025年度向特定对象发行股票并在创业板上市发行过程和认购对象合规性的报告",
-        "date": "2026-07-16",
-        "time": "18:43",
-        "category": "保荐/核查意见",
-        "codes": [
-          "300604"
-        ],
-        "names": [
-          "长川科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300604/AN202607151826995480.html"
-      },
-      {
-        "art_code": "AN202607151826995489",
-        "title": "长川科技:国浩律师(杭州)事务所关于杭州长川科技股份有限公司2025年度向特定对象发行A股股票发行过程及认购对象合规性的法律意见书",
-        "date": "2026-07-16",
-        "time": "18:43",
-        "category": "法律意见书",
-        "codes": [
-          "300604"
-        ],
-        "names": [
-          "长川科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300604/AN202607151826995489.html"
-      },
-      {
-        "art_code": "AN202607151826995360",
-        "title": "长川科技:杭州长川科技股份有限公司2025年度向特定对象发行股票发行情况报告书",
-        "date": "2026-07-16",
-        "time": "18:41",
-        "category": "其他增发事项公告",
-        "codes": [
-          "300604"
-        ],
-        "names": [
-          "长川科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300604/AN202607151826995360.html"
-      },
-      {
-        "art_code": "AN202607151826995369",
-        "title": "长川科技:杭州长川科技股份有限公司关于2025年度向特定对象发行股票发行情况报告书披露的提示性公告",
-        "date": "2026-07-16",
-        "time": "18:41",
-        "category": "增发提示性公告",
-        "codes": [
-          "300604"
-        ],
-        "names": [
-          "长川科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300604/AN202607151826995369.html"
-      },
-      {
-        "art_code": "AN202607151826992232",
-        "title": "厦门钨业:厦门钨业关于使用闲置募集资金进行现金管理部分到期赎回的公告",
-        "date": "2026-07-16",
-        "time": "17:37",
-        "category": "投资理财",
-        "codes": [
-          "600549"
-        ],
-        "names": [
-          "厦门钨业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600549/AN202607151826992232.html"
-      },
-      {
-        "art_code": "AN202607151826991812",
-        "title": "欧科亿:湖南启元律师事务所关于株洲欧科亿数控精密刀具股份有限公司差异化分派事项的法律意见书",
-        "date": "2026-07-16",
-        "time": "17:22",
-        "category": "法律意见书",
-        "codes": [
-          "688308"
-        ],
-        "names": [
-          "欧科亿"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688308/AN202607151826991812.html"
-      },
-      {
-        "art_code": "AN202607151826991757",
-        "title": "中国巨石:中国巨石关于巨石集团有限公司年产2.5亿米电子布生产线建设项目的公告",
-        "date": "2026-07-16",
-        "time": "17:20",
-        "category": "对外项目投资",
-        "codes": [
-          "600176"
-        ],
-        "names": [
-          "中国巨石"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600176/AN202607151826991757.html"
-      },
-      {
-        "art_code": "AN202607151826991759",
-        "title": "中国巨石:中国巨石董事会战略与可持续发展(ESG)委员会关于巨石集团有限公司年产2.5亿米电子布生产线建设项目的意见",
-        "date": "2026-07-16",
-        "time": "17:20",
-        "category": "专项说明/独立意见",
-        "codes": [
-          "600176"
-        ],
-        "names": [
-          "中国巨石"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600176/AN202607151826991759.html"
-      },
-      {
-        "art_code": "AN202607151826990931",
-        "title": "芯碁微装:港股公告:翌日披露报表",
-        "date": "2026-07-16",
-        "time": "17:05",
-        "category": "其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202607151826990931.html"
-      },
-      {
-        "art_code": "AN202607151826991758",
-        "title": "中国巨石:中国巨石第七届董事会第三十三次会议决议公告",
-        "date": "2026-07-16",
-        "time": "17:20",
-        "category": "董事会决议公告",
-        "codes": [
-          "600176"
-        ],
-        "names": [
-          "中国巨石"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600176/AN202607151826991758.html"
-      },
-      {
-        "art_code": "AN202607151826994401",
-        "title": "沪电股份:2026年7月15日投资者关系活动记录表",
-        "date": "2026-07-15",
-        "time": "18:21",
-        "category": "调研活动",
-        "codes": [
-          "002463"
-        ],
-        "names": [
-          "沪电股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607151826994401.html"
-      },
-      {
-        "art_code": "AN202607151826994158",
-        "title": "德福科技:简式权益变动报告书",
-        "date": "2026-07-15",
-        "time": "18:13",
-        "category": "权益变动报告书",
-        "codes": [
-          "301511"
-        ],
-        "names": [
-          "德福科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607151826994158.html"
-      },
-      {
-        "art_code": "AN202607151826994062",
-        "title": "德福科技:关于披露简式权益变动报告书的提示性公告",
-        "date": "2026-07-15",
-        "time": "18:11",
-        "category": "权益变动报告书",
-        "codes": [
-          "301511"
-        ],
-        "names": [
-          "德福科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607151826994062.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "688257",
-        "name": "新锐股份",
-        "title": "2026年半年度业绩预告点评：业绩稳步高增，并购慧联电子打造新成长曲线",
-        "org": "东吴证券",
-        "rating": "",
-        "date": "2026-07-15",
-        "digest": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-16",
     "time": "09:00",
     "period": "早间",
@@ -16708,6 +16368,68 @@
         "code": "688008",
         "name": "澜起科技",
         "title": "二季度收入和归母净利润均创季度新高",
+        "org": "国信证券",
+        "rating": "",
+        "date": "2026-09-02",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
+    "reports": [
+      {
+        "code": "300857",
+        "name": "协创数据",
+        "title": "上半年净利润逐季增长，“算-连-存”协同布局",
+        "org": "山西证券",
+        "rating": "",
+        "date": "2026-09-03",
+        "digest": ""
+      },
+      {
+        "code": "002384",
+        "name": "东山精密",
+        "title": "东山精密2026年半年报：AI需求旺盛，光模块+AI PCB双轮驱动",
+        "org": "上海证券",
+        "rating": "",
+        "date": "2026-09-02",
+        "digest": ""
+      },
+      {
+        "code": "688498",
+        "name": "源杰科技",
+        "title": "公司事件点评报告：光模块出货量激增拉动光芯片需求，产品结构优化显著带动毛利率提升",
+        "org": "华鑫证券",
+        "rating": "",
+        "date": "2026-09-02",
+        "digest": ""
+      },
+      {
+        "code": "688072",
+        "name": "拓荆科技",
+        "title": "先进产品放量收入高增，盈利能力显著提升",
+        "org": "山西证券",
+        "rating": "",
+        "date": "2026-09-02",
+        "digest": ""
+      },
+      {
+        "code": "688002",
+        "name": "睿创微纳",
+        "title": "2026年半年报点评：红外主业量利齐升驱动业绩高增，多维感知与全球化布局打开成长空间",
+        "org": "中航证券",
+        "rating": "",
+        "date": "2026-09-02",
+        "digest": ""
+      },
+      {
+        "code": "002156",
+        "name": "通富微电",
+        "title": "二季度收入和利润创季度新高，毛利率同环比提高",
         "org": "国信证券",
         "rating": "",
         "date": "2026-09-02",
