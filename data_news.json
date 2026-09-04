@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-07-17",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-07-17",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16526,6 +16519,234 @@
         "org": "山西证券",
         "rating": "",
         "date": "2026-09-03",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609041829024407",
+        "title": "广合科技:H股公告-截至二零二六年八月三十一日止月份之股份发行人的证券变动月报表",
+        "date": "2026-09-05",
+        "time": "19:05",
+        "category": "其他",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609041829024407.html"
+      },
+      {
+        "art_code": "AN202609041829024095",
+        "title": "拓荆科技:关于2025年限制性股票激励计划第一个归属期归属结果公告",
+        "date": "2026-09-05",
+        "time": "18:57",
+        "category": "股权激励进展公告",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202609041829024095.html"
+      },
+      {
+        "art_code": "AN202609041829023411",
+        "title": "澜起科技:H股公告-翌日披露报表",
+        "date": "2026-09-05",
+        "time": "18:35",
+        "category": "其他",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202609041829023411.html"
+      },
+      {
+        "art_code": "AN202609041829022325",
+        "title": "兆易创新:H股公告-翌日披露报表",
+        "date": "2026-09-05",
+        "time": "18:08",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609041829022325.html"
+      },
+      {
+        "art_code": "AN202609041829021212",
+        "title": "利通电子:北京市天元律师事务所关于利通电子2026年第二次临时股东会的法律意见书",
+        "date": "2026-09-05",
+        "time": "17:36",
+        "category": "法律意见书",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202609041829021212.html"
+      },
+      {
+        "art_code": "AN202609041829021211",
+        "title": "利通电子:利通电子2026年第二次临时股东会决议公告",
+        "date": "2026-09-05",
+        "time": "17:36",
+        "category": "股东大会决议公告",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202609041829021211.html"
+      },
+      {
+        "art_code": "AN202609041829016190",
+        "title": "恒逸石化:关于提前赎回“恒逸转2”暨即将停止转股的重要提示性公告",
+        "date": "2026-09-05",
+        "time": "16:35",
+        "category": "其他,其它",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609041829016190.html"
+      },
+      {
+        "art_code": "AN202609041829014433",
+        "title": "南亚新材:2026年第三次临时股东会会议资料",
+        "date": "2026-09-05",
+        "time": "16:34",
+        "category": "股东大会资料,高管人员任职变动",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202609041829014433.html"
+      },
+      {
+        "art_code": "AN202609041829024691",
+        "title": "中际旭创:关于实际控制人部分股票解除质押的公告",
+        "date": "2026-09-04",
+        "time": "19:12",
+        "category": "股份质押、冻结",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609041829024691.html"
+      },
+      {
+        "art_code": "AN202609041829024688",
+        "title": "中际旭创:关于向控股子公司提供财务资助的公告",
+        "date": "2026-09-04",
+        "time": "19:12",
+        "category": "获得补贴（资助）",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609041829024688.html"
+      },
+      {
+        "art_code": "AN202609041829024686",
+        "title": "中际旭创:H股公告(截至2026年8月31日止股份发行人的证券变动月报表)",
+        "date": "2026-09-04",
+        "time": "19:12",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609041829024686.html"
+      },
+      {
+        "art_code": "AN202609041829024693",
+        "title": "中际旭创:Ｈ股公告(翌日披露报表)",
+        "date": "2026-09-04",
+        "time": "19:12",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609041829024693.html"
+      },
+      {
+        "art_code": "AN202609041829024690",
+        "title": "江波龙:关于境外上市外资股(H股)公开发行价格的公告",
+        "date": "2026-09-04",
+        "time": "19:11",
+        "category": "其他",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609041829024690.html"
+      },
+      {
+        "art_code": "AN202609041829024692",
+        "title": "江波龙:关于公司诉讼事项进展的公告",
+        "date": "2026-09-04",
+        "time": "19:11",
+        "category": "诉讼仲裁",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609041829024692.html"
+      },
+      {
+        "art_code": "AN202609041829022548",
+        "title": "沪电股份:2026年9月4日投资者关系活动记录表",
+        "date": "2026-09-04",
+        "time": "18:13",
+        "category": "调研活动",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202609041829022548.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "688002",
+        "name": "睿创微纳",
+        "title": "2026年半年报点评：红外主业量利齐升驱动业绩高增，多维感知与全球化布局打开成长空间",
+        "org": "中航证券",
+        "rating": "",
+        "date": "2026-09-04",
         "digest": ""
       }
     ]
