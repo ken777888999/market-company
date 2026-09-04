@@ -6672,73 +6672,73 @@
     "date": "2026-09-04",
     "top10": [
       {
-        "name": "金融科技ETF鹏华",
-        "code": "563670",
-        "pct": 4.38,
-        "amount": 379.0,
-        "category": null
+        "name": "养殖ETF国泰",
+        "code": "159865",
+        "pct": 4.97,
+        "amount": 50160.0,
+        "category": "农业"
       },
       {
-        "name": "金融科技ETF华宝",
-        "code": "159851",
-        "pct": 4.1,
-        "amount": 42571.0,
-        "category": null
+        "name": "畜牧养殖ETF招商",
+        "code": "516670",
+        "pct": 4.9,
+        "amount": 6784.0,
+        "category": "农业"
       },
       {
-        "name": "金融科技ETF华夏",
-        "code": "516100",
-        "pct": 4.05,
-        "amount": 5768.0,
-        "category": null
+        "name": "畜牧养殖ETF鑫元",
+        "code": "561400",
+        "pct": 4.8,
+        "amount": 1518.0,
+        "category": "农业"
       },
       {
         "name": "畜牧养殖ETF天弘",
         "code": "561470",
-        "pct": 4.03,
-        "amount": 940.0,
+        "pct": 4.8,
+        "amount": 1379.0,
         "category": "农业"
       },
       {
-        "name": "传媒ETF广发",
-        "code": "512980",
-        "pct": 4.0,
-        "amount": 39364.0,
-        "category": "传媒/游戏"
+        "name": "养殖ETF平安",
+        "code": "516760",
+        "pct": 4.79,
+        "amount": 1475.0,
+        "category": "农业"
       },
       {
-        "name": "港股通互联网ETF富国",
-        "code": "159792",
-        "pct": 3.96,
-        "amount": 169721.0,
-        "category": "港股/中概"
+        "name": "畜牧养殖ETF广发",
+        "code": "512450",
+        "pct": 4.74,
+        "amount": 783.0,
+        "category": "农业"
       },
       {
         "name": "农牧渔ETF景顺",
         "code": "560210",
-        "pct": 3.95,
-        "amount": 1132.0,
+        "pct": 4.67,
+        "amount": 1778.0,
         "category": "农业"
       },
       {
-        "name": "传媒ETF华夏",
-        "code": "516190",
-        "pct": 3.92,
-        "amount": 1750.0,
-        "category": "传媒/游戏"
+        "name": "农业ETF易方达",
+        "code": "562900",
+        "pct": 4.66,
+        "amount": 2259.0,
+        "category": "农业"
       },
       {
-        "name": "港股通互联网ETF易方达",
-        "code": "513040",
-        "pct": 3.91,
-        "amount": 33294.0,
-        "category": "港股/中概"
+        "name": "养殖ETF鹏华",
+        "code": "159867",
+        "pct": 4.5,
+        "amount": 8520.0,
+        "category": "农业"
       },
       {
-        "name": "养殖ETF国泰",
-        "code": "159865",
-        "pct": 3.87,
-        "amount": 24976.0,
+        "name": "农业ETF天弘",
+        "code": "512620",
+        "pct": 4.07,
+        "amount": 1655.0,
         "category": "农业"
       }
     ]
