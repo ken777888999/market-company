@@ -6674,71 +6674,71 @@
       {
         "name": "养殖ETF国泰",
         "code": "159865",
-        "pct": 4.97,
-        "amount": 50160.0,
-        "category": "农业"
-      },
-      {
-        "name": "畜牧养殖ETF招商",
-        "code": "516670",
-        "pct": 4.9,
-        "amount": 6784.0,
-        "category": "农业"
-      },
-      {
-        "name": "畜牧养殖ETF鑫元",
-        "code": "561400",
-        "pct": 4.8,
-        "amount": 1518.0,
-        "category": "农业"
-      },
-      {
-        "name": "畜牧养殖ETF天弘",
-        "code": "561470",
-        "pct": 4.8,
-        "amount": 1379.0,
-        "category": "农业"
-      },
-      {
-        "name": "养殖ETF平安",
-        "code": "516760",
-        "pct": 4.79,
-        "amount": 1475.0,
+        "pct": 4.6,
+        "amount": 58942.0,
         "category": "农业"
       },
       {
         "name": "畜牧养殖ETF广发",
         "code": "512450",
-        "pct": 4.74,
-        "amount": 783.0,
+        "pct": 4.52,
+        "amount": 892.0,
         "category": "农业"
       },
       {
         "name": "农牧渔ETF景顺",
         "code": "560210",
-        "pct": 4.67,
-        "amount": 1778.0,
+        "pct": 4.43,
+        "amount": 2456.0,
         "category": "农业"
       },
       {
-        "name": "农业ETF易方达",
-        "code": "562900",
-        "pct": 4.66,
-        "amount": 2259.0,
+        "name": "畜牧养殖ETF招商",
+        "code": "516670",
+        "pct": 4.41,
+        "amount": 7625.0,
         "category": "农业"
       },
       {
         "name": "养殖ETF鹏华",
         "code": "159867",
-        "pct": 4.5,
-        "amount": 8520.0,
+        "pct": 4.32,
+        "amount": 9324.0,
         "category": "农业"
       },
       {
-        "name": "农业ETF天弘",
-        "code": "512620",
-        "pct": 4.07,
-        "amount": 1655.0,
+        "name": "养殖ETF平安",
+        "code": "516760",
+        "pct": 4.27,
+        "amount": 1641.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF易方达",
+        "code": "562900",
+        "pct": 4.24,
+        "amount": 2671.0,
+        "category": "农业"
+      },
+      {
+        "name": "畜牧养殖ETF天弘",
+        "code": "561470",
+        "pct": 4.22,
+        "amount": 1462.0,
+        "category": "农业"
+      },
+      {
+        "name": "畜牧养殖ETF鑫元",
+        "code": "561400",
+        "pct": 4.02,
+        "amount": 1623.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF华夏",
+        "code": "516810",
+        "pct": 3.64,
+        "amount": 8438.0,
         "category": "农业"
       }
     ]
