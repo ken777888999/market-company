@@ -6667,5 +6667,80 @@
         "category": "医药"
       }
     ]
+  },
+  {
+    "date": "2026-09-04",
+    "top10": [
+      {
+        "name": "金融科技ETF华夏",
+        "code": "516100",
+        "pct": 5.0,
+        "amount": 5009.0,
+        "category": null
+      },
+      {
+        "name": "金融科技ETF鹏华",
+        "code": "563670",
+        "pct": 4.96,
+        "amount": 279.0,
+        "category": null
+      },
+      {
+        "name": "金融科技ETF华宝",
+        "code": "159851",
+        "pct": 4.89,
+        "amount": 35415.0,
+        "category": null
+      },
+      {
+        "name": "金融科技ETF兴业",
+        "code": "563570",
+        "pct": 4.83,
+        "amount": 262.0,
+        "category": null
+      },
+      {
+        "name": "金融科技ETF博时",
+        "code": "516860",
+        "pct": 4.67,
+        "amount": 8153.0,
+        "category": null
+      },
+      {
+        "name": "金融科技ETF富国",
+        "code": "515720",
+        "pct": 4.63,
+        "amount": 1275.0,
+        "category": null
+      },
+      {
+        "name": "传媒ETF广发",
+        "code": "512980",
+        "pct": 4.6,
+        "amount": 32387.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "传媒ETF鹏华",
+        "code": "159805",
+        "pct": 4.58,
+        "amount": 5947.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "传媒ETF华夏",
+        "code": "516190",
+        "pct": 4.42,
+        "amount": 1390.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 4.07,
+        "amount": 7028.0,
+        "category": "传媒/游戏"
+      }
+    ]
   }
 ]
