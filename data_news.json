@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-07-19",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-07-19",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16050,5 +16043,22 @@
       }
     ],
     "reports": []
+  },
+  {
+    "date": "2026-09-06",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [],
+    "reports": [
+      {
+        "code": "300666",
+        "name": "江丰电子",
+        "title": "收入维持高增，零部件业务增长亮眼",
+        "org": "中银证券",
+        "rating": "",
+        "date": "2026-09-06",
+        "digest": ""
+      }
+    ]
   }
 ]
