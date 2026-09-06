@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-07-18",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [],
-    "reports": []
-  },
-  {
     "date": "2026-07-19",
     "time": "09:00",
     "period": "早间",
@@ -16034,6 +16027,28 @@
     "time": "21:00",
     "period": "晚间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-09-06",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202609061829069202",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于定期报告财务报表附注部分相关文字错误的更正公告",
+        "date": "2026-09-05",
+        "time": "01:42",
+        "category": "其他",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609061829069202.html"
+      }
+    ],
     "reports": []
   }
 ]
