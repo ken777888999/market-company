@@ -6742,5 +6742,80 @@
         "category": "农业"
       }
     ]
+  },
+  {
+    "date": "2026-09-07",
+    "top10": [
+      {
+        "name": "通信ETF华夏",
+        "code": "515050",
+        "pct": 4.05,
+        "amount": 61269.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF银华",
+        "code": "159994",
+        "pct": 4.05,
+        "amount": 11879.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 3.91,
+        "amount": 157522.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "创业板成长ETF华夏",
+        "code": "159967",
+        "pct": 3.78,
+        "amount": 43292.0,
+        "category": "创业板"
+      },
+      {
+        "name": "通信ETF富国",
+        "code": "159583",
+        "pct": 3.61,
+        "amount": 29876.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "科创成长ETF易方达",
+        "code": "588020",
+        "pct": 3.44,
+        "amount": 18897.0,
+        "category": "科创板"
+      },
+      {
+        "name": "工业母机ETF国泰",
+        "code": "159667",
+        "pct": 3.34,
+        "amount": 8279.0,
+        "category": "智能制造"
+      },
+      {
+        "name": "科创成长ETF万家",
+        "code": "588070",
+        "pct": 3.26,
+        "amount": 824.0,
+        "category": "科创板"
+      },
+      {
+        "name": "半导体设备ETF广发",
+        "code": "560780",
+        "pct": 3.22,
+        "amount": 46868.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "机床ETF华夏",
+        "code": "159663",
+        "pct": 3.18,
+        "amount": 2748.0,
+        "category": null
+      }
+    ]
   }
 ]
