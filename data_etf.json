@@ -6824,72 +6824,72 @@
       {
         "name": "粮食ETF广发",
         "code": "159587",
-        "pct": 4.6,
-        "amount": 30147.0,
-        "category": "农业"
-      },
-      {
-        "name": "粮食ETF鹏华",
-        "code": "159698",
-        "pct": 4.16,
-        "amount": 25336.0,
+        "pct": 4.29,
+        "amount": 36790.0,
         "category": "农业"
       },
       {
         "name": "能源化工ETF建信",
         "code": "159981",
-        "pct": 3.28,
-        "amount": 71578.0,
+        "pct": 4.11,
+        "amount": 125644.0,
         "category": "煤炭/能源"
+      },
+      {
+        "name": "粮食ETF鹏华",
+        "code": "159698",
+        "pct": 4.06,
+        "amount": 29865.0,
+        "category": "农业"
       },
       {
         "name": "油气ETF博时",
         "code": "561760",
-        "pct": 2.41,
-        "amount": 334.0,
+        "pct": 3.44,
+        "amount": 791.0,
         "category": null
       },
       {
-        "name": "油气ETF华泰柏瑞",
-        "code": "561570",
-        "pct": 2.3,
-        "amount": 2197.0,
+        "name": "油气ETF银华",
+        "code": "563150",
+        "pct": 3.39,
+        "amount": 381.0,
+        "category": null
+      },
+      {
+        "name": "石油ETF景顺",
+        "code": "159588",
+        "pct": 3.35,
+        "amount": 2441.0,
         "category": null
       },
       {
         "name": "石油ETF国泰",
         "code": "561360",
-        "pct": 2.24,
-        "amount": 5101.0,
+        "pct": 3.05,
+        "amount": 11120.0,
         "category": null
       },
       {
-        "name": "农牧ETF建信",
-        "code": "159616",
-        "pct": 2.2,
-        "amount": 1667.0,
-        "category": "农业"
-      },
-      {
-        "name": "房地产ETF南方",
-        "code": "512200",
-        "pct": 2.19,
-        "amount": 17982.0,
-        "category": "地产"
-      },
-      {
-        "name": "大宗商品ETF国联安",
-        "code": "510170",
-        "pct": 2.17,
-        "amount": 856.0,
+        "name": "油气ETF华泰柏瑞",
+        "code": "561570",
+        "pct": 3.02,
+        "amount": 2417.0,
         "category": null
       },
       {
-        "name": "工业有色ETF平安",
-        "code": "560970",
-        "pct": 2.14,
-        "amount": 236.0,
-        "category": "有色/资源"
+        "name": "石化ETF华夏",
+        "code": "159731",
+        "pct": 2.57,
+        "amount": 4949.0,
+        "category": "化工"
+      },
+      {
+        "name": "石化ETF易方达",
+        "code": "516570",
+        "pct": 2.55,
+        "amount": 4874.0,
+        "category": "化工"
       }
     ]
   }
