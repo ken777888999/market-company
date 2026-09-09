@@ -1,42 +1,6 @@
 [
   {
     "date": "2026-07-22",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202607221827240625",
-        "title": "中际旭创:关于刊发H股招股说明书、H股发行价格上限及H股香港公开发售等事宜的公告",
-        "date": "2026-07-22",
-        "time": "07:52",
-        "category": "其他",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607221827240625.html"
-      },
-      {
-        "art_code": "AN202607211827223510",
-        "title": "德明利:001309德明利投资者关系管理信息20260721",
-        "date": "2026-07-21",
-        "time": "21:12",
-        "category": "调研活动",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202607211827223510.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-07-22",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -15950,5 +15914,377 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-09",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609091829179504",
+        "title": "中瓷电子:北京市嘉源律师事务所关于河北中瓷电子科技股份有限公司2026年第二次临时股东会的法律意见书",
+        "date": "2026-09-10",
+        "time": "18:45",
+        "category": "法律意见书",
+        "codes": [
+          "003031"
+        ],
+        "names": [
+          "中瓷电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/003031/AN202609091829179504.html"
+      },
+      {
+        "art_code": "AN202609091829179506",
+        "title": "中瓷电子:河北中瓷电子科技股份有限公司2026年第二次临时股东会决议公告",
+        "date": "2026-09-10",
+        "time": "18:45",
+        "category": "股东大会决议公告",
+        "codes": [
+          "003031"
+        ],
+        "names": [
+          "中瓷电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/003031/AN202609091829179506.html"
+      },
+      {
+        "art_code": "AN202609091829179376",
+        "title": "恒逸石化:浙江天册律师事务所关于恒逸石化股份有限公司调整第七期员工持股计划受让价格之法律意见书",
+        "date": "2026-09-10",
+        "time": "18:41",
+        "category": "法律意见书",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609091829179376.html"
+      },
+      {
+        "art_code": "AN202609091829179377",
+        "title": "恒逸石化:关于变更注册资本并修订《公司章程》的公告",
+        "date": "2026-09-10",
+        "time": "18:41",
+        "category": "公司注册资本变更,公司章程修订",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609091829179377.html"
+      },
+      {
+        "art_code": "AN202609091829179374",
+        "title": "恒逸石化:董事会薪酬考核与提名委员会关于调整第七期员工持股计划受让价格的审核意见",
+        "date": "2026-09-10",
+        "time": "18:41",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609091829179374.html"
+      },
+      {
+        "art_code": "AN202609091829179373",
+        "title": "恒逸石化:关于调整第七期员工持股计划受让价格的公告",
+        "date": "2026-09-10",
+        "time": "18:41",
+        "category": "员工持股计划",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609091829179373.html"
+      },
+      {
+        "art_code": "AN202609091829179375",
+        "title": "恒逸石化:关于召开2026年第五次临时股东会的通知",
+        "date": "2026-09-10",
+        "time": "18:41",
+        "category": "召开股东大会通知",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609091829179375.html"
+      },
+      {
+        "art_code": "AN202609091829179371",
+        "title": "恒逸石化:第十三届董事会第二次会议决议公告",
+        "date": "2026-09-10",
+        "time": "18:41",
+        "category": "董事会决议公告",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609091829179371.html"
+      },
+      {
+        "art_code": "AN202609091829179208",
+        "title": "澜起科技:H股公告-翌日披露报表",
+        "date": "2026-09-10",
+        "time": "18:35",
+        "category": "其他",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202609091829179208.html"
+      },
+      {
+        "art_code": "AN202609091829175514",
+        "title": "中瓷电子:中信证券股份有限公司关于河北中瓷电子科技股份有限公司重大资产重组部分限售股份上市流通的核查意见",
+        "date": "2026-09-10",
+        "time": "17:40",
+        "category": "保荐/核查意见",
+        "codes": [
+          "003031"
+        ],
+        "names": [
+          "中瓷电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/003031/AN202609091829175514.html"
+      },
+      {
+        "art_code": "AN202609091829175521",
+        "title": "中瓷电子:关于重大资产重组部分限售股份上市流通的提示性公告",
+        "date": "2026-09-10",
+        "time": "17:40",
+        "category": "限售股份上市流通,重组进展公告",
+        "codes": [
+          "003031"
+        ],
+        "names": [
+          "中瓷电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/003031/AN202609091829175521.html"
+      },
+      {
+        "art_code": "AN202609091829175519",
+        "title": "中瓷电子:中航证券有限公司关于河北中瓷电子科技股份有限公司发行股份购买资产并募集配套资金暨关联交易之部分限售股份解禁上市流通的核查意见",
+        "date": "2026-09-10",
+        "time": "17:40",
+        "category": "保荐/核查意见",
+        "codes": [
+          "003031"
+        ],
+        "names": [
+          "中瓷电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/003031/AN202609091829175519.html"
+      },
+      {
+        "art_code": "AN202609091829175516",
+        "title": "中瓷电子:关于使用部分闲置募集资金进行现金管理的进展公告",
+        "date": "2026-09-10",
+        "time": "17:40",
+        "category": "募集资金使用进展情况,投资理财",
+        "codes": [
+          "003031"
+        ],
+        "names": [
+          "中瓷电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/003031/AN202609091829175516.html"
+      },
+      {
+        "art_code": "AN202609091829175440",
+        "title": "兆易创新:兆易创新2026年第三次临时股东会决议公告",
+        "date": "2026-09-10",
+        "time": "17:38",
+        "category": "股东大会决议公告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609091829175440.html"
+      },
+      {
+        "art_code": "AN202609091829175441",
+        "title": "兆易创新:北京中银律师事务所关于兆易创新科技集团股份有限公司2026年第三次临时股东会的法律意见书",
+        "date": "2026-09-10",
+        "time": "17:38",
+        "category": "法律意见书",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609091829175441.html"
+      },
+      {
+        "art_code": "AN202609091829175450",
+        "title": "三孚股份:关于参加2026年河北辖区上市公司投资者网上集体接待日暨2026年半年报集体业绩说明会的公告",
+        "date": "2026-09-10",
+        "time": "17:37",
+        "category": "调研活动",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609091829175450.html"
+      },
+      {
+        "art_code": "AN202609091829175446",
+        "title": "三孚股份:关于2026年半年度业绩说明会召开情况的公告",
+        "date": "2026-09-10",
+        "time": "17:37",
+        "category": "调研活动",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609091829175446.html"
+      },
+      {
+        "art_code": "AN202609091829170822",
+        "title": "桐昆股份:桐昆集团股份有限公司关于债务融资工具注册申请获准的公告",
+        "date": "2026-09-10",
+        "time": "15:44",
+        "category": "其他",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609091829170822.html"
+      },
+      {
+        "art_code": "AN202609091829180794",
+        "title": "中际旭创:H股公告(翌日披露报表)",
+        "date": "2026-09-09",
+        "time": "19:27",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609091829180794.html"
+      },
+      {
+        "art_code": "AN202609091829180101",
+        "title": "江波龙:关于控股股东及其一致行动人持股比例被动稀释触及1%及5%整数倍的公告",
+        "date": "2026-09-09",
+        "time": "19:01",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609091829180101.html"
+      },
+      {
+        "art_code": "AN202609091829180110",
+        "title": "江波龙:H股公告(翌日披露报表)",
+        "date": "2026-09-09",
+        "time": "19:01",
+        "category": "其他",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609091829180110.html"
+      },
+      {
+        "art_code": "AN202609091829179682",
+        "title": "新易盛:关于参加举办四川辖区2026年投资者网上集体接待日及半年度报告业绩说明会的公告",
+        "date": "2026-09-09",
+        "time": "18:49",
+        "category": "调研活动",
+        "codes": [
+          "300502"
+        ],
+        "names": [
+          "新易盛"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300502/AN202609091829179682.html"
+      },
+      {
+        "art_code": "AN202609091829174554",
+        "title": "领先股份:2026年半年度业绩说明会投资者关系活动记录表",
+        "date": "2026-09-09",
+        "time": "17:21",
+        "category": "调研活动",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202609091829174554.html"
+      },
+      {
+        "art_code": "AN202609091829171381",
+        "title": "睿创微纳:投资者关系活动记录表20260908",
+        "date": "2026-09-09",
+        "time": "16:01",
+        "category": "调研活动",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202609091829171381.html"
+      },
+      {
+        "art_code": "AN202609091829171206",
+        "title": "江丰电子:国泰海通证券股份有限公司关于宁波江丰电子材料股份有限公司2026年半年度持续督导跟踪报告",
+        "date": "2026-09-09",
+        "time": "15:54",
+        "category": "保荐/核查意见",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609091829171206.html"
+      },
+      {
+        "art_code": "AN202609091829171079",
+        "title": "协创数据:关于公司以部分自有资产抵押向银行申请授信的进展公告",
+        "date": "2026-09-09",
+        "time": "15:50",
+        "category": "借贷,抵押",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609091829171079.html"
+      }
+    ],
+    "reports": []
   }
 ]
