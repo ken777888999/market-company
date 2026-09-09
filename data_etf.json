@@ -6899,72 +6899,72 @@
       {
         "name": "煤炭ETF国泰",
         "code": "515220",
-        "pct": 3.0,
-        "amount": 54649.0,
+        "pct": 2.92,
+        "amount": 64210.0,
         "category": "煤炭/能源"
       },
       {
         "name": "船舶ETF富国",
         "code": "560710",
-        "pct": 2.6,
-        "amount": 11849.0,
+        "pct": 2.7,
+        "amount": 13126.0,
         "category": null
       },
       {
-        "name": "物流ETF银华",
-        "code": "516530",
-        "pct": 2.05,
-        "amount": 96.0,
-        "category": null
+        "name": "工业有色ETF中银",
+        "code": "560870",
+        "pct": 2.15,
+        "amount": 1233.0,
+        "category": "有色/资源"
       },
       {
         "name": "物流ETF富国",
         "code": "516910",
-        "pct": 1.85,
-        "amount": 923.0,
+        "pct": 2.02,
+        "amount": 1634.0,
         "category": null
       },
       {
-        "name": "工业母机ETF国泰",
-        "code": "159667",
-        "pct": 1.85,
-        "amount": 10884.0,
-        "category": "智能制造"
-      },
-      {
-        "name": "油气ETF银华",
-        "code": "563150",
-        "pct": 1.79,
-        "amount": 226.0,
-        "category": null
-      },
-      {
-        "name": "红利国企ETF国泰",
-        "code": "510720",
-        "pct": 1.77,
-        "amount": 8301.0,
-        "category": "红利/高股息"
+        "name": "工业有色ETF万家",
+        "code": "560860",
+        "pct": 1.91,
+        "amount": 29293.0,
+        "category": "有色/资源"
       },
       {
         "name": "国防ETF鹏华",
         "code": "512670",
-        "pct": 1.77,
-        "amount": 8157.0,
+        "pct": 1.9,
+        "amount": 10938.0,
         "category": "军工/航空航天"
       },
       {
-        "name": "机床ETF华夏",
-        "code": "159663",
-        "pct": 1.64,
-        "amount": 8169.0,
-        "category": null
+        "name": "XD有色金属ETF南方",
+        "code": "512400",
+        "pct": 1.87,
+        "amount": 70076.0,
+        "category": "有色/资源"
       },
       {
-        "name": "油气ETF博时",
-        "code": "561760",
-        "pct": 1.55,
-        "amount": 708.0,
-        "category": null
+        "name": "有色ETF易方达",
+        "code": "560470",
+        "pct": 1.87,
+        "amount": 579.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "工业有色ETF华泰柏瑞",
+        "code": "560490",
+        "pct": 1.87,
+        "amount": 936.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "有色ETF国泰海通",
+        "code": "561830",
+        "pct": 1.85,
+        "amount": 1434.0,
+        "category": "有色/资源"
       }
     ]
   }
