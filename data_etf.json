@@ -6892,5 +6892,80 @@
         "category": "化工"
       }
     ]
+  },
+  {
+    "date": "2026-09-09",
+    "top10": [
+      {
+        "name": "工业母机ETF国泰",
+        "code": "159667",
+        "pct": 2.16,
+        "amount": 6810.0,
+        "category": "智能制造"
+      },
+      {
+        "name": "船舶ETF富国",
+        "code": "560710",
+        "pct": 1.98,
+        "amount": 6312.0,
+        "category": null
+      },
+      {
+        "name": "机床ETF华夏",
+        "code": "159663",
+        "pct": 1.95,
+        "amount": 4136.0,
+        "category": null
+      },
+      {
+        "name": "通信ETF银华",
+        "code": "159994",
+        "pct": 1.88,
+        "amount": 9323.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "5GETF博时",
+        "code": "159811",
+        "pct": 1.85,
+        "amount": 1122.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF华夏",
+        "code": "515050",
+        "pct": 1.82,
+        "amount": 50214.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 1.79,
+        "amount": 146151.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF广发",
+        "code": "159507",
+        "pct": 1.61,
+        "amount": 3835.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF富国",
+        "code": "159583",
+        "pct": 1.57,
+        "amount": 22604.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "电网设备ETF国泰",
+        "code": "561380",
+        "pct": 1.53,
+        "amount": 3765.0,
+        "category": null
+      }
+    ]
   }
 ]
