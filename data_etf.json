@@ -6972,73 +6972,73 @@
     "date": "2026-09-10",
     "top10": [
       {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 1.65,
-        "amount": 95964.0,
-        "category": "煤炭/能源"
-      },
-      {
-        "name": "船舶ETF富国",
-        "code": "560710",
-        "pct": 1.21,
-        "amount": 11808.0,
-        "category": null
+        "name": "银行ETF广发",
+        "code": "512410",
+        "pct": 1.52,
+        "amount": 1503.0,
+        "category": "银行"
       },
       {
         "name": "银行AH优选ETF招商",
         "code": "517900",
-        "pct": 1.08,
-        "amount": 2662.0,
-        "category": "银行"
-      },
-      {
-        "name": "银行ETF广发",
-        "code": "512410",
-        "pct": 0.98,
-        "amount": 960.0,
-        "category": "银行"
-      },
-      {
-        "name": "银行ETF银华",
-        "code": "561530",
-        "pct": 0.89,
-        "amount": 801.0,
+        "pct": 1.52,
+        "amount": 3354.0,
         "category": "银行"
       },
       {
         "name": "银行ETF汇添富",
         "code": "512820",
-        "pct": 0.88,
-        "amount": 6762.0,
+        "pct": 1.49,
+        "amount": 8206.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF银华",
+        "code": "561530",
+        "pct": 1.38,
+        "amount": 1328.0,
         "category": "银行"
       },
       {
         "name": "银行ETF富国",
         "code": "159887",
-        "pct": 0.87,
-        "amount": 6383.0,
-        "category": "银行"
-      },
-      {
-        "name": "银行ETF华泰柏瑞",
-        "code": "560670",
-        "pct": 0.83,
-        "amount": 927.0,
-        "category": "银行"
-      },
-      {
-        "name": "银行ETF鹏华",
-        "code": "512730",
-        "pct": 0.81,
-        "amount": 234.0,
+        "pct": 1.38,
+        "amount": 8843.0,
         "category": "银行"
       },
       {
         "name": "银行ETF易方达",
         "code": "516310",
-        "pct": 0.79,
-        "amount": 9259.0,
+        "pct": 1.36,
+        "amount": 13017.0,
+        "category": "银行"
+      },
+      {
+        "name": "港股通金融ETF华夏",
+        "code": "513190",
+        "pct": 1.35,
+        "amount": 55375.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF华夏",
+        "code": "515020",
+        "pct": 1.33,
+        "amount": 14415.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF华宝",
+        "code": "512800",
+        "pct": 1.31,
+        "amount": 101854.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF华泰柏瑞",
+        "code": "560670",
+        "pct": 1.29,
+        "amount": 1104.0,
         "category": "银行"
       }
     ]
