@@ -6967,5 +6967,80 @@
         "category": "有色/资源"
       }
     ]
+  },
+  {
+    "date": "2026-09-10",
+    "top10": [
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 2.22,
+        "amount": 41308.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "船舶ETF富国",
+        "code": "560710",
+        "pct": 1.11,
+        "amount": 6964.0,
+        "category": null
+      },
+      {
+        "name": "银行AH优选ETF招商",
+        "code": "517900",
+        "pct": 1.01,
+        "amount": 1091.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF银华",
+        "code": "561530",
+        "pct": 0.99,
+        "amount": 579.0,
+        "category": "银行"
+      },
+      {
+        "name": "红利低波ETF国泰海通",
+        "code": "560730",
+        "pct": 0.94,
+        "amount": 111.0,
+        "category": "红利/高股息"
+      },
+      {
+        "name": "银行ETF广发",
+        "code": "512410",
+        "pct": 0.89,
+        "amount": 313.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF汇添富",
+        "code": "512820",
+        "pct": 0.88,
+        "amount": 3774.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF易方达",
+        "code": "516310",
+        "pct": 0.86,
+        "amount": 5212.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF华泰柏瑞",
+        "code": "560670",
+        "pct": 0.83,
+        "amount": 392.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF鹏华",
+        "code": "512730",
+        "pct": 0.81,
+        "amount": 143.0,
+        "category": "银行"
+      }
+    ]
   }
 ]
