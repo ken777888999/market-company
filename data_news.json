@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-07-24",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-07-24",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16169,5 +16162,349 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-11",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609111829278267",
+        "title": "东山精密:2026年度第二次临时股东会决议公告",
+        "date": "2026-09-12",
+        "time": "19:04",
+        "category": "股东大会决议公告",
+        "codes": [
+          "002384"
+        ],
+        "names": [
+          "东山精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002384/AN202609111829278267.html"
+      },
+      {
+        "art_code": "AN202609111829278275",
+        "title": "东山精密:2026年度第二次临时股东会法律意见书",
+        "date": "2026-09-12",
+        "time": "19:04",
+        "category": "法律意见书",
+        "codes": [
+          "002384"
+        ],
+        "names": [
+          "东山精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002384/AN202609111829278275.html"
+      },
+      {
+        "art_code": "AN202609111829278277",
+        "title": "东山精密:2026年半年度报告(英文版)",
+        "date": "2026-09-12",
+        "time": "19:04",
+        "category": "半年度报告全文(英文)",
+        "codes": [
+          "002384"
+        ],
+        "names": [
+          "东山精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002384/AN202609111829278277.html"
+      },
+      {
+        "art_code": "AN202609111829277381",
+        "title": "澜起科技:H股公告-翌日披露报表",
+        "date": "2026-09-12",
+        "time": "18:51",
+        "category": "其他",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202609111829277381.html"
+      },
+      {
+        "art_code": "AN202609111829276334",
+        "title": "中钨高新:关于部分限制性股票回购注销完成的公告",
+        "date": "2026-09-12",
+        "time": "18:24",
+        "category": "股本变动,回购进展情况,回购实施公告",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202609111829276334.html"
+      },
+      {
+        "art_code": "AN202609111829276305",
+        "title": "鼎龙股份:第六届董事会第十七次会议决议公告",
+        "date": "2026-09-12",
+        "time": "18:22",
+        "category": "董事会决议公告,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202609111829276305.html"
+      },
+      {
+        "art_code": "AN202609111829276300",
+        "title": "鼎龙股份:《关于变更经营范围并修订〈公司章程〉的公告》",
+        "date": "2026-09-12",
+        "time": "18:22",
+        "category": "公司经营范围变更,公司章程修订,经营范围变更",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202609111829276300.html"
+      },
+      {
+        "art_code": "AN202609111829276302",
+        "title": "鼎龙股份:关于召开2026年第一次临时股东会的通知",
+        "date": "2026-09-12",
+        "time": "18:22",
+        "category": "召开股东大会通知,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202609111829276302.html"
+      },
+      {
+        "art_code": "AN202609111829275852",
+        "title": "通富微电:通富微电子股份有限公司向特定对象发行A股股票上市公告书",
+        "date": "2026-09-12",
+        "time": "18:14",
+        "category": "增发上市公告书",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202609111829275852.html"
+      },
+      {
+        "art_code": "AN202609111829275848",
+        "title": "通富微电:国泰海通证券股份有限公司关于通富微电子股份有限公司2026年度向特定对象发行A股股票之上市保荐书",
+        "date": "2026-09-12",
+        "time": "18:14",
+        "category": "上市保荐书",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202609111829275848.html"
+      },
+      {
+        "art_code": "AN202609111829275856",
+        "title": "通富微电:关于向特定对象发行股票上市公告书披露的提示性公告",
+        "date": "2026-09-12",
+        "time": "18:14",
+        "category": "增发提示性公告",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202609111829275856.html"
+      },
+      {
+        "art_code": "AN202609111829275868",
+        "title": "通富微电:关于持股5%以上股东持股比例被动稀释触及1%整数倍的公告",
+        "date": "2026-09-12",
+        "time": "18:14",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202609111829275868.html"
+      },
+      {
+        "art_code": "AN202609111829275830",
+        "title": "通富微电:关于董事、高级管理人员持股情况变动的公告",
+        "date": "2026-09-12",
+        "time": "18:13",
+        "category": "高管人员持股变动",
+        "codes": [
+          "002156"
+        ],
+        "names": [
+          "通富微电"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002156/AN202609111829275830.html"
+      },
+      {
+        "art_code": "AN202609111829273929",
+        "title": "中国铝业:中国铝业关于控股股东及其一致行动人增持股份的进展公告",
+        "date": "2026-09-12",
+        "time": "17:37",
+        "category": "股东/实际控制人股份增持",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202609111829273929.html"
+      },
+      {
+        "art_code": "AN202609111829272803",
+        "title": "长飞光纤:长飞光纤光缆股份有限公司2026年第二次临时股东会决议公告",
+        "date": "2026-09-12",
+        "time": "17:12",
+        "category": "分配方案决议公告,股东大会决议公告",
+        "codes": [
+          "601869"
+        ],
+        "names": [
+          "长飞光纤"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601869/AN202609111829272803.html"
+      },
+      {
+        "art_code": "AN202609111829272801",
+        "title": "长飞光纤:关于长飞光纤光缆股份有限公司2026年第一次临时股东会的法律意见书",
+        "date": "2026-09-12",
+        "time": "17:12",
+        "category": "法律意见书",
+        "codes": [
+          "601869"
+        ],
+        "names": [
+          "长飞光纤"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601869/AN202609111829272801.html"
+      },
+      {
+        "art_code": "AN202609111829270636",
+        "title": "桐昆股份:桐昆集团股份有限公司关于大股东申请非公开发行可交换公司债券的公告",
+        "date": "2026-09-12",
+        "time": "16:48",
+        "category": "其他",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609111829270636.html"
+      },
+      {
+        "art_code": "AN202609111829282442",
+        "title": "中微公司:董事、高级管理人员减持股份结果公告",
+        "date": "2026-09-12",
+        "time": "20:59",
+        "category": "",
+        "codes": [
+          "688012"
+        ],
+        "names": [
+          "中微公司"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688012/AN202609111829282442.html"
+      },
+      {
+        "art_code": "AN202609111829280512",
+        "title": "中际旭创:H股公告(中期报告)",
+        "date": "2026-09-11",
+        "time": "19:57",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609111829280512.html"
+      },
+      {
+        "art_code": "AN202609111829280510",
+        "title": "中际旭创:H股公告(翌日披露报表)",
+        "date": "2026-09-11",
+        "time": "19:57",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609111829280510.html"
+      },
+      {
+        "art_code": "AN202609111829278798",
+        "title": "江波龙:H股公告(翌日披露报表)",
+        "date": "2026-09-11",
+        "time": "19:14",
+        "category": "其他",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609111829278798.html"
+      },
+      {
+        "art_code": "AN202609111829276433",
+        "title": "新易盛:关于2024年限制性股票激励计划预留授予第二期归属结果暨股份上市的公告",
+        "date": "2026-09-11",
+        "time": "18:27",
+        "category": "限售股份上市流通,股权激励进展公告",
+        "codes": [
+          "300502"
+        ],
+        "names": [
+          "新易盛"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300502/AN202609111829276433.html"
+      },
+      {
+        "art_code": "AN202609111829273584",
+        "title": "南亚新材:2026-003投资者关系活动记录表",
+        "date": "2026-09-11",
+        "time": "17:34",
+        "category": "调研活动",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202609111829273584.html"
+      },
+      {
+        "art_code": "AN202609111829267909",
+        "title": "星宸科技:中国国际金融股份有限公司关于星宸科技股份有限公司2026年半年度跟踪报告",
+        "date": "2026-09-11",
+        "time": "16:05",
+        "category": "保荐/核查意见",
+        "codes": [
+          "301536"
+        ],
+        "names": [
+          "星宸科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202609111829267909.html"
+      }
+    ],
+    "reports": []
   }
 ]
