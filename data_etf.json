@@ -7042,5 +7042,80 @@
         "category": "银行"
       }
     ]
+  },
+  {
+    "date": "2026-09-11",
+    "top10": [
+      {
+        "name": "豆粕ETF华夏",
+        "code": "159985",
+        "pct": 2.13,
+        "amount": 55953.0,
+        "category": null
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 1.57,
+        "amount": 20347.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 1.53,
+        "amount": 56598.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 1.2,
+        "amount": 57018.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "货币ETF汇添富",
+        "code": "511980",
+        "pct": 0.07,
+        "amount": 1.0,
+        "category": null
+      },
+      {
+        "name": "融通货币ETF",
+        "code": "511910",
+        "pct": 0.04,
+        "amount": 7.0,
+        "category": null
+      },
+      {
+        "name": "通信ETF南方",
+        "code": "159511",
+        "pct": 0.04,
+        "amount": 703.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "城投债ETF海富通",
+        "code": "511220",
+        "pct": 0.02,
+        "amount": 9865.0,
+        "category": null
+      },
+      {
+        "name": "公司债ETF平安",
+        "code": "511030",
+        "pct": 0.01,
+        "amount": 174626.0,
+        "category": "债券"
+      },
+      {
+        "name": "30年国债ETF鹏扬",
+        "code": "511090",
+        "pct": 0.01,
+        "amount": 80248.0,
+        "category": "债券"
+      }
+    ]
   }
 ]
