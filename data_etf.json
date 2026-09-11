@@ -7047,74 +7047,74 @@
     "date": "2026-09-11",
     "top10": [
       {
-        "name": "军工龙头ETF富国",
-        "code": "512710",
-        "pct": 0.77,
-        "amount": 24725.0,
-        "category": "军工/航空航天"
+        "name": "通信ETF南方",
+        "code": "159511",
+        "pct": 1.23,
+        "amount": 2361.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "5GETF博时",
+        "code": "159811",
+        "pct": 0.94,
+        "amount": 3312.0,
+        "category": "通信/5G"
       },
       {
         "name": "豆粕ETF华夏",
         "code": "159985",
-        "pct": 0.74,
-        "amount": 95534.0,
+        "pct": 0.91,
+        "amount": 114669.0,
         "category": null
       },
       {
-        "name": "港股通科技30ETF工银",
-        "code": "159636",
-        "pct": 0.62,
-        "amount": 25995.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "通信ETF南方",
-        "code": "159511",
-        "pct": 0.59,
-        "amount": 1704.0,
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 0.75,
+        "amount": 387117.0,
         "category": "通信/5G"
       },
       {
         "name": "港股通互联网ETF易方达",
         "code": "513040",
-        "pct": 0.58,
-        "amount": 23611.0,
+        "pct": 0.69,
+        "amount": 28864.0,
         "category": "港股/中概"
+      },
+      {
+        "name": "港股通科技30ETF工银",
+        "code": "159636",
+        "pct": 0.62,
+        "amount": 31101.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "通信ETF广发",
+        "code": "159507",
+        "pct": 0.57,
+        "amount": 6672.0,
+        "category": "通信/5G"
       },
       {
         "name": "港股互联网ETF博时",
         "code": "159568",
         "pct": 0.57,
-        "amount": 5219.0,
+        "amount": 5741.0,
         "category": "港股/中概"
       },
       {
-        "name": "港股通互联网ETF富国",
-        "code": "159792",
-        "pct": 0.56,
-        "amount": 86443.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "5GETF博时",
-        "code": "159811",
-        "pct": 0.54,
-        "amount": 2496.0,
+        "name": "通信ETF嘉实",
+        "code": "159695",
+        "pct": 0.42,
+        "amount": 5816.0,
         "category": "通信/5G"
       },
       {
         "name": "中概互联网ETF易方达",
         "code": "513050",
         "pct": 0.4,
-        "amount": 118745.0,
+        "amount": 139195.0,
         "category": "港股/中概"
-      },
-      {
-        "name": "沪港深科技ETF广发",
-        "code": "517350",
-        "pct": 0.34,
-        "amount": 153.0,
-        "category": null
       }
     ]
   }
