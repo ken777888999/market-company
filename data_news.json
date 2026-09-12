@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-07-25",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-07-25",
     "time": "21:00",
     "period": "晚间",
     "announcements": [],
@@ -16238,6 +16231,28 @@
     "time": "09:00",
     "period": "早间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-09-12",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609121829313091",
+        "title": "新易盛:300502新易盛投资者关系管理信息20260911",
+        "date": "2026-09-12",
+        "time": "15:46",
+        "category": "调研活动",
+        "codes": [
+          "300502"
+        ],
+        "names": [
+          "新易盛"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300502/AN202609121829313091.html"
+      }
+    ],
     "reports": []
   }
 ]
