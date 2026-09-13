@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-07-26",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-07-26",
     "time": "21:00",
     "period": "晚间",
     "announcements": [],
@@ -16254,5 +16247,22 @@
     "period": "早间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-09-13",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [],
+    "reports": [
+      {
+        "code": "300054",
+        "name": "鼎龙股份",
+        "title": "半导体材料平台量利齐升，新业务打开成长空间",
+        "org": "太平洋",
+        "rating": "",
+        "date": "2026-09-13",
+        "digest": ""
+      }
+    ]
   }
 ]
