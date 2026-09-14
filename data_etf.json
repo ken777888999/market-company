@@ -7117,5 +7117,80 @@
         "category": "港股/中概"
       }
     ]
+  },
+  {
+    "date": "2026-09-14",
+    "top10": [
+      {
+        "name": "创新药ETF国泰",
+        "code": "517110",
+        "pct": 2.69,
+        "amount": 1357.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF富国",
+        "code": "159748",
+        "pct": 2.65,
+        "amount": 1537.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF东财",
+        "code": "159622",
+        "pct": 2.6,
+        "amount": 3904.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF天弘",
+        "code": "517380",
+        "pct": 2.58,
+        "amount": 3782.0,
+        "category": "医药"
+      },
+      {
+        "name": "恒生生物科技ETF南方",
+        "code": "159615",
+        "pct": 2.58,
+        "amount": 5228.0,
+        "category": "医药"
+      },
+      {
+        "name": "生物医药ETF汇添富",
+        "code": "159839",
+        "pct": 2.58,
+        "amount": 2078.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股创新药ETF广发",
+        "code": "513120",
+        "pct": 2.52,
+        "amount": 252774.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF工银",
+        "code": "516060",
+        "pct": 2.5,
+        "amount": 257.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF广发",
+        "code": "515120",
+        "pct": 2.49,
+        "amount": 18652.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF银华",
+        "code": "159992",
+        "pct": 2.49,
+        "amount": 33921.0,
+        "category": "医药"
+      }
+    ]
   }
 ]
