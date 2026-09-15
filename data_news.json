@@ -1,28 +1,6 @@
 [
   {
     "date": "2026-07-28",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202607281827401691",
-        "title": "中际旭创:关于境外上市股份(H股)公开发行价格的公告",
-        "date": "2026-07-28",
-        "time": "08:05",
-        "category": "其他",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607281827401691.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-07-28",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16260,6 +16238,313 @@
     "period": "早间",
     "announcements": [],
     "reports": [
+      {
+        "code": "300502",
+        "name": "新易盛",
+        "title": "2026年中报点评：800G/1.6T放量驱动业绩兑现，AI光互联龙头进入加速成长期",
+        "org": "西南证券",
+        "rating": "",
+        "date": "2026-09-15",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-15",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609151829421648",
+        "title": "中瓷电子:关于完成工商变更登记并换发营业执照的公告",
+        "date": "2026-09-16",
+        "time": "18:45",
+        "category": "公司经营范围变更",
+        "codes": [
+          "003031"
+        ],
+        "names": [
+          "中瓷电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/003031/AN202609151829421648.html"
+      },
+      {
+        "art_code": "AN202609151829418708",
+        "title": "三环集团:君合律师事务所上海分所关于潮州三环(集团)股份有限公司2026年A股员工持股计划(草案)的法律意见书",
+        "date": "2026-09-16",
+        "time": "17:57",
+        "category": "法律意见书",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202609151829418708.html"
+      },
+      {
+        "art_code": "AN202609151829417823",
+        "title": "澜起科技:H股公告-翌日披露报表",
+        "date": "2026-09-16",
+        "time": "17:46",
+        "category": "其他",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202609151829417823.html"
+      },
+      {
+        "art_code": "AN202609151829417661",
+        "title": "桐昆股份:桐昆集团股份有限公司2026年限制性股票激励计划授予公告",
+        "date": "2026-09-16",
+        "time": "17:39",
+        "category": "股权激励进展公告",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609151829417661.html"
+      },
+      {
+        "art_code": "AN202609151829417660",
+        "title": "桐昆股份:桐昆集团股份有限公司2026年第四次临时股东会决议公告",
+        "date": "2026-09-16",
+        "time": "17:39",
+        "category": "股东大会决议公告",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609151829417660.html"
+      },
+      {
+        "art_code": "AN202609151829417659",
+        "title": "桐昆股份:桐昆集团股份有限公司第十届董事会第四次会议决议公告",
+        "date": "2026-09-16",
+        "time": "17:39",
+        "category": "董事会决议公告",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609151829417659.html"
+      },
+      {
+        "art_code": "AN202609151829417662",
+        "title": "桐昆股份:桐昆集团股份有限公司2026年限制性股票激励计划激励对象名单",
+        "date": "2026-09-16",
+        "time": "17:39",
+        "category": "股权激励对象名单",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609151829417662.html"
+      },
+      {
+        "art_code": "AN202609151829417663",
+        "title": "桐昆股份:北京市竞天公诚律师事务所关于桐昆集团股份有限公司2026年限制性股票激励计划授予事项的法律意见书",
+        "date": "2026-09-16",
+        "time": "17:39",
+        "category": "法律意见书",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609151829417663.html"
+      },
+      {
+        "art_code": "AN202609151829417664",
+        "title": "桐昆股份:桐昆股份董事会提名与薪酬考核委员会关于公司2026年限制性股票激励计划授予事项的核查意见",
+        "date": "2026-09-16",
+        "time": "17:39",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609151829417664.html"
+      },
+      {
+        "art_code": "AN202609151829417658",
+        "title": "桐昆股份:2026年第四次临时股东会的法律意见书",
+        "date": "2026-09-16",
+        "time": "17:39",
+        "category": "法律意见书",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609151829417658.html"
+      },
+      {
+        "art_code": "AN202609151829417657",
+        "title": "桐昆股份:国信证券股份有限公司关于桐昆集团股份有限公司2026年限制性股票激励计划授予相关事项之独立财务顾问报告",
+        "date": "2026-09-16",
+        "time": "17:39",
+        "category": "保荐/核查意见",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609151829417657.html"
+      },
+      {
+        "art_code": "AN202609151829414244",
+        "title": "株冶集团:株冶集团关于参加中国五矿集团有限公司控股上市公司集体业绩说明会暨召开2026年半年度业绩说明会的公告",
+        "date": "2026-09-16",
+        "time": "16:36",
+        "category": "其他",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202609151829414244.html"
+      },
+      {
+        "art_code": "AN202609151829413908",
+        "title": "中钨高新:关于参加中国五矿集团有限公司控股上市公司2026年半年度集体业绩说明会的公告",
+        "date": "2026-09-16",
+        "time": "16:29",
+        "category": "其他",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202609151829413908.html"
+      },
+      {
+        "art_code": "AN202609151829409162",
+        "title": "德业股份:关于股票期权限制行权期间的提示性公告",
+        "date": "2026-09-16",
+        "time": "15:32",
+        "category": "股权激励进展公告",
+        "codes": [
+          "605117"
+        ],
+        "names": [
+          "德业股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/605117/AN202609151829409162.html"
+      },
+      {
+        "art_code": "AN202609151829424759",
+        "title": "长芯博创:长芯博创科技股份有限公司关于特定股东股份减持完成的公告",
+        "date": "2026-09-15",
+        "time": "20:25",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609151829424759.html"
+      },
+      {
+        "art_code": "AN202609151829423235",
+        "title": "广合科技:2026年9月15日投资者关系活动记录表",
+        "date": "2026-09-15",
+        "time": "19:23",
+        "category": "调研活动",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609151829423235.html"
+      },
+      {
+        "art_code": "AN202609151829422552",
+        "title": "中际旭创:H股公告(翌日披露报表)",
+        "date": "2026-09-15",
+        "time": "19:02",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609151829422552.html"
+      },
+      {
+        "art_code": "AN202609151829420247",
+        "title": "江波龙:H股公告(翌日披露报表)",
+        "date": "2026-09-15",
+        "time": "18:23",
+        "category": "其他",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609151829420247.html"
+      },
+      {
+        "art_code": "AN202609151829420116",
+        "title": "赛分科技:2026年9月15日苏州赛分科技股份有限公司投资者关系活动表",
+        "date": "2026-09-15",
+        "time": "18:23",
+        "category": "调研活动",
+        "codes": [
+          "688758"
+        ],
+        "names": [
+          "赛分科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688758/AN202609151829420116.html"
+      },
+      {
+        "art_code": "AN202609151829416703",
+        "title": "沪电股份:2026年9月15日投资者关系活动记录表",
+        "date": "2026-09-15",
+        "time": "17:26",
+        "category": "调研活动",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202609151829416703.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "300548",
+        "name": "长芯博创",
+        "title": "业绩大幅增长，全栈光互联加速产品放量",
+        "org": "太平洋",
+        "rating": "",
+        "date": "2026-09-15",
+        "digest": ""
+      },
       {
         "code": "300502",
         "name": "新易盛",
