@@ -7274,71 +7274,71 @@
       {
         "name": "科创半导体ETF华夏",
         "code": "588170",
-        "pct": 5.75,
-        "amount": 545142.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF广发",
-        "code": "560780",
-        "pct": 5.08,
-        "amount": 72947.0,
+        "pct": 5.97,
+        "amount": 671330.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF华夏",
         "code": "562590",
-        "pct": 5.08,
-        "amount": 50722.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "通信ETF富国",
-        "code": "159583",
-        "pct": 5.08,
-        "amount": 54393.0,
-        "category": "通信/5G"
-      },
-      {
-        "name": "半导体设备ETF易方达",
-        "code": "159558",
-        "pct": 5.05,
-        "amount": 150546.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "科创芯片ETF嘉实",
-        "code": "588200",
-        "pct": 4.95,
-        "amount": 259806.0,
+        "pct": 5.61,
+        "amount": 57215.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF国泰",
         "code": "159516",
-        "pct": 4.93,
-        "amount": 332303.0,
+        "pct": 5.53,
+        "amount": 391919.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF广发",
+        "code": "560780",
+        "pct": 5.48,
+        "amount": 80134.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF易方达",
+        "code": "159558",
+        "pct": 5.43,
+        "amount": 176421.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "通信ETF富国",
+        "code": "159583",
+        "pct": 5.27,
+        "amount": 66668.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "半导体设备ETF招商",
+        "code": "561980",
+        "pct": 5.1,
+        "amount": 39146.0,
         "category": "芯片/半导体"
       },
       {
         "name": "科创芯片ETF华安",
         "code": "588290",
-        "pct": 4.77,
-        "amount": 15116.0,
+        "pct": 5.05,
+        "amount": 18609.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "半导体设备ETF招商",
-        "code": "561980",
-        "pct": 4.64,
-        "amount": 35302.0,
+        "name": "科创芯片ETF嘉实",
+        "code": "588200",
+        "pct": 5.04,
+        "amount": 347593.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体ETF博时",
         "code": "159582",
-        "pct": 4.62,
-        "amount": 11060.0,
+        "pct": 5.03,
+        "amount": 13599.0,
         "category": "芯片/半导体"
       }
     ]
