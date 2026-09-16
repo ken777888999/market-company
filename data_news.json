@@ -1,149 +1,5 @@
 [
   {
-    "date": "2026-07-28",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202607281827425861",
-        "title": "鼎龙股份:关于更换持续督导保荐代表人的公告",
-        "date": "2026-07-29",
-        "time": "20:13",
-        "category": "保荐代表人（机构）变更,其它",
-        "codes": [
-          "300054"
-        ],
-        "names": [
-          "鼎龙股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607281827425861.html"
-      },
-      {
-        "art_code": "AN202607281827423533",
-        "title": "广合科技:H股公告-董事会会议召开日期",
-        "date": "2026-07-29",
-        "time": "18:51",
-        "category": "其他",
-        "codes": [
-          "001389"
-        ],
-        "names": [
-          "广合科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202607281827423533.html"
-      },
-      {
-        "art_code": "AN202607281827423539",
-        "title": "三环集团:H股公告-翌日披露报表",
-        "date": "2026-07-29",
-        "time": "18:51",
-        "category": "其他",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607281827423539.html"
-      },
-      {
-        "art_code": "AN202607281827423025",
-        "title": "德业股份:关于向香港联交所递交H股发行并上市申请的进展公告",
-        "date": "2026-07-29",
-        "time": "18:31",
-        "category": "其他",
-        "codes": [
-          "605117"
-        ],
-        "names": [
-          "德业股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/605117/AN202607281827423025.html"
-      },
-      {
-        "art_code": "AN202607281827422885",
-        "title": "安孚科技:安徽安孚电池科技股份有限公司关于以集中竞价方式回购股份的回购报告书",
-        "date": "2026-07-29",
-        "time": "18:26",
-        "category": "回购报告书",
-        "codes": [
-          "603031"
-        ],
-        "names": [
-          "安孚科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603031/AN202607281827422885.html"
-      },
-      {
-        "art_code": "AN202607281827422431",
-        "title": "金海通:关于持股5%以上股东权益变动触及1%刻度的提示性公告",
-        "date": "2026-07-29",
-        "time": "18:09",
-        "category": "权益变动报告书",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607281827422431.html"
-      },
-      {
-        "art_code": "AN202607281827419383",
-        "title": "中钨高新:关于变更财务总监的公告",
-        "date": "2026-07-29",
-        "time": "16:47",
-        "category": "高管人员任职变动",
-        "codes": [
-          "000657"
-        ],
-        "names": [
-          "中钨高新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/000657/AN202607281827419383.html"
-      },
-      {
-        "art_code": "AN202607281827419293",
-        "title": "中钨高新:第十一届董事会第十四次(临时)会议决议公告",
-        "date": "2026-07-29",
-        "time": "16:45",
-        "category": "高管人员任职变动,董事会决议公告",
-        "codes": [
-          "000657"
-        ],
-        "names": [
-          "中钨高新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/000657/AN202607281827419293.html"
-      },
-      {
-        "art_code": "AN202607281827425978",
-        "title": "鼎龙股份:300054鼎龙股份投资者关系管理信息20260728",
-        "date": "2026-07-28",
-        "time": "20:19",
-        "category": "调研活动",
-        "codes": [
-          "300054"
-        ],
-        "names": [
-          "鼎龙股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607281827425978.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "600549",
-        "name": "厦门钨业",
-        "title": "是钨矿资源龙头，更是AI材料平台",
-        "org": "国金证券",
-        "rating": "",
-        "date": "2026-07-28",
-        "digest": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-29",
     "time": "09:00",
     "period": "早间",
@@ -16535,6 +16391,32 @@
         "url": "https://data.eastmoney.com/notices/detail/002463/AN202609151829416703.html"
       }
     ],
+    "reports": [
+      {
+        "code": "300548",
+        "name": "长芯博创",
+        "title": "业绩大幅增长，全栈光互联加速产品放量",
+        "org": "太平洋",
+        "rating": "",
+        "date": "2026-09-15",
+        "digest": ""
+      },
+      {
+        "code": "300502",
+        "name": "新易盛",
+        "title": "2026年中报点评：800G/1.6T放量驱动业绩兑现，AI光互联龙头进入加速成长期",
+        "org": "西南证券",
+        "rating": "",
+        "date": "2026-09-15",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "300548",
