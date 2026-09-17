@@ -1,312 +1,5 @@
 [
   {
-    "date": "2026-07-29",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202607291827461594",
-        "title": "兆易创新:兆易创新股东减持股份结果公告",
-        "date": "2026-07-30",
-        "time": "20:15",
-        "category": "股东/实际控制人股份减持",
-        "codes": [
-          "603986"
-        ],
-        "names": [
-          "兆易创新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607291827461594.html"
-      },
-      {
-        "art_code": "AN202607291827461526",
-        "title": "兆易创新:兆易创新关于董事长提议公司回购A股股份的公告",
-        "date": "2026-07-30",
-        "time": "20:10",
-        "category": "回购预案",
-        "codes": [
-          "603986"
-        ],
-        "names": [
-          "兆易创新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607291827461526.html"
-      },
-      {
-        "art_code": "AN202607291827461527",
-        "title": "兆易创新:兆易创新股东增持股份计划公告",
-        "date": "2026-07-30",
-        "time": "20:10",
-        "category": "股东/实际控制人股份增持",
-        "codes": [
-          "603986"
-        ],
-        "names": [
-          "兆易创新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607291827461527.html"
-      },
-      {
-        "art_code": "AN202607291827461528",
-        "title": "兆易创新:兆易创新关于股票交易异常波动的公告",
-        "date": "2026-07-30",
-        "time": "20:10",
-        "category": "股票交易异常波动",
-        "codes": [
-          "603986"
-        ],
-        "names": [
-          "兆易创新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607291827461528.html"
-      },
-      {
-        "art_code": "AN202607291827461525",
-        "title": "兆易创新:兆易创新关于控股股东、实际控制人自愿承诺未来12个月不减持公司股份的公告",
-        "date": "2026-07-30",
-        "time": "20:10",
-        "category": "其他",
-        "codes": [
-          "603986"
-        ],
-        "names": [
-          "兆易创新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607291827461525.html"
-      },
-      {
-        "art_code": "AN202607291827461020",
-        "title": "紫金矿业:紫金矿业集团股份有限公司关于控股子公司终止收购AlliedGoldCorporation并拟通过认购定向增发股票方式取得其9.2%股权的公告",
-        "date": "2026-07-30",
-        "time": "19:45",
-        "category": "收购出售资产/股权",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202607291827461020.html"
-      },
-      {
-        "art_code": "AN202607291827460480",
-        "title": "金海通:简式权益变动报告书(宁波旭诺)",
-        "date": "2026-07-30",
-        "time": "19:17",
-        "category": "权益变动报告书",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607291827460480.html"
-      },
-      {
-        "art_code": "AN202607291827460482",
-        "title": "金海通:原持股5%以上股东减持计划时间届满暨减持股份结果公告",
-        "date": "2026-07-30",
-        "time": "19:17",
-        "category": "股东/实际控制人股份减持",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607291827460482.html"
-      },
-      {
-        "art_code": "AN202607291827456488",
-        "title": "新锐股份:上海市锦天城(苏州)律师事务所关于苏州新锐合金工具股份有限公司2026年第三次临时股东会的法律意见书",
-        "date": "2026-07-30",
-        "time": "17:08",
-        "category": "法律意见书",
-        "codes": [
-          "688257"
-        ],
-        "names": [
-          "新锐股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688257/AN202607291827456488.html"
-      },
-      {
-        "art_code": "AN202607291827456487",
-        "title": "新锐股份:新锐股份2026年第三次临时股东会决议公告",
-        "date": "2026-07-30",
-        "time": "17:08",
-        "category": "股东大会决议公告",
-        "codes": [
-          "688257"
-        ],
-        "names": [
-          "新锐股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688257/AN202607291827456487.html"
-      },
-      {
-        "art_code": "AN202607291827453901",
-        "title": "安孚科技:安徽安孚电池科技股份有限公司关于以集中竞价交易方式首次回购公司股份的公告",
-        "date": "2026-07-30",
-        "time": "16:01",
-        "category": "回购实施公告",
-        "codes": [
-          "603031"
-        ],
-        "names": [
-          "安孚科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603031/AN202607291827453901.html"
-      },
-      {
-        "art_code": "AN202607291827460481",
-        "title": "金海通:关于持股5%以上股东权益变动触及5%整数倍暨披露简式权益变动报告书的提示性公告",
-        "date": "2026-07-30",
-        "time": "19:17",
-        "category": "权益变动报告书",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607291827460481.html"
-      },
-      {
-        "art_code": "AN202607291827461570",
-        "title": "6-1容诚会计师事务所(特殊普通合伙)关于天津金海通半导体设备股份有限公司向不特定对象发行可转换公司债券的财务报告及审计报告(申报稿)(天津金海通半导体设备股份有限公司)",
-        "date": "2026-07-29",
-        "time": "20:13",
-        "category": "沪主板再融资审计报告",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607291827461570.html"
-      },
-      {
-        "art_code": "AN202607291827461569",
-        "title": "3-1国泰海通证券股份有限公司关于天津金海通半导体设备股份有限公司向不特定对象发行可转换公司债券之发行保荐书(申报稿)(天津金海通半导体设备股份有限公司)",
-        "date": "2026-07-29",
-        "time": "20:13",
-        "category": "沪主板再融资发行保荐书",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607291827461569.html"
-      },
-      {
-        "art_code": "AN202607291827461567",
-        "title": "4-1国浩律师(深圳)事务所关于天津金海通半导体设备股份有限公司向不特定对象发行可转换公司债券之法律意见书(申报稿)(天津金海通半导体设备股份有限公司)",
-        "date": "2026-07-29",
-        "time": "20:13",
-        "category": "沪主板再融资法律意见书",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607291827461567.html"
-      },
-      {
-        "art_code": "AN202607291827461568",
-        "title": "3-2国泰海通证券股份有限公司关于天津金海通半导体设备股份有限公司向不特定对象发行可转换公司债券之上市保荐书(申报稿)(天津金海通半导体设备股份有限公司)",
-        "date": "2026-07-29",
-        "time": "20:12",
-        "category": "沪主板再融资上市保荐书",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607291827461568.html"
-      },
-      {
-        "art_code": "AN202607291827461538",
-        "title": "1-1天津金海通半导体设备股份有限公司向不特定对象发行可转换公司债券证券募集说明书(申报稿)",
-        "date": "2026-07-29",
-        "time": "20:11",
-        "category": "沪主板再融资募集说明书申报稿",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607291827461538.html"
-      },
-      {
-        "art_code": "AN202607291827459165",
-        "title": "湖南裕能:关于股东提前终止股份减持计划的公告",
-        "date": "2026-07-29",
-        "time": "18:33",
-        "category": "股东/实际控制人股份减持",
-        "codes": [
-          "301358"
-        ],
-        "names": [
-          "湖南裕能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607291827459165.html"
-      },
-      {
-        "art_code": "AN202607291827458088",
-        "title": "新锐股份:投资者关系活动记录表(2026年7月)",
-        "date": "2026-07-29",
-        "time": "18:21",
-        "category": "调研活动",
-        "codes": [
-          "688257"
-        ],
-        "names": [
-          "新锐股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688257/AN202607291827458088.html"
-      },
-      {
-        "art_code": "AN202607291827455498",
-        "title": "协创数据:关于公司及全资子公司开展融资租赁业务暨公司为全资子公司提供担保的进展公告",
-        "date": "2026-07-29",
-        "time": "16:44",
-        "category": "提供/对外担保公告",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202607291827455498.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "301511",
-        "name": "德福科技",
-        "title": "以高品质铜箔连接世界",
-        "org": "中邮证券",
-        "rating": "",
-        "date": "2026-07-29",
-        "digest": ""
-      },
-      {
-        "code": "603061",
-        "name": "金海通",
-        "title": "深耕三温分选筑壁垒，绑定头部客户启新程",
-        "org": "山西证券",
-        "rating": "",
-        "date": "2026-07-29",
-        "digest": ""
-      }
-    ]
-  },
-  {
     "date": "2026-07-30",
     "time": "09:00",
     "period": "早间",
@@ -16676,6 +16369,84 @@
           "生益科技"
         ],
         "url": "https://data.eastmoney.com/notices/detail/600183/AN202609161829464088.html"
+      }
+    ],
+    "reports": []
+  },
+  {
+    "date": "2026-09-17",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202609161829472321",
+        "title": "紫金矿业:紫金矿业集团股份有限公司第九届董事会独立董事专门会议第一次会议决议",
+        "date": "2026-09-17",
+        "time": "22:05",
+        "category": "董事会决议公告",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472321.html"
+      },
+      {
+        "art_code": "AN202609161829472322",
+        "title": "紫金矿业:紫金矿业集团股份有限公司第九届董事会临时会议决议公告",
+        "date": "2026-09-17",
+        "time": "22:05",
+        "category": "董事会决议公告",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472322.html"
+      },
+      {
+        "art_code": "AN202609161829472318",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于向参股公司提供财务资助的公告",
+        "date": "2026-09-17",
+        "time": "22:03",
+        "category": "获得补贴（资助）",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472318.html"
+      },
+      {
+        "art_code": "AN202609161829472319",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于为参股公司提供担保的公告",
+        "date": "2026-09-17",
+        "time": "22:03",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472319.html"
+      },
+      {
+        "art_code": "AN202609161829472320",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于全资子公司与关联人共同投资的公告",
+        "date": "2026-09-17",
+        "time": "22:02",
+        "category": "其他",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472320.html"
       }
     ],
     "reports": []
