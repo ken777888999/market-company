@@ -1,167 +1,5 @@
 [
   {
-    "date": "2026-07-30",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202607301827495981",
-        "title": "中钨高新:关于2021年限制性股票激励计划预留授予部分第三个解锁期解锁股份上市流通的提示性公告",
-        "date": "2026-07-31",
-        "time": "18:55",
-        "category": "限售股份上市流通",
-        "codes": [
-          "000657"
-        ],
-        "names": [
-          "中钨高新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/000657/AN202607301827495981.html"
-      },
-      {
-        "art_code": "AN202607301827492991",
-        "title": "通富微电:股票交易异常波动公告",
-        "date": "2026-07-31",
-        "time": "18:05",
-        "category": "股票交易异常波动",
-        "codes": [
-          "002156"
-        ],
-        "names": [
-          "通富微电"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002156/AN202607301827492991.html"
-      },
-      {
-        "art_code": "AN202607301827490470",
-        "title": "德福科技:关于为子公司提供担保的进展公告",
-        "date": "2026-07-31",
-        "time": "16:55",
-        "category": "提供/对外担保公告",
-        "codes": [
-          "301511"
-        ],
-        "names": [
-          "德福科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301511/AN202607301827490470.html"
-      },
-      {
-        "art_code": "AN202607301827489306",
-        "title": "金海通:关于向不特定对象发行可转换公司债券申请获得上海证券交易所受理的公告",
-        "date": "2026-07-31",
-        "time": "16:20",
-        "category": "其他",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202607301827489306.html"
-      },
-      {
-        "art_code": "AN202607301827498678",
-        "title": "中际旭创:关于控股股东及其一致行动人持股比例变动超过1%整数倍的公告",
-        "date": "2026-07-30",
-        "time": "20:35",
-        "category": "其他",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607301827498678.html"
-      },
-      {
-        "art_code": "AN202607301827498677",
-        "title": "中际旭创:关于境外上市股份(H股)挂牌并上市交易的公告",
-        "date": "2026-07-30",
-        "time": "20:35",
-        "category": "其他",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202607301827498677.html"
-      },
-      {
-        "art_code": "AN202607301827497079",
-        "title": "三环集团:第十一届董事会第二十三次会议决议公告",
-        "date": "2026-07-30",
-        "time": "19:27",
-        "category": "董事会决议公告",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607301827497079.html"
-      },
-      {
-        "art_code": "AN202607301827497077",
-        "title": "三环集团:关于股份回购结果暨股份变动的公告",
-        "date": "2026-07-30",
-        "time": "19:27",
-        "category": "股本变动,回购进展情况",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607301827497077.html"
-      },
-      {
-        "art_code": "AN202607301827497092",
-        "title": "三环集团:关于2026年第二期回购公司股份方案的公告暨回购股份报告书",
-        "date": "2026-07-30",
-        "time": "19:27",
-        "category": "回购预案,回购报告书",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607301827497092.html"
-      },
-      {
-        "art_code": "AN202607301827492412",
-        "title": "湖南裕能:关于公司董事会秘书取得培训证明并正式履职的公告",
-        "date": "2026-07-30",
-        "time": "17:48",
-        "category": "高管人员任职变动,其他",
-        "codes": [
-          "301358"
-        ],
-        "names": [
-          "湖南裕能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607301827492412.html"
-      },
-      {
-        "art_code": "AN202607301827488725",
-        "title": "协创数据:关于变更保荐机构及保荐代表人的公告",
-        "date": "2026-07-30",
-        "time": "15:54",
-        "category": "保荐代表人（机构）变更",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202607301827488725.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-07-31",
     "time": "09:00",
     "period": "早间",
@@ -16879,6 +16717,13 @@
         "url": "https://data.eastmoney.com/notices/detail/300857/AN202609171829516218.html"
       }
     ],
+    "reports": []
+  },
+  {
+    "date": "2026-09-18",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": []
   }
 ]
