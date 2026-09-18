@@ -7417,5 +7417,80 @@
         "category": "医药"
       }
     ]
+  },
+  {
+    "date": "2026-09-18",
+    "top10": [
+      {
+        "name": "集成电路ETF嘉实",
+        "code": "562820",
+        "pct": 3.35,
+        "amount": 1206.0,
+        "category": null
+      },
+      {
+        "name": "集成电路ETF国泰",
+        "code": "159546",
+        "pct": 3.1,
+        "amount": 2069.0,
+        "category": null
+      },
+      {
+        "name": "科创芯片ETF华安",
+        "code": "588290",
+        "pct": 2.78,
+        "amount": 8044.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "芯片ETF汇添富",
+        "code": "516920",
+        "pct": 2.74,
+        "amount": 1643.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "科创芯片ETF嘉实",
+        "code": "588200",
+        "pct": 2.72,
+        "amount": 128848.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体ETF国联安",
+        "code": "512480",
+        "pct": 2.6,
+        "amount": 64838.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "芯片ETF富国",
+        "code": "516640",
+        "pct": 2.59,
+        "amount": 6632.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "芯片ETF东财",
+        "code": "159599",
+        "pct": 2.57,
+        "amount": 7372.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "港股通创新药医疗ETF富国",
+        "code": "159506",
+        "pct": 2.56,
+        "amount": 32245.0,
+        "category": "医药"
+      },
+      {
+        "name": "芯片ETF景顺",
+        "code": "159560",
+        "pct": 2.55,
+        "amount": 979.0,
+        "category": "芯片/半导体"
+      }
+    ]
   }
 ]
