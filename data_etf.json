@@ -7567,5 +7567,80 @@
         "category": "地产"
       }
     ]
+  },
+  {
+    "date": "2026-09-22",
+    "top10": [
+      {
+        "name": "纳指科技ETF景顺",
+        "code": "159509",
+        "pct": 4.05,
+        "amount": 926.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "中概互联网ETF易方达",
+        "code": "513050",
+        "pct": 3.69,
+        "amount": 156478.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "科创创业人工智能ETF鹏华",
+        "code": "588410",
+        "pct": 3.61,
+        "amount": 461.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF工银",
+        "code": "588430",
+        "pct": 3.6,
+        "amount": 301.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF摩根",
+        "code": "588420",
+        "pct": 3.57,
+        "amount": 746.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF华安",
+        "code": "588470",
+        "pct": 3.52,
+        "amount": 778.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF中金",
+        "code": "588480",
+        "pct": 3.52,
+        "amount": 921.0,
+        "category": "AI"
+      },
+      {
+        "name": "人工智能50ETF方正富邦",
+        "code": "517800",
+        "pct": 3.44,
+        "amount": 627.0,
+        "category": "AI"
+      },
+      {
+        "name": "信创ETF国泰",
+        "code": "159537",
+        "pct": 3.28,
+        "amount": 448.0,
+        "category": "计算机/信创"
+      },
+      {
+        "name": "港股互联网ETF国泰",
+        "code": "513720",
+        "pct": 3.23,
+        "amount": 612.0,
+        "category": "港股/中概"
+      }
+    ]
   }
 ]
