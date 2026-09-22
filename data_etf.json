@@ -7574,71 +7574,71 @@
       {
         "name": "纳指科技ETF景顺",
         "code": "159509",
-        "pct": 3.71,
-        "amount": 66761.0,
+        "pct": 3.17,
+        "amount": 110238.0,
         "category": "海外QDII"
       },
       {
-        "name": "科创创业人工智能ETF中金",
-        "code": "588480",
-        "pct": 3.3,
-        "amount": 1057.0,
-        "category": "AI"
-      },
-      {
-        "name": "科创创业人工智能ETF华安",
-        "code": "588470",
-        "pct": 3.17,
-        "amount": 1207.0,
+        "name": "科创创业人工智能ETF工银",
+        "code": "588430",
+        "pct": 2.88,
+        "amount": 607.0,
         "category": "AI"
       },
       {
         "name": "科创创业人工智能ETF鹏华",
         "code": "588410",
-        "pct": 3.11,
-        "amount": 529.0,
-        "category": "AI"
-      },
-      {
-        "name": "科创创业人工智能ETF工银",
-        "code": "588430",
-        "pct": 3.04,
-        "amount": 548.0,
-        "category": "AI"
-      },
-      {
-        "name": "中概互联网ETF易方达",
-        "code": "513050",
-        "pct": 3.01,
-        "amount": 223282.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "人工智能50ETF方正富邦",
-        "code": "517800",
-        "pct": 2.94,
-        "amount": 773.0,
+        "pct": 2.87,
+        "amount": 589.0,
         "category": "AI"
       },
       {
         "name": "科创创业人工智能ETF摩根",
         "code": "588420",
-        "pct": 2.9,
-        "amount": 1139.0,
+        "pct": 2.82,
+        "amount": 1637.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF华安",
+        "code": "588470",
+        "pct": 2.81,
+        "amount": 1526.0,
+        "category": "AI"
+      },
+      {
+        "name": "科创创业人工智能ETF中金",
+        "code": "588480",
+        "pct": 2.75,
+        "amount": 1156.0,
+        "category": "AI"
+      },
+      {
+        "name": "集成电路ETF嘉实",
+        "code": "562820",
+        "pct": 2.47,
+        "amount": 2763.0,
+        "category": null
+      },
+      {
+        "name": "纳斯达克ETF华夏",
+        "code": "513300",
+        "pct": 2.46,
+        "amount": 49476.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "人工智能50ETF方正富邦",
+        "code": "517800",
+        "pct": 2.43,
+        "amount": 843.0,
         "category": "AI"
       },
       {
         "name": "信创ETF国泰",
         "code": "159537",
-        "pct": 2.71,
-        "amount": 522.0,
-        "category": "计算机/信创"
-      },
-      {
-        "name": "信创ETF富国",
-        "code": "159538",
-        "pct": 2.68,
-        "amount": 685.0,
+        "pct": 2.37,
+        "amount": 595.0,
         "category": "计算机/信创"
       }
     ]
