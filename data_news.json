@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-08-04",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-08-04",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16716,6 +16709,336 @@
     "time": "09:00",
     "period": "早间",
     "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-09-22",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609221829766442",
+        "title": "江丰电子:关于为全资子公司申请银行贷款提供担保的公告",
+        "date": "2026-09-23",
+        "time": "20:39",
+        "category": "借贷,提供/对外担保公告",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609221829766442.html"
+      },
+      {
+        "art_code": "AN202609221829766437",
+        "title": "江丰电子:关于全资子公司与专业投资机构共同投资设立有限合伙企业暨关联交易的公告",
+        "date": "2026-09-23",
+        "time": "20:39",
+        "category": "关联交易",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609221829766437.html"
+      },
+      {
+        "art_code": "AN202609221829766446",
+        "title": "江丰电子:关于宁波江丰电子材料股份有限公司增加2026年度日常关联交易预计的核查意见",
+        "date": "2026-09-23",
+        "time": "20:39",
+        "category": "保荐/核查意见",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609221829766446.html"
+      },
+      {
+        "art_code": "AN202609221829766439",
+        "title": "江丰电子:关于召开2026年第三次临时股东会的通知",
+        "date": "2026-09-23",
+        "time": "20:39",
+        "category": "召开股东大会通知",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609221829766439.html"
+      },
+      {
+        "art_code": "AN202609221829766424",
+        "title": "江丰电子:关于增加2026年度日常关联交易预计的公告",
+        "date": "2026-09-23",
+        "time": "20:38",
+        "category": "关联交易",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609221829766424.html"
+      },
+      {
+        "art_code": "AN202609221829766423",
+        "title": "江丰电子:第四届董事会第四十次会议决议公告",
+        "date": "2026-09-23",
+        "time": "20:38",
+        "category": "董事会决议公告",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609221829766423.html"
+      },
+      {
+        "art_code": "AN202609221829766425",
+        "title": "江丰电子:关于宁波江丰电子材料股份有限公司全资子公司与专业投资机构共同投资设立有限合伙企业暨关联交易的核查意见",
+        "date": "2026-09-23",
+        "time": "20:38",
+        "category": "保荐/核查意见",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609221829766425.html"
+      },
+      {
+        "art_code": "AN202609221829761789",
+        "title": "长芯博创:国浩律师(北京)事务所关于长芯博创科技股份有限公司2021年股票期权激励计划预留授予第四期条件成就事项的法律意见书",
+        "date": "2026-09-23",
+        "time": "17:57",
+        "category": "法律意见书",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761789.html"
+      },
+      {
+        "art_code": "AN202609221829761783",
+        "title": "长芯博创:长芯博创科技股份有限公司关于2021年股票期权激励计划预留授予第四期条件成就的公告",
+        "date": "2026-09-23",
+        "time": "17:57",
+        "category": "股权激励进展公告",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761783.html"
+      },
+      {
+        "art_code": "AN202609221829761774",
+        "title": "长芯博创:长芯博创科技股份有限公司2026年限制性股票激励计划实施考核管理办法",
+        "date": "2026-09-23",
+        "time": "17:57",
+        "category": "管理办法/制度",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761774.html"
+      },
+      {
+        "art_code": "AN202609221829761785",
+        "title": "长芯博创:长芯博创科技股份有限公司2026年限制性股票激励计划(草案)",
+        "date": "2026-09-23",
+        "time": "17:57",
+        "category": "股权激励计划",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761785.html"
+      },
+      {
+        "art_code": "AN202609221829761781",
+        "title": "长芯博创:长芯博创科技股份有限公司董事会薪酬与考核委员会关于公司2026年限制性股票激励计划相关事项的核查意见",
+        "date": "2026-09-23",
+        "time": "17:57",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761781.html"
+      },
+      {
+        "art_code": "AN202609221829761778",
+        "title": "长芯博创:长芯博创科技股份有限公司第六届董事会第三十一次会议决议公告",
+        "date": "2026-09-23",
+        "time": "17:57",
+        "category": "董事会决议公告",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761778.html"
+      },
+      {
+        "art_code": "AN202609221829761647",
+        "title": "长芯博创:长芯博创科技股份有限公司2026年限制性股票激励计划自查表",
+        "date": "2026-09-23",
+        "time": "17:54",
+        "category": "股权激励计划",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761647.html"
+      },
+      {
+        "art_code": "AN202609221829761646",
+        "title": "长芯博创:长芯博创科技股份有限公司关于召开2026年第三次临时股东会的通知",
+        "date": "2026-09-23",
+        "time": "17:54",
+        "category": "召开股东大会通知",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761646.html"
+      },
+      {
+        "art_code": "AN202609221829761648",
+        "title": "长芯博创:北京市中伦律师事务所关于长芯博创科技股份有限公司2026年限制性股票激励计划的法律意见书",
+        "date": "2026-09-23",
+        "time": "17:54",
+        "category": "法律意见书",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761648.html"
+      },
+      {
+        "art_code": "AN202609221829761652",
+        "title": "长芯博创:长芯博创科技股份有限公司2026年限制性股票激励计划(草案)摘要",
+        "date": "2026-09-23",
+        "time": "17:54",
+        "category": "股权激励计划摘要",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761652.html"
+      },
+      {
+        "art_code": "AN202609221829761651",
+        "title": "长芯博创:长芯博创科技股份有限公司董事会薪酬与考核委员会关于2021年股票期权激励计划相关事项的核查意见",
+        "date": "2026-09-23",
+        "time": "17:54",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202609221829761651.html"
+      },
+      {
+        "art_code": "AN202609221829760964",
+        "title": "恒逸石化:关于第七期员工持股计划非交易过户完成暨回购股份处理完成的公告",
+        "date": "2026-09-23",
+        "time": "17:35",
+        "category": "回购实施公告,员工持股计划",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609221829760964.html"
+      },
+      {
+        "art_code": "AN202609221829766341",
+        "title": "江波龙:关于为子公司提供担保的进展公告",
+        "date": "2026-09-22",
+        "time": "20:33",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609221829766341.html"
+      },
+      {
+        "art_code": "AN202609221829766336",
+        "title": "江波龙:关于子公司为其子公司提供担保的公告",
+        "date": "2026-09-22",
+        "time": "20:32",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609221829766336.html"
+      },
+      {
+        "art_code": "AN202609221829760952",
+        "title": "普冉股份:2026-005普冉半导体(上海)股份有限公司投资者关系活动记录表(2026年9月21日)",
+        "date": "2026-09-22",
+        "time": "18:50",
+        "category": "调研活动",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609221829760952.html"
+      },
+      {
+        "art_code": "AN202609221829762154",
+        "title": "江波龙:2026年9月17日-21日投资者关系活动记录表",
+        "date": "2026-09-22",
+        "time": "18:04",
+        "category": "调研活动",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609221829762154.html"
+      }
+    ],
     "reports": []
   }
 ]
