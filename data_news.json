@@ -1,181 +1,5 @@
 [
   {
-    "date": "2026-08-04",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202608041827630409",
-        "title": "协创数据:关于新增2026年度日常关联交易预计的公告",
-        "date": "2026-08-05",
-        "time": "20:33",
-        "category": "关联交易",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608041827630409.html"
-      },
-      {
-        "art_code": "AN202608041827630412",
-        "title": "协创数据:关于召开2026年第七次临时股东会的通知",
-        "date": "2026-08-05",
-        "time": "20:33",
-        "category": "召开股东大会通知",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608041827630412.html"
-      },
-      {
-        "art_code": "AN202608041827630418",
-        "title": "协创数据:关于调整公司组织结构的公告",
-        "date": "2026-08-05",
-        "time": "20:33",
-        "category": "其他",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608041827630418.html"
-      },
-      {
-        "art_code": "AN202608041827630414",
-        "title": "协创数据:第四届董事会第十八次会议决议公告",
-        "date": "2026-08-05",
-        "time": "20:33",
-        "category": "董事会决议公告",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608041827630414.html"
-      },
-      {
-        "art_code": "AN202608041827630415",
-        "title": "协创数据:关于制定公司制度的公告",
-        "date": "2026-08-05",
-        "time": "20:33",
-        "category": "管理办法/制度",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608041827630415.html"
-      },
-      {
-        "art_code": "AN202608041827630420",
-        "title": "协创数据:关于公司及子公司使用自有资金进行委托理财的公告",
-        "date": "2026-08-05",
-        "time": "20:33",
-        "category": "委托（受托）事项,投资理财",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608041827630420.html"
-      },
-      {
-        "art_code": "AN202608041827630410",
-        "title": "协创数据:关于继续开展跨境双向人民币资金池业务的公告",
-        "date": "2026-08-05",
-        "time": "20:33",
-        "category": "其他",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608041827630410.html"
-      },
-      {
-        "art_code": "AN202608041827626768",
-        "title": "鼎龙股份:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-        "date": "2026-08-05",
-        "time": "18:37",
-        "category": "回购进展情况,其它",
-        "codes": [
-          "300054"
-        ],
-        "names": [
-          "鼎龙股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202608041827626768.html"
-      },
-      {
-        "art_code": "AN202608041827626285",
-        "title": "普冉股份:普冉半导体(上海)股份有限公司关于股份回购进展公告",
-        "date": "2026-08-05",
-        "time": "18:28",
-        "category": "回购进展情况",
-        "codes": [
-          "688766"
-        ],
-        "names": [
-          "普冉股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608041827626285.html"
-      },
-      {
-        "art_code": "AN202608041827622706",
-        "title": "三环集团:H股公告-翌日披露报表",
-        "date": "2026-08-05",
-        "time": "17:00",
-        "category": "其他",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608041827622706.html"
-      },
-      {
-        "art_code": "AN202608041827621720",
-        "title": "新锐股份:新锐股份关于收购新乡市慧联电子科技有限公司80%股权进展的公告",
-        "date": "2026-08-05",
-        "time": "16:37",
-        "category": "收购出售资产/股权",
-        "codes": [
-          "688257"
-        ],
-        "names": [
-          "新锐股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688257/AN202608041827621720.html"
-      },
-      {
-        "art_code": "AN202608041827620561",
-        "title": "湖南裕能:关于完成工商变更登记并换发营业执照的公告",
-        "date": "2026-08-04",
-        "time": "16:07",
-        "category": "公司注册资本变更",
-        "codes": [
-          "301358"
-        ],
-        "names": [
-          "湖南裕能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608041827620561.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-08-05",
     "time": "09:00",
     "period": "早间",
@@ -17040,5 +16864,22 @@
       }
     ],
     "reports": []
+  },
+  {
+    "date": "2026-09-23",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
+    "reports": [
+      {
+        "code": "300394",
+        "name": "天孚通信",
+        "title": "公司事件点评报告：物料供应紧张情况缓解，CPO产品稳定量产交付",
+        "org": "华鑫证券",
+        "rating": "",
+        "date": "2026-09-23",
+        "digest": ""
+      }
+    ]
   }
 ]
