@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-08-06",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-08-06",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16967,6 +16960,304 @@
         "org": "华鑫证券",
         "rating": "",
         "date": "2026-09-23",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609241829871808",
+        "title": "中际旭创:关于股份回购结果暨股份变动公告",
+        "date": "2026-09-25",
+        "time": "20:24",
+        "category": "股本变动,回购进展情况",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609241829871808.html"
+      },
+      {
+        "art_code": "AN202609241829869305",
+        "title": "中微公司:关于参与设立私募投资基金暨关联交易进展的公告",
+        "date": "2026-09-25",
+        "time": "18:42",
+        "category": "投资设立公司,募集资金使用进展情况,关联交易",
+        "codes": [
+          "688012"
+        ],
+        "names": [
+          "中微公司"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688012/AN202609241829869305.html"
+      },
+      {
+        "art_code": "AN202609241829866593",
+        "title": "利通电子:利通电子关于召开2026年第三次临时股东会的通知",
+        "date": "2026-09-25",
+        "time": "17:37",
+        "category": "召开股东大会通知",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202609241829866593.html"
+      },
+      {
+        "art_code": "AN202609241829866590",
+        "title": "利通电子:利通电子第四届董事会第六次会议决议公告",
+        "date": "2026-09-25",
+        "time": "17:37",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202609241829866590.html"
+      },
+      {
+        "art_code": "AN202609241829866592",
+        "title": "利通电子:利通电子关于与专业投资机构共同投资的公告",
+        "date": "2026-09-25",
+        "time": "17:37",
+        "category": "投资设立公司",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202609241829866592.html"
+      },
+      {
+        "art_code": "AN202609241829866589",
+        "title": "利通电子:利通电子关于独立董事辞职暨补选独立董事的公告",
+        "date": "2026-09-25",
+        "time": "17:37",
+        "category": "高管人员任职变动",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202609241829866589.html"
+      },
+      {
+        "art_code": "AN202609241829866357",
+        "title": "澜起科技:澜起科技股东减持股份计划公告",
+        "date": "2026-09-25",
+        "time": "17:34",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202609241829866357.html"
+      },
+      {
+        "art_code": "AN202609241829865613",
+        "title": "鼎龙股份:关于控股股东部分股份质押及解除质押的公告",
+        "date": "2026-09-25",
+        "time": "17:17",
+        "category": "股份质押、冻结,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202609241829865613.html"
+      },
+      {
+        "art_code": "AN202609241829864831",
+        "title": "领先股份:关于为子公司提供担保预计的公告",
+        "date": "2026-09-25",
+        "time": "17:05",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202609241829864831.html"
+      },
+      {
+        "art_code": "AN202609241829864834",
+        "title": "领先股份:关于独立董事离任暨补选独立董事及调整董事会专门委员会委员的公告",
+        "date": "2026-09-25",
+        "time": "17:05",
+        "category": "高管人员任职变动",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202609241829864834.html"
+      },
+      {
+        "art_code": "AN202609241829864832",
+        "title": "领先股份:关于召开公司2026年第五次临时股东会的通知",
+        "date": "2026-09-25",
+        "time": "17:05",
+        "category": "召开股东大会通知",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202609241829864832.html"
+      },
+      {
+        "art_code": "AN202609241829864833",
+        "title": "领先股份:独立董事提名人声明(杨斌成)",
+        "date": "2026-09-25",
+        "time": "17:05",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202609241829864833.html"
+      },
+      {
+        "art_code": "AN202609241829864828",
+        "title": "领先股份:独立董事候选人声明(杨斌成)",
+        "date": "2026-09-25",
+        "time": "17:05",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202609241829864828.html"
+      },
+      {
+        "art_code": "AN202609241829864830",
+        "title": "领先股份:关于续聘会计师事务所的公告",
+        "date": "2026-09-25",
+        "time": "17:05",
+        "category": "审计机构变更",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202609241829864830.html"
+      },
+      {
+        "art_code": "AN202609241829864829",
+        "title": "领先股份:第五届董事会第六次会议决议公告",
+        "date": "2026-09-25",
+        "time": "17:05",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202609241829864829.html"
+      },
+      {
+        "art_code": "AN202609241829864146",
+        "title": "领先股份:2026年第五次临时股东会会议资料",
+        "date": "2026-09-25",
+        "time": "16:53",
+        "category": "股东大会资料,高管人员任职变动",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202609241829864146.html"
+      },
+      {
+        "art_code": "AN202609241829862555",
+        "title": "株冶集团:株冶集团2026年第二次临时股东会会议资料",
+        "date": "2026-09-25",
+        "time": "16:28",
+        "category": "股东大会资料",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202609241829862555.html"
+      },
+      {
+        "art_code": "AN202609241829866591",
+        "title": "利通电子:利通电子关于对外投资设立全资子公司的公告",
+        "date": "2026-09-25",
+        "time": "17:37",
+        "category": "投资设立公司",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202609241829866591.html"
+      },
+      {
+        "art_code": "AN202609241829861219",
+        "title": "天孚通信:关于完成工商变更登记并换发营业执照的公告",
+        "date": "2026-09-24",
+        "time": "15:56",
+        "category": "公司其他基本信息变更",
+        "codes": [
+          "300394"
+        ],
+        "names": [
+          "天孚通信"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300394/AN202609241829861219.html"
+      },
+      {
+        "art_code": "AN202609241829861162",
+        "title": "协创数据:关于公司为全资子公司提供担保的进展公告",
+        "date": "2026-09-24",
+        "time": "15:55",
+        "category": "提供/对外担保公告",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609241829861162.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "000657",
+        "name": "中钨高新",
+        "title": "隶属五矿集团，钨产业链领军者",
+        "org": "国信证券",
+        "rating": "",
+        "date": "2026-09-24",
         "digest": ""
       }
     ]
