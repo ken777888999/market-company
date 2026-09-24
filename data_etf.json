@@ -7724,72 +7724,72 @@
       {
         "name": "能源化工ETF建信",
         "code": "159981",
-        "pct": 3.46,
-        "amount": 76683.0,
+        "pct": 4.23,
+        "amount": 111061.0,
         "category": "煤炭/能源"
       },
       {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 1.24,
-        "amount": 50805.0,
+        "pct": 1.55,
+        "amount": 79356.0,
         "category": "海外QDII"
       },
       {
         "name": "标普油气ETF嘉实",
         "code": "159518",
-        "pct": 0.98,
-        "amount": 40673.0,
+        "pct": 1.47,
+        "amount": 65048.0,
         "category": "海外QDII"
       },
       {
-        "name": "能源ETF汇添富",
-        "code": "159930",
-        "pct": 0.77,
-        "amount": 4987.0,
-        "category": "煤炭/能源"
-      },
-      {
-        "name": "油气ETF博时",
-        "code": "561760",
-        "pct": 0.74,
-        "amount": 248.0,
+        "name": "教育ETF博时",
+        "code": "513360",
+        "pct": 0.85,
+        "amount": 5566.0,
         "category": null
       },
       {
-        "name": "油气ETF银华",
-        "code": "563150",
-        "pct": 0.74,
-        "amount": 166.0,
-        "category": null
+        "name": "银行ETF富国",
+        "code": "159887",
+        "pct": 0.81,
+        "amount": 10616.0,
+        "category": "银行"
       },
       {
         "name": "能源ETF广发",
         "code": "159945",
         "pct": 0.74,
-        "amount": 303.0,
+        "amount": 480.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "银行ETF易方达",
+        "code": "516310",
+        "pct": 0.65,
+        "amount": 10703.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF华泰柏瑞",
+        "code": "560670",
+        "pct": 0.65,
+        "amount": 994.0,
+        "category": "银行"
+      },
+      {
+        "name": "能源ETF汇添富",
+        "code": "159930",
+        "pct": 0.65,
+        "amount": 5428.0,
         "category": "煤炭/能源"
       },
       {
         "name": "豆粕ETF华夏",
         "code": "159985",
         "pct": 0.65,
-        "amount": 41933.0,
+        "amount": 54920.0,
         "category": null
-      },
-      {
-        "name": "教育ETF博时",
-        "code": "513360",
-        "pct": 0.64,
-        "amount": 4718.0,
-        "category": null
-      },
-      {
-        "name": "银行AH优选ETF招商",
-        "code": "517900",
-        "pct": 0.64,
-        "amount": 2215.0,
-        "category": "银行"
       }
     ]
   }
