@@ -7792,5 +7792,80 @@
         "category": null
       }
     ]
+  },
+  {
+    "date": "2026-09-25",
+    "top10": [
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 4.23,
+        "amount": 111061.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 1.55,
+        "amount": 79960.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 1.47,
+        "amount": 65677.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "教育ETF博时",
+        "code": "513360",
+        "pct": 0.85,
+        "amount": 5590.0,
+        "category": null
+      },
+      {
+        "name": "银行ETF富国",
+        "code": "159887",
+        "pct": 0.81,
+        "amount": 10616.0,
+        "category": "银行"
+      },
+      {
+        "name": "能源ETF广发",
+        "code": "159945",
+        "pct": 0.74,
+        "amount": 480.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "银行ETF华宝",
+        "code": "512800",
+        "pct": 0.72,
+        "amount": 96567.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF汇添富",
+        "code": "512820",
+        "pct": 0.68,
+        "amount": 12311.0,
+        "category": "银行"
+      },
+      {
+        "name": "油气ETF博时",
+        "code": "561760",
+        "pct": 0.66,
+        "amount": 649.0,
+        "category": null
+      },
+      {
+        "name": "银行ETF易方达",
+        "code": "516310",
+        "pct": 0.65,
+        "amount": 10703.0,
+        "category": "银行"
+      }
+    ]
   }
 ]
