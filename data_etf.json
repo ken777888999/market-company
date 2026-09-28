@@ -7874,71 +7874,71 @@
       {
         "name": "纳指生物科技ETF汇添富",
         "code": "513290",
-        "pct": 3.13,
-        "amount": 36268.0,
+        "pct": 3.18,
+        "amount": 43344.0,
         "category": "医药"
       },
       {
         "name": "日本东证指数ETF南方",
         "code": "513800",
         "pct": 1.23,
-        "amount": 6849.0,
+        "amount": 9106.0,
         "category": null
       },
       {
-        "name": "日经ETF工银",
-        "code": "159866",
-        "pct": 0.84,
-        "amount": 14337.0,
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 0.91,
+        "amount": 54556.0,
         "category": "海外QDII"
       },
       {
-        "name": "港股红利低波ETF景顺",
-        "code": "159569",
-        "pct": 0.72,
-        "amount": 3474.0,
-        "category": "红利/高股息"
-      },
-      {
-        "name": "港股医疗ETF银华",
-        "code": "513620",
-        "pct": 0.71,
-        "amount": 3997.0,
-        "category": "医药"
-      },
-      {
-        "name": "汽车ETF广发",
-        "code": "159512",
-        "pct": 0.7,
-        "amount": 1506.0,
-        "category": "汽车"
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 0.86,
+        "amount": 89521.0,
+        "category": "煤炭/能源"
       },
       {
         "name": "汽车ETF南方",
         "code": "516840",
-        "pct": 0.69,
-        "amount": 972.0,
+        "pct": 0.83,
+        "amount": 983.0,
         "category": "汽车"
       },
       {
         "name": "港股低波红利ETF摩根",
         "code": "513630",
-        "pct": 0.64,
-        "amount": 12986.0,
+        "pct": 0.71,
+        "amount": 19053.0,
+        "category": "红利/高股息"
+      },
+      {
+        "name": "港股红利ETF博时",
+        "code": "513690",
+        "pct": 0.71,
+        "amount": 5949.0,
         "category": "红利/高股息"
       },
       {
         "name": "日经ETF华夏",
         "code": "513520",
-        "pct": 0.62,
-        "amount": 13273.0,
+        "pct": 0.66,
+        "amount": 15436.0,
         "category": "海外QDII"
       },
       {
-        "name": "港股红利ETF博时",
-        "code": "513690",
-        "pct": 0.62,
-        "amount": 4383.0,
+        "name": "日经ETF工银",
+        "code": "159866",
+        "pct": 0.66,
+        "amount": 16826.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "港股红利低波ETF景顺",
+        "code": "159569",
+        "pct": 0.58,
+        "amount": 4287.0,
         "category": "红利/高股息"
       }
     ]
