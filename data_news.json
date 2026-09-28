@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-08-10",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-08-10",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16475,5 +16468,349 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609281829964784",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于向2026年限制性股票激励计划激励对象授予预留部分限制性股票的公告",
+        "date": "2026-09-29",
+        "time": "19:38",
+        "category": "股权激励进展公告",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609281829964784.html"
+      },
+      {
+        "art_code": "AN202609281829964782",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司2026年限制性股票激励计划预留授予激励对象名单(截至预留授予日)",
+        "date": "2026-09-29",
+        "time": "19:38",
+        "category": "股权激励对象名单",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609281829964782.html"
+      },
+      {
+        "art_code": "AN202609281829964781",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于收到上海证券交易所审核中心意见落实函的公告",
+        "date": "2026-09-29",
+        "time": "19:38",
+        "category": "其他",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609281829964781.html"
+      },
+      {
+        "art_code": "AN202609281829964780",
+        "title": "普冉股份:关于第三届董事会第十次会议决议公告",
+        "date": "2026-09-29",
+        "time": "19:38",
+        "category": "董事会决议公告",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609281829964780.html"
+      },
+      {
+        "art_code": "AN202609281829964779",
+        "title": "普冉股份:普冉半导体(上海)股份有限公司董事会薪酬与考核委员会关于2026年限制性股票激励计划预留授予激励对象名单的核查意见(截至预留授予日)",
+        "date": "2026-09-29",
+        "time": "19:38",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609281829964779.html"
+      },
+      {
+        "art_code": "AN202609281829964783",
+        "title": "普冉股份:上海君澜律师事务所关于普冉半导体(上海)股份有限公司2026年限制性股票激励计划预留授予相关事项之法律意见书",
+        "date": "2026-09-29",
+        "time": "19:38",
+        "category": "法律意见书",
+        "codes": [
+          "688766"
+        ],
+        "names": [
+          "普冉股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609281829964783.html"
+      },
+      {
+        "art_code": "AN202609281829963956",
+        "title": "兆易创新:根据2026年H股股份奖励计划授予奖励股份",
+        "date": "2026-09-29",
+        "time": "19:02",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609281829963956.html"
+      },
+      {
+        "art_code": "AN202609281829963779",
+        "title": "拓荆科技:中信建投证券股份有限公司关于拓荆科技股份有限公司差异化分红事项的核查意见",
+        "date": "2026-09-29",
+        "time": "18:51",
+        "category": "保荐/核查意见",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202609281829963779.html"
+      },
+      {
+        "art_code": "AN202609281829963409",
+        "title": "恒逸石化:2026年第五次临时股东会见证法律意见书",
+        "date": "2026-09-29",
+        "time": "18:36",
+        "category": "法律意见书",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609281829963409.html"
+      },
+      {
+        "art_code": "AN202609281829963408",
+        "title": "恒逸石化:恒逸石化2026年第五次临时股东会决议公告",
+        "date": "2026-09-29",
+        "time": "18:36",
+        "category": "股东大会决议公告",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202609281829963408.html"
+      },
+      {
+        "art_code": "AN202609281829962969",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于就获得赤峰吉隆黄金矿业集团股份有限公司控制权事宜签署补充协议的公告",
+        "date": "2026-09-29",
+        "time": "18:26",
+        "category": "签订协议",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609281829962969.html"
+      },
+      {
+        "art_code": "AN202609281829962256",
+        "title": "鼎龙股份:2026年第一次临时股东会决议公告",
+        "date": "2026-09-29",
+        "time": "18:06",
+        "category": "股东大会决议公告,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202609281829962256.html"
+      },
+      {
+        "art_code": "AN202609281829962153",
+        "title": "鼎龙股份:北京大成(武汉)律师事务所关于湖北鼎龙控股股份有限公司2026年第一次临时股东会的法律意见书",
+        "date": "2026-09-29",
+        "time": "18:05",
+        "category": "法律意见书",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202609281829962153.html"
+      },
+      {
+        "art_code": "AN202609281829960309",
+        "title": "兆易创新:兆易创新第五届董事会第十六次会议决议公告",
+        "date": "2026-09-29",
+        "time": "17:15",
+        "category": "董事会决议公告",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609281829960309.html"
+      },
+      {
+        "art_code": "AN202609281829960311",
+        "title": "兆易创新:兆易创新关于购买董事及高级管理人员责任险的公告",
+        "date": "2026-09-29",
+        "time": "17:15",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609281829960311.html"
+      },
+      {
+        "art_code": "AN202609281829960313",
+        "title": "兆易创新:兆易创新关于增加2026年度日常关联交易预计额度及预计2027年1-4月日常关联交易额度的公告",
+        "date": "2026-09-29",
+        "time": "17:15",
+        "category": "关联交易",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609281829960313.html"
+      },
+      {
+        "art_code": "AN202609281829960310",
+        "title": "兆易创新:兆易创新关于变更公司注册资本暨修改《公司章程》的公告",
+        "date": "2026-09-29",
+        "time": "17:15",
+        "category": "公司注册资本变更,公司章程修订",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609281829960310.html"
+      },
+      {
+        "art_code": "AN202609281829960312",
+        "title": "兆易创新:兆易创新2026年第四次临时股东会会议资料",
+        "date": "2026-09-29",
+        "time": "17:14",
+        "category": "股东大会资料",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609281829960312.html"
+      },
+      {
+        "art_code": "AN202609281829960314",
+        "title": "兆易创新:兆易创新关于召开2026年第四次临时股东会的通知",
+        "date": "2026-09-29",
+        "time": "17:14",
+        "category": "召开股东大会通知",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609281829960314.html"
+      },
+      {
+        "art_code": "AN202609281829960308",
+        "title": "兆易创新:兆易创新公司章程(2026年10月)",
+        "date": "2026-09-29",
+        "time": "17:14",
+        "category": "公司章程",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609281829960308.html"
+      },
+      {
+        "art_code": "AN202609281829959600",
+        "title": "桐昆股份:桐昆集团股份有限公司关于2023年限制性股票激励计划部分限制性股票回购注销实施公告",
+        "date": "2026-09-29",
+        "time": "16:59",
+        "category": "回购进展情况,回购实施公告",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609281829959600.html"
+      },
+      {
+        "art_code": "AN202609281829959598",
+        "title": "桐昆股份:桐昆集团股份有限公司关于调整2023年限制性股票激励计划回购价格并回购注销部分限制性股票的法律意见书",
+        "date": "2026-09-29",
+        "time": "16:59",
+        "category": "法律意见书",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202609281829959598.html"
+      },
+      {
+        "art_code": "AN202609281829958022",
+        "title": "德业股份:关于召开2026年半年度业绩说明会的公告",
+        "date": "2026-09-29",
+        "time": "16:11",
+        "category": "其他",
+        "codes": [
+          "605117"
+        ],
+        "names": [
+          "德业股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/605117/AN202609281829958022.html"
+      },
+      {
+        "art_code": "AN202609281829961302",
+        "title": "中际旭创:关于控股股东部分股票解除质押的公告",
+        "date": "2026-09-28",
+        "time": "17:43",
+        "category": "股份质押、冻结",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609281829961302.html"
+      }
+    ],
+    "reports": []
   }
 ]
