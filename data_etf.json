@@ -7874,71 +7874,71 @@
       {
         "name": "纳指生物科技ETF汇添富",
         "code": "513290",
-        "pct": 3.18,
-        "amount": 43344.0,
+        "pct": 1.76,
+        "amount": 62459.0,
         "category": "医药"
       },
       {
         "name": "日本东证指数ETF南方",
         "code": "513800",
-        "pct": 1.23,
-        "amount": 9106.0,
+        "pct": 1.07,
+        "amount": 11241.0,
         "category": null
       },
       {
-        "name": "标普油气ETF富国",
-        "code": "513350",
+        "name": "畜牧养殖ETF鑫元",
+        "code": "561400",
         "pct": 0.91,
-        "amount": 54556.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 0.86,
-        "amount": 89521.0,
-        "category": "煤炭/能源"
-      },
-      {
-        "name": "汽车ETF南方",
-        "code": "516840",
-        "pct": 0.83,
-        "amount": 983.0,
-        "category": "汽车"
+        "amount": 116.0,
+        "category": "农业"
       },
       {
         "name": "港股低波红利ETF摩根",
         "code": "513630",
-        "pct": 0.71,
-        "amount": 19053.0,
+        "pct": 0.9,
+        "amount": 23049.0,
         "category": "红利/高股息"
+      },
+      {
+        "name": "畜牧养殖ETF天弘",
+        "code": "561470",
+        "pct": 0.89,
+        "amount": 57.0,
+        "category": "农业"
+      },
+      {
+        "name": "港股医疗ETF银华",
+        "code": "513620",
+        "pct": 0.8,
+        "amount": 5479.0,
+        "category": "医药"
       },
       {
         "name": "港股红利ETF博时",
         "code": "513690",
-        "pct": 0.71,
-        "amount": 5949.0,
+        "pct": 0.8,
+        "amount": 7691.0,
         "category": "红利/高股息"
-      },
-      {
-        "name": "日经ETF华夏",
-        "code": "513520",
-        "pct": 0.66,
-        "amount": 15436.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "日经ETF工银",
-        "code": "159866",
-        "pct": 0.66,
-        "amount": 16826.0,
-        "category": "海外QDII"
       },
       {
         "name": "港股红利低波ETF景顺",
         "code": "159569",
-        "pct": 0.58,
-        "amount": 4287.0,
+        "pct": 0.79,
+        "amount": 5391.0,
+        "category": "红利/高股息"
+      },
+      {
+        "name": "养殖ETF鹏华",
+        "code": "159867",
+        "pct": 0.75,
+        "amount": 2400.0,
+        "category": "农业"
+      },
+      {
+        "name": "港股通红利低波ETF易方达",
+        "code": "159545",
+        "pct": 0.7,
+        "amount": 8187.0,
         "category": "红利/高股息"
       }
     ]
