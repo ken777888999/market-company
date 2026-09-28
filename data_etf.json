@@ -7867,5 +7867,80 @@
         "category": "银行"
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "top10": [
+      {
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 2.96,
+        "amount": 27685.0,
+        "category": "医药"
+      },
+      {
+        "name": "日本东证指数ETF南方",
+        "code": "513800",
+        "pct": 1.55,
+        "amount": 4475.0,
+        "category": null
+      },
+      {
+        "name": "汽车ETF南方",
+        "code": "516840",
+        "pct": 1.11,
+        "amount": 793.0,
+        "category": "汽车"
+      },
+      {
+        "name": "日经225ETF华安",
+        "code": "513880",
+        "pct": 1.04,
+        "amount": 8630.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "日经225ETF易方达",
+        "code": "513000",
+        "pct": 1.02,
+        "amount": 7326.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "日经ETF工银",
+        "code": "159866",
+        "pct": 1.02,
+        "amount": 10970.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "日经ETF华夏",
+        "code": "513520",
+        "pct": 0.93,
+        "amount": 10217.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "港股医疗ETF银华",
+        "code": "513620",
+        "pct": 0.8,
+        "amount": 2996.0,
+        "category": "医药"
+      },
+      {
+        "name": "汽车ETF广发",
+        "code": "159512",
+        "pct": 0.8,
+        "amount": 969.0,
+        "category": "汽车"
+      },
+      {
+        "name": "疫苗ETF鹏华",
+        "code": "159657",
+        "pct": 0.68,
+        "amount": 36.0,
+        "category": null
+      }
+    ]
   }
 ]
