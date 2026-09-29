@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-08-11",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-08-11",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -16784,5 +16777,513 @@
       }
     ],
     "reports": []
+  },
+  {
+    "date": "2026-09-29",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609291830004352",
+        "title": "协创数据:2026年限制性股票激励计划自查表",
+        "date": "2026-09-30",
+        "time": "20:17",
+        "category": "股权激励计划",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609291830004352.html"
+      },
+      {
+        "art_code": "AN202609291830004351",
+        "title": "协创数据:上海君澜律师事务所关于协创数据2026年限制性股票激励计划(草案)之法律意见书",
+        "date": "2026-09-30",
+        "time": "20:17",
+        "category": "法律意见书",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609291830004351.html"
+      },
+      {
+        "art_code": "AN202609291830004346",
+        "title": "协创数据:关于召开2026年第八次临时股东会的通知",
+        "date": "2026-09-30",
+        "time": "20:17",
+        "category": "召开股东大会通知",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609291830004346.html"
+      },
+      {
+        "art_code": "AN202609291830004353",
+        "title": "协创数据:2026年限制性股票激励计划(草案)",
+        "date": "2026-09-30",
+        "time": "20:17",
+        "category": "股权激励计划",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609291830004353.html"
+      },
+      {
+        "art_code": "AN202609291830004347",
+        "title": "协创数据:董事会薪酬与考核委员会关于公司2026年限制性股票激励计划(草案)的核查意见",
+        "date": "2026-09-30",
+        "time": "20:17",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609291830004347.html"
+      },
+      {
+        "art_code": "AN202609291830004350",
+        "title": "协创数据:第四届董事会第二十次会议决议公告",
+        "date": "2026-09-30",
+        "time": "20:17",
+        "category": "董事会决议公告",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609291830004350.html"
+      },
+      {
+        "art_code": "AN202609291830004348",
+        "title": "协创数据:2026年限制性股票激励计划实施考核管理办法",
+        "date": "2026-09-30",
+        "time": "20:17",
+        "category": "管理办法/制度",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609291830004348.html"
+      },
+      {
+        "art_code": "AN202609291830004349",
+        "title": "协创数据:2026年限制性股票激励计划(草案)摘要",
+        "date": "2026-09-30",
+        "time": "20:17",
+        "category": "股权激励计划摘要",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609291830004349.html"
+      },
+      {
+        "art_code": "AN202609291830004050",
+        "title": "广合科技:第三届董事会第四次会议决议公告",
+        "date": "2026-09-30",
+        "time": "20:04",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609291830004050.html"
+      },
+      {
+        "art_code": "AN202609291830004040",
+        "title": "广合科技:上海市锦天城(深圳)律师事务所关于广州广合科技股份有限公司2026年股票期权与限制性股票激励计划的法律意见书",
+        "date": "2026-09-30",
+        "time": "20:04",
+        "category": "法律意见书",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609291830004040.html"
+      },
+      {
+        "art_code": "AN202609291830004062",
+        "title": "广合科技:董事会薪酬与考核委员会关于2026年A股股票期权与限制性股票激励计划相关事项的核查意见",
+        "date": "2026-09-30",
+        "time": "20:04",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609291830004062.html"
+      },
+      {
+        "art_code": "AN202609291830004039",
+        "title": "广合科技:2026年A股股票期权与限制性股票激励计划(草案)摘要",
+        "date": "2026-09-30",
+        "time": "20:04",
+        "category": "股权激励计划摘要",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609291830004039.html"
+      },
+      {
+        "art_code": "AN202609291830004045",
+        "title": "广合科技:2026年A股股票期权与限制性股票激励计划(草案)",
+        "date": "2026-09-30",
+        "time": "20:04",
+        "category": "股权激励计划",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609291830004045.html"
+      },
+      {
+        "art_code": "AN202609291830004056",
+        "title": "广合科技:2026年A股股票期权与限制性股票激励计划自查表",
+        "date": "2026-09-30",
+        "time": "20:04",
+        "category": "股权激励计划",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609291830004056.html"
+      },
+      {
+        "art_code": "AN202609291830004048",
+        "title": "广合科技:2026年A股股票期权与限制性股票激励计划实施考核管理办法",
+        "date": "2026-09-30",
+        "time": "20:04",
+        "category": "管理办法/制度",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609291830004048.html"
+      },
+      {
+        "art_code": "AN202609291830000869",
+        "title": "南亚新材:关于设立募集资金专用账户并签署募集资金监管协议的公告",
+        "date": "2026-09-30",
+        "time": "18:28",
+        "category": "签订协议,募集资金使用情况报告",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202609291830000869.html"
+      },
+      {
+        "art_code": "AN202609291829999886",
+        "title": "沪电股份:关于召开2026年第二次临时股东会的通知",
+        "date": "2026-09-30",
+        "time": "18:03",
+        "category": "召开股东大会通知",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202609291829999886.html"
+      },
+      {
+        "art_code": "AN202609291829999887",
+        "title": "沪电股份:第八届董事会第二十一次会议决议公告",
+        "date": "2026-09-30",
+        "time": "18:03",
+        "category": "董事会决议公告",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202609291829999887.html"
+      },
+      {
+        "art_code": "AN202609291829999889",
+        "title": "沪电股份:未来三年(2026-2028年)股东分红回报规划",
+        "date": "2026-09-30",
+        "time": "18:03",
+        "category": "其他",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202609291829999889.html"
+      },
+      {
+        "art_code": "AN202609291829999888",
+        "title": "沪电股份:关于拟续聘会计师事务所的公告",
+        "date": "2026-09-30",
+        "time": "18:03",
+        "category": "审计机构变更",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202609291829999888.html"
+      },
+      {
+        "art_code": "AN202609291829999892",
+        "title": "沪电股份:关于新增综合授信额度和对外担保额度的公告",
+        "date": "2026-09-30",
+        "time": "18:03",
+        "category": "借贷,提供/对外担保公告",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202609291829999892.html"
+      },
+      {
+        "art_code": "AN202609291829997485",
+        "title": "三孚股份:独立董事提名人声明与承诺-段厚省",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997485.html"
+      },
+      {
+        "art_code": "AN202609291829997481",
+        "title": "三孚股份:独立董事候选人声明与承诺-段厚省",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997481.html"
+      },
+      {
+        "art_code": "AN202609291829997479",
+        "title": "三孚股份:独立董事候选人声明与承诺-黄荣华",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997479.html"
+      },
+      {
+        "art_code": "AN202609291829997487",
+        "title": "三孚股份:关于选举第六届董事会职工董事的公告",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "高管人员任职变动",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997487.html"
+      },
+      {
+        "art_code": "AN202609291829997488",
+        "title": "三孚股份:第五届董事会第二十四次会议决议公告",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997488.html"
+      },
+      {
+        "art_code": "AN202609291829997484",
+        "title": "三孚股份:独立董事候选人声明与承诺-张艳荣",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997484.html"
+      },
+      {
+        "art_code": "AN202609291829997483",
+        "title": "三孚股份:独立董事提名人声明与承诺-黄荣华",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997483.html"
+      },
+      {
+        "art_code": "AN202609291829997478",
+        "title": "三孚股份:关于续聘会计师事务所的公告",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "审计机构变更",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997478.html"
+      },
+      {
+        "art_code": "AN202609291829997480",
+        "title": "三孚股份:关于召开2026年第一次临时股东会的通知",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "召开股东大会通知",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997480.html"
+      },
+      {
+        "art_code": "AN202609291829997482",
+        "title": "三孚股份:提名委员会关于第六届董事会董事候选人的提名审查意见",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "专项说明/独立意见",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997482.html"
+      },
+      {
+        "art_code": "AN202609291829997486",
+        "title": "三孚股份:独立董事提名人声明与承诺-张艳荣",
+        "date": "2026-09-30",
+        "time": "17:08",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "603938"
+        ],
+        "names": [
+          "三孚股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603938/AN202609291829997486.html"
+      },
+      {
+        "art_code": "AN202609291829996716",
+        "title": "兆易创新:H股公告-翌日披露报表",
+        "date": "2026-09-30",
+        "time": "16:49",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202609291829996716.html"
+      },
+      {
+        "art_code": "AN202609291830002073",
+        "title": "江波龙:2026年9月28日投资者关系活动记录表",
+        "date": "2026-09-29",
+        "time": "18:54",
+        "category": "调研活动",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609291830002073.html"
+      },
+      {
+        "art_code": "AN202609291830000644",
+        "title": "江波龙:关于高级管理人员股份减持计划期限届满暨实施完毕的公告",
+        "date": "2026-09-29",
+        "time": "18:21",
+        "category": "股东/实际控制人股份减持",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202609291830000644.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "300502",
+        "name": "新易盛",
+        "title": "NPO产业发展加速，光模块产业持续受益",
+        "org": "群益证券",
+        "rating": "",
+        "date": "2026-09-29",
+        "digest": ""
+      }
+    ]
   }
 ]
