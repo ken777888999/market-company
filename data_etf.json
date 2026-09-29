@@ -7950,71 +7950,71 @@
         "name": "房地产ETF银华",
         "code": "159768",
         "pct": 5.52,
-        "amount": 7136.0,
+        "amount": 7680.0,
         "category": "地产"
       },
       {
         "name": "地产ETF华宝",
         "code": "159707",
-        "pct": 5.15,
-        "amount": 15667.0,
-        "category": "地产"
-      },
-      {
-        "name": "房地产ETF华夏",
-        "code": "515060",
-        "pct": 4.19,
-        "amount": 9174.0,
+        "pct": 4.95,
+        "amount": 17842.0,
         "category": "地产"
       },
       {
         "name": "房地产ETF南方",
         "code": "512200",
         "pct": 3.86,
-        "amount": 23834.0,
+        "amount": 33439.0,
+        "category": "地产"
+      },
+      {
+        "name": "房地产ETF华夏",
+        "code": "515060",
+        "pct": 3.85,
+        "amount": 12337.0,
         "category": "地产"
       },
       {
         "name": "影视ETF银华",
         "code": "159855",
-        "pct": 2.96,
-        "amount": 878.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "影视ETF国泰",
-        "code": "516620",
-        "pct": 2.62,
-        "amount": 2834.0,
+        "pct": 2.7,
+        "amount": 1161.0,
         "category": "传媒/游戏"
       },
       {
         "name": "港股通创新药ETF汇添富",
         "code": "159570",
-        "pct": 2.12,
-        "amount": 129702.0,
+        "pct": 2.41,
+        "amount": 165855.0,
         "category": "医药"
+      },
+      {
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 2.38,
+        "amount": 3327.0,
+        "category": "传媒/游戏"
       },
       {
         "name": "港股创新药ETF银华",
         "code": "159567",
-        "pct": 2.05,
-        "amount": 86386.0,
+        "pct": 2.34,
+        "amount": 108480.0,
         "category": "医药"
       },
       {
         "name": "电池ETF嘉实",
         "code": "562880",
-        "pct": 1.97,
-        "amount": 1032.0,
+        "pct": 1.82,
+        "amount": 1384.0,
         "category": "电池/储能"
       },
       {
-        "name": "传媒ETF广发",
-        "code": "512980",
-        "pct": 1.92,
-        "amount": 21106.0,
-        "category": "传媒/游戏"
+        "name": "电池ETF富国",
+        "code": "561160",
+        "pct": 1.71,
+        "amount": 3758.0,
+        "category": "电池/储能"
       }
     ]
   }
