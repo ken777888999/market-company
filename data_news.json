@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-08-12",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-08-12",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -17124,6 +17117,383 @@
         "org": "群益证券",
         "rating": "",
         "date": "2026-09-29",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202609301830052756",
+        "title": "南亚新材:南亚新材料科技股份有限公司2025年度向特定对象发行A股股票发行情况报告书",
+        "date": "2026-10-01",
+        "time": "18:35",
+        "category": "其他增发事项公告",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202609301830052756.html"
+      },
+      {
+        "art_code": "AN202609301830052753",
+        "title": "南亚新材:国浩律师(上海)事务所关于南亚新材料科技股份有限公司2025年度向特定对象发行A股股票发行过程和认购对象合规性的法律意见书",
+        "date": "2026-10-01",
+        "time": "18:35",
+        "category": "法律意见书",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202609301830052753.html"
+      },
+      {
+        "art_code": "AN202609301830052754",
+        "title": "南亚新材:光大证券股份有限公司关于南亚新材料科技股份有限公司2025年度向特定对象发行A股股票发行过程和认购对象合规性的报告",
+        "date": "2026-10-01",
+        "time": "18:35",
+        "category": "保荐/核查意见",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202609301830052754.html"
+      },
+      {
+        "art_code": "AN202609301830052755",
+        "title": "南亚新材:天健会计师事务所(特殊普通合伙)关于南亚新材料科技股份有限公司2025年度向特定对象发行A股股票的验资报告",
+        "date": "2026-10-01",
+        "time": "18:35",
+        "category": "保荐/核查意见",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202609301830052755.html"
+      },
+      {
+        "art_code": "AN202609301830052757",
+        "title": "南亚新材:关于2025年向特定对象发行A股股票发行情况的提示性公告",
+        "date": "2026-10-01",
+        "time": "18:35",
+        "category": "增发提示性公告",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202609301830052757.html"
+      },
+      {
+        "art_code": "AN202609301830050013",
+        "title": "澜起科技:澜起科技关于以集中竞价交易方式回购A股股份的进展公告",
+        "date": "2026-10-01",
+        "time": "17:34",
+        "category": "回购进展情况",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202609301830050013.html"
+      },
+      {
+        "art_code": "AN202609301830048257",
+        "title": "赛分科技:苏州赛分科技股份有限公司关于股份回购实施结果的公告",
+        "date": "2026-10-01",
+        "time": "16:56",
+        "category": "回购进展情况,回购实施公告",
+        "codes": [
+          "688758"
+        ],
+        "names": [
+          "赛分科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688758/AN202609301830048257.html"
+      },
+      {
+        "art_code": "AN202609301830047955",
+        "title": "利通电子:利通电子关于确认其他非流动金融资产公允价值变动的公告",
+        "date": "2026-10-01",
+        "time": "16:51",
+        "category": "其他",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202609301830047955.html"
+      },
+      {
+        "art_code": "AN202609301830047956",
+        "title": "利通电子:利通电子关于召开2026年半年度业绩说明会的公告",
+        "date": "2026-10-01",
+        "time": "16:51",
+        "category": "其他",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202609301830047956.html"
+      },
+      {
+        "art_code": "AN202609301830047528",
+        "title": "紫金矿业:紫金矿业H股市场公告",
+        "date": "2026-10-01",
+        "time": "16:48",
+        "category": "其他",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609301830047528.html"
+      },
+      {
+        "art_code": "AN202609301830047117",
+        "title": "中国铝业:中国铝业截至二零二六年九月三十日止股份发行人的证券变动月报表",
+        "date": "2026-10-01",
+        "time": "16:44",
+        "category": "其他",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202609301830047117.html"
+      },
+      {
+        "art_code": "AN202609301830044481",
+        "title": "中际旭创:关于协议受让北京中石伟业科技股份有限公司部分股权完成过户登记的公告",
+        "date": "2026-10-01",
+        "time": "16:24",
+        "category": "股权转让",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609301830044481.html"
+      },
+      {
+        "art_code": "AN202609301830042533",
+        "title": "中国铝业:中国铝业关于召开2026年半年度业绩说明会的公告",
+        "date": "2026-10-01",
+        "time": "16:08",
+        "category": "其他",
+        "codes": [
+          "601600"
+        ],
+        "names": [
+          "中国铝业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601600/AN202609301830042533.html"
+      },
+      {
+        "art_code": "AN202609301830039877",
+        "title": "利通电子:利通电子2026年第三次临时股东会会议资料",
+        "date": "2026-10-01",
+        "time": "15:32",
+        "category": "股东大会资料,高管人员任职变动",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202609301830039877.html"
+      },
+      {
+        "art_code": "AN202609301830052716",
+        "title": "江丰电子:关于2026年半年度报告的更正公告",
+        "date": "2026-09-30",
+        "time": "18:35",
+        "category": "半年报更正公告",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609301830052716.html"
+      },
+      {
+        "art_code": "AN202609301830052714",
+        "title": "江丰电子:2026年半年度报告(更正后)",
+        "date": "2026-09-30",
+        "time": "18:35",
+        "category": "半年度报告全文",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609301830052714.html"
+      },
+      {
+        "art_code": "AN202609301830052722",
+        "title": "江丰电子:关于召开2026年第三次临时股东会的提示性公告",
+        "date": "2026-09-30",
+        "time": "18:35",
+        "category": "召开股东大会提示性公告",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202609301830052722.html"
+      },
+      {
+        "art_code": "AN202609301830051670",
+        "title": "6-1发行人最近三年的财务报告及其审计报告以及最近一期的财务报告(申报稿)(广州广合科技股份有限公司)",
+        "date": "2026-09-30",
+        "time": "18:14",
+        "category": "深主板再融资审计报告",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609301830051670.html"
+      },
+      {
+        "art_code": "AN202609301830051681",
+        "title": "3-3上市保荐书(申报稿)(广州广合科技股份有限公司)",
+        "date": "2026-09-30",
+        "time": "18:11",
+        "category": "深主板再融资上市保荐书",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609301830051681.html"
+      },
+      {
+        "art_code": "AN202609301830051677",
+        "title": "3-1证券发行保荐书(申报稿)(广州广合科技股份有限公司)",
+        "date": "2026-09-30",
+        "time": "18:11",
+        "category": "深主板再融资发行保荐书",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609301830051677.html"
+      },
+      {
+        "art_code": "AN202609301830051669",
+        "title": "4-1法律意见书(申报稿)(广州广合科技股份有限公司)",
+        "date": "2026-09-30",
+        "time": "18:11",
+        "category": "深主板再融资法律意见书",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609301830051669.html"
+      },
+      {
+        "art_code": "AN202609301830051668",
+        "title": "1-1募集说明书(申报稿)(广州广合科技股份有限公司)",
+        "date": "2026-09-30",
+        "time": "18:10",
+        "category": "深主板再融资募集说明书申报稿",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609301830051668.html"
+      },
+      {
+        "art_code": "AN202609301830050613",
+        "title": "星宸科技:关于与专业投资机构共同投资的进展公告",
+        "date": "2026-09-30",
+        "time": "17:47",
+        "category": "投资设立公司",
+        "codes": [
+          "301536"
+        ],
+        "names": [
+          "星宸科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202609301830050613.html"
+      },
+      {
+        "art_code": "AN202609301830043670",
+        "title": "三环集团:关于选举2026年A股员工持股计划管理委员会委员的公告",
+        "date": "2026-09-30",
+        "time": "16:22",
+        "category": "员工持股计划",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202609301830043670.html"
+      },
+      {
+        "art_code": "AN202609301830039490",
+        "title": "长飞光纤:长飞光纤光缆股份有限公司投资者关系活动记录表-202609",
+        "date": "2026-09-30",
+        "time": "15:34",
+        "category": "调研活动",
+        "codes": [
+          "601869"
+        ],
+        "names": [
+          "长飞光纤"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601869/AN202609301830039490.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "688825",
+        "name": "长鑫科技",
+        "title": "AI浪潮带动需求爆发，国产DRAM龙头乘势而起",
+        "org": "西南证券",
+        "rating": "",
+        "date": "2026-09-30",
+        "digest": ""
+      },
+      {
+        "code": "600183",
+        "name": "生益科技",
+        "title": "高端产品放量传统CCL涨价，业绩持续兑现",
+        "org": "太平洋",
+        "rating": "",
+        "date": "2026-09-30",
         "digest": ""
       }
     ]
