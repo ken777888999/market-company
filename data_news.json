@@ -1,293 +1,5 @@
 [
   {
-    "date": "2026-08-12",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202608121827910915",
-        "title": "震裕科技:宁波震裕科技股份有限公司向不特定对象发行可转换公司债券网上路演公告",
-        "date": "2026-08-13",
-        "time": "19:48",
-        "category": "其他,一般债券网上路演",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608121827910915.html"
-      },
-      {
-        "art_code": "AN202608121827910921",
-        "title": "震裕科技:宁波震裕科技股份有限公司向不特定对象发行可转换公司债券信用评级报告",
-        "date": "2026-08-13",
-        "time": "19:48",
-        "category": "其他,首次评级公告",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608121827910921.html"
-      },
-      {
-        "art_code": "AN202608121827910931",
-        "title": "震裕科技:第五届董事会第十六次会议决议公告",
-        "date": "2026-08-13",
-        "time": "19:48",
-        "category": "董事会决议公告",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608121827910931.html"
-      },
-      {
-        "art_code": "AN202608121827910933",
-        "title": "震裕科技:浙江天册律师事务所关于宁波震裕科技股份有限公司向不特定对象发行可转换公司债券的法律意见书",
-        "date": "2026-08-13",
-        "time": "19:48",
-        "category": "法律意见书,一般债券募集说明书法律意见书",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608121827910933.html"
-      },
-      {
-        "art_code": "AN202608121827910926",
-        "title": "震裕科技:宁波震裕科技股份有限公司向不特定对象发行可转换公司债券发行公告",
-        "date": "2026-08-13",
-        "time": "19:48",
-        "category": "其他,一般债券发行公告",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608121827910926.html"
-      },
-      {
-        "art_code": "AN202608121827910932",
-        "title": "震裕科技:宁波震裕科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
-        "date": "2026-08-13",
-        "time": "19:48",
-        "category": "其他,一般债券募集说明书提示性公告",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608121827910932.html"
-      },
-      {
-        "art_code": "AN202608121827910917",
-        "title": "震裕科技:宁波震裕科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
-        "date": "2026-08-13",
-        "time": "19:48",
-        "category": "其他,一般债券募集说明书摘要",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608121827910917.html"
-      },
-      {
-        "art_code": "AN202608121827910927",
-        "title": "震裕科技:宁波震裕科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
-        "date": "2026-08-13",
-        "time": "19:48",
-        "category": "其他,一般债券募集说明书",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608121827910927.html"
-      },
-      {
-        "art_code": "AN202608121827908298",
-        "title": "紫金矿业:福建至理律师事务所关于紫金矿业集团股份有限公司差异化分红事项的法律意见书",
-        "date": "2026-08-13",
-        "time": "18:12",
-        "category": "法律意见书",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202608121827908298.html"
-      },
-      {
-        "art_code": "AN202608121827907116",
-        "title": "长电科技:江苏长电科技股份有限公司2026年第一次临时股东会会议资料",
-        "date": "2026-08-13",
-        "time": "17:38",
-        "category": "股东大会资料",
-        "codes": [
-          "600584"
-        ],
-        "names": [
-          "长电科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600584/AN202608121827907116.html"
-      },
-      {
-        "art_code": "AN202608121827906901",
-        "title": "长电科技:江苏长电科技股份有限公司关于股东会开设网络投票提示服务的公告",
-        "date": "2026-08-13",
-        "time": "17:31",
-        "category": "其他",
-        "codes": [
-          "600584"
-        ],
-        "names": [
-          "长电科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600584/AN202608121827906901.html"
-      },
-      {
-        "art_code": "AN202608121827906291",
-        "title": "普冉股份:2026年第二次临时股东会会议资料",
-        "date": "2026-08-13",
-        "time": "17:19",
-        "category": "股东大会资料",
-        "codes": [
-          "688766"
-        ],
-        "names": [
-          "普冉股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608121827906291.html"
-      },
-      {
-        "art_code": "AN202608121827910923",
-        "title": "震裕科技:广发证券股份有限公司关于宁波震裕科技股份有限公司向不特定对象发行可转换公司债券之发行保荐书",
-        "date": "2026-08-13",
-        "time": "19:48",
-        "category": "其他,发行保荐书",
-        "codes": [
-          "300953"
-        ],
-        "names": [
-          "震裕科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300953/AN202608121827910923.html"
-      },
-      {
-        "art_code": "AN202608121827906330",
-        "title": "协创数据:关于公司开展融资租赁业务的进展公告",
-        "date": "2026-08-12",
-        "time": "17:21",
-        "category": "其他",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608121827906330.html"
-      },
-      {
-        "art_code": "AN202608121827910306",
-        "title": "江波龙:关于向特定对象发行股票上市公告书披露的提示性公告",
-        "date": "2026-08-12",
-        "time": "19:13",
-        "category": "增发提示性公告",
-        "codes": [
-          "301308"
-        ],
-        "names": [
-          "江波龙"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608121827910306.html"
-      },
-      {
-        "art_code": "AN202608121827910295",
-        "title": "江波龙:关于董事和高级管理人员持股情况变动的公告",
-        "date": "2026-08-12",
-        "time": "19:13",
-        "category": "高管人员持股变动",
-        "codes": [
-          "301308"
-        ],
-        "names": [
-          "江波龙"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608121827910295.html"
-      },
-      {
-        "art_code": "AN202608121827910317",
-        "title": "江波龙:深圳市江波龙电子股份有限公司2025年度向特定对象发行股票上市公告书",
-        "date": "2026-08-12",
-        "time": "19:13",
-        "category": "增发上市公告书",
-        "codes": [
-          "301308"
-        ],
-        "names": [
-          "江波龙"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608121827910317.html"
-      },
-      {
-        "art_code": "AN202608121827910302",
-        "title": "江波龙:中信建投证券股份有限公司关于公司向特定对象发行股票之上市保荐书",
-        "date": "2026-08-12",
-        "time": "19:13",
-        "category": "上市保荐书",
-        "codes": [
-          "301308"
-        ],
-        "names": [
-          "江波龙"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608121827910302.html"
-      },
-      {
-        "art_code": "AN202608121827909542",
-        "title": "三环集团:H股公告-翌日披露报表",
-        "date": "2026-08-12",
-        "time": "18:50",
-        "category": "其他",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608121827909542.html"
-      },
-      {
-        "art_code": "AN202608121827909283",
-        "title": "沪电股份:2026年8月12日投资者关系活动记录表",
-        "date": "2026-08-12",
-        "time": "18:42",
-        "category": "调研活动",
-        "codes": [
-          "002463"
-        ],
-        "names": [
-          "沪电股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002463/AN202608121827909283.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-08-13",
     "time": "09:00",
     "period": "早间",
@@ -17477,6 +17189,32 @@
         "url": "https://data.eastmoney.com/notices/detail/601869/AN202609301830039490.html"
       }
     ],
+    "reports": [
+      {
+        "code": "688825",
+        "name": "长鑫科技",
+        "title": "AI浪潮带动需求爆发，国产DRAM龙头乘势而起",
+        "org": "西南证券",
+        "rating": "",
+        "date": "2026-09-30",
+        "digest": ""
+      },
+      {
+        "code": "600183",
+        "name": "生益科技",
+        "title": "高端产品放量传统CCL涨价，业绩持续兑现",
+        "org": "太平洋",
+        "rating": "",
+        "date": "2026-09-30",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "688825",
