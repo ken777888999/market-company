@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-08-15",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [],
-    "reports": []
-  },
-  {
     "date": "2026-08-16",
     "time": "09:00",
     "period": "早间",
@@ -17100,6 +17093,13 @@
     "date": "2026-10-03",
     "time": "09:00",
     "period": "早间",
+    "announcements": [],
+    "reports": []
+  },
+  {
+    "date": "2026-10-03",
+    "time": "21:00",
+    "period": "晚间",
     "announcements": [],
     "reports": []
   }
