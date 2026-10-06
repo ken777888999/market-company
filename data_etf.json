@@ -8317,5 +8317,80 @@
         "category": "医药"
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "top10": [
+      {
+        "name": "疫苗ETF嘉实",
+        "code": "562860",
+        "pct": 4.26,
+        "amount": 3224.0,
+        "category": null
+      },
+      {
+        "name": "疫苗ETF富国",
+        "code": "159645",
+        "pct": 3.93,
+        "amount": 401.0,
+        "category": null
+      },
+      {
+        "name": "疫苗ETF招商",
+        "code": "561920",
+        "pct": 3.92,
+        "amount": 272.0,
+        "category": null
+      },
+      {
+        "name": "港股医疗ETF银华",
+        "code": "513620",
+        "pct": 3.86,
+        "amount": 2853.0,
+        "category": "医药"
+      },
+      {
+        "name": "疫苗ETF国泰",
+        "code": "159643",
+        "pct": 3.82,
+        "amount": 1726.0,
+        "category": null
+      },
+      {
+        "name": "港股创新药ETF广发",
+        "code": "513120",
+        "pct": 3.81,
+        "amount": 1007435.0,
+        "category": "医药"
+      },
+      {
+        "name": "生物医药ETF天弘",
+        "code": "159859",
+        "pct": 3.8,
+        "amount": 26747.0,
+        "category": "医药"
+      },
+      {
+        "name": "创新药ETF天弘",
+        "code": "517380",
+        "pct": 3.77,
+        "amount": 10266.0,
+        "category": "医药"
+      },
+      {
+        "name": "疫苗ETF鹏华",
+        "code": "159657",
+        "pct": 3.74,
+        "amount": 314.0,
+        "category": null
+      },
+      {
+        "name": "港股创新药ETF景顺",
+        "code": "513780",
+        "pct": 3.63,
+        "amount": 88204.0,
+        "category": "医药"
+      }
+    ]
   }
 ]
