@@ -8474,72 +8474,72 @@
       {
         "name": "标普油气ETF嘉实",
         "code": "159518",
-        "pct": 9.91,
-        "amount": 98005.0,
+        "pct": 9.99,
+        "amount": 105699.0,
         "category": "海外QDII"
       },
       {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 9.23,
-        "amount": 159090.0,
+        "pct": 9.85,
+        "amount": 196233.0,
         "category": "海外QDII"
       },
       {
         "name": "能源化工ETF建信",
         "code": "159981",
-        "pct": 8.41,
-        "amount": 113939.0,
+        "pct": 9.31,
+        "amount": 147674.0,
         "category": "煤炭/能源"
-      },
-      {
-        "name": "油气ETF博时",
-        "code": "561760",
-        "pct": 3.85,
-        "amount": 711.0,
-        "category": null
       },
       {
         "name": "油气ETF银华",
         "code": "563150",
-        "pct": 3.74,
-        "amount": 640.0,
+        "pct": 4.11,
+        "amount": 671.0,
         "category": null
       },
       {
-        "name": "油气ETF华泰柏瑞",
-        "code": "561570",
-        "pct": 3.31,
-        "amount": 1649.0,
-        "category": null
-      },
-      {
-        "name": "石油ETF国泰",
-        "code": "561360",
-        "pct": 3.26,
-        "amount": 10054.0,
+        "name": "油气ETF博时",
+        "code": "561760",
+        "pct": 4.07,
+        "amount": 826.0,
         "category": null
       },
       {
         "name": "石油ETF鹏华",
         "code": "159697",
-        "pct": 3.09,
-        "amount": 4852.0,
+        "pct": 3.63,
+        "amount": 7424.0,
+        "category": null
+      },
+      {
+        "name": "石油ETF国泰",
+        "code": "561360",
+        "pct": 3.61,
+        "amount": 14013.0,
+        "category": null
+      },
+      {
+        "name": "油气ETF华泰柏瑞",
+        "code": "561570",
+        "pct": 3.53,
+        "amount": 2035.0,
         "category": null
       },
       {
         "name": "石油ETF景顺",
         "code": "159588",
-        "pct": 2.92,
-        "amount": 1938.0,
+        "pct": 3.0,
+        "amount": 2252.0,
         "category": null
       },
       {
-        "name": "纳指科技ETF景顺",
-        "code": "159509",
-        "pct": 2.66,
-        "amount": 105725.0,
-        "category": "海外QDII"
+        "name": "物流ETF银华",
+        "code": "516530",
+        "pct": 2.67,
+        "amount": 163.0,
+        "category": null
       }
     ]
   }
