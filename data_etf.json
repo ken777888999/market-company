@@ -8472,73 +8472,73 @@
     "date": "2026-10-08",
     "top10": [
       {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 7.56,
-        "amount": 53691.0,
-        "category": "煤炭/能源"
-      },
-      {
         "name": "标普油气ETF嘉实",
         "code": "159518",
-        "pct": 6.61,
-        "amount": 30382.0,
+        "pct": 8.34,
+        "amount": 76563.0,
         "category": "海外QDII"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 8.13,
+        "amount": 85796.0,
+        "category": "煤炭/能源"
       },
       {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 6.1,
-        "amount": 39378.0,
+        "pct": 7.43,
+        "amount": 97653.0,
         "category": "海外QDII"
       },
       {
         "name": "油气ETF博时",
         "code": "561760",
-        "pct": 4.52,
-        "amount": 520.0,
+        "pct": 4.59,
+        "amount": 556.0,
         "category": null
       },
       {
         "name": "油气ETF银华",
         "code": "563150",
-        "pct": 4.33,
-        "amount": 514.0,
+        "pct": 4.41,
+        "amount": 624.0,
         "category": null
       },
       {
         "name": "石油ETF国泰",
         "code": "561360",
-        "pct": 4.16,
-        "amount": 6476.0,
+        "pct": 4.09,
+        "amount": 8301.0,
         "category": null
       },
       {
         "name": "油气ETF华泰柏瑞",
         "code": "561570",
-        "pct": 4.11,
-        "amount": 852.0,
+        "pct": 3.97,
+        "amount": 1272.0,
         "category": null
       },
       {
         "name": "石油ETF鹏华",
         "code": "159697",
-        "pct": 3.94,
-        "amount": 2994.0,
+        "pct": 3.86,
+        "amount": 3437.0,
         "category": null
       },
       {
         "name": "石油ETF景顺",
         "code": "159588",
-        "pct": 3.57,
-        "amount": 842.0,
+        "pct": 3.33,
+        "amount": 1411.0,
         "category": null
       },
       {
-        "name": "物流ETF银华",
-        "code": "516530",
-        "pct": 3.16,
-        "amount": 50.0,
+        "name": "物流ETF富国",
+        "code": "516910",
+        "pct": 2.9,
+        "amount": 1490.0,
         "category": null
       }
     ]
