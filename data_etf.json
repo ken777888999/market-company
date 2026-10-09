@@ -8542,5 +8542,80 @@
         "category": null
       }
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "top10": [
+      {
+        "name": "标普消费ETF景顺",
+        "code": "159529",
+        "pct": 2.54,
+        "amount": 25622.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 2.18,
+        "amount": 121043.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 1.99,
+        "amount": 132699.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "中药ETF银华",
+        "code": "562390",
+        "pct": 1.88,
+        "amount": 66.0,
+        "category": "医药"
+      },
+      {
+        "name": "粮食ETF广发",
+        "code": "159587",
+        "pct": 1.88,
+        "amount": 3179.0,
+        "category": "农业"
+      },
+      {
+        "name": "粮食ETF鹏华",
+        "code": "159698",
+        "pct": 1.88,
+        "amount": 6270.0,
+        "category": "农业"
+      },
+      {
+        "name": "中药ETF鹏华",
+        "code": "159647",
+        "pct": 1.85,
+        "amount": 1067.0,
+        "category": "医药"
+      },
+      {
+        "name": "中概互联网ETF嘉实",
+        "code": "159607",
+        "pct": 1.81,
+        "amount": 6104.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "港股互联网ETF博时",
+        "code": "159568",
+        "pct": 1.68,
+        "amount": 2282.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "中概互联ETF广发",
+        "code": "159605",
+        "pct": 1.66,
+        "amount": 12462.0,
+        "category": "港股/中概"
+      }
+    ]
   }
 ]
