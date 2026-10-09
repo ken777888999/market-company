@@ -8547,74 +8547,74 @@
     "date": "2026-10-09",
     "top10": [
       {
-        "name": "黄金股ETF永赢",
-        "code": "517520",
-        "pct": 5.04,
-        "amount": 74715.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "黄金股ETF华夏",
-        "code": "159562",
-        "pct": 4.93,
-        "amount": 24612.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "黄金股ETF国泰",
-        "code": "517400",
-        "pct": 4.86,
-        "amount": 7784.0,
-        "category": "有色/资源"
-      },
-      {
         "name": "影视ETF国泰",
         "code": "516620",
-        "pct": 3.57,
-        "amount": 3601.0,
+        "pct": 7.73,
+        "amount": 8977.0,
         "category": "传媒/游戏"
       },
       {
         "name": "影视ETF银华",
         "code": "159855",
-        "pct": 3.36,
-        "amount": 1110.0,
+        "pct": 7.53,
+        "amount": 4940.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "粮食ETF鹏华",
-        "code": "159698",
-        "pct": 3.31,
-        "amount": 10700.0,
-        "category": "农业"
+        "name": "传媒ETF鹏华",
+        "code": "159805",
+        "pct": 5.56,
+        "amount": 6101.0,
+        "category": "传媒/游戏"
       },
       {
-        "name": "粮食ETF广发",
-        "code": "159587",
-        "pct": 3.25,
-        "amount": 7131.0,
-        "category": "农业"
+        "name": "传媒ETF广发",
+        "code": "512980",
+        "pct": 5.46,
+        "amount": 37340.0,
+        "category": "传媒/游戏"
       },
       {
-        "name": "港股互联网ETF国泰",
-        "code": "513720",
-        "pct": 2.9,
-        "amount": 1029.0,
-        "category": "港股/中概"
+        "name": "黄金股ETF华夏",
+        "code": "159562",
+        "pct": 5.29,
+        "amount": 27884.0,
+        "category": "有色/资源"
       },
       {
-        "name": "金融科技ETF博时",
-        "code": "516860",
-        "pct": 2.88,
-        "amount": 5417.0,
-        "category": null
+        "name": "传媒ETF华夏",
+        "code": "516190",
+        "pct": 5.25,
+        "amount": 2049.0,
+        "category": "传媒/游戏"
       },
       {
-        "name": "港股互联网ETF博时",
-        "code": "159568",
-        "pct": 2.86,
-        "amount": 5522.0,
-        "category": "港股/中概"
+        "name": "黄金股ETF永赢",
+        "code": "517520",
+        "pct": 5.21,
+        "amount": 90929.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF国泰",
+        "code": "517400",
+        "pct": 5.2,
+        "amount": 9711.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "线上消费ETF工银",
+        "code": "159725",
+        "pct": 4.74,
+        "amount": 499.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "游戏传媒ETF浦银",
+        "code": "517770",
+        "pct": 4.46,
+        "amount": 1075.0,
+        "category": "传媒/游戏"
       }
     ]
   }
