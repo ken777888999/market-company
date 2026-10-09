@@ -8547,73 +8547,73 @@
     "date": "2026-10-09",
     "top10": [
       {
-        "name": "标普消费ETF景顺",
-        "code": "159529",
-        "pct": 2.7,
-        "amount": 39232.0,
-        "category": "消费/白酒"
-      },
-      {
         "name": "黄金股ETF永赢",
         "code": "517520",
-        "pct": 2.03,
-        "amount": 51683.0,
+        "pct": 5.04,
+        "amount": 74715.0,
         "category": "有色/资源"
       },
       {
         "name": "黄金股ETF华夏",
         "code": "159562",
-        "pct": 2.01,
-        "amount": 19091.0,
+        "pct": 4.93,
+        "amount": 24612.0,
         "category": "有色/资源"
-      },
-      {
-        "name": "电池龙头ETF兴银",
-        "code": "159767",
-        "pct": 1.74,
-        "amount": 508.0,
-        "category": "电池/储能"
       },
       {
         "name": "黄金股ETF国泰",
         "code": "517400",
-        "pct": 1.73,
-        "amount": 5225.0,
+        "pct": 4.86,
+        "amount": 7784.0,
         "category": "有色/资源"
       },
       {
-        "name": "煤炭ETF国泰",
-        "code": "515220",
-        "pct": 1.72,
-        "amount": 47554.0,
-        "category": "煤炭/能源"
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 3.57,
+        "amount": 3601.0,
+        "category": "传媒/游戏"
       },
       {
-        "name": "中概互联网ETF嘉实",
-        "code": "159607",
-        "pct": 1.67,
-        "amount": 8560.0,
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 3.36,
+        "amount": 1110.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "粮食ETF鹏华",
+        "code": "159698",
+        "pct": 3.31,
+        "amount": 10700.0,
+        "category": "农业"
+      },
+      {
+        "name": "粮食ETF广发",
+        "code": "159587",
+        "pct": 3.25,
+        "amount": 7131.0,
+        "category": "农业"
+      },
+      {
+        "name": "港股互联网ETF国泰",
+        "code": "513720",
+        "pct": 2.9,
+        "amount": 1029.0,
         "category": "港股/中概"
       },
       {
-        "name": "港股通消费ETF华夏",
-        "code": "513230",
-        "pct": 1.62,
-        "amount": 1360.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "港股消费ETF银华",
-        "code": "159735",
-        "pct": 1.62,
-        "amount": 1481.0,
-        "category": "消费/白酒"
+        "name": "金融科技ETF博时",
+        "code": "516860",
+        "pct": 2.88,
+        "amount": 5417.0,
+        "category": null
       },
       {
         "name": "港股互联网ETF博时",
         "code": "159568",
-        "pct": 1.58,
-        "amount": 3319.0,
+        "pct": 2.86,
+        "amount": 5522.0,
         "category": "港股/中概"
       }
     ]
