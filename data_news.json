@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-08-22",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202608220006745989",
-        "title": "宝鼎科技:2026年半年度报告摘要",
-        "date": "2026-08-22",
-        "time": "14:31",
-        "category": "半年度报告摘要",
-        "codes": [
-          "002552"
-        ],
-        "names": [
-          "宝鼎科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/002552/AN202608220006745989.html"
-      }
-    ],
-    "reports": []
-  },
-  {
     "date": "2026-08-23",
     "time": "09:00",
     "period": "早间",
@@ -14944,5 +14922,22 @@
     "period": "早间",
     "announcements": [],
     "reports": []
+  },
+  {
+    "date": "2026-10-10",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [],
+    "reports": [
+      {
+        "code": "600176",
+        "name": "中国巨石",
+        "title": "三季报预告点评：业绩如期释放，10月电子布涨价落地",
+        "org": "国金证券",
+        "rating": "",
+        "date": "2026-10-10",
+        "digest": ""
+      }
+    ]
   }
 ]
