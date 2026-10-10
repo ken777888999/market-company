@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-08-22",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "600176",
-        "name": "中国巨石",
-        "title": "半年报点评：电子布涨价贡献弹性，关注粗纱冷修加速",
-        "org": "国金证券",
-        "rating": "",
-        "date": "2026-08-21",
-        "digest": ""
-      },
-      {
-        "code": "600961",
-        "name": "株冶集团",
-        "title": "受益于贵金属及硫酸价格上行，26H1归母净利同比增长232.7%",
-        "org": "国信证券",
-        "rating": "",
-        "date": "2026-08-21",
-        "digest": ""
-      },
-      {
-        "code": "600549",
-        "name": "厦门钨业",
-        "title": "钻针棒材放量，看好钨价回升",
-        "org": "国金证券",
-        "rating": "",
-        "date": "2026-08-21",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-08-22",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14971,6 +14936,13 @@
         "url": "https://data.eastmoney.com/notices/detail/300857/AN202610091830265797.html"
       }
     ],
+    "reports": []
+  },
+  {
+    "date": "2026-10-10",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": []
   }
 ]
