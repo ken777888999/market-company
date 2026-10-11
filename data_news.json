@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-08-23",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-08-23",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14927,6 +14920,23 @@
     "date": "2026-10-10",
     "time": "21:00",
     "period": "晚间",
+    "announcements": [],
+    "reports": [
+      {
+        "code": "600176",
+        "name": "中国巨石",
+        "title": "三季报预告点评：业绩如期释放，10月电子布涨价落地",
+        "org": "国金证券",
+        "rating": "",
+        "date": "2026-10-10",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "time": "09:00",
+    "period": "早间",
     "announcements": [],
     "reports": [
       {
