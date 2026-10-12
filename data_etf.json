@@ -8624,71 +8624,71 @@
       {
         "name": "纳指生物科技ETF汇添富",
         "code": "513290",
-        "pct": 2.8,
-        "amount": 33141.0,
+        "pct": 4.37,
+        "amount": 50246.0,
         "category": "医药"
       },
       {
         "name": "影视ETF国泰",
         "code": "516620",
         "pct": 2.65,
-        "amount": 11266.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "影视ETF银华",
-        "code": "159855",
-        "pct": 2.5,
-        "amount": 5390.0,
+        "amount": 13325.0,
         "category": "传媒/游戏"
       },
       {
         "name": "银行ETF银华",
         "code": "561530",
-        "pct": 2.16,
-        "amount": 517.0,
+        "pct": 2.45,
+        "amount": 906.0,
         "category": "银行"
       },
       {
         "name": "银行ETF华泰柏瑞",
         "code": "560670",
-        "pct": 2.1,
-        "amount": 804.0,
+        "pct": 2.37,
+        "amount": 1336.0,
         "category": "银行"
       },
       {
-        "name": "银行ETF富国",
-        "code": "159887",
-        "pct": 2.08,
-        "amount": 7261.0,
-        "category": "银行"
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 2.37,
+        "amount": 6348.0,
+        "category": "传媒/游戏"
       },
       {
         "name": "银行ETF易方达",
         "code": "516310",
-        "pct": 2.06,
-        "amount": 23471.0,
+        "pct": 2.27,
+        "amount": 31805.0,
         "category": "银行"
       },
       {
         "name": "银行ETF华宝",
         "code": "512800",
-        "pct": 2.0,
-        "amount": 91283.0,
+        "pct": 2.24,
+        "amount": 124554.0,
         "category": "银行"
       },
       {
-        "name": "银行ETF鹏华",
-        "code": "512730",
-        "pct": 1.95,
-        "amount": 741.0,
+        "name": "道琼斯ETF鹏华",
+        "code": "513400",
+        "pct": 2.23,
+        "amount": 65232.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "银行ETF富国",
+        "code": "159887",
+        "pct": 2.23,
+        "amount": 13975.0,
         "category": "银行"
       },
       {
-        "name": "银行ETF广发",
-        "code": "512410",
-        "pct": 1.94,
-        "amount": 888.0,
+        "name": "银行ETF天弘",
+        "code": "515290",
+        "pct": 2.16,
+        "amount": 13680.0,
         "category": "银行"
       }
     ]
