@@ -8622,74 +8622,74 @@
     "date": "2026-10-12",
     "top10": [
       {
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 2.8,
+        "amount": 21370.0,
+        "category": "医药"
+      },
+      {
         "name": "影视ETF国泰",
         "code": "516620",
         "pct": 2.43,
-        "amount": 7862.0,
+        "amount": 9889.0,
         "category": "传媒/游戏"
-      },
-      {
-        "name": "科创半导体ETF华夏",
-        "code": "588170",
-        "pct": 2.42,
-        "amount": 292446.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "纳指生物科技ETF汇添富",
-        "code": "513290",
-        "pct": 2.41,
-        "amount": 15421.0,
-        "category": "医药"
       },
       {
         "name": "影视ETF银华",
         "code": "159855",
-        "pct": 2.0,
-        "amount": 4223.0,
+        "pct": 2.37,
+        "amount": 4926.0,
         "category": "传媒/游戏"
-      },
-      {
-        "name": "半导体设备ETF广发",
-        "code": "560780",
-        "pct": 1.86,
-        "amount": 34363.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF招商",
-        "code": "561980",
-        "pct": 1.82,
-        "amount": 14086.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF华夏",
-        "code": "562590",
-        "pct": 1.82,
-        "amount": 28348.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体ETF博时",
-        "code": "159582",
-        "pct": 1.79,
-        "amount": 4716.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "道琼斯ETF鹏华",
-        "code": "513400",
-        "pct": 1.77,
-        "amount": 30555.0,
-        "category": "海外QDII"
       },
       {
         "name": "银行ETF银华",
         "code": "561530",
-        "pct": 1.76,
-        "amount": 263.0,
+        "pct": 2.16,
+        "amount": 433.0,
         "category": "银行"
+      },
+      {
+        "name": "道琼斯ETF鹏华",
+        "code": "513400",
+        "pct": 2.15,
+        "amount": 37656.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "银行ETF易方达",
+        "code": "516310",
+        "pct": 2.06,
+        "amount": 15757.0,
+        "category": "银行"
+      },
+      {
+        "name": "标普生物科技ETF嘉实",
+        "code": "159502",
+        "pct": 1.96,
+        "amount": 12347.0,
+        "category": "医药"
+      },
+      {
+        "name": "纳指科技ETF景顺",
+        "code": "159509",
+        "pct": 1.94,
+        "amount": 92486.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "银行ETF华泰柏瑞",
+        "code": "560670",
+        "pct": 1.92,
+        "amount": 694.0,
+        "category": "银行"
+      },
+      {
+        "name": "纳指ETF易方达",
+        "code": "159696",
+        "pct": 1.88,
+        "amount": 7775.0,
+        "category": "海外QDII"
       }
     ]
   }
