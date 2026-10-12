@@ -8625,71 +8625,71 @@
         "name": "纳指生物科技ETF汇添富",
         "code": "513290",
         "pct": 2.8,
-        "amount": 21370.0,
+        "amount": 33141.0,
         "category": "医药"
       },
       {
         "name": "影视ETF国泰",
         "code": "516620",
-        "pct": 2.43,
-        "amount": 9889.0,
+        "pct": 2.65,
+        "amount": 11266.0,
         "category": "传媒/游戏"
       },
       {
         "name": "影视ETF银华",
         "code": "159855",
-        "pct": 2.37,
-        "amount": 4926.0,
+        "pct": 2.5,
+        "amount": 5390.0,
         "category": "传媒/游戏"
       },
       {
         "name": "银行ETF银华",
         "code": "561530",
         "pct": 2.16,
-        "amount": 433.0,
+        "amount": 517.0,
         "category": "银行"
       },
       {
-        "name": "道琼斯ETF鹏华",
-        "code": "513400",
-        "pct": 2.15,
-        "amount": 37656.0,
-        "category": "海外QDII"
+        "name": "银行ETF华泰柏瑞",
+        "code": "560670",
+        "pct": 2.1,
+        "amount": 804.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF富国",
+        "code": "159887",
+        "pct": 2.08,
+        "amount": 7261.0,
+        "category": "银行"
       },
       {
         "name": "银行ETF易方达",
         "code": "516310",
         "pct": 2.06,
-        "amount": 15757.0,
+        "amount": 23471.0,
         "category": "银行"
       },
       {
-        "name": "标普生物科技ETF嘉实",
-        "code": "159502",
-        "pct": 1.96,
-        "amount": 12347.0,
-        "category": "医药"
+        "name": "银行ETF华宝",
+        "code": "512800",
+        "pct": 2.0,
+        "amount": 91283.0,
+        "category": "银行"
       },
       {
-        "name": "纳指科技ETF景顺",
-        "code": "159509",
+        "name": "银行ETF鹏华",
+        "code": "512730",
+        "pct": 1.95,
+        "amount": 741.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF广发",
+        "code": "512410",
         "pct": 1.94,
-        "amount": 92486.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "银行ETF华泰柏瑞",
-        "code": "560670",
-        "pct": 1.92,
-        "amount": 694.0,
+        "amount": 888.0,
         "category": "银行"
-      },
-      {
-        "name": "纳指ETF易方达",
-        "code": "159696",
-        "pct": 1.88,
-        "amount": 7775.0,
-        "category": "海外QDII"
       }
     ]
   }
