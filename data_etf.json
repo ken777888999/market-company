@@ -8617,5 +8617,80 @@
         "category": "传媒/游戏"
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "top10": [
+      {
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 2.43,
+        "amount": 7862.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 2.42,
+        "amount": 292446.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 2.41,
+        "amount": 15421.0,
+        "category": "医药"
+      },
+      {
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 2.0,
+        "amount": 4223.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "半导体设备ETF广发",
+        "code": "560780",
+        "pct": 1.86,
+        "amount": 34363.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF招商",
+        "code": "561980",
+        "pct": 1.82,
+        "amount": 14086.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF华夏",
+        "code": "562590",
+        "pct": 1.82,
+        "amount": 28348.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体ETF博时",
+        "code": "159582",
+        "pct": 1.79,
+        "amount": 4716.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "道琼斯ETF鹏华",
+        "code": "513400",
+        "pct": 1.77,
+        "amount": 30555.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "银行ETF银华",
+        "code": "561530",
+        "pct": 1.76,
+        "amount": 263.0,
+        "category": "银行"
+      }
+    ]
   }
 ]
