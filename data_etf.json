@@ -8697,73 +8697,73 @@
     "date": "2026-10-13",
     "top10": [
       {
+        "name": "船舶ETF富国",
+        "code": "560710",
+        "pct": 4.21,
+        "amount": 7750.0,
+        "category": null
+      },
+      {
+        "name": "军工龙头ETF富国",
+        "code": "512710",
+        "pct": 4.03,
+        "amount": 47770.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "航空航天ETF华泰柏瑞",
+        "code": "563380",
+        "pct": 3.7,
+        "amount": 3822.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "国防ETF鹏华",
+        "code": "512670",
+        "pct": 3.47,
+        "amount": 8735.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "军工ETF易方达",
+        "code": "512560",
+        "pct": 3.14,
+        "amount": 4329.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "航空航天ETF嘉实",
+        "code": "159638",
+        "pct": 3.08,
+        "amount": 3532.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "军工ETF广发",
+        "code": "512680",
+        "pct": 3.05,
+        "amount": 5009.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "军工ETF国泰",
+        "code": "512660",
+        "pct": 2.93,
+        "amount": 28349.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "军工ETF华宝",
+        "code": "512810",
+        "pct": 2.93,
+        "amount": 3264.0,
+        "category": "军工/航空航天"
+      },
+      {
         "name": "油气ETF银华",
         "code": "563150",
-        "pct": 1.8,
-        "amount": 369.0,
-        "category": null
-      },
-      {
-        "name": "油气ETF博时",
-        "code": "561760",
-        "pct": 1.55,
-        "amount": 807.0,
-        "category": null
-      },
-      {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 1.53,
-        "amount": 109896.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "金融科技ETF华夏",
-        "code": "516100",
-        "pct": 1.12,
-        "amount": 2182.0,
-        "category": null
-      },
-      {
-        "name": "金融科技ETF博时",
-        "code": "516860",
-        "pct": 1.09,
-        "amount": 4728.0,
-        "category": null
-      },
-      {
-        "name": "石油ETF国泰",
-        "code": "561360",
-        "pct": 1.04,
-        "amount": 3966.0,
-        "category": null
-      },
-      {
-        "name": "物流ETF富国",
-        "code": "516910",
-        "pct": 0.92,
-        "amount": 1451.0,
-        "category": null
-      },
-      {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 0.92,
-        "amount": 65242.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "石油ETF鹏华",
-        "code": "159697",
-        "pct": 0.92,
-        "amount": 3491.0,
-        "category": null
-      },
-      {
-        "name": "物流ETF银华",
-        "code": "516530",
-        "pct": 0.88,
-        "amount": 107.0,
+        "pct": 2.92,
+        "amount": 383.0,
         "category": null
       }
     ]
