@@ -8697,74 +8697,74 @@
     "date": "2026-10-13",
     "top10": [
       {
-        "name": "船舶ETF富国",
-        "code": "560710",
-        "pct": 4.21,
-        "amount": 7750.0,
-        "category": null
-      },
-      {
         "name": "军工龙头ETF富国",
         "code": "512710",
-        "pct": 4.03,
-        "amount": 47770.0,
+        "pct": 3.7,
+        "amount": 55286.0,
         "category": "军工/航空航天"
       },
       {
         "name": "航空航天ETF华泰柏瑞",
         "code": "563380",
-        "pct": 3.7,
-        "amount": 3822.0,
+        "pct": 3.25,
+        "amount": 4387.0,
         "category": "军工/航空航天"
+      },
+      {
+        "name": "船舶ETF富国",
+        "code": "560710",
+        "pct": 3.24,
+        "amount": 9787.0,
+        "category": null
+      },
+      {
+        "name": "油气ETF博时",
+        "code": "561760",
+        "pct": 2.81,
+        "amount": 953.0,
+        "category": null
       },
       {
         "name": "国防ETF鹏华",
         "code": "512670",
-        "pct": 3.47,
-        "amount": 8735.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "军工ETF易方达",
-        "code": "512560",
-        "pct": 3.14,
-        "amount": 4329.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "航空航天ETF嘉实",
-        "code": "159638",
-        "pct": 3.08,
-        "amount": 3532.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "军工ETF广发",
-        "code": "512680",
-        "pct": 3.05,
-        "amount": 5009.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "军工ETF国泰",
-        "code": "512660",
-        "pct": 2.93,
-        "amount": 28349.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "军工ETF华宝",
-        "code": "512810",
-        "pct": 2.93,
-        "amount": 3264.0,
+        "pct": 2.77,
+        "amount": 9399.0,
         "category": "军工/航空航天"
       },
       {
         "name": "油气ETF银华",
         "code": "563150",
-        "pct": 2.92,
-        "amount": 383.0,
+        "pct": 2.47,
+        "amount": 445.0,
         "category": null
+      },
+      {
+        "name": "航空航天ETF嘉实",
+        "code": "159638",
+        "pct": 2.44,
+        "amount": 3796.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "军工ETF易方达",
+        "code": "512560",
+        "pct": 2.4,
+        "amount": 7926.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "军工ETF广发",
+        "code": "512680",
+        "pct": 2.4,
+        "amount": 5509.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "军工ETF华宝",
+        "code": "512810",
+        "pct": 2.28,
+        "amount": 3756.0,
+        "category": "军工/航空航天"
       }
     ]
   }
