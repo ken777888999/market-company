@@ -8767,5 +8767,80 @@
         "category": "军工/航空航天"
       }
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "top10": [
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 2.73,
+        "amount": 32185.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "N金融科技ETF万家",
+        "code": "562400",
+        "pct": 2.69,
+        "amount": 6145.0,
+        "category": null
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 2.57,
+        "amount": 63668.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 2.56,
+        "amount": 1751.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "油气ETF银华",
+        "code": "563150",
+        "pct": 2.34,
+        "amount": 393.0,
+        "category": null
+      },
+      {
+        "name": "石油ETF景顺",
+        "code": "159588",
+        "pct": 2.32,
+        "amount": 734.0,
+        "category": null
+      },
+      {
+        "name": "公用事业ETF鹏华",
+        "code": "560190",
+        "pct": 2.26,
+        "amount": 78.0,
+        "category": null
+      },
+      {
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 2.15,
+        "amount": 6214.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "电力ETF天弘",
+        "code": "560450",
+        "pct": 2.03,
+        "amount": 366.0,
+        "category": "电力"
+      },
+      {
+        "name": "绿电ETF华夏",
+        "code": "562550",
+        "pct": 2.02,
+        "amount": 4023.0,
+        "category": "电力"
+      }
+    ]
   }
 ]
