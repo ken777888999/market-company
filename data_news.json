@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-08-26",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-08-26",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -13815,6 +13808,23 @@
         "url": "https://data.eastmoney.com/notices/detail/300548/AN202610131830408987.html"
       }
     ],
+    "reports": [
+      {
+        "code": "300408",
+        "name": "三环集团",
+        "title": "垂直一体化电子陶瓷龙头，MLCC与SOFC共振成长",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-10-13",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "300408",
