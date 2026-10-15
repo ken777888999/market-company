@@ -8849,72 +8849,72 @@
       {
         "name": "标普消费ETF景顺",
         "code": "159529",
-        "pct": 2.96,
-        "amount": 29326.0,
+        "pct": 1.71,
+        "amount": 41035.0,
         "category": "消费/白酒"
-      },
-      {
-        "name": "纳指生物科技ETF汇添富",
-        "code": "513290",
-        "pct": 1.72,
-        "amount": 18732.0,
-        "category": "医药"
       },
       {
         "name": "创新药ETF华泰柏瑞",
         "code": "517120",
-        "pct": 1.52,
-        "amount": 794.0,
+        "pct": 0.55,
+        "amount": 1131.0,
         "category": "医药"
+      },
+      {
+        "name": "酒ETF鹏华",
+        "code": "512690",
+        "pct": 0.48,
+        "amount": 41641.0,
+        "category": "消费/白酒"
       },
       {
         "name": "港股通创新药ETF汇添富",
         "code": "159570",
-        "pct": 1.49,
-        "amount": 96451.0,
+        "pct": 0.45,
+        "amount": 117583.0,
         "category": "医药"
       },
       {
-        "name": "港股医药ETF平安",
-        "code": "159718",
-        "pct": 1.28,
-        "amount": 2342.0,
+        "name": "30年国债ETF博时",
+        "code": "511130",
+        "pct": 0.38,
+        "amount": 175394.0,
+        "category": "债券"
+      },
+      {
+        "name": "30年国债ETF鹏扬",
+        "code": "511090",
+        "pct": 0.36,
+        "amount": 371403.0,
+        "category": "债券"
+      },
+      {
+        "name": "港股通医药ETF鹏华",
+        "code": "513700",
+        "pct": 0.33,
+        "amount": 8317.0,
         "category": "医药"
       },
       {
-        "name": "港股通创新药医疗ETF富国",
-        "code": "159506",
-        "pct": 1.19,
-        "amount": 25093.0,
+        "name": "金融科技ETF万家",
+        "code": "562400",
+        "pct": 0.3,
+        "amount": 1542.0,
+        "category": null
+      },
+      {
+        "name": "创新药ETF富国",
+        "code": "159748",
+        "pct": 0.25,
+        "amount": 3609.0,
         "category": "医药"
       },
       {
-        "name": "创新药ETF易方达",
-        "code": "516080",
-        "pct": 1.08,
-        "amount": 7956.0,
-        "category": "医药"
-      },
-      {
-        "name": "港股创新药ETF银华",
-        "code": "159567",
-        "pct": 1.08,
-        "amount": 61081.0,
-        "category": "医药"
-      },
-      {
-        "name": "创新药ETF工银",
-        "code": "516060",
-        "pct": 1.06,
-        "amount": 424.0,
-        "category": "医药"
-      },
-      {
-        "name": "港股创新药ETF广发",
-        "code": "513120",
-        "pct": 1.05,
-        "amount": 405354.0,
-        "category": "医药"
+        "name": "食品饮料ETF华夏",
+        "code": "515170",
+        "pct": 0.22,
+        "amount": 5191.0,
+        "category": "消费/白酒"
       }
     ]
   }
