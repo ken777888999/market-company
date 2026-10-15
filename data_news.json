@@ -1,196 +1,6 @@
 [
   {
     "date": "2026-08-27",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202608271828513031",
-        "title": "中际旭创:关于悉数行使超额配售权、稳定价格行动及稳定价格期结束的公告",
-        "date": "2026-08-27",
-        "time": "07:44",
-        "category": "其他",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608271828513031.html"
-      },
-      {
-        "art_code": "AN202608261828499885",
-        "title": "芯碁微装:港股公告:致H股登记股东之通知信函？以电子方式发布公司通讯之安排",
-        "date": "2026-08-27",
-        "time": "21:55",
-        "category": "其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499885.html"
-      },
-      {
-        "art_code": "AN202608261828499886",
-        "title": "芯碁微装:港股公告:2026年第一次临时股东大会H股持有人代表委任表格",
-        "date": "2026-08-27",
-        "time": "21:55",
-        "category": "其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499886.html"
-      },
-      {
-        "art_code": "AN202608261828499887",
-        "title": "芯碁微装:港股公告:变更联席公司秘书、授权代表及法律程序代理人及豁免严格遵守上市规则第3.28条及第8.17条",
-        "date": "2026-08-27",
-        "time": "21:55",
-        "category": "其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499887.html"
-      },
-      {
-        "art_code": "AN202608261828499881",
-        "title": "芯碁微装:港股公告:致H股非登记持有人之通知信函及申请表格？以电子方式发布公司通讯之安排",
-        "date": "2026-08-27",
-        "time": "21:55",
-        "category": "其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499881.html"
-      },
-      {
-        "art_code": "AN202608261828499880",
-        "title": "芯碁微装:港股公告:2026年第一次临时股东大会通告",
-        "date": "2026-08-27",
-        "time": "21:55",
-        "category": "召开股东大会通知,其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499880.html"
-      },
-      {
-        "art_code": "AN202608261828499883",
-        "title": "芯碁微装:港股公告:变更公司注册资本及修订公司章程",
-        "date": "2026-08-27",
-        "time": "21:55",
-        "category": "公司注册资本变更,公司章程修订,其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499883.html"
-      },
-      {
-        "art_code": "AN202608261828499888",
-        "title": "芯碁微装:港股公告:截至2026年6月30日止六个月的中期业绩公告",
-        "date": "2026-08-27",
-        "time": "21:54",
-        "category": "其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499888.html"
-      },
-      {
-        "art_code": "AN202608261828499882",
-        "title": "芯碁微装:港股公告:2026年中期报告",
-        "date": "2026-08-27",
-        "time": "21:54",
-        "category": "其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499882.html"
-      },
-      {
-        "art_code": "AN202608261828499884",
-        "title": "芯碁微装:港股公告:变更公司注册资本及修订公司章程;增加使用闲置自有资金进行现金管理及2026年第一次临时股东大会通告",
-        "date": "2026-08-27",
-        "time": "21:54",
-        "category": "公司注册资本变更,公司章程修订,投资理财,其他",
-        "codes": [
-          "688630"
-        ],
-        "names": [
-          "芯碁微装"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688630/AN202608261828499884.html"
-      },
-      {
-        "art_code": "AN202608261828499748",
-        "title": "中钨高新2026年8月25日投资者关系活动记录表",
-        "date": "2026-08-26",
-        "time": "21:51",
-        "category": "调研活动",
-        "codes": [
-          "000657"
-        ],
-        "names": [
-          "中钨高新"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/000657/AN202608261828499748.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "688257",
-        "name": "新锐股份",
-        "title": "2026中报点评：业绩符合预告区间，量价齐升驱动盈利跨越式增长",
-        "org": "东吴证券",
-        "rating": "",
-        "date": "2026-08-27",
-        "digest": ""
-      },
-      {
-        "code": "002463",
-        "name": "沪电股份",
-        "title": "公司信息更新报告：2026Q2毛利率创新高，高端产能布局加速",
-        "org": "开源证券",
-        "rating": "",
-        "date": "2026-08-26",
-        "digest": ""
-      },
-      {
-        "code": "300054",
-        "name": "鼎龙股份",
-        "title": "半导体材料业务多点开花，给予“买进”的投资建议",
-        "org": "群益证券",
-        "rating": "",
-        "date": "2026-08-26",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-08-27",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -12932,6 +12742,831 @@
           "源杰科技"
         ],
         "url": "https://data.eastmoney.com/notices/detail/688498/AN202610141830457971.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "600176",
+        "name": "中国巨石",
+        "title": "2026年前三季度业绩预增点评报告：AI带动电子布量价齐升，公司盈利能力大幅提升",
+        "org": "华龙证券",
+        "rating": "",
+        "date": "2026-10-14",
+        "digest": ""
+      },
+      {
+        "code": "000657",
+        "name": "中钨高新",
+        "title": "2026年前三季度业绩预告点评：前三季度业绩高增，金洲精工+矿山注入打开天花板",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-10-14",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202610141830470651",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司总经理工作细则(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470651.html"
+      },
+      {
+        "art_code": "AN202610141830470637",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司董事会议事规则(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470637.html"
+      },
+      {
+        "art_code": "AN202610141830470642",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司商业道德行为准则(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470642.html"
+      },
+      {
+        "art_code": "AN202610141830470652",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司高层人员持股变动管理办法(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470652.html"
+      },
+      {
+        "art_code": "AN202610141830470613",
+        "title": "江丰电子:关于召开2026年第四次临时股东会的通知",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "召开股东大会通知",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470613.html"
+      },
+      {
+        "art_code": "AN202610141830470638",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司董事会战略与可持续发展委员会实施细则(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470638.html"
+      },
+      {
+        "art_code": "AN202610141830470631",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司董事会提名委员会实施细则(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470631.html"
+      },
+      {
+        "art_code": "AN202610141830470667",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司反洗钱及经济制裁管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470667.html"
+      },
+      {
+        "art_code": "AN202610141830470668",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司股东提名人选参选董事的程序(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470668.html"
+      },
+      {
+        "art_code": "AN202610141830470662",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司现金管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470662.html"
+      },
+      {
+        "art_code": "AN202610141830470636",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司媒体采访和投资者调研接待办法(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470636.html"
+      },
+      {
+        "art_code": "AN202610141830470634",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司董事会成员及雇员多元化政策(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470634.html"
+      },
+      {
+        "art_code": "AN202610141830470630",
+        "title": "江丰电子:独立董事候选人关于参加最近一次独立董事培训并取得独立董事培训证明的承诺函(何建昌)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470630.html"
+      },
+      {
+        "art_code": "AN202610141830470663",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司关连交易决策制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470663.html"
+      },
+      {
+        "art_code": "AN202610141830470659",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司子公司管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470659.html"
+      },
+      {
+        "art_code": "AN202610141830470645",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司累积投票制实施细则(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470645.html"
+      },
+      {
+        "art_code": "AN202610141830470664",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司市值管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470664.html"
+      },
+      {
+        "art_code": "AN202610141830470617",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司重大投资决策管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470617.html"
+      },
+      {
+        "art_code": "AN202610141830470657",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司内部审计制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470657.html"
+      },
+      {
+        "art_code": "AN202610141830470625",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司财务管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470625.html"
+      },
+      {
+        "art_code": "AN202610141830470653",
+        "title": "江丰电子:第四届董事会第四十一次会议决议公告",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470653.html"
+      },
+      {
+        "art_code": "AN202610141830470624",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司股东通讯政策(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470624.html"
+      },
+      {
+        "art_code": "AN202610141830470661",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司董事会秘书工作细则(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470661.html"
+      },
+      {
+        "art_code": "AN202610141830470646",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司风险管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470646.html"
+      },
+      {
+        "art_code": "AN202610141830470618",
+        "title": "江丰电子:独立董事提名人声明与承诺(何建昌)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470618.html"
+      },
+      {
+        "art_code": "AN202610141830470632",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司环境、社会和公司治理(ESG)管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470632.html"
+      },
+      {
+        "art_code": "AN202610141830470616",
+        "title": "江丰电子:关于筹划发行H股股票并上市相关事项的提示性公告",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470616.html"
+      },
+      {
+        "art_code": "AN202610141830470621",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司董事及高级管理人员薪酬管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470621.html"
+      },
+      {
+        "art_code": "AN202610141830470644",
+        "title": "江丰电子:独立董事候选人声明与承诺(王明江)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470644.html"
+      },
+      {
+        "art_code": "AN202610141830470643",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司董事会薪酬与考核委员会实施细则(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470643.html"
+      },
+      {
+        "art_code": "AN202610141830470623",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司内幕信息知情人登记制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470623.html"
+      },
+      {
+        "art_code": "AN202610141830470658",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司会计师事务所选聘制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470658.html"
+      },
+      {
+        "art_code": "AN202610141830470627",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司募集资金管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470627.html"
+      },
+      {
+        "art_code": "AN202610141830470655",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司投资者关系管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470655.html"
+      },
+      {
+        "art_code": "AN202610141830470654",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司股东会议事规则修订对照表(2026年10月)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470654.html"
+      },
+      {
+        "art_code": "AN202610141830470640",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司股东会议事规则(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470640.html"
+      },
+      {
+        "art_code": "AN202610141830470622",
+        "title": "江丰电子:独立董事提名人声明与承诺(汪宇)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470622.html"
+      },
+      {
+        "art_code": "AN202610141830470665",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司章程修订对照表(2026年10月)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "公司章程修订",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470665.html"
+      },
+      {
+        "art_code": "AN202610141830470612",
+        "title": "江丰电子:关于制定与修订于H股发行上市后适用的《公司章程》及部分管理、内部治理制度的公告",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "公司章程修订,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470612.html"
+      },
+      {
+        "art_code": "AN202610141830470615",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司境外发行证券及上市相关保密和档案管理工作制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470615.html"
+      },
+      {
+        "art_code": "AN202610141830470650",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司独立董事工作制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470650.html"
+      },
+      {
+        "art_code": "AN202610141830470639",
+        "title": "江丰电子:独立董事候选人声明与承诺(汪宇)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470639.html"
+      },
+      {
+        "art_code": "AN202610141830470629",
+        "title": "江丰电子:关于向金融机构新增综合授信额度的公告",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "借贷",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470629.html"
+      },
+      {
+        "art_code": "AN202610141830470656",
+        "title": "江丰电子:独立董事提名人声明与承诺(王明江)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "独立董事提名人声明",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470656.html"
+      },
+      {
+        "art_code": "AN202610141830470628",
+        "title": "江丰电子:独立董事候选人声明与承诺(何建昌)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "独立董事候选人声明",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470628.html"
+      },
+      {
+        "art_code": "AN202610141830470633",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司对外担保管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470633.html"
+      },
+      {
+        "art_code": "AN202610141830470647",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司信息披露暂缓与豁免管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470647.html"
+      },
+      {
+        "art_code": "AN202610141830470649",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司利益冲突管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470649.html"
+      },
+      {
+        "art_code": "AN202610141830470614",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司董事会议事规则修订对照表(2026年10月)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470614.html"
+      },
+      {
+        "art_code": "AN202610141830470611",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司董事、高级管理人员离职管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470611.html"
+      },
+      {
+        "art_code": "AN202610141830470619",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司防范关联方占用公司资金管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470619.html"
+      },
+      {
+        "art_code": "AN202610141830470626",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司信息披露管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470626.html"
+      },
+      {
+        "art_code": "AN202610141830470648",
+        "title": "江丰电子:关于聘请H股发行及上市审计机构的公告",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "审计机构变更,其他",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470648.html"
+      },
+      {
+        "art_code": "AN202610141830470620",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司董事会审计委员会实施细则(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,议事规则/实施细则",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470620.html"
+      },
+      {
+        "art_code": "AN202610141830470641",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司舆情管理制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470641.html"
+      },
+      {
+        "art_code": "AN202610141830470660",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司关联交易决策制度(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,管理办法/制度",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470660.html"
+      },
+      {
+        "art_code": "AN202610141830470635",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司章程(草案)(H股发行并上市后适用)",
+        "date": "2026-10-15",
+        "time": "21:18",
+        "category": "其他,公司章程",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470635.html"
       }
     ],
     "reports": [
