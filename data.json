@@ -1,16 +1,5 @@
 [
   {
-    "time": "2026-08-10 15:00:01",
-    "turnover_avg": 2.47,
-    "turnover_median": 1.96,
-    "total_stocks": 1829,
-    "high_turnover_count": 82,
-    "margin_balance": 2622544107786.0,
-    "margin_change": 6977732728.0,
-    "margin_buy": 255777250477.0,
-    "margin_net_buy": 6977732740.0
-  },
-  {
     "time": "2026-08-11 10:30:01",
     "turnover_avg": 1.04,
     "turnover_median": 0.74,
@@ -2194,6 +2183,17 @@
     "turnover_median": 1.21,
     "total_stocks": 1829,
     "high_turnover_count": 46,
+    "margin_balance": 2459705595593.0,
+    "margin_change": -14489992176.0,
+    "margin_buy": 121857375394.0,
+    "margin_net_buy": -14489992148.0
+  },
+  {
+    "time": "2026-10-19 15:00:01",
+    "turnover_avg": 1.89,
+    "turnover_median": 1.49,
+    "total_stocks": 1829,
+    "high_turnover_count": 64,
     "margin_balance": 2459705595593.0,
     "margin_change": -14489992176.0,
     "margin_buy": 121857375394.0,
