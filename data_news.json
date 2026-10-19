@@ -1,315 +1,5 @@
 [
   {
-    "date": "2026-08-31",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [
-      {
-        "art_code": "AN202608311828828987",
-        "title": "南亚新材:关于2025年度向特定对象发行A股股票募集说明书(注册稿)等相关文件更新的提示性公告",
-        "date": "2026-09-01",
-        "time": "20:04",
-        "category": "增发提示性公告",
-        "codes": [
-          "688519"
-        ],
-        "names": [
-          "南亚新材"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608311828828987.html"
-      },
-      {
-        "art_code": "AN202608311828828988",
-        "title": "南亚新材:2025年度向特定对象发行A股股票募集说明书(注册稿)",
-        "date": "2026-09-01",
-        "time": "20:04",
-        "category": "科创板再融资募集说明书注册稿",
-        "codes": [
-          "688519"
-        ],
-        "names": [
-          "南亚新材"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688519/AN202608311828828988.html"
-      },
-      {
-        "art_code": "AN202608311828826955",
-        "title": "中际旭创:第六届董事会第四次会议决议公告",
-        "date": "2026-09-01",
-        "time": "19:22",
-        "category": "董事会决议公告",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608311828826955.html"
-      },
-      {
-        "art_code": "AN202608311828826958",
-        "title": "中际旭创:关于回购公司股份方案的公告",
-        "date": "2026-09-01",
-        "time": "19:22",
-        "category": "回购预案",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608311828826958.html"
-      },
-      {
-        "art_code": "AN202608311828826959",
-        "title": "中际旭创:Ｈ股公告(翌日披露报表)",
-        "date": "2026-09-01",
-        "time": "19:22",
-        "category": "其他",
-        "codes": [
-          "300308"
-        ],
-        "names": [
-          "中际旭创"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202608311828826959.html"
-      },
-      {
-        "art_code": "AN202608311828826960",
-        "title": "普冉股份:普冉半导体(上海)股份有限公司关于股份回购实施结果暨股份变动的公告",
-        "date": "2026-09-01",
-        "time": "19:21",
-        "category": "股本变动,回购进展情况,回购实施公告",
-        "codes": [
-          "688766"
-        ],
-        "names": [
-          "普冉股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688766/AN202608311828826960.html"
-      },
-      {
-        "art_code": "AN202608311828822469",
-        "title": "厦门钨业:厦门钨业2026年第四次临时股东会会议资料",
-        "date": "2026-09-01",
-        "time": "18:31",
-        "category": "股东大会资料",
-        "codes": [
-          "600549"
-        ],
-        "names": [
-          "厦门钨业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608311828822469.html"
-      },
-      {
-        "art_code": "AN202608311828816497",
-        "title": "金海通:关于2025年员工持股计划首次受让部分份额第一个锁定期届满的提示性公告",
-        "date": "2026-09-01",
-        "time": "17:21",
-        "category": "首发提示性公告,员工持股计划",
-        "codes": [
-          "603061"
-        ],
-        "names": [
-          "金海通"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/603061/AN202608311828816497.html"
-      },
-      {
-        "art_code": "AN202608311828815883",
-        "title": "德明利:关于2024年限制性股票激励计划预留部分限制性股票第一个解除限售期解除限售股份上市流通的提示性公告",
-        "date": "2026-09-01",
-        "time": "17:13",
-        "category": "限售股份上市流通",
-        "codes": [
-          "001309"
-        ],
-        "names": [
-          "德明利"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001309/AN202608311828815883.html"
-      },
-      {
-        "art_code": "AN202608311828815662",
-        "title": "紫金矿业:紫金矿业H股市场公告",
-        "date": "2026-09-01",
-        "time": "17:12",
-        "category": "其他",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202608311828815662.html"
-      },
-      {
-        "art_code": "AN202608311828809423",
-        "title": "欧科亿:关于2026年湖南辖区上市公司投资者网上集体接待日暨半年度业绩说明会的公告",
-        "date": "2026-09-01",
-        "time": "16:32",
-        "category": "调研活动",
-        "codes": [
-          "688308"
-        ],
-        "names": [
-          "欧科亿"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688308/AN202608311828809423.html"
-      },
-      {
-        "art_code": "AN202608311828826236",
-        "title": "三环集团:H股公告-翌日披露报表",
-        "date": "2026-08-31",
-        "time": "19:16",
-        "category": "其他",
-        "codes": [
-          "300408"
-        ],
-        "names": [
-          "三环集团"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202608311828826236.html"
-      },
-      {
-        "art_code": "AN202608311828826200",
-        "title": "湖南裕能:中信建投证券股份有限公司关于湖南裕能新能源电池材料股份有限公司2026年上半年度持续督导跟踪报告",
-        "date": "2026-08-31",
-        "time": "19:14",
-        "category": "保荐/核查意见",
-        "codes": [
-          "301358"
-        ],
-        "names": [
-          "湖南裕能"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301358/AN202608311828826200.html"
-      },
-      {
-        "art_code": "AN202608311828817915",
-        "title": "厦门钨业:投资者活动记录表(含2026年半年度业绩说明会)2026-投关-004",
-        "date": "2026-08-31",
-        "time": "19:08",
-        "category": "调研活动",
-        "codes": [
-          "600549"
-        ],
-        "names": [
-          "厦门钨业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600549/AN202608311828817915.html"
-      },
-      {
-        "art_code": "AN202608311828825628",
-        "title": "德福科技:关于举行2026年投资者开放日活动的公告",
-        "date": "2026-08-31",
-        "time": "19:07",
-        "category": "其他",
-        "codes": [
-          "301511"
-        ],
-        "names": [
-          "德福科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/301511/AN202608311828825628.html"
-      },
-      {
-        "art_code": "AN202608311828810644",
-        "title": "协创数据:关于公司为全资子公司提供担保的进展公告",
-        "date": "2026-08-31",
-        "time": "16:44",
-        "category": "提供/对外担保公告",
-        "codes": [
-          "300857"
-        ],
-        "names": [
-          "协创数据"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202608311828810644.html"
-      },
-      {
-        "art_code": "AN202608311828803914",
-        "title": "长电科技:2026年半年度业绩说明会记录",
-        "date": "2026-08-31",
-        "time": "16:41",
-        "category": "调研活动",
-        "codes": [
-          "600584"
-        ],
-        "names": [
-          "长电科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/600584/AN202608311828803914.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "605117",
-        "name": "德业股份",
-        "title": "逆变器海外需求高景气，电池包业务增长亮眼",
-        "org": "中邮证券",
-        "rating": "",
-        "date": "2026-08-31",
-        "digest": ""
-      },
-      {
-        "code": "600183",
-        "name": "生益科技",
-        "title": "深度报告：涨价及AI双重驱动，业绩持续兑现",
-        "org": "东莞证券",
-        "rating": "",
-        "date": "2026-08-31",
-        "digest": ""
-      },
-      {
-        "code": "300408",
-        "name": "三环集团",
-        "title": "公司信息更新报告：MLCC量价齐升，光通信与SOFC共拓长期成长空间",
-        "org": "开源证券",
-        "rating": "",
-        "date": "2026-08-31",
-        "digest": ""
-      },
-      {
-        "code": "605117",
-        "name": "德业股份",
-        "title": "上半年公司业绩大幅增长，储能需求旺盛，建议“买进”",
-        "org": "群益证券",
-        "rating": "",
-        "date": "2026-08-31",
-        "digest": ""
-      },
-      {
-        "code": "300604",
-        "name": "长川科技",
-        "title": "2026年中报点评：业绩高速增长，测试机龙头充分受益于SoC&存储共振",
-        "org": "东吴证券",
-        "rating": "",
-        "date": "2026-08-31",
-        "digest": ""
-      },
-      {
-        "code": "300054",
-        "name": "鼎龙股份",
-        "title": "抛光垫、抛光液业务高速增长，多款材料稳健放量",
-        "org": "中银证券",
-        "rating": "",
-        "date": "2026-08-31",
-        "digest": ""
-      },
-      {
-        "code": "300408",
-        "name": "三环集团",
-        "title": "业绩符合预期，MLCC景气度提升",
-        "org": "国金证券",
-        "rating": "",
-        "date": "2026-08-31",
-        "digest": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-01",
     "time": "09:00",
     "period": "早间",
@@ -12984,5 +12674,209 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202610191830690170",
+        "title": "长鑫科技:上海市锦天城律师事务所关于长鑫科技集团股份有限公司2026年第二次临时股东会之法律意见书",
+        "date": "2026-10-20",
+        "time": "19:42",
+        "category": "法律意见书",
+        "codes": [
+          "688825"
+        ],
+        "names": [
+          "长鑫科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688825/AN202610191830690170.html"
+      },
+      {
+        "art_code": "AN202610191830690169",
+        "title": "长鑫科技:2026年第二次临时股东会决议公告",
+        "date": "2026-10-20",
+        "time": "19:42",
+        "category": "股东大会决议公告",
+        "codes": [
+          "688825"
+        ],
+        "names": [
+          "长鑫科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688825/AN202610191830690169.html"
+      },
+      {
+        "art_code": "AN202610191830686876",
+        "title": "赛分科技:苏州赛分科技股份有限公司2026年前三季度业绩预告的自愿性披露公告",
+        "date": "2026-10-20",
+        "time": "17:49",
+        "category": "业绩预告",
+        "codes": [
+          "688758"
+        ],
+        "names": [
+          "赛分科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688758/AN202610191830686876.html"
+      },
+      {
+        "art_code": "AN202610191830684371",
+        "title": "三环集团:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "date": "2026-10-20",
+        "time": "16:40",
+        "category": "回购进展情况",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202610191830684371.html"
+      },
+      {
+        "art_code": "AN202610191830682861",
+        "title": "桐昆股份:桐昆集团股份有限公司2026年股权激励计划限制性股票授予结果公告",
+        "date": "2026-10-20",
+        "time": "16:28",
+        "category": "股权激励进展公告",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202610191830682861.html"
+      },
+      {
+        "art_code": "AN202610191830680665",
+        "title": "中国巨石:中国巨石关于2027年“提质增效重回报”行动方案的公告",
+        "date": "2026-10-20",
+        "time": "15:42",
+        "category": "其他",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202610191830680665.html"
+      },
+      {
+        "art_code": "AN202610191830680663",
+        "title": "中国巨石:中国巨石董事会战略与可持续发展(ESG)委员会关于巨石集团成都有限公司年产20万吨高性能玻璃纤维生产线建设项目实施方案变更的意见",
+        "date": "2026-10-20",
+        "time": "15:42",
+        "category": "其他",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202610191830680663.html"
+      },
+      {
+        "art_code": "AN202610191830680666",
+        "title": "中国巨石:中国巨石2026年第三季度报告",
+        "date": "2026-10-20",
+        "time": "15:42",
+        "category": "三季度报告全文",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202610191830680666.html"
+      },
+      {
+        "art_code": "AN202610191830680661",
+        "title": "中国巨石:中国巨石第七届董事会第三十五次会议决议公告",
+        "date": "2026-10-20",
+        "time": "15:42",
+        "category": "董事会决议公告",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202610191830680661.html"
+      },
+      {
+        "art_code": "AN202610191830680662",
+        "title": "中国巨石:中国巨石关于巨石集团成都有限公司年产20万吨高性能玻璃纤维生产线建设项目实施方案变更的公告",
+        "date": "2026-10-20",
+        "time": "15:42",
+        "category": "其他",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202610191830680662.html"
+      },
+      {
+        "art_code": "AN202610191830680664",
+        "title": "中国巨石:中国巨石董事会审计委员会关于公司2026年第三季度报告的审核意见",
+        "date": "2026-10-20",
+        "time": "15:42",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202610191830680664.html"
+      },
+      {
+        "art_code": "AN202610191830687142",
+        "title": "上海新阳:关于公司实际控制人续签一致行动协议的公告",
+        "date": "2026-10-19",
+        "time": "18:00",
+        "category": "签订协议",
+        "codes": [
+          "300236"
+        ],
+        "names": [
+          "上海新阳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300236/AN202610191830687142.html"
+      },
+      {
+        "art_code": "AN202610191830687130",
+        "title": "协创数据:关于全资子公司签署日常经营重大合同的公告",
+        "date": "2026-10-19",
+        "time": "18:00",
+        "category": "重大合同",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610191830687130.html"
+      },
+      {
+        "art_code": "AN202610191830687135",
+        "title": "协创数据:广东信达律师事务所关于协创数据技术股份有限公司之全资子公司协创智算科技(深圳)有限公司签署重大合同的法律意见书",
+        "date": "2026-10-19",
+        "time": "18:00",
+        "category": "法律意见书",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610191830687135.html"
+      }
+    ],
+    "reports": []
   }
 ]
