@@ -8999,71 +8999,71 @@
       {
         "name": "机器人ETF易方达",
         "code": "159530",
-        "pct": 3.14,
-        "amount": 47678.0,
+        "pct": 4.3,
+        "amount": 68813.0,
         "category": "机器人"
       },
       {
         "name": "机器人ETF景顺",
         "code": "159559",
-        "pct": 3.07,
-        "amount": 4108.0,
+        "pct": 4.15,
+        "amount": 5969.0,
+        "category": "机器人"
+      },
+      {
+        "name": "黄金股ETF国泰",
+        "code": "517400",
+        "pct": 3.39,
+        "amount": 8217.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "机器人ETF万家",
+        "code": "560630",
+        "pct": 2.99,
+        "amount": 604.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF银华",
+        "code": "562360",
+        "pct": 2.91,
+        "amount": 1650.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF华夏",
+        "code": "562500",
+        "pct": 2.9,
+        "amount": 58098.0,
         "category": "机器人"
       },
       {
         "name": "中药ETF银华",
         "code": "562390",
-        "pct": 3.0,
-        "amount": 371.0,
+        "pct": 2.88,
+        "amount": 522.0,
         "category": "医药"
       },
       {
-        "name": "标普消费ETF景顺",
-        "code": "159529",
-        "pct": 2.87,
-        "amount": 149088.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "黄金股ETF国泰",
-        "code": "517400",
-        "pct": 2.76,
-        "amount": 5861.0,
+        "name": "黄金股ETF永赢",
+        "code": "517520",
+        "pct": 2.84,
+        "amount": 56315.0,
         "category": "有色/资源"
-      },
-      {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 2.66,
-        "amount": 31705.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "机器人ETF华夏",
-        "code": "562500",
-        "pct": 2.65,
-        "amount": 37095.0,
-        "category": "机器人"
-      },
-      {
-        "name": "中药ETF华泰柏瑞",
-        "code": "561510",
-        "pct": 2.57,
-        "amount": 173.0,
-        "category": "医药"
-      },
-      {
-        "name": "电网设备ETF国泰",
-        "code": "561380",
-        "pct": 2.56,
-        "amount": 6341.0,
-        "category": null
       },
       {
         "name": "机器人ETF嘉实",
         "code": "159526",
-        "pct": 2.46,
-        "amount": 2429.0,
+        "pct": 2.8,
+        "amount": 2693.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF天弘",
+        "code": "159770",
+        "pct": 2.79,
+        "amount": 11631.0,
         "category": "机器人"
       }
     ]
