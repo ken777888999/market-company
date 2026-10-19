@@ -8997,74 +8997,74 @@
     "date": "2026-10-19",
     "top10": [
       {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 2.74,
-        "amount": 25859.0,
-        "category": "海外QDII"
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 3.14,
+        "amount": 47678.0,
+        "category": "机器人"
       },
       {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 2.73,
-        "amount": 32010.0,
-        "category": "海外QDII"
+        "name": "机器人ETF景顺",
+        "code": "159559",
+        "pct": 3.07,
+        "amount": 4108.0,
+        "category": "机器人"
       },
       {
         "name": "中药ETF银华",
         "code": "562390",
-        "pct": 2.42,
-        "amount": 314.0,
-        "category": "医药"
-      },
-      {
-        "name": "中药ETF华泰柏瑞",
-        "code": "561510",
-        "pct": 2.35,
-        "amount": 148.0,
+        "pct": 3.0,
+        "amount": 371.0,
         "category": "医药"
       },
       {
         "name": "标普消费ETF景顺",
         "code": "159529",
-        "pct": 2.14,
-        "amount": 107358.0,
+        "pct": 2.87,
+        "amount": 149088.0,
         "category": "消费/白酒"
       },
       {
-        "name": "中药ETF汇添富",
-        "code": "560080",
-        "pct": 1.99,
-        "amount": 4886.0,
+        "name": "黄金股ETF国泰",
+        "code": "517400",
+        "pct": 2.76,
+        "amount": 5861.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 2.66,
+        "amount": 31705.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "机器人ETF华夏",
+        "code": "562500",
+        "pct": 2.65,
+        "amount": 37095.0,
+        "category": "机器人"
+      },
+      {
+        "name": "中药ETF华泰柏瑞",
+        "code": "561510",
+        "pct": 2.57,
+        "amount": 173.0,
         "category": "医药"
       },
       {
         "name": "电网设备ETF国泰",
         "code": "561380",
-        "pct": 1.92,
-        "amount": 5318.0,
+        "pct": 2.56,
+        "amount": 6341.0,
         "category": null
       },
       {
-        "name": "中药ETF鹏华",
-        "code": "159647",
-        "pct": 1.91,
-        "amount": 1927.0,
-        "category": "医药"
-      },
-      {
-        "name": "电网设备ETF南方",
-        "code": "515940",
-        "pct": 1.83,
-        "amount": 835.0,
-        "category": null
-      },
-      {
-        "name": "家电ETF博时",
-        "code": "159730",
-        "pct": 1.74,
-        "amount": 22.0,
-        "category": "家电"
+        "name": "机器人ETF嘉实",
+        "code": "159526",
+        "pct": 2.46,
+        "amount": 2429.0,
+        "category": "机器人"
       }
     ]
   }
