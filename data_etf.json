@@ -8997,74 +8997,74 @@
     "date": "2026-10-19",
     "top10": [
       {
-        "name": "标普消费ETF景顺",
-        "code": "159529",
-        "pct": 2.51,
-        "amount": 75492.0,
-        "category": "消费/白酒"
-      },
-      {
         "name": "标普油气ETF嘉实",
         "code": "159518",
-        "pct": 2.43,
-        "amount": 14708.0,
+        "pct": 2.74,
+        "amount": 25859.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 2.73,
+        "amount": 32010.0,
         "category": "海外QDII"
       },
       {
         "name": "中药ETF银华",
         "code": "562390",
-        "pct": 2.31,
-        "amount": 238.0,
+        "pct": 2.42,
+        "amount": 314.0,
         "category": "医药"
-      },
-      {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 2.22,
-        "amount": 18738.0,
-        "category": "海外QDII"
       },
       {
         "name": "中药ETF华泰柏瑞",
         "code": "561510",
-        "pct": 2.14,
-        "amount": 131.0,
+        "pct": 2.35,
+        "amount": 148.0,
         "category": "医药"
       },
       {
-        "name": "红利质量ETF鹏华",
-        "code": "562150",
-        "pct": 2.13,
-        "amount": 70.0,
-        "category": "红利/高股息"
+        "name": "标普消费ETF景顺",
+        "code": "159529",
+        "pct": 2.14,
+        "amount": 107358.0,
+        "category": "消费/白酒"
       },
       {
         "name": "中药ETF汇添富",
         "code": "560080",
         "pct": 1.99,
-        "amount": 3726.0,
+        "amount": 4886.0,
         "category": "医药"
       },
       {
-        "name": "酒ETF鹏华",
-        "code": "512690",
-        "pct": 1.9,
-        "amount": 46269.0,
-        "category": "消费/白酒"
+        "name": "电网设备ETF国泰",
+        "code": "561380",
+        "pct": 1.92,
+        "amount": 5318.0,
+        "category": null
       },
       {
         "name": "中药ETF鹏华",
         "code": "159647",
-        "pct": 1.8,
-        "amount": 1589.0,
+        "pct": 1.91,
+        "amount": 1927.0,
         "category": "医药"
       },
       {
-        "name": "红利质量ETF博时",
-        "code": "561430",
-        "pct": 1.72,
-        "amount": 19.0,
-        "category": "红利/高股息"
+        "name": "电网设备ETF南方",
+        "code": "515940",
+        "pct": 1.83,
+        "amount": 835.0,
+        "category": null
+      },
+      {
+        "name": "家电ETF博时",
+        "code": "159730",
+        "pct": 1.74,
+        "amount": 22.0,
+        "category": "家电"
       }
     ]
   }
