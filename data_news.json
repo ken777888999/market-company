@@ -1,32 +1,6 @@
 [
   {
     "date": "2026-09-01",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "605117",
-        "name": "德业股份",
-        "title": "逆变器海外需求高景气，电池包业务增长亮眼",
-        "org": "中邮证券",
-        "rating": "",
-        "date": "2026-08-31",
-        "digest": ""
-      },
-      {
-        "code": "600183",
-        "name": "生益科技",
-        "title": "深度报告：涨价及AI双重驱动，业绩持续兑现",
-        "org": "东莞证券",
-        "rating": "",
-        "date": "2026-08-31",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
     "time": "18:16",
     "period": "晚间",
     "announcements": [
@@ -12875,6 +12849,28 @@
           "协创数据"
         ],
         "url": "https://data.eastmoney.com/notices/detail/300857/AN202610191830687135.html"
+      }
+    ],
+    "reports": []
+  },
+  {
+    "date": "2026-10-20",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202610201830698708",
+        "title": "东山精密:关于刊发H股招股说明书、H股发行价格上限及H股香港公开发售等事宜的公告",
+        "date": "2026-10-20",
+        "time": "07:42",
+        "category": "其他",
+        "codes": [
+          "002384"
+        ],
+        "names": [
+          "东山精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002384/AN202610201830698708.html"
       }
     ],
     "reports": []
