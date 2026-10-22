@@ -1,47 +1,6 @@
 [
   {
     "date": "2026-09-02",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202609011828891232",
-        "title": "2026年9月1日天孚通信投资者关系活动记录表",
-        "date": "2026-09-01",
-        "time": "21:36",
-        "category": "调研活动",
-        "codes": [
-          "300394"
-        ],
-        "names": [
-          "天孚通信"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300394/AN202609011828891232.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "002463",
-        "name": "沪电股份",
-        "title": "Q2盈利能力跃升，国内外扩产持续推进",
-        "org": "太平洋",
-        "rating": "",
-        "date": "2026-09-02",
-        "digest": ""
-      },
-      {
-        "code": "002156",
-        "name": "通富微电",
-        "title": "公司信息更新报告：从满产增效到结构提质，五大工厂合力增厚利润",
-        "org": "开源证券",
-        "rating": "",
-        "date": "2026-09-02",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-02",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -12582,6 +12541,13 @@
         "url": "https://data.eastmoney.com/notices/detail/600183/AN202610211830762429.html"
       }
     ],
+    "reports": []
+  },
+  {
+    "date": "2026-10-22",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": []
   }
 ]
