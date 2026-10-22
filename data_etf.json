@@ -9224,72 +9224,72 @@
       {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 1.73,
-        "amount": 166270.0,
+        "pct": 2.91,
+        "amount": 258122.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 1.62,
+        "amount": 129503.0,
         "category": "海外QDII"
       },
       {
         "name": "能源化工ETF建信",
         "code": "159981",
-        "pct": 1.71,
-        "amount": 76990.0,
+        "pct": 1.05,
+        "amount": 97169.0,
         "category": "煤炭/能源"
       },
       {
-        "name": "机器人ETF易方达",
-        "code": "159530",
-        "pct": 1.4,
-        "amount": 70619.0,
-        "category": "机器人"
-      },
-      {
-        "name": "机器人ETF景顺",
-        "code": "159559",
-        "pct": 1.28,
-        "amount": 7627.0,
-        "category": "机器人"
-      },
-      {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 0.74,
-        "amount": 87587.0,
-        "category": "海外QDII"
+        "name": "金融科技ETF兴业",
+        "code": "563570",
+        "pct": 0.88,
+        "amount": 365.0,
+        "category": null
       },
       {
         "name": "德国ETF华安",
         "code": "513030",
-        "pct": 0.63,
-        "amount": 6329.0,
+        "pct": 0.34,
+        "amount": 8488.0,
         "category": null
+      },
+      {
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 0.33,
+        "amount": 81453.0,
+        "category": "机器人"
       },
       {
         "name": "德国ETF嘉实",
         "code": "159561",
-        "pct": 0.55,
-        "amount": 6245.0,
+        "pct": 0.24,
+        "amount": 8534.0,
         "category": null
       },
       {
-        "name": "豆粕ETF华夏",
-        "code": "159985",
-        "pct": 0.28,
-        "amount": 15221.0,
+        "name": "法国ETF华安",
+        "code": "513080",
+        "pct": 0.19,
+        "amount": 4596.0,
         "category": null
       },
       {
-        "name": "稀土ETF易方达",
-        "code": "159715",
-        "pct": 0.1,
-        "amount": 2487.0,
-        "category": "有色/资源"
+        "name": "消费50ETF富国",
+        "code": "515650",
+        "pct": 0.19,
+        "amount": 6036.0,
+        "category": "消费/白酒"
       },
       {
-        "name": "稀土ETF嘉实",
-        "code": "516150",
-        "pct": 0.07,
-        "amount": 9063.0,
-        "category": "有色/资源"
+        "name": "央企共赢ETF国泰",
+        "code": "517090",
+        "pct": 0.18,
+        "amount": 499.0,
+        "category": "国企/央企"
       }
     ]
   }
