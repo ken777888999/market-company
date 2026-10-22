@@ -9222,74 +9222,74 @@
     "date": "2026-10-22",
     "top10": [
       {
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 1.73,
+        "amount": 166270.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 1.71,
+        "amount": 76990.0,
+        "category": "煤炭/能源"
+      },
+      {
         "name": "机器人ETF易方达",
         "code": "159530",
-        "pct": 2.15,
-        "amount": 61842.0,
+        "pct": 1.4,
+        "amount": 70619.0,
         "category": "机器人"
       },
       {
         "name": "机器人ETF景顺",
         "code": "159559",
-        "pct": 1.82,
-        "amount": 6839.0,
+        "pct": 1.28,
+        "amount": 7627.0,
         "category": "机器人"
       },
       {
-        "name": "纳指生物科技ETF汇添富",
-        "code": "513290",
-        "pct": 1.23,
-        "amount": 28376.0,
-        "category": "医药"
-      },
-      {
-        "name": "标普消费ETF景顺",
-        "code": "159529",
-        "pct": 1.17,
-        "amount": 63110.0,
-        "category": "消费/白酒"
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 0.74,
+        "amount": 87587.0,
+        "category": "海外QDII"
       },
       {
         "name": "德国ETF华安",
         "code": "513030",
-        "pct": 0.86,
-        "amount": 3972.0,
+        "pct": 0.63,
+        "amount": 6329.0,
         "category": null
-      },
-      {
-        "name": "机器人ETF天弘",
-        "code": "159770",
-        "pct": 0.81,
-        "amount": 6507.0,
-        "category": "机器人"
       },
       {
         "name": "德国ETF嘉实",
         "code": "159561",
-        "pct": 0.78,
-        "amount": 3056.0,
+        "pct": 0.55,
+        "amount": 6245.0,
         "category": null
       },
       {
-        "name": "机器人ETF银华",
-        "code": "562360",
-        "pct": 0.77,
-        "amount": 1559.0,
-        "category": "机器人"
+        "name": "豆粕ETF华夏",
+        "code": "159985",
+        "pct": 0.28,
+        "amount": 15221.0,
+        "category": null
       },
       {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 0.77,
-        "amount": 43438.0,
-        "category": "煤炭/能源"
+        "name": "稀土ETF易方达",
+        "code": "159715",
+        "pct": 0.1,
+        "amount": 2487.0,
+        "category": "有色/资源"
       },
       {
-        "name": "机器人ETF华夏",
-        "code": "562500",
-        "pct": 0.72,
-        "amount": 34423.0,
-        "category": "机器人"
+        "name": "稀土ETF嘉实",
+        "code": "516150",
+        "pct": 0.07,
+        "amount": 9063.0,
+        "category": "有色/资源"
       }
     ]
   }
