@@ -9297,73 +9297,73 @@
     "date": "2026-10-23",
     "top10": [
       {
-        "name": "机器人ETF景顺",
-        "code": "159559",
-        "pct": 4.47,
-        "amount": 9003.0,
-        "category": "机器人"
-      },
-      {
         "name": "机器人ETF易方达",
         "code": "159530",
-        "pct": 4.03,
-        "amount": 99217.0,
+        "pct": 8.64,
+        "amount": 205307.0,
         "category": "机器人"
       },
       {
-        "name": "软件ETF嘉实",
-        "code": "159852",
-        "pct": 3.86,
-        "amount": 42515.0,
-        "category": "计算机/信创"
-      },
-      {
-        "name": "软件ETF易方达",
-        "code": "562930",
-        "pct": 3.85,
-        "amount": 6392.0,
-        "category": "计算机/信创"
+        "name": "机器人ETF景顺",
+        "code": "159559",
+        "pct": 8.58,
+        "amount": 19833.0,
+        "category": "机器人"
       },
       {
         "name": "机器人ETF万家",
         "code": "560630",
-        "pct": 3.61,
-        "amount": 788.0,
+        "pct": 6.89,
+        "amount": 1472.0,
         "category": "机器人"
       },
       {
-        "name": "软件ETF鹏华",
-        "code": "560790",
-        "pct": 3.54,
-        "amount": 469.0,
-        "category": "计算机/信创"
+        "name": "机器人ETF招商",
+        "code": "560770",
+        "pct": 6.76,
+        "amount": 4054.0,
+        "category": "机器人"
       },
       {
         "name": "机器人ETF华夏",
         "code": "562500",
-        "pct": 3.5,
-        "amount": 61690.0,
+        "pct": 6.76,
+        "amount": 109791.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF天弘",
+        "code": "159770",
+        "pct": 6.74,
+        "amount": 20651.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF嘉实",
+        "code": "159526",
+        "pct": 6.73,
+        "amount": 4565.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF国泰",
+        "code": "159551",
+        "pct": 6.67,
+        "amount": 1933.0,
         "category": "机器人"
       },
       {
         "name": "软件ETF招商",
         "code": "159899",
-        "pct": 3.5,
-        "amount": 2269.0,
+        "pct": 6.54,
+        "amount": 4149.0,
         "category": "计算机/信创"
       },
       {
-        "name": "机器人ETF天弘",
-        "code": "159770",
-        "pct": 3.49,
-        "amount": 13543.0,
-        "category": "机器人"
-      },
-      {
-        "name": "软件ETF万家",
-        "code": "560360",
-        "pct": 3.45,
-        "amount": 455.0,
+        "name": "软件ETF易方达",
+        "code": "562930",
+        "pct": 6.47,
+        "amount": 9295.0,
         "category": "计算机/信创"
       }
     ]
