@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-09-05",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [],
-    "reports": []
-  },
-  {
     "date": "2026-09-06",
     "time": "09:00",
     "period": "早间",
@@ -12365,6 +12358,52 @@
         "org": "东吴证券",
         "rating": "",
         "date": "2026-10-24",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202610251830892014",
+        "title": "恒逸石化:关于董事会办公室办公地址变更的公告",
+        "date": "2026-10-26",
+        "time": "15:33",
+        "category": "公司办公地址变更,高管人员任职变动",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202610251830892014.html"
+      },
+      {
+        "art_code": "AN202610251830891825",
+        "title": "恒逸石化:2026年三季度报告",
+        "date": "2026-10-26",
+        "time": "15:33",
+        "category": "三季度报告全文",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202610251830891825.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "601168",
+        "name": "西部矿业",
+        "title": "金属涨价驱动盈利增长，重点项目稳步推进",
+        "org": "国信证券",
+        "rating": "",
+        "date": "2026-10-25",
         "digest": ""
       }
     ]
