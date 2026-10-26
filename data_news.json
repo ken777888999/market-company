@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-09-06",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "300666",
-        "name": "江丰电子",
-        "title": "收入维持高增，零部件业务增长亮眼",
-        "org": "中银证券",
-        "rating": "",
-        "date": "2026-09-06",
-        "digest": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-07",
     "time": "09:00",
     "period": "早间",
@@ -12414,6 +12397,695 @@
         "org": "国信证券",
         "rating": "",
         "date": "2026-10-25",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202610261830939777",
+        "title": "协创数据:关于公司申请新型政策性金融工具并接受关联方担保暨关联交易的公告",
+        "date": "2026-10-27",
+        "time": "19:18",
+        "category": "其他担保公告,关联交易",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610261830939777.html"
+      },
+      {
+        "art_code": "AN202610261830939760",
+        "title": "协创数据:关于2026年第三季度报告披露的提示性公告",
+        "date": "2026-10-27",
+        "time": "19:18",
+        "category": "其他",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610261830939760.html"
+      },
+      {
+        "art_code": "AN202610261830939784",
+        "title": "协创数据:关于计提2026年第三季度信用减值损失及资产减值损失的公告",
+        "date": "2026-10-27",
+        "time": "19:18",
+        "category": "其他",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610261830939784.html"
+      },
+      {
+        "art_code": "AN202610261830939742",
+        "title": "协创数据:第四届董事会第二十二次会议决议公告",
+        "date": "2026-10-27",
+        "time": "19:18",
+        "category": "董事会决议公告",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610261830939742.html"
+      },
+      {
+        "art_code": "AN202610261830939675",
+        "title": "协创数据:2026年三季度报告",
+        "date": "2026-10-27",
+        "time": "19:18",
+        "category": "三季度报告全文",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610261830939675.html"
+      },
+      {
+        "art_code": "AN202610261830939666",
+        "title": "协创数据:关于对全资子公司增资的公告",
+        "date": "2026-10-27",
+        "time": "19:18",
+        "category": "增资扩股",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610261830939666.html"
+      },
+      {
+        "art_code": "AN202610261830939597",
+        "title": "协创数据:关于召开2026年第九次临时股东会的通知",
+        "date": "2026-10-27",
+        "time": "19:17",
+        "category": "召开股东大会通知",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610261830939597.html"
+      },
+      {
+        "art_code": "AN202610261830934881",
+        "title": "长芯博创:长芯博创科技股份有限公司关于调整2026年限制性股票激励计划相关事项的公告",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "股权激励进展公告",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934881.html"
+      },
+      {
+        "art_code": "AN202610261830934920",
+        "title": "长芯博创:长芯博创科技股份有限公司关于向2026年限制性股票激励计划激励对象授予限制性股票的公告",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "股权激励进展公告",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934920.html"
+      },
+      {
+        "art_code": "AN202610261830934901",
+        "title": "长芯博创:北京市中伦律师事务所关于长芯博创科技股份有限公司2024年限制性股票激励计划预留授予部分第二个归属期符合归属条件的法律意见书",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "法律意见书",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934901.html"
+      },
+      {
+        "art_code": "AN202610261830934903",
+        "title": "长芯博创:长芯博创科技股份有限公司关于回购公司股份方案的公告",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "回购预案",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934903.html"
+      },
+      {
+        "art_code": "AN202610261830934913",
+        "title": "长芯博创:2026年三季度报告",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "三季度报告全文",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934913.html"
+      },
+      {
+        "art_code": "AN202610261830934899",
+        "title": "长芯博创:长芯博创科技股份有限公司董事会薪酬与考核委员会关于2026年限制性股票激励计划授予事项的核查意见",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934899.html"
+      },
+      {
+        "art_code": "AN202610261830934878",
+        "title": "长芯博创:长芯博创科技股份有限公司回购股份报告书",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "回购报告书",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934878.html"
+      },
+      {
+        "art_code": "AN202610261830934919",
+        "title": "长芯博创:长芯博创科技股份有限公司董事会薪酬与考核委员会关于2024年限制性股票激励计划相关事项的核查意见",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934919.html"
+      },
+      {
+        "art_code": "AN202610261830934897",
+        "title": "长芯博创:北京市中伦律师事务所关于长芯博创科技股份有限公司2026年限制性股票激励计划调整和授予相关事项的法律意见书",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "法律意见书",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934897.html"
+      },
+      {
+        "art_code": "AN202610261830934906",
+        "title": "长芯博创:长芯博创科技股份有限公司董事会薪酬与考核委员会关于调整2026年限制性股票激励计划相关事项的核查意见",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "专项说明/独立意见,保荐/核查意见",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934906.html"
+      },
+      {
+        "art_code": "AN202610261830934896",
+        "title": "长芯博创:长芯博创科技股份有限公司关于2024年限制性股票激励计划预留授予部分第二个归属期符合归属条件的公告",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "股权激励进展公告",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934896.html"
+      },
+      {
+        "art_code": "AN202610261830934916",
+        "title": "长芯博创:长芯博创科技股份有限公司第六届董事会第三十二次会议决议公告",
+        "date": "2026-10-27",
+        "time": "18:48",
+        "category": "董事会决议公告",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610261830934916.html"
+      },
+      {
+        "art_code": "AN202610261830931351",
+        "title": "生益科技:生益科技关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告",
+        "date": "2026-10-27",
+        "time": "18:08",
+        "category": "回购进展情况",
+        "codes": [
+          "600183"
+        ],
+        "names": [
+          "生益科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600183/AN202610261830931351.html"
+      },
+      {
+        "art_code": "AN202610261830931347",
+        "title": "生益科技:生益科技关于以集中竞价交易方式首次回购公司股份的公告",
+        "date": "2026-10-27",
+        "time": "18:08",
+        "category": "回购实施公告",
+        "codes": [
+          "600183"
+        ],
+        "names": [
+          "生益科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600183/AN202610261830931347.html"
+      },
+      {
+        "art_code": "AN202610261830931059",
+        "title": "拓荆科技:2026年第四次临时股东会会议资料",
+        "date": "2026-10-27",
+        "time": "18:03",
+        "category": "股东大会资料",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202610261830931059.html"
+      },
+      {
+        "art_code": "AN202610261830930274",
+        "title": "领先股份:关于召开2026年第三季度业绩说明会的公告",
+        "date": "2026-10-27",
+        "time": "17:57",
+        "category": "其他",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202610261830930274.html"
+      },
+      {
+        "art_code": "AN202610261830930276",
+        "title": "领先股份:2026年第三季度报告",
+        "date": "2026-10-27",
+        "time": "17:57",
+        "category": "三季度报告全文",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202610261830930276.html"
+      },
+      {
+        "art_code": "AN202610261830930275",
+        "title": "领先股份:第五届董事会第七次会议决议公告",
+        "date": "2026-10-27",
+        "time": "17:57",
+        "category": "董事会决议公告",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202610261830930275.html"
+      },
+      {
+        "art_code": "AN202610261830930273",
+        "title": "领先股份:关于增加2026年度日常关联交易预计额度及预计2027年1-4月日常关联交易额度的公告",
+        "date": "2026-10-27",
+        "time": "17:57",
+        "category": "关联交易",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202610261830930273.html"
+      },
+      {
+        "art_code": "AN202610261830928561",
+        "title": "西部矿业:西部矿业关于公司高级管理人员辞职的公告",
+        "date": "2026-10-27",
+        "time": "17:43",
+        "category": "高管人员任职变动",
+        "codes": [
+          "601168"
+        ],
+        "names": [
+          "西部矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601168/AN202610261830928561.html"
+      },
+      {
+        "art_code": "AN202610261830928560",
+        "title": "西部矿业:西部矿业第九届董事会第四次会议决议公告",
+        "date": "2026-10-27",
+        "time": "17:43",
+        "category": "董事会决议公告",
+        "codes": [
+          "601168"
+        ],
+        "names": [
+          "西部矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601168/AN202610261830928560.html"
+      },
+      {
+        "art_code": "AN202610261830928556",
+        "title": "西部矿业:西部矿业关于公司董事、财务负责人兼董事会秘书辞职的公告",
+        "date": "2026-10-27",
+        "time": "17:43",
+        "category": "高管人员任职变动",
+        "codes": [
+          "601168"
+        ],
+        "names": [
+          "西部矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601168/AN202610261830928556.html"
+      },
+      {
+        "art_code": "AN202610261830928557",
+        "title": "西部矿业:西部矿业关于公司控股子公司向西藏那曲市巴青县地震灾区捐赠的公告",
+        "date": "2026-10-27",
+        "time": "17:43",
+        "category": "其他",
+        "codes": [
+          "601168"
+        ],
+        "names": [
+          "西部矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601168/AN202610261830928557.html"
+      },
+      {
+        "art_code": "AN202610261830928167",
+        "title": "睿创微纳:关于使用闲置募集资金进行现金管理的公告",
+        "date": "2026-10-27",
+        "time": "17:32",
+        "category": "投资理财,募集资金用途",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202610261830928167.html"
+      },
+      {
+        "art_code": "AN202610261830928165",
+        "title": "睿创微纳:2026年第三季度报告",
+        "date": "2026-10-27",
+        "time": "17:32",
+        "category": "三季度报告全文",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202610261830928165.html"
+      },
+      {
+        "art_code": "AN202610261830928164",
+        "title": "睿创微纳:中信证券股份有限公司关于烟台睿创微纳技术股份有限公司使用闲置募集资金进行现金管理的核查意见",
+        "date": "2026-10-27",
+        "time": "17:32",
+        "category": "保荐/核查意见",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202610261830928164.html"
+      },
+      {
+        "art_code": "AN202610261830928166",
+        "title": "睿创微纳:关于聘任公司财务总监的公告",
+        "date": "2026-10-27",
+        "time": "17:32",
+        "category": "高管人员任职变动,其它",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202610261830928166.html"
+      },
+      {
+        "art_code": "AN202610261830928162",
+        "title": "睿创微纳:关于召开2026年第三季度业绩说明会的公告",
+        "date": "2026-10-27",
+        "time": "17:32",
+        "category": "其他,其它",
+        "codes": [
+          "688002"
+        ],
+        "names": [
+          "睿创微纳"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202610261830928162.html"
+      },
+      {
+        "art_code": "AN202610261830927076",
+        "title": "兆易创新:H股公告-翌日披露报表",
+        "date": "2026-10-27",
+        "time": "17:15",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202610261830927076.html"
+      },
+      {
+        "art_code": "AN202610261830924385",
+        "title": "星宸科技:第二届董事会第十八次会议决议公告",
+        "date": "2026-10-27",
+        "time": "16:41",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "301536"
+        ],
+        "names": [
+          "星宸科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202610261830924385.html"
+      },
+      {
+        "art_code": "AN202610261830924368",
+        "title": "星宸科技:关于变更公司财务负责人的公告",
+        "date": "2026-10-27",
+        "time": "16:41",
+        "category": "高管人员任职变动",
+        "codes": [
+          "301536"
+        ],
+        "names": [
+          "星宸科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202610261830924368.html"
+      },
+      {
+        "art_code": "AN202610261830924427",
+        "title": "星宸科技:2026年三季度报告",
+        "date": "2026-10-27",
+        "time": "16:41",
+        "category": "三季度报告全文",
+        "codes": [
+          "301536"
+        ],
+        "names": [
+          "星宸科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202610261830924427.html"
+      },
+      {
+        "art_code": "AN202610261830924380",
+        "title": "星宸科技:关于公司变更注册资本并修订《公司章程》的公告",
+        "date": "2026-10-27",
+        "time": "16:41",
+        "category": "公司注册资本变更,公司章程修订",
+        "codes": [
+          "301536"
+        ],
+        "names": [
+          "星宸科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202610261830924380.html"
+      },
+      {
+        "art_code": "AN202610261830924418",
+        "title": "星宸科技:公司章程(2026年10月)",
+        "date": "2026-10-27",
+        "time": "16:41",
+        "category": "公司章程",
+        "codes": [
+          "301536"
+        ],
+        "names": [
+          "星宸科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202610261830924418.html"
+      },
+      {
+        "art_code": "AN202610261830924399",
+        "title": "星宸科技:关于内审负责人辞职的公告",
+        "date": "2026-10-27",
+        "time": "16:41",
+        "category": "高管人员任职变动",
+        "codes": [
+          "301536"
+        ],
+        "names": [
+          "星宸科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202610261830924399.html"
+      },
+      {
+        "art_code": "AN202610261830946571",
+        "title": "中钨高新2026年10月24日投资者关系活动记录表",
+        "date": "2026-10-26",
+        "time": "20:54",
+        "category": "调研活动",
+        "codes": [
+          "000657"
+        ],
+        "names": [
+          "中钨高新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202610261830946571.html"
+      },
+      {
+        "art_code": "AN202610261830940426",
+        "title": "天孚通信:关于回购股份事项前十名股东和前十名无限售条件股东情况的公告",
+        "date": "2026-10-26",
+        "time": "19:25",
+        "category": "回购进展情况",
+        "codes": [
+          "300394"
+        ],
+        "names": [
+          "天孚通信"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300394/AN202610261830940426.html"
+      },
+      {
+        "art_code": "AN202610261830940425",
+        "title": "天孚通信:关于与专业投资机构共同设立私募基金的公告",
+        "date": "2026-10-26",
+        "time": "19:25",
+        "category": "投资设立公司",
+        "codes": [
+          "300394"
+        ],
+        "names": [
+          "天孚通信"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300394/AN202610261830940425.html"
+      },
+      {
+        "art_code": "AN202610261830923510",
+        "title": "中国巨石:2026年第三季度网上业绩说明会投资者关系活动记录表",
+        "date": "2026-10-26",
+        "time": "16:39",
+        "category": "调研活动",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202610261830923510.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "601600",
+        "name": "中国铝业",
+        "title": "首次覆盖报告：构建“1+2”创新体系，全面迎接能源转型浪潮",
+        "org": "国元证券",
+        "rating": "",
+        "date": "2026-10-26",
+        "digest": ""
+      },
+      {
+        "code": "601168",
+        "name": "西部矿业",
+        "title": "2026年三季报点评报告：量价平稳价格驱动，茶亭探矿权落地打开成长空间",
+        "org": "华龙证券",
+        "rating": "",
+        "date": "2026-10-26",
+        "digest": ""
+      },
+      {
+        "code": "601168",
+        "name": "西部矿业",
+        "title": "业绩高增，茶亭铜矿打开成长空间",
+        "org": "太平洋",
+        "rating": "",
+        "date": "2026-10-26",
+        "digest": ""
+      },
+      {
+        "code": "601168",
+        "name": "西部矿业",
+        "title": "Q3归母净利润持续环增，茶亭完成储量备案",
+        "org": "中邮证券",
+        "rating": "",
+        "date": "2026-10-26",
         "digest": ""
       }
     ]
