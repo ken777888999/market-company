@@ -1,28 +1,6 @@
 [
   {
     "date": "2026-09-06",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202609061829069202",
-        "title": "紫金矿业:紫金矿业集团股份有限公司关于定期报告财务报表附注部分相关文字错误的更正公告",
-        "date": "2026-09-05",
-        "time": "01:42",
-        "category": "其他",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609061829069202.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-09-06",
     "time": "21:00",
     "period": "晚间",
     "announcements": [],
@@ -12394,6 +12372,38 @@
           "恒逸石化"
         ],
         "url": "https://data.eastmoney.com/notices/detail/000703/AN202610251830891825.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "601168",
+        "name": "西部矿业",
+        "title": "金属涨价驱动盈利增长，重点项目稳步推进",
+        "org": "国信证券",
+        "rating": "",
+        "date": "2026-10-25",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202610261830901901",
+        "title": "东山精密:关于境外上市股份(H股)公开发行价格的公告",
+        "date": "2026-10-26",
+        "time": "07:47",
+        "category": "其他",
+        "codes": [
+          "002384"
+        ],
+        "names": [
+          "东山精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002384/AN202610261830901901.html"
       }
     ],
     "reports": [
