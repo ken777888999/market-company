@@ -9374,71 +9374,71 @@
       {
         "name": "地产ETF华宝",
         "code": "159707",
-        "pct": 4.06,
-        "amount": 11180.0,
-        "category": "地产"
-      },
-      {
-        "name": "房地产ETF银华",
-        "code": "159768",
-        "pct": 3.38,
-        "amount": 4885.0,
+        "pct": 3.85,
+        "amount": 13150.0,
         "category": "地产"
       },
       {
         "name": "石油ETF鹏华",
         "code": "159697",
-        "pct": 2.99,
-        "amount": 5633.0,
+        "pct": 3.54,
+        "amount": 9783.0,
+        "category": null
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 3.25,
+        "amount": 120682.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "房地产ETF银华",
+        "code": "159768",
+        "pct": 2.93,
+        "amount": 5388.0,
+        "category": "地产"
+      },
+      {
+        "name": "中国国企ETF南方",
+        "code": "517180",
+        "pct": 2.92,
+        "amount": 1840.0,
+        "category": "国企/央企"
+      },
+      {
+        "name": "石油ETF国泰",
+        "code": "561360",
+        "pct": 2.83,
+        "amount": 5376.0,
+        "category": null
+      },
+      {
+        "name": "石油ETF景顺",
+        "code": "159588",
+        "pct": 2.81,
+        "amount": 2166.0,
         "category": null
       },
       {
         "name": "游戏ETF华夏",
         "code": "159869",
-        "pct": 2.89,
-        "amount": 40314.0,
+        "pct": 2.79,
+        "amount": 47438.0,
         "category": "传媒/游戏"
-      },
-      {
-        "name": "油气ETF银华",
-        "code": "563150",
-        "pct": 2.81,
-        "amount": 252.0,
-        "category": null
       },
       {
         "name": "油气ETF博时",
         "code": "561760",
         "pct": 2.78,
-        "amount": 134.0,
+        "amount": 222.0,
         "category": null
       },
       {
-        "name": "游戏ETF国泰",
-        "code": "516010",
-        "pct": 2.71,
-        "amount": 9632.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 2.65,
-        "amount": 96617.0,
-        "category": "煤炭/能源"
-      },
-      {
-        "name": "石油ETF景顺",
-        "code": "159588",
-        "pct": 2.64,
-        "amount": 1111.0,
-        "category": null
-      },
-      {
-        "name": "石油ETF国泰",
-        "code": "561360",
-        "pct": 2.61,
-        "amount": 3428.0,
+        "name": "油气ETF华泰柏瑞",
+        "code": "561570",
+        "pct": 2.76,
+        "amount": 1843.0,
         "category": null
       }
     ]
