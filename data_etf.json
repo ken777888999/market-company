@@ -9447,73 +9447,73 @@
     "date": "2026-10-27",
     "top10": [
       {
-        "name": "中韩半导体ETF华泰柏瑞",
-        "code": "513310",
-        "pct": 2.31,
-        "amount": 304308.0,
-        "category": "芯片/半导体"
-      },
-      {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 2.27,
-        "amount": 44818.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 2.11,
-        "amount": 18395.0,
+        "pct": 2.41,
+        "amount": 74425.0,
         "category": "海外QDII"
       },
       {
         "name": "纳指科技ETF景顺",
         "code": "159509",
-        "pct": 2.03,
-        "amount": 1043.0,
+        "pct": 1.93,
+        "amount": 69421.0,
         "category": "海外QDII"
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 1.89,
+        "amount": 28767.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "标普500ETF博时",
+        "code": "513500",
+        "pct": 1.58,
+        "amount": 16220.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "中韩半导体ETF华泰柏瑞",
+        "code": "513310",
+        "pct": 1.54,
+        "amount": 454759.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "纳指100ETF博时",
+        "code": "513390",
+        "pct": 1.54,
+        "amount": 11494.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "红利价值ETF易方达",
+        "code": "563700",
+        "pct": 1.5,
+        "amount": 864.0,
+        "category": "红利/高股息"
       },
       {
         "name": "纳指ETF华泰柏瑞",
         "code": "513110",
-        "pct": 1.96,
-        "amount": 13325.0,
+        "pct": 1.43,
+        "amount": 20271.0,
         "category": "海外QDII"
       },
       {
-        "name": "纳斯达克100ETF大成",
-        "code": "159513",
-        "pct": 1.69,
-        "amount": 24349.0,
-        "category": "海外QDII"
+        "name": "有色矿业ETF招商",
+        "code": "159690",
+        "pct": 1.41,
+        "amount": 1315.0,
+        "category": "有色/资源"
       },
       {
-        "name": "纳指ETF易方达",
-        "code": "159696",
-        "pct": 1.69,
-        "amount": 20.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "纳指ETF嘉实",
-        "code": "159501",
-        "pct": 1.68,
-        "amount": 50.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "纳斯达克100ETF招商",
-        "code": "159659",
-        "pct": 1.65,
-        "amount": 506.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "纳指ETF汇添富",
-        "code": "159660",
-        "pct": 1.56,
-        "amount": 181.0,
+        "name": "日经225ETF易方达",
+        "code": "513000",
+        "pct": 1.39,
+        "amount": 7605.0,
         "category": "海外QDII"
       }
     ]
