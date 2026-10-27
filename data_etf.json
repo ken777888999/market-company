@@ -9449,72 +9449,72 @@
       {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 2.41,
-        "amount": 74425.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "纳指科技ETF景顺",
-        "code": "159509",
-        "pct": 1.93,
-        "amount": 69421.0,
+        "pct": 2.27,
+        "amount": 113719.0,
         "category": "海外QDII"
       },
       {
         "name": "标普油气ETF嘉实",
         "code": "159518",
-        "pct": 1.89,
-        "amount": 28767.0,
+        "pct": 2.18,
+        "amount": 44525.0,
         "category": "海外QDII"
       },
       {
         "name": "标普500ETF博时",
         "code": "513500",
-        "pct": 1.58,
-        "amount": 16220.0,
+        "pct": 2.15,
+        "amount": 30487.0,
         "category": "海外QDII"
       },
       {
-        "name": "中韩半导体ETF华泰柏瑞",
-        "code": "513310",
-        "pct": 1.54,
-        "amount": 454759.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "纳指100ETF博时",
-        "code": "513390",
-        "pct": 1.54,
-        "amount": 11494.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "红利价值ETF易方达",
-        "code": "563700",
-        "pct": 1.5,
-        "amount": 864.0,
-        "category": "红利/高股息"
-      },
-      {
-        "name": "纳指ETF华泰柏瑞",
-        "code": "513110",
-        "pct": 1.43,
-        "amount": 20271.0,
+        "name": "纳指科技ETF景顺",
+        "code": "159509",
+        "pct": 2.0,
+        "amount": 108147.0,
         "category": "海外QDII"
       },
       {
         "name": "有色矿业ETF招商",
         "code": "159690",
-        "pct": 1.41,
-        "amount": 1315.0,
+        "pct": 1.79,
+        "amount": 1614.0,
         "category": "有色/资源"
       },
       {
-        "name": "日经225ETF易方达",
-        "code": "513000",
-        "pct": 1.39,
-        "amount": 7605.0,
+        "name": "标普500ETF南方",
+        "code": "513650",
+        "pct": 1.69,
+        "amount": 35423.0,
         "category": "海外QDII"
+      },
+      {
+        "name": "红利价值ETF易方达",
+        "code": "563700",
+        "pct": 1.69,
+        "amount": 1112.0,
+        "category": "红利/高股息"
+      },
+      {
+        "name": "银行ETF富国",
+        "code": "159887",
+        "pct": 1.62,
+        "amount": 28726.0,
+        "category": "银行"
+      },
+      {
+        "name": "有色金属ETF南方",
+        "code": "512400",
+        "pct": 1.59,
+        "amount": 30306.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "银行AH优选ETF招商",
+        "code": "517900",
+        "pct": 1.58,
+        "amount": 2653.0,
+        "category": "银行"
       }
     ]
   }
