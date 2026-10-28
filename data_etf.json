@@ -9524,72 +9524,72 @@
       {
         "name": "中韩半导体ETF华泰柏瑞",
         "code": "513310",
-        "pct": 5.2,
-        "amount": 1524426.0,
+        "pct": 8.05,
+        "amount": 2022024.0,
         "category": "芯片/半导体"
+      },
+      {
+        "name": "集成电路ETF嘉实",
+        "code": "562820",
+        "pct": 5.64,
+        "amount": 4236.0,
+        "category": null
       },
       {
         "name": "机器人ETF易方达",
         "code": "159530",
-        "pct": 4.92,
-        "amount": 197931.0,
+        "pct": 5.48,
+        "amount": 238730.0,
         "category": "机器人"
       },
       {
         "name": "机器人ETF景顺",
         "code": "159559",
-        "pct": 4.72,
-        "amount": 17937.0,
+        "pct": 5.42,
+        "amount": 20917.0,
         "category": "机器人"
-      },
-      {
-        "name": "集成电路ETF嘉实",
-        "code": "562820",
-        "pct": 4.16,
-        "amount": 2770.0,
-        "category": null
-      },
-      {
-        "name": "机器人ETF国泰",
-        "code": "159551",
-        "pct": 4.14,
-        "amount": 2672.0,
-        "category": "机器人"
-      },
-      {
-        "name": "机器人ETF华夏",
-        "code": "562500",
-        "pct": 4.11,
-        "amount": 92868.0,
-        "category": "机器人"
-      },
-      {
-        "name": "机器人ETF天弘",
-        "code": "159770",
-        "pct": 4.08,
-        "amount": 22121.0,
-        "category": "机器人"
-      },
-      {
-        "name": "科创新材料ETF南方",
-        "code": "588160",
-        "pct": 4.06,
-        "amount": 14567.0,
-        "category": "科创板"
       },
       {
         "name": "科创成长ETF广发",
         "code": "588110",
-        "pct": 4.05,
-        "amount": 4551.0,
+        "pct": 5.41,
+        "amount": 5109.0,
         "category": "科创板"
       },
       {
-        "name": "机器人ETF嘉实",
-        "code": "159526",
-        "pct": 4.03,
-        "amount": 3874.0,
-        "category": "机器人"
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 5.24,
+        "amount": 316139.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "创业板成长ETF华夏",
+        "code": "159967",
+        "pct": 5.11,
+        "amount": 71860.0,
+        "category": "创业板"
+      },
+      {
+        "name": "通信ETF华夏",
+        "code": "515050",
+        "pct": 4.98,
+        "amount": 78972.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "工业母机ETF国泰",
+        "code": "159667",
+        "pct": 4.96,
+        "amount": 14783.0,
+        "category": "智能制造"
+      },
+      {
+        "name": "科创200ETF易方达",
+        "code": "588270",
+        "pct": 4.95,
+        "amount": 3034.0,
+        "category": "科创板"
       }
     ]
   }
