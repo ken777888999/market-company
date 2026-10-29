@@ -9597,74 +9597,74 @@
     "date": "2026-10-29",
     "top10": [
       {
-        "name": "卫星ETF广发",
-        "code": "512630",
-        "pct": 3.27,
-        "amount": 12491.0,
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 2.64,
+        "amount": 41907.0,
+        "category": "医药"
+      },
+      {
+        "name": "卫星ETF鹏华",
+        "code": "563790",
+        "pct": 2.38,
+        "amount": 5420.0,
         "category": "军工/航空航天"
       },
       {
         "name": "卫星ETF平安",
         "code": "562420",
-        "pct": 3.15,
-        "amount": 772.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "卫星ETF鹏华",
-        "code": "563790",
-        "pct": 3.09,
-        "amount": 4181.0,
+        "pct": 2.28,
+        "amount": 1098.0,
         "category": "军工/航空航天"
       },
       {
         "name": "卫星ETF富国",
         "code": "563230",
-        "pct": 3.08,
-        "amount": 14963.0,
+        "pct": 2.12,
+        "amount": 22744.0,
         "category": "军工/航空航天"
       },
       {
         "name": "卫星ETF易方达",
         "code": "563530",
-        "pct": 3.05,
-        "amount": 8222.0,
+        "pct": 2.11,
+        "amount": 12949.0,
         "category": "军工/航空航天"
       },
       {
-        "name": "航空航天ETF华泰柏瑞",
-        "code": "563380",
-        "pct": 2.79,
-        "amount": 3056.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "纳指生物科技ETF汇添富",
-        "code": "513290",
-        "pct": 2.64,
-        "amount": 30260.0,
+        "name": "标普生物科技ETF嘉实",
+        "code": "159502",
+        "pct": 2.08,
+        "amount": 23467.0,
         "category": "医药"
       },
       {
-        "name": "通用航空ETF平安",
-        "code": "561660",
-        "pct": 2.58,
-        "amount": 598.0,
+        "name": "卫星ETF广发",
+        "code": "512630",
+        "pct": 2.0,
+        "amount": 15750.0,
         "category": "军工/航空航天"
       },
       {
-        "name": "通用航空ETF鹏华",
-        "code": "563870",
-        "pct": 2.2,
-        "amount": 72.0,
-        "category": "军工/航空航天"
+        "name": "港股通金融ETF华夏",
+        "code": "513190",
+        "pct": 1.86,
+        "amount": 27018.0,
+        "category": "银行"
       },
       {
-        "name": "航空航天ETF嘉实",
-        "code": "159638",
-        "pct": 2.19,
-        "amount": 2347.0,
-        "category": "军工/航空航天"
+        "name": "银行ETF银华",
+        "code": "561530",
+        "pct": 1.82,
+        "amount": 191.0,
+        "category": "银行"
+      },
+      {
+        "name": "800价值ETF汇添富",
+        "code": "560030",
+        "pct": 1.73,
+        "amount": 7.0,
+        "category": null
       }
     ]
   }
