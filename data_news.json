@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-09-09",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "000657",
-        "name": "中钨高新",
-        "title": "PCB钻针需求旺盛，资源与深加工双轮驱动",
-        "org": "中邮证券",
-        "rating": "",
-        "date": "2026-09-08",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -13303,6 +13286,52 @@
         "name": "星宸科技",
         "title": "Q3业绩大幅预增，端边侧AI量价齐升",
         "org": "华金证券",
+        "rating": "",
+        "date": "2026-10-28",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202610281831130791",
+        "title": "协创数据:2026年10月27日、2026年10月28日投资者关系活动记录表",
+        "date": "2026-10-28",
+        "time": "21:39",
+        "category": "调研活动",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610281831130791.html"
+      },
+      {
+        "art_code": "AN202610281831130737",
+        "title": "2026年10月28日天孚通信投资者关系活动记录表",
+        "date": "2026-10-28",
+        "time": "21:31",
+        "category": "调研活动",
+        "codes": [
+          "300394"
+        ],
+        "names": [
+          "天孚通信"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300394/AN202610281831130737.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "301536",
+        "name": "星宸科技",
+        "title": "2026年三季报点评：Q3业绩保持高增，端侧AI持续放量",
+        "org": "东吴证券",
         "rating": "",
         "date": "2026-10-28",
         "digest": ""
