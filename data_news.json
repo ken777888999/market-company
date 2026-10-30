@@ -1,28 +1,6 @@
 [
   {
     "date": "2026-09-10",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202609091829183551",
-        "title": "中微公司:关于持股5%以上股东权益变动触及1%刻度暨减持股份结果公告",
-        "date": "2026-09-10",
-        "time": "22:16",
-        "category": "权益变动报告书,股东/实际控制人股份减持",
-        "codes": [
-          "688012"
-        ],
-        "names": [
-          "中微公司"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688012/AN202609091829183551.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-09-10",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14151,6 +14129,61 @@
         "org": "东吴证券",
         "rating": "",
         "date": "2026-10-29",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202610291831188830",
+        "title": "中际旭创:投资者关系活动记录表20261029",
+        "date": "2026-10-29",
+        "time": "23:11",
+        "category": "调研活动",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202610291831188830.html"
+      },
+      {
+        "art_code": "AN202610291831188725",
+        "title": "300502新易盛投资者关系管理信息20261029",
+        "date": "2026-10-29",
+        "time": "23:00",
+        "category": "调研活动",
+        "codes": [
+          "300502"
+        ],
+        "names": [
+          "新易盛"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300502/AN202610291831188725.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "605117",
+        "name": "德业股份",
+        "title": "海外储能需求旺盛，业绩持续高增",
+        "org": "国金证券",
+        "rating": "",
+        "date": "2026-10-30",
+        "digest": ""
+      },
+      {
+        "code": "300408",
+        "name": "三环集团",
+        "title": "公司信息更新报告：三季度利润高增，MLCC涨价延续打开未来成长空间",
+        "org": "开源证券",
+        "rating": "",
+        "date": "2026-10-30",
         "digest": ""
       }
     ]
