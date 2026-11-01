@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-09-12",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-09-12",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14344,6 +14337,32 @@
         "url": "https://data.eastmoney.com/notices/detail/688825/AN202610311831279285.html"
       }
     ],
+    "reports": [
+      {
+        "code": "300308",
+        "name": "中际旭创",
+        "title": "2026年三季报点评：Q3业绩稳步增长，产能扩张与回购注销彰显成长信心",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-10-31",
+        "digest": ""
+      },
+      {
+        "code": "601600",
+        "name": "中国铝业",
+        "title": "中国铝业：盈利能力优化，增持彰显发展信心",
+        "org": "华安证券",
+        "rating": "",
+        "date": "2026-10-31",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-01",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "300308",
