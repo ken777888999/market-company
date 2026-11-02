@@ -9749,72 +9749,72 @@
       {
         "name": "金融科技ETF华宝",
         "code": "159851",
-        "pct": 8.72,
-        "amount": 43468.0,
+        "pct": 10.08,
+        "amount": 56192.0,
         "category": null
-      },
-      {
-        "name": "金融科技ETF博时",
-        "code": "516860",
-        "pct": 8.49,
-        "amount": 7693.0,
-        "category": null
-      },
-      {
-        "name": "金融科技ETF华夏",
-        "code": "516100",
-        "pct": 8.37,
-        "amount": 5797.0,
-        "category": null
-      },
-      {
-        "name": "影视ETF国泰",
-        "code": "516620",
-        "pct": 8.3,
-        "amount": 8280.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "金融科技ETF富国",
-        "code": "515720",
-        "pct": 8.23,
-        "amount": 1941.0,
-        "category": null
-      },
-      {
-        "name": "游戏ETF华夏",
-        "code": "159869",
-        "pct": 8.18,
-        "amount": 60237.0,
-        "category": "传媒/游戏"
       },
       {
         "name": "影视ETF银华",
         "code": "159855",
-        "pct": 8.17,
-        "amount": 2853.0,
+        "pct": 10.04,
+        "amount": 4372.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 9.96,
+        "amount": 10751.0,
         "category": "传媒/游戏"
       },
       {
         "name": "金融科技ETF兴业",
         "code": "563570",
-        "pct": 8.02,
-        "amount": 710.0,
+        "pct": 9.82,
+        "amount": 837.0,
+        "category": null
+      },
+      {
+        "name": "金融科技ETF富国",
+        "code": "515720",
+        "pct": 9.78,
+        "amount": 2696.0,
+        "category": null
+      },
+      {
+        "name": "金融科技ETF博时",
+        "code": "516860",
+        "pct": 9.72,
+        "amount": 10230.0,
+        "category": null
+      },
+      {
+        "name": "金融科技ETF华夏",
+        "code": "516100",
+        "pct": 9.52,
+        "amount": 7775.0,
         "category": null
       },
       {
         "name": "金融科技ETF万家",
         "code": "562400",
-        "pct": 7.96,
-        "amount": 481.0,
+        "pct": 9.22,
+        "amount": 654.0,
         "category": null
       },
       {
-        "name": "金融科技ETF鹏华",
-        "code": "563670",
-        "pct": 7.77,
-        "amount": 284.0,
-        "category": null
+        "name": "游戏ETF华夏",
+        "code": "159869",
+        "pct": 8.92,
+        "amount": 83015.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "传媒ETF鹏华",
+        "code": "159805",
+        "pct": 8.74,
+        "amount": 6390.0,
+        "category": "传媒/游戏"
       }
     ]
   }
