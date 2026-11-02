@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-09-13",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "300054",
-        "name": "鼎龙股份",
-        "title": "半导体材料平台量利齐升，新业务打开成长空间",
-        "org": "太平洋",
-        "rating": "",
-        "date": "2026-09-13",
-        "digest": ""
-      }
-    ]
-  },
-  {
     "date": "2026-09-14",
     "time": "09:00",
     "period": "早间",
@@ -14421,6 +14404,369 @@
         "org": "开源证券",
         "rating": "",
         "date": "2026-11-01",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-02",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202611021831333163",
+        "title": "拓荆科技:关于以集中竞价交易方式回购公司股份的进展公告",
+        "date": "2026-11-03",
+        "time": "19:25",
+        "category": "回购进展情况",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202611021831333163.html"
+      },
+      {
+        "art_code": "AN202611021831333161",
+        "title": "拓荆科技:2026年第四次临时股东会决议公告",
+        "date": "2026-11-03",
+        "time": "19:25",
+        "category": "股东大会决议公告",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202611021831333161.html"
+      },
+      {
+        "art_code": "AN202611021831333162",
+        "title": "拓荆科技:北京市中伦律师事务所关于拓荆科技股份有限公司2026年第四次临时股东会的法律意见书",
+        "date": "2026-11-03",
+        "time": "19:25",
+        "category": "法律意见书",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202611021831333162.html"
+      },
+      {
+        "art_code": "AN202611021831332158",
+        "title": "澜起科技:H股公告-翌日披露报表",
+        "date": "2026-11-03",
+        "time": "18:53",
+        "category": "其他",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202611021831332158.html"
+      },
+      {
+        "art_code": "AN202611021831331797",
+        "title": "东山精密:关于回购公司股份的进展公告",
+        "date": "2026-11-03",
+        "time": "18:36",
+        "category": "回购进展情况",
+        "codes": [
+          "002384"
+        ],
+        "names": [
+          "东山精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002384/AN202611021831331797.html"
+      },
+      {
+        "art_code": "AN202611021831331721",
+        "title": "广合科技:关于部分高级管理人员增持公司A股股份结果的公告",
+        "date": "2026-11-03",
+        "time": "18:33",
+        "category": "股东/实际控制人股份增持",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202611021831331721.html"
+      },
+      {
+        "art_code": "AN202611021831331720",
+        "title": "广合科技:回购股份报告书公告",
+        "date": "2026-11-03",
+        "time": "18:33",
+        "category": "回购报告书",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202611021831331720.html"
+      },
+      {
+        "art_code": "AN202611021831331589",
+        "title": "澜起科技:澜起科技关于2026年第二次回购A股股份方案回购股份进展的公告",
+        "date": "2026-11-03",
+        "time": "18:30",
+        "category": "回购预案,回购进展情况",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202611021831331589.html"
+      },
+      {
+        "art_code": "AN202611021831331588",
+        "title": "澜起科技:澜起科技关于2026年第二次回购A股股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "date": "2026-11-03",
+        "time": "18:30",
+        "category": "回购进展情况",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202611021831331588.html"
+      },
+      {
+        "art_code": "AN202611021831331025",
+        "title": "三环集团:关于回购公司股份进展情况暨回购完成结果的公告",
+        "date": "2026-11-03",
+        "time": "18:11",
+        "category": "回购进展情况",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202611021831331025.html"
+      },
+      {
+        "art_code": "AN202611021831319249",
+        "title": "鼎龙股份:关于回购公司股份的进展公告",
+        "date": "2026-11-03",
+        "time": "16:39",
+        "category": "回购进展情况,其它",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202611021831319249.html"
+      },
+      {
+        "art_code": "AN202611021831317733",
+        "title": "兆易创新:兆易创新关于以集中竞价交易方式回购A股股份的进展公告",
+        "date": "2026-11-03",
+        "time": "16:33",
+        "category": "回购进展情况",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202611021831317733.html"
+      },
+      {
+        "art_code": "AN202611021831317273",
+        "title": "生益科技:生益科技关于股份回购进展公告",
+        "date": "2026-11-03",
+        "time": "16:28",
+        "category": "回购进展情况",
+        "codes": [
+          "600183"
+        ],
+        "names": [
+          "生益科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600183/AN202611021831317273.html"
+      },
+      {
+        "art_code": "AN202611021831331917",
+        "title": "江波龙:2026年10月29日投资者关系活动记录表",
+        "date": "2026-11-02",
+        "time": "18:44",
+        "category": "调研活动",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202611021831331917.html"
+      },
+      {
+        "art_code": "AN202611021831334063",
+        "title": "中际旭创:H股公告(截至2026年10月31日止股份发行人的证券变动月报表)",
+        "date": "2026-11-02",
+        "time": "20:20",
+        "category": "其他",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202611021831334063.html"
+      },
+      {
+        "art_code": "AN202611021831331788",
+        "title": "江波龙:H股公告-截至2026年10月31日之股份发行人的证券变动月报表",
+        "date": "2026-11-02",
+        "time": "18:35",
+        "category": "其他",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202611021831331788.html"
+      },
+      {
+        "art_code": "AN202611021831331541",
+        "title": "协创数据:关于控股股东增持公司股份计划的公告",
+        "date": "2026-11-02",
+        "time": "18:27",
+        "category": "股东/实际控制人股份增持",
+        "codes": [
+          "300857"
+        ],
+        "names": [
+          "协创数据"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202611021831331541.html"
+      },
+      {
+        "art_code": "AN202611021831331289",
+        "title": "中微公司:2026年10月投资者关系活动记录表",
+        "date": "2026-11-02",
+        "time": "18:19",
+        "category": "调研活动",
+        "codes": [
+          "688012"
+        ],
+        "names": [
+          "中微公司"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688012/AN202611021831331289.html"
+      },
+      {
+        "art_code": "AN202611021831331290",
+        "title": "澜起科技:-投资者关系活动记录表(2026-012)",
+        "date": "2026-11-02",
+        "time": "18:19",
+        "category": "调研活动",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202611021831331290.html"
+      },
+      {
+        "art_code": "AN202611021831331193",
+        "title": "江丰电子:关于回购公司股份的进展公告",
+        "date": "2026-11-02",
+        "time": "18:15",
+        "category": "回购进展情况",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202611021831331193.html"
+      },
+      {
+        "art_code": "AN202611021831331032",
+        "title": "三环集团:H股公告-翌日披露报表",
+        "date": "2026-11-02",
+        "time": "18:11",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202611021831331032.html"
+      },
+      {
+        "art_code": "AN202611021831330959",
+        "title": "三环集团:H股公告-证券变动月报表",
+        "date": "2026-11-02",
+        "time": "18:10",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202611021831330959.html"
+      },
+      {
+        "art_code": "AN202611021831321240",
+        "title": "源杰科技:投资者关系活动记录表(2026年10月30日)",
+        "date": "2026-11-02",
+        "time": "17:08",
+        "category": "调研活动",
+        "codes": [
+          "688498"
+        ],
+        "names": [
+          "源杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688498/AN202611021831321240.html"
+      },
+      {
+        "art_code": "AN202611021831319611",
+        "title": "长芯博创:长芯博创科技股份有限公司关于股份回购进展的公告",
+        "date": "2026-11-02",
+        "time": "16:42",
+        "category": "回购进展情况",
+        "codes": [
+          "300548"
+        ],
+        "names": [
+          "长芯博创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202611021831319611.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "600183",
+        "name": "生益科技",
+        "title": "3Q earnings：Record quarterly margin while share-price correction appears overdone",
+        "org": "招银国际",
+        "rating": "",
+        "date": "2026-11-02",
+        "digest": ""
+      },
+      {
+        "code": "300308",
+        "name": "中际旭创",
+        "title": "3Q26 earnings：Solid fundamentals amid supply chain tightness",
+        "org": "招银国际",
+        "rating": "",
+        "date": "2026-11-02",
         "digest": ""
       }
     ]
