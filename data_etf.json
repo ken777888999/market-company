@@ -9817,5 +9817,80 @@
         "category": "传媒/游戏"
       }
     ]
+  },
+  {
+    "date": "2026-11-03",
+    "top10": [
+      {
+        "name": "电池ETF鹏华",
+        "code": "560410",
+        "pct": 3.84,
+        "amount": 179.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "电池ETF华夏",
+        "code": "512460",
+        "pct": 3.64,
+        "amount": 865.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "电池ETF华泰柏瑞",
+        "code": "560910",
+        "pct": 3.57,
+        "amount": 252.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "电池ETF招商",
+        "code": "561910",
+        "pct": 3.55,
+        "amount": 5361.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "电池ETF富国",
+        "code": "561160",
+        "pct": 3.52,
+        "amount": 3121.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "电池ETF汇添富",
+        "code": "159796",
+        "pct": 3.49,
+        "amount": 14822.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "黄金股ETF华夏",
+        "code": "159562",
+        "pct": 3.43,
+        "amount": 7957.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "电池ETF嘉实",
+        "code": "562880",
+        "pct": 3.42,
+        "amount": 984.0,
+        "category": "电池/储能"
+      },
+      {
+        "name": "黄金股ETF永赢",
+        "code": "517520",
+        "pct": 3.41,
+        "amount": 25599.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "电池龙头ETF兴银",
+        "code": "159767",
+        "pct": 3.31,
+        "amount": 298.0,
+        "category": "电池/储能"
+      }
+    ]
   }
 ]
