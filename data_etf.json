@@ -9822,74 +9822,74 @@
     "date": "2026-11-03",
     "top10": [
       {
-        "name": "电池ETF富国",
-        "code": "561160",
-        "pct": 2.64,
-        "amount": 4042.0,
-        "category": "电池/储能"
-      },
-      {
-        "name": "电池ETF鹏华",
-        "code": "560410",
-        "pct": 2.61,
-        "amount": 303.0,
-        "category": "电池/储能"
-      },
-      {
-        "name": "标普消费ETF景顺",
-        "code": "159529",
-        "pct": 2.61,
-        "amount": 34624.0,
+        "name": "港股通消费ETF易方达",
+        "code": "513070",
+        "pct": 3.47,
+        "amount": 21487.0,
         "category": "消费/白酒"
-      },
-      {
-        "name": "电池ETF华夏",
-        "code": "512460",
-        "pct": 2.58,
-        "amount": 1068.0,
-        "category": "电池/储能"
-      },
-      {
-        "name": "电池ETF汇添富",
-        "code": "159796",
-        "pct": 2.58,
-        "amount": 19465.0,
-        "category": "电池/储能"
-      },
-      {
-        "name": "电池ETF华泰柏瑞",
-        "code": "560910",
-        "pct": 2.55,
-        "amount": 411.0,
-        "category": "电池/储能"
       },
       {
         "name": "港股消费ETF银华",
         "code": "159735",
-        "pct": 2.54,
-        "amount": 2663.0,
+        "pct": 3.02,
+        "amount": 3463.0,
         "category": "消费/白酒"
       },
       {
-        "name": "港股通消费ETF易方达",
-        "code": "513070",
-        "pct": 2.5,
-        "amount": 11335.0,
+        "name": "港股通消费ETF华夏",
+        "code": "513230",
+        "pct": 2.93,
+        "amount": 3837.0,
         "category": "消费/白酒"
       },
       {
-        "name": "电池ETF招商",
-        "code": "561910",
-        "pct": 2.48,
-        "amount": 7856.0,
-        "category": "电池/储能"
+        "name": "港股通消费ETF鹏华",
+        "code": "513590",
+        "pct": 2.88,
+        "amount": 453.0,
+        "category": "消费/白酒"
       },
       {
-        "name": "电池龙头ETF兴银",
-        "code": "159767",
-        "pct": 2.48,
-        "amount": 376.0,
-        "category": "电池/储能"
+        "name": "恒生消费ETF广发",
+        "code": "159699",
+        "pct": 2.74,
+        "amount": 2174.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "养殖ETF平安",
+        "code": "516760",
+        "pct": 2.68,
+        "amount": 369.0,
+        "category": "农业"
+      },
+      {
+        "name": "畜牧养殖ETF天弘",
+        "code": "561470",
+        "pct": 2.56,
+        "amount": 107.0,
+        "category": "农业"
+      },
+      {
+        "name": "畜牧养殖ETF鑫元",
+        "code": "561400",
+        "pct": 2.52,
+        "amount": 142.0,
+        "category": "农业"
+      },
+      {
+        "name": "农业ETF易方达",
+        "code": "562900",
+        "pct": 2.46,
+        "amount": 1053.0,
+        "category": "农业"
+      },
+      {
+        "name": "标普消费ETF景顺",
+        "code": "159529",
+        "pct": 2.46,
+        "amount": 62847.0,
+        "category": "消费/白酒"
       }
     ]
   }
