@@ -1,23 +1,6 @@
 [
   {
     "date": "2026-09-14",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "300054",
-        "name": "鼎龙股份",
-        "title": "半导体材料平台量利齐升，新业务打开成长空间",
-        "org": "太平洋",
-        "rating": "",
-        "date": "2026-09-13",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-14",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14764,6 +14747,47 @@
         "code": "300308",
         "name": "中际旭创",
         "title": "3Q26 earnings：Solid fundamentals amid supply chain tightness",
+        "org": "招银国际",
+        "rating": "",
+        "date": "2026-11-02",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202611021831334957",
+        "title": "东山精密:002384投资者关系活动记录表20261102",
+        "date": "2026-11-02",
+        "time": "21:33",
+        "category": "调研活动",
+        "codes": [
+          "002384"
+        ],
+        "names": [
+          "东山精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002384/AN202611021831334957.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "002384",
+        "name": "东山精密",
+        "title": "2026年第三季度报告点评：Q3业绩高速增长，AI业务进入业绩兑现期",
+        "org": "东吴证券",
+        "rating": "",
+        "date": "2026-11-02",
+        "digest": ""
+      },
+      {
+        "code": "600183",
+        "name": "生益科技",
+        "title": "3Q earnings：Record quarterly margin while share-price correction appears overdone",
         "org": "招银国际",
         "rating": "",
         "date": "2026-11-02",
