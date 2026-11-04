@@ -9897,74 +9897,74 @@
     "date": "2026-11-04",
     "top10": [
       {
-        "name": "机器人ETF易方达",
-        "code": "159530",
-        "pct": 4.03,
-        "amount": 82051.0,
-        "category": "机器人"
-      },
-      {
-        "name": "机器人ETF景顺",
-        "code": "159559",
-        "pct": 3.82,
-        "amount": 6592.0,
-        "category": "机器人"
-      },
-      {
-        "name": "卫星ETF富国",
-        "code": "563230",
-        "pct": 3.12,
-        "amount": 10104.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "卫星ETF广发",
-        "code": "512630",
-        "pct": 3.1,
-        "amount": 7523.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "卫星ETF易方达",
-        "code": "563530",
-        "pct": 3.1,
-        "amount": 4588.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "卫星ETF鹏华",
-        "code": "563790",
-        "pct": 3.09,
-        "amount": 2803.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "卫星ETF平安",
-        "code": "562420",
-        "pct": 3.08,
-        "amount": 310.0,
-        "category": "军工/航空航天"
-      },
-      {
-        "name": "港股创新药ETF广发",
-        "code": "513120",
-        "pct": 2.88,
-        "amount": 356335.0,
-        "category": "医药"
-      },
-      {
-        "name": "港股创新药ETF景顺",
-        "code": "513780",
-        "pct": 2.85,
-        "amount": 32155.0,
-        "category": "医药"
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 4.15,
+        "amount": 326437.0,
+        "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF广发",
         "code": "560780",
-        "pct": 2.8,
-        "amount": 23829.0,
+        "pct": 4.05,
+        "amount": 34112.0,
         "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF国泰",
+        "code": "159516",
+        "pct": 3.89,
+        "amount": 176257.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF华夏",
+        "code": "562590",
+        "pct": 3.73,
+        "amount": 22922.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF招商",
+        "code": "561980",
+        "pct": 3.67,
+        "amount": 20440.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体ETF博时",
+        "code": "159582",
+        "pct": 3.51,
+        "amount": 5825.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "港股创新药ETF广发",
+        "code": "513120",
+        "pct": 3.5,
+        "amount": 482976.0,
+        "category": "医药"
+      },
+      {
+        "name": "半导体设备ETF易方达",
+        "code": "159558",
+        "pct": 3.5,
+        "amount": 74975.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "港股创新药ETF景顺",
+        "code": "513780",
+        "pct": 3.47,
+        "amount": 41926.0,
+        "category": "医药"
+      },
+      {
+        "name": "恒生生物科技ETF华泰柏瑞",
+        "code": "513930",
+        "pct": 3.45,
+        "amount": 6712.0,
+        "category": "医药"
       }
     ]
   }
