@@ -9892,5 +9892,80 @@
         "category": "消费/白酒"
       }
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "top10": [
+      {
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 4.03,
+        "amount": 82051.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF景顺",
+        "code": "159559",
+        "pct": 3.82,
+        "amount": 6592.0,
+        "category": "机器人"
+      },
+      {
+        "name": "卫星ETF富国",
+        "code": "563230",
+        "pct": 3.12,
+        "amount": 10104.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF广发",
+        "code": "512630",
+        "pct": 3.1,
+        "amount": 7523.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF易方达",
+        "code": "563530",
+        "pct": 3.1,
+        "amount": 4588.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF鹏华",
+        "code": "563790",
+        "pct": 3.09,
+        "amount": 2803.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF平安",
+        "code": "562420",
+        "pct": 3.08,
+        "amount": 310.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "港股创新药ETF广发",
+        "code": "513120",
+        "pct": 2.88,
+        "amount": 356335.0,
+        "category": "医药"
+      },
+      {
+        "name": "港股创新药ETF景顺",
+        "code": "513780",
+        "pct": 2.85,
+        "amount": 32155.0,
+        "category": "医药"
+      },
+      {
+        "name": "半导体设备ETF广发",
+        "code": "560780",
+        "pct": 2.8,
+        "amount": 23829.0,
+        "category": "芯片/半导体"
+      }
+    ]
   }
 ]
