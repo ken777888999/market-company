@@ -9974,71 +9974,71 @@
       {
         "name": "半导体设备ETF广发",
         "code": "560780",
-        "pct": 9.92,
-        "amount": 77890.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体设备ETF华夏",
-        "code": "562590",
-        "pct": 9.88,
-        "amount": 43112.0,
+        "pct": 7.79,
+        "amount": 93804.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF国泰",
         "code": "159516",
-        "pct": 9.56,
-        "amount": 381004.0,
+        "pct": 7.69,
+        "amount": 467049.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF易方达",
         "code": "159558",
-        "pct": 9.4,
-        "amount": 164401.0,
+        "pct": 7.68,
+        "amount": 199202.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "半导体设备ETF招商",
-        "code": "561980",
-        "pct": 8.54,
-        "amount": 47792.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "半导体ETF博时",
-        "code": "159582",
-        "pct": 8.24,
-        "amount": 18950.0,
+        "name": "半导体设备ETF华夏",
+        "code": "562590",
+        "pct": 7.67,
+        "amount": 49114.0,
         "category": "芯片/半导体"
       },
       {
         "name": "港股互联网ETF博时",
         "code": "159568",
-        "pct": 7.25,
-        "amount": 9920.0,
+        "pct": 6.66,
+        "amount": 12651.0,
         "category": "港股/中概"
       },
       {
         "name": "港股互联网ETF华宝",
         "code": "513770",
-        "pct": 7.23,
-        "amount": 89276.0,
+        "pct": 6.6,
+        "amount": 118592.0,
         "category": "港股/中概"
       },
       {
         "name": "港股通互联网ETF富国",
         "code": "159792",
-        "pct": 7.09,
-        "amount": 290461.0,
+        "pct": 6.51,
+        "amount": 364987.0,
         "category": "港股/中概"
       },
       {
-        "name": "恒生互联网ETF华安",
-        "code": "159688",
-        "pct": 6.85,
-        "amount": 13057.0,
+        "name": "半导体设备ETF招商",
+        "code": "561980",
+        "pct": 6.46,
+        "amount": 52825.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "中概互联ETF广发",
+        "code": "159605",
+        "pct": 6.38,
+        "amount": 54744.0,
+        "category": "港股/中概"
+      },
+      {
+        "name": "港股通互联网ETF易方达",
+        "code": "513040",
+        "pct": 6.21,
+        "amount": 69822.0,
         "category": "港股/中概"
       }
     ]
