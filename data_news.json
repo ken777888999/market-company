@@ -1,32 +1,6 @@
 [
   {
     "date": "2026-09-16",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "300548",
-        "name": "长芯博创",
-        "title": "业绩大幅增长，全栈光互联加速产品放量",
-        "org": "太平洋",
-        "rating": "",
-        "date": "2026-09-15",
-        "digest": ""
-      },
-      {
-        "code": "300502",
-        "name": "新易盛",
-        "title": "2026年中报点评：800G/1.6T放量驱动业绩兑现，AI光互联龙头进入加速成长期",
-        "org": "西南证券",
-        "rating": "",
-        "date": "2026-09-15",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-16",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14932,6 +14906,23 @@
         "url": "https://data.eastmoney.com/notices/detail/300857/AN202611041831407641.html"
       }
     ],
+    "reports": [
+      {
+        "code": "300054",
+        "name": "鼎龙股份",
+        "title": "公司简评报告：产品竞争力持续增强，CMP抛光垫单季收入创新高",
+        "org": "东海证券",
+        "rating": "",
+        "date": "2026-11-04",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "300054",
