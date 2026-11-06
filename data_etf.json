@@ -10049,71 +10049,71 @@
       {
         "name": "能源化工ETF建信",
         "code": "159981",
-        "pct": 2.68,
-        "amount": 105295.0,
+        "pct": 2.62,
+        "amount": 141024.0,
         "category": "煤炭/能源"
       },
       {
-        "name": "电力ETF博时",
-        "code": "561700",
-        "pct": 1.46,
-        "amount": 311.0,
-        "category": "电力"
+        "name": "公用事业ETF鹏华",
+        "code": "560190",
+        "pct": 1.57,
+        "amount": 54.0,
+        "category": null
       },
       {
         "name": "红利低波50ETF南方",
         "code": "515450",
-        "pct": 1.44,
-        "amount": 18205.0,
+        "pct": 1.5,
+        "amount": 21731.0,
         "category": "红利/高股息"
       },
       {
-        "name": "绿色电力ETF鑫元",
-        "code": "561610",
-        "pct": 1.42,
-        "amount": 277.0,
-        "category": "电力"
-      },
-      {
-        "name": "A500红利低波ETF易方达",
-        "code": "563510",
-        "pct": 1.42,
-        "amount": 428.0,
-        "category": "红利/高股息"
-      },
-      {
-        "name": "绿色电力ETF易方达",
-        "code": "562960",
-        "pct": 1.41,
-        "amount": 3038.0,
+        "name": "电力ETF华安",
+        "code": "512140",
+        "pct": 1.43,
+        "amount": 824.0,
         "category": "电力"
       },
       {
         "name": "300红利低波ETF嘉实",
         "code": "515300",
         "pct": 1.39,
-        "amount": 11000.0,
+        "amount": 26121.0,
         "category": "红利/高股息"
       },
       {
-        "name": "电力ETF工银",
-        "code": "560270",
-        "pct": 1.39,
-        "amount": 617.0,
+        "name": "公用事业ETF万家",
+        "code": "560620",
+        "pct": 1.37,
+        "amount": 72.0,
+        "category": null
+      },
+      {
+        "name": "央企共赢ETF国泰",
+        "code": "517090",
+        "pct": 1.33,
+        "amount": 811.0,
+        "category": "国企/央企"
+      },
+      {
+        "name": "绿电ETF华夏",
+        "code": "562550",
+        "pct": 1.33,
+        "amount": 8844.0,
         "category": "电力"
       },
       {
-        "name": "红利低波ETF泰康",
-        "code": "560150",
-        "pct": 1.38,
-        "amount": 1046.0,
-        "category": "红利/高股息"
+        "name": "电力ETF汇添富",
+        "code": "516370",
+        "pct": 1.32,
+        "amount": 960.0,
+        "category": "电力"
       },
       {
-        "name": "电力ETF招商",
-        "code": "560480",
-        "pct": 1.35,
-        "amount": 516.0,
+        "name": "绿色电力ETF富国",
+        "code": "561170",
+        "pct": 1.32,
+        "amount": 4348.0,
         "category": "电力"
       }
     ]
