@@ -1,84 +1,6 @@
 [
   {
     "date": "2026-09-17",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202609161829472321",
-        "title": "紫金矿业:紫金矿业集团股份有限公司第九届董事会独立董事专门会议第一次会议决议",
-        "date": "2026-09-17",
-        "time": "22:05",
-        "category": "董事会决议公告",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472321.html"
-      },
-      {
-        "art_code": "AN202609161829472322",
-        "title": "紫金矿业:紫金矿业集团股份有限公司第九届董事会临时会议决议公告",
-        "date": "2026-09-17",
-        "time": "22:05",
-        "category": "董事会决议公告",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472322.html"
-      },
-      {
-        "art_code": "AN202609161829472318",
-        "title": "紫金矿业:紫金矿业集团股份有限公司关于向参股公司提供财务资助的公告",
-        "date": "2026-09-17",
-        "time": "22:03",
-        "category": "获得补贴（资助）",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472318.html"
-      },
-      {
-        "art_code": "AN202609161829472319",
-        "title": "紫金矿业:紫金矿业集团股份有限公司关于为参股公司提供担保的公告",
-        "date": "2026-09-17",
-        "time": "22:03",
-        "category": "提供/对外担保公告",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472319.html"
-      },
-      {
-        "art_code": "AN202609161829472320",
-        "title": "紫金矿业:紫金矿业集团股份有限公司关于全资子公司与关联人共同投资的公告",
-        "date": "2026-09-17",
-        "time": "22:02",
-        "category": "其他",
-        "codes": [
-          "601899"
-        ],
-        "names": [
-          "紫金矿业"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472320.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-09-17",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14863,6 +14785,32 @@
         "url": "https://data.eastmoney.com/notices/detail/300857/AN202611051831449776.html"
       }
     ],
+    "reports": [
+      {
+        "code": "300308",
+        "name": "中际旭创",
+        "title": "公司事件点评报告：光模块需求保持强劲，多路径方案综合布局",
+        "org": "华鑫证券",
+        "rating": "",
+        "date": "2026-11-05",
+        "digest": ""
+      },
+      {
+        "code": "300857",
+        "name": "协创数据",
+        "title": "营收和净利润持续高增，股权激励彰显长期成长信心",
+        "org": "山西证券",
+        "rating": "",
+        "date": "2026-11-05",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "300308",
