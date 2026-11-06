@@ -10042,5 +10042,80 @@
         "category": "港股/中概"
       }
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "top10": [
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 1.54,
+        "amount": 40189.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "粮食ETF鹏华",
+        "code": "159698",
+        "pct": 1.31,
+        "amount": 5411.0,
+        "category": "农业"
+      },
+      {
+        "name": "粮食ETF广发",
+        "code": "159587",
+        "pct": 1.29,
+        "amount": 2135.0,
+        "category": "农业"
+      },
+      {
+        "name": "公用事业ETF万家",
+        "code": "560620",
+        "pct": 1.16,
+        "amount": 30.0,
+        "category": null
+      },
+      {
+        "name": "电力ETF工银",
+        "code": "560270",
+        "pct": 1.07,
+        "amount": 405.0,
+        "category": "电力"
+      },
+      {
+        "name": "港股红利ETF工银",
+        "code": "159691",
+        "pct": 1.02,
+        "amount": 9446.0,
+        "category": "红利/高股息"
+      },
+      {
+        "name": "电力ETF平安",
+        "code": "560460",
+        "pct": 1.01,
+        "amount": 415.0,
+        "category": "电力"
+      },
+      {
+        "name": "电力ETF博时",
+        "code": "561700",
+        "pct": 1.0,
+        "amount": 204.0,
+        "category": "电力"
+      },
+      {
+        "name": "电力ETF汇添富",
+        "code": "516370",
+        "pct": 0.99,
+        "amount": 497.0,
+        "category": "电力"
+      },
+      {
+        "name": "公用事业ETF鹏华",
+        "code": "560190",
+        "pct": 0.98,
+        "amount": 16.0,
+        "category": null
+      }
+    ]
   }
 ]
