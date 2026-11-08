@@ -1,38 +1,6 @@
 [
   {
     "date": "2026-09-19",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202609181829627132",
-        "title": "300054鼎龙股份投资者关系管理信息20260918",
-        "date": "2026-09-18",
-        "time": "21:42",
-        "category": "调研活动",
-        "codes": [
-          "300054"
-        ],
-        "names": [
-          "鼎龙股份"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202609181829627132.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "001339",
-        "name": "智微智能",
-        "title": "半年度业绩高速增长，切入智算中心建设运营",
-        "org": "国信证券",
-        "rating": "",
-        "date": "2026-09-18",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-19",
     "time": "21:00",
     "period": "晚间",
     "announcements": [],
@@ -14570,6 +14538,23 @@
     "date": "2026-11-07",
     "time": "21:00",
     "period": "晚间",
+    "announcements": [],
+    "reports": [
+      {
+        "code": "605117",
+        "name": "德业股份",
+        "title": "业绩高增延续，工商储布局加速",
+        "org": "华安证券",
+        "rating": "",
+        "date": "2026-11-07",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "time": "09:00",
+    "period": "早间",
     "announcements": [],
     "reports": [
       {
