@@ -10117,5 +10117,80 @@
         "category": "电力"
       }
     ]
+  },
+  {
+    "date": "2026-11-09",
+    "top10": [
+      {
+        "name": "卫星ETF平安",
+        "code": "562420",
+        "pct": 5.57,
+        "amount": 616.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF广发",
+        "code": "512630",
+        "pct": 5.53,
+        "amount": 11705.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF鹏华",
+        "code": "563790",
+        "pct": 5.37,
+        "amount": 4489.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF易方达",
+        "code": "563530",
+        "pct": 5.31,
+        "amount": 6988.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "卫星ETF富国",
+        "code": "563230",
+        "pct": 5.24,
+        "amount": 18947.0,
+        "category": "军工/航空航天"
+      },
+      {
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 3.95,
+        "amount": 154081.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF富国",
+        "code": "159583",
+        "pct": 3.62,
+        "amount": 21330.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF华夏",
+        "code": "515050",
+        "pct": 3.45,
+        "amount": 41534.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "通信ETF银华",
+        "code": "159994",
+        "pct": 3.45,
+        "amount": 10544.0,
+        "category": "通信/5G"
+      },
+      {
+        "name": "机器人ETF易方达",
+        "code": "159530",
+        "pct": 3.36,
+        "amount": 98248.0,
+        "category": "机器人"
+      }
+    ]
   }
 ]
