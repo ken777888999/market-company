@@ -10199,72 +10199,72 @@
       {
         "name": "影视ETF银华",
         "code": "159855",
-        "pct": 3.75,
-        "amount": 7074.0,
+        "pct": 4.21,
+        "amount": 7849.0,
         "category": "传媒/游戏"
-      },
-      {
-        "name": "纳指生物科技ETF汇添富",
-        "code": "513290",
-        "pct": 3.44,
-        "amount": 44310.0,
-        "category": "医药"
       },
       {
         "name": "影视ETF国泰",
         "code": "516620",
-        "pct": 3.4,
-        "amount": 23244.0,
+        "pct": 4.0,
+        "amount": 25179.0,
         "category": "传媒/游戏"
       },
       {
         "name": "纳斯达克100ETF招商",
         "code": "159659",
-        "pct": 3.23,
-        "amount": 12878.0,
+        "pct": 3.63,
+        "amount": 16644.0,
         "category": "海外QDII"
       },
       {
         "name": "纳斯达克ETF华安",
         "code": "159632",
-        "pct": 3.18,
-        "amount": 18097.0,
+        "pct": 3.57,
+        "amount": 23421.0,
         "category": "海外QDII"
       },
       {
         "name": "纳指ETF广发",
         "code": "159941",
-        "pct": 3.12,
-        "amount": 70605.0,
+        "pct": 3.56,
+        "amount": 96703.0,
         "category": "海外QDII"
-      },
-      {
-        "name": "通信ETF富国",
-        "code": "159583",
-        "pct": 3.08,
-        "amount": 24600.0,
-        "category": "通信/5G"
       },
       {
         "name": "纳指ETF华泰柏瑞",
         "code": "513110",
-        "pct": 3.03,
-        "amount": 14817.0,
+        "pct": 3.42,
+        "amount": 19477.0,
         "category": "海外QDII"
-      },
-      {
-        "name": "美国50ETF易方达",
-        "code": "513850",
-        "pct": 3.01,
-        "amount": 8678.0,
-        "category": null
       },
       {
         "name": "纳斯达克100ETF大成",
         "code": "159513",
-        "pct": 3.01,
-        "amount": 16927.0,
+        "pct": 3.42,
+        "amount": 22188.0,
         "category": "海外QDII"
+      },
+      {
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 3.33,
+        "amount": 52802.0,
+        "category": "医药"
+      },
+      {
+        "name": "纳指ETF汇添富",
+        "code": "159660",
+        "pct": 3.27,
+        "amount": 10389.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "传媒ETF广发",
+        "code": "512980",
+        "pct": 3.26,
+        "amount": 45964.0,
+        "category": "传媒/游戏"
       }
     ]
   }
