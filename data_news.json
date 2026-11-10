@@ -1,28 +1,6 @@
 [
   {
     "date": "2026-09-21",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202609201829675526",
-        "title": "长鑫科技:关于第五代工艺技术平台实现量产的自愿性披露公告",
-        "date": "2026-09-21",
-        "time": "22:50",
-        "category": "其他",
-        "codes": [
-          "688825"
-        ],
-        "names": [
-          "长鑫科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688825/AN202609201829675526.html"
-      }
-    ],
-    "reports": []
-  },
-  {
-    "date": "2026-09-21",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14987,6 +14965,32 @@
         "url": "https://data.eastmoney.com/notices/detail/300666/AN202611091831551849.html"
       }
     ],
+    "reports": [
+      {
+        "code": "688008",
+        "name": "澜起科技",
+        "title": "DDR5高子代放量驱动业绩高增，CXL内存池化打开成长空间",
+        "org": "山西证券",
+        "rating": "",
+        "date": "2026-11-09",
+        "digest": ""
+      },
+      {
+        "code": "688825",
+        "name": "长鑫科技",
+        "title": "制程节点及产品结构优化，国产替代空间广阔",
+        "org": "山西证券",
+        "rating": "",
+        "date": "2026-11-09",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "688008",
