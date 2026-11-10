@@ -10197,74 +10197,74 @@
     "date": "2026-11-10",
     "top10": [
       {
-        "name": "通信ETF国泰",
-        "code": "515880",
-        "pct": 4.6,
-        "amount": 126923.0,
-        "category": "通信/5G"
-      },
-      {
-        "name": "通信ETF富国",
-        "code": "159583",
-        "pct": 4.33,
-        "amount": 20235.0,
-        "category": "通信/5G"
-      },
-      {
-        "name": "机器人ETF易方达",
-        "code": "159530",
-        "pct": 4.18,
-        "amount": 112124.0,
-        "category": "机器人"
-      },
-      {
-        "name": "通信ETF华夏",
-        "code": "515050",
-        "pct": 4.15,
-        "amount": 28801.0,
-        "category": "通信/5G"
-      },
-      {
-        "name": "机器人ETF景顺",
-        "code": "159559",
-        "pct": 4.13,
-        "amount": 8291.0,
-        "category": "机器人"
-      },
-      {
-        "name": "通信ETF银华",
-        "code": "159994",
-        "pct": 4.0,
-        "amount": 7312.0,
-        "category": "通信/5G"
-      },
-      {
         "name": "影视ETF银华",
         "code": "159855",
-        "pct": 3.98,
-        "amount": 5077.0,
+        "pct": 3.75,
+        "amount": 7074.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "创业板成长ETF华夏",
-        "code": "159967",
-        "pct": 3.91,
-        "amount": 31367.0,
-        "category": "创业板"
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 3.44,
+        "amount": 44310.0,
+        "category": "医药"
       },
       {
         "name": "影视ETF国泰",
         "code": "516620",
-        "pct": 3.9,
-        "amount": 17872.0,
+        "pct": 3.4,
+        "amount": 23244.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "5GETF博时",
-        "code": "159811",
-        "pct": 3.56,
-        "amount": 561.0,
+        "name": "纳斯达克100ETF招商",
+        "code": "159659",
+        "pct": 3.23,
+        "amount": 12878.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "纳斯达克ETF华安",
+        "code": "159632",
+        "pct": 3.18,
+        "amount": 18097.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "纳指ETF广发",
+        "code": "159941",
+        "pct": 3.12,
+        "amount": 70605.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "通信ETF富国",
+        "code": "159583",
+        "pct": 3.08,
+        "amount": 24600.0,
         "category": "通信/5G"
+      },
+      {
+        "name": "纳指ETF华泰柏瑞",
+        "code": "513110",
+        "pct": 3.03,
+        "amount": 14817.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "美国50ETF易方达",
+        "code": "513850",
+        "pct": 3.01,
+        "amount": 8678.0,
+        "category": null
+      },
+      {
+        "name": "纳斯达克100ETF大成",
+        "code": "159513",
+        "pct": 3.01,
+        "amount": 16927.0,
+        "category": "海外QDII"
       }
     ]
   }
