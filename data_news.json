@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-09-22",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-09-22",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14982,6 +14975,32 @@
         "url": "https://data.eastmoney.com/notices/detail/688008/AN202611101831582995.html"
       }
     ],
+    "reports": [
+      {
+        "code": "001339",
+        "name": "智微智能",
+        "title": "业绩持续高增长，围绕AI全方位布局",
+        "org": "太平洋",
+        "rating": "",
+        "date": "2026-11-10",
+        "digest": ""
+      },
+      {
+        "code": "605117",
+        "name": "德业股份",
+        "title": "公司事件点评报告：储能需求延续增长，渠道与产品协同深化",
+        "org": "华鑫证券",
+        "rating": "",
+        "date": "2026-11-10",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": [
       {
         "code": "001339",
