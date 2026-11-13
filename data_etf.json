@@ -10422,74 +10422,74 @@
     "date": "2026-11-13",
     "top10": [
       {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 2.25,
-        "amount": 56260.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 2.16,
-        "amount": 74544.0,
-        "category": "海外QDII"
-      },
-      {
         "name": "影视ETF国泰",
         "code": "516620",
-        "pct": 2.1,
-        "amount": 16665.0,
+        "pct": 3.3,
+        "amount": 20441.0,
         "category": "传媒/游戏"
+      },
+      {
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 3.17,
+        "amount": 5352.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 2.49,
+        "amount": 78394.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "畜牧养殖ETF广发",
+        "code": "512450",
+        "pct": 2.39,
+        "amount": 342.0,
+        "category": "农业"
+      },
+      {
+        "name": "湖北ETF博时",
+        "code": "159743",
+        "pct": 2.35,
+        "amount": 176.0,
+        "category": null
       },
       {
         "name": "养殖ETF平安",
         "code": "516760",
-        "pct": 2.08,
-        "amount": 142.0,
+        "pct": 2.25,
+        "amount": 203.0,
+        "category": "农业"
+      },
+      {
+        "name": "养殖ETF国泰",
+        "code": "159865",
+        "pct": 2.24,
+        "amount": 13441.0,
         "category": "农业"
       },
       {
         "name": "养殖ETF鹏华",
         "code": "159867",
-        "pct": 2.01,
-        "amount": 2005.0,
-        "category": "农业"
-      },
-      {
-        "name": "影视ETF银华",
-        "code": "159855",
-        "pct": 1.93,
-        "amount": 4534.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "中韩半导体ETF华泰柏瑞",
-        "code": "513310",
-        "pct": 1.87,
-        "amount": 720444.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "养殖ETF国泰",
-        "code": "159865",
-        "pct": 1.87,
-        "amount": 10020.0,
+        "pct": 2.2,
+        "amount": 2751.0,
         "category": "农业"
       },
       {
         "name": "畜牧养殖ETF天弘",
         "code": "561470",
-        "pct": 1.8,
-        "amount": 125.0,
+        "pct": 2.09,
+        "amount": 160.0,
         "category": "农业"
       },
       {
-        "name": "杭州湾区ETF南华",
-        "code": "512870",
-        "pct": 1.78,
-        "amount": 0.0,
-        "category": null
+        "name": "畜牧养殖ETF鑫元",
+        "code": "561400",
+        "pct": 2.04,
+        "amount": 171.0,
+        "category": "农业"
       }
     ]
   }
