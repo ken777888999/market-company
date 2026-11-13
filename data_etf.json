@@ -10422,73 +10422,73 @@
     "date": "2026-11-13",
     "top10": [
       {
-        "name": "标普油气ETF嘉实",
-        "code": "159518",
-        "pct": 2.97,
-        "amount": 125791.0,
-        "category": "海外QDII"
-      },
-      {
         "name": "标普油气ETF富国",
         "code": "513350",
-        "pct": 2.77,
-        "amount": 163560.0,
+        "pct": 3.0,
+        "amount": 208539.0,
         "category": "海外QDII"
       },
       {
-        "name": "消费龙头ETF工银",
-        "code": "159520",
-        "pct": 1.89,
-        "amount": 1104.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "消费50ETF富国",
-        "code": "515650",
-        "pct": 1.88,
-        "amount": 7033.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "畜牧养殖ETF广发",
-        "code": "512450",
-        "pct": 1.74,
-        "amount": 413.0,
-        "category": "农业"
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 2.81,
+        "amount": 161867.0,
+        "category": "海外QDII"
       },
       {
         "name": "养殖ETF平安",
         "code": "516760",
-        "pct": 1.73,
-        "amount": 326.0,
+        "pct": 2.08,
+        "amount": 406.0,
         "category": "农业"
       },
       {
-        "name": "影视ETF国泰",
-        "code": "516620",
-        "pct": 1.7,
-        "amount": 24222.0,
-        "category": "传媒/游戏"
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 2.08,
+        "amount": 95190.0,
+        "category": "煤炭/能源"
       },
       {
-        "name": "消费龙头ETF华宝",
-        "code": "516130",
-        "pct": 1.69,
-        "amount": 431.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "农业ETF易方达",
-        "code": "562900",
-        "pct": 1.68,
-        "amount": 1327.0,
+        "name": "畜牧养殖ETF广发",
+        "code": "512450",
+        "pct": 2.07,
+        "amount": 537.0,
         "category": "农业"
       },
       {
         "name": "养殖ETF国泰",
         "code": "159865",
-        "pct": 1.68,
-        "amount": 15203.0,
+        "pct": 2.05,
+        "amount": 18329.0,
+        "category": "农业"
+      },
+      {
+        "name": "养殖ETF鹏华",
+        "code": "159867",
+        "pct": 2.01,
+        "amount": 3492.0,
+        "category": "农业"
+      },
+      {
+        "name": "消费龙头ETF工银",
+        "code": "159520",
+        "pct": 2.0,
+        "amount": 1258.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "消费50ETF富国",
+        "code": "515650",
+        "pct": 1.97,
+        "amount": 9456.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "畜牧养殖ETF招商",
+        "code": "516670",
+        "pct": 1.82,
+        "amount": 4713.0,
         "category": "农业"
       }
     ]
