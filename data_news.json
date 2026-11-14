@@ -1,38 +1,6 @@
 [
   {
     "date": "2026-09-25",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202609241829874915",
-        "title": "源杰科技:陕西源杰半导体科技股份有限公司股东减持股份计划公告",
-        "date": "2026-09-25",
-        "time": "21:55",
-        "category": "股东/实际控制人股份减持",
-        "codes": [
-          "688498"
-        ],
-        "names": [
-          "源杰科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/688498/AN202609241829874915.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "000657",
-        "name": "中钨高新",
-        "title": "隶属五矿集团，钨产业链领军者",
-        "org": "国信证券",
-        "rating": "",
-        "date": "2026-09-24",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-25",
     "time": "21:00",
     "period": "晚间",
     "announcements": [],
@@ -14993,6 +14961,56 @@
           "恒逸石化"
         ],
         "url": "https://data.eastmoney.com/notices/detail/000703/AN202611131831691079.html"
+      }
+    ],
+    "reports": [
+      {
+        "code": "688825",
+        "name": "长鑫科技",
+        "title": "长鑫科技：业绩持续提升，中国芯闪耀存储超级周期",
+        "org": "华安证券",
+        "rating": "",
+        "date": "2026-11-13",
+        "digest": ""
+      },
+      {
+        "code": "002463",
+        "name": "沪电股份",
+        "title": "沪电股份：业绩持续成长，算力领域核心技术持续攻关",
+        "org": "华安证券",
+        "rating": "",
+        "date": "2026-11-13",
+        "digest": ""
+      },
+      {
+        "code": "601233",
+        "name": "桐昆股份",
+        "title": "长丝盈利提升，投资浙石化增厚收益",
+        "org": "中银证券",
+        "rating": "",
+        "date": "2026-11-13",
+        "digest": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202611131831690366",
+        "title": "德业股份:关于公司完成工商变更登记并换发营业执照的公告",
+        "date": "2026-11-14",
+        "time": "23:22",
+        "category": "公司注册资本变更,公司章程修订",
+        "codes": [
+          "605117"
+        ],
+        "names": [
+          "德业股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/605117/AN202611131831690366.html"
       }
     ],
     "reports": [
