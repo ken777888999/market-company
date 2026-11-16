@@ -10497,74 +10497,74 @@
     "date": "2026-11-16",
     "top10": [
       {
-        "name": "中概互联ETF广发",
-        "code": "159605",
-        "pct": 1.83,
-        "amount": 14069.0,
-        "category": "港股/中概"
+        "name": "港股消费ETF银华",
+        "code": "159735",
+        "pct": 2.26,
+        "amount": 3138.0,
+        "category": "消费/白酒"
       },
       {
-        "name": "中概互联网ETF嘉实",
-        "code": "159607",
-        "pct": 1.7,
-        "amount": 9474.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "中概互联网ETF易方达",
-        "code": "513050",
-        "pct": 1.61,
-        "amount": 134496.0,
-        "category": "港股/中概"
+        "name": "港股通消费ETF易方达",
+        "code": "513070",
+        "pct": 2.1,
+        "amount": 26763.0,
+        "category": "消费/白酒"
       },
       {
         "name": "港股通消费ETF华夏",
         "code": "513230",
-        "pct": 1.5,
-        "amount": 4186.0,
+        "pct": 1.97,
+        "amount": 5305.0,
         "category": "消费/白酒"
       },
       {
         "name": "银行ETF富国",
         "code": "159887",
-        "pct": 1.5,
-        "amount": 4648.0,
+        "pct": 1.91,
+        "amount": 6015.0,
         "category": "银行"
+      },
+      {
+        "name": "红利低波100ETF工银",
+        "code": "560720",
+        "pct": 1.79,
+        "amount": 618.0,
+        "category": "红利/高股息"
       },
       {
         "name": "恒生消费ETF景顺",
         "code": "513970",
-        "pct": 1.47,
-        "amount": 4532.0,
+        "pct": 1.72,
+        "amount": 5597.0,
         "category": "消费/白酒"
       },
       {
-        "name": "交运ETF国泰",
-        "code": "561320",
-        "pct": 1.47,
-        "amount": 352.0,
-        "category": null
+        "name": "红利低波100ETF大成",
+        "code": "560520",
+        "pct": 1.68,
+        "amount": 31.0,
+        "category": "红利/高股息"
+      },
+      {
+        "name": "A500红利低波动ETF国寿",
+        "code": "563590",
+        "pct": 1.64,
+        "amount": 135.0,
+        "category": "红利/高股息"
+      },
+      {
+        "name": "A500红利低波ETF招商",
+        "code": "562180",
+        "pct": 1.61,
+        "amount": 309.0,
+        "category": "红利/高股息"
       },
       {
         "name": "银行ETF广发",
         "code": "512410",
-        "pct": 1.42,
-        "amount": 978.0,
+        "pct": 1.59,
+        "amount": 1365.0,
         "category": "银行"
-      },
-      {
-        "name": "标普消费ETF景顺",
-        "code": "159529",
-        "pct": 1.36,
-        "amount": 35486.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "港股消费ETF银华",
-        "code": "159735",
-        "pct": 1.35,
-        "amount": 2120.0,
-        "category": "消费/白酒"
       }
     ]
   }
