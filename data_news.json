@@ -1,32 +1,6 @@
 [
   {
     "date": "2026-09-28",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": [
-      {
-        "code": "605117",
-        "name": "德业股份",
-        "title": "公司动态研究报告：储能电池高增，光储协同打开成长空间",
-        "org": "华鑫证券",
-        "rating": "",
-        "date": "2026-09-27",
-        "digest": ""
-      },
-      {
-        "code": "601869",
-        "name": "长飞光纤",
-        "title": "利润大幅增长，算力建设释放光纤需求",
-        "org": "太平洋",
-        "rating": "",
-        "date": "2026-09-27",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-28",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -15099,6 +15073,13 @@
         "url": "https://data.eastmoney.com/notices/detail/300857/AN202611161831753709.html"
       }
     ],
+    "reports": []
+  },
+  {
+    "date": "2026-11-17",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": []
   }
 ]
