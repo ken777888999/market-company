@@ -10650,71 +10650,71 @@
         "name": "5GETF博时",
         "code": "159811",
         "pct": 1.55,
-        "amount": 784.0,
+        "amount": 1013.0,
         "category": "通信/5G"
-      },
-      {
-        "name": "家电ETF华夏",
-        "code": "515640",
-        "pct": 1.52,
-        "amount": 86.0,
-        "category": "家电"
       },
       {
         "name": "能源ETF汇添富",
         "code": "159930",
         "pct": 1.38,
-        "amount": 3025.0,
+        "amount": 4097.0,
         "category": "煤炭/能源"
-      },
-      {
-        "name": "豆粕ETF华夏",
-        "code": "159985",
-        "pct": 1.33,
-        "amount": 15630.0,
-        "category": null
-      },
-      {
-        "name": "电力ETF南方",
-        "code": "560580",
-        "pct": 1.28,
-        "amount": 440.0,
-        "category": "电力"
-      },
-      {
-        "name": "科创信息ETF华安",
-        "code": "588260",
-        "pct": 1.27,
-        "amount": 163.0,
-        "category": "科创板"
-      },
-      {
-        "name": "中韩半导体ETF华泰柏瑞",
-        "code": "513310",
-        "pct": 1.25,
-        "amount": 605628.0,
-        "category": "芯片/半导体"
       },
       {
         "name": "油气ETF银华",
         "code": "563150",
-        "pct": 1.25,
-        "amount": 100.0,
+        "pct": 1.33,
+        "amount": 119.0,
         "category": null
       },
       {
-        "name": "电力ETF华夏",
-        "code": "560830",
-        "pct": 1.22,
-        "amount": 896.0,
-        "category": "电力"
+        "name": "石油ETF景顺",
+        "code": "159588",
+        "pct": 1.14,
+        "amount": 675.0,
+        "category": null
       },
       {
-        "name": "绿电ETF华夏",
-        "code": "562550",
-        "pct": 1.22,
-        "amount": 2538.0,
-        "category": "电力"
+        "name": "家电ETF华夏",
+        "code": "515640",
+        "pct": 1.08,
+        "amount": 245.0,
+        "category": "家电"
+      },
+      {
+        "name": "云计算50ETF新华",
+        "code": "560660",
+        "pct": 1.08,
+        "amount": 114.0,
+        "category": "云计算/大数据"
+      },
+      {
+        "name": "油气ETF博时",
+        "code": "561760",
+        "pct": 1.07,
+        "amount": 202.0,
+        "category": null
+      },
+      {
+        "name": "信息技术ETF华夏",
+        "code": "562560",
+        "pct": 1.06,
+        "amount": 350.0,
+        "category": "计算机/信创"
+      },
+      {
+        "name": "能源ETF广发",
+        "code": "159945",
+        "pct": 1.06,
+        "amount": 172.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "电子50ETF华安",
+        "code": "515320",
+        "pct": 1.04,
+        "amount": 524.0,
+        "category": "电子"
       }
     ]
   }
