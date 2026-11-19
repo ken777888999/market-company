@@ -10722,73 +10722,73 @@
     "date": "2026-11-19",
     "top10": [
       {
-        "name": "半导体设备ETF国泰",
-        "code": "159516",
-        "pct": 1.91,
-        "amount": 278054.0,
-        "category": "芯片/半导体"
-      },
-      {
         "name": "科创半导体ETF华夏",
         "code": "588170",
-        "pct": 1.87,
-        "amount": 762291.0,
+        "pct": 2.44,
+        "amount": 946830.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF易方达",
         "code": "159558",
-        "pct": 1.7,
-        "amount": 184500.0,
+        "pct": 2.43,
+        "amount": 219940.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF华夏",
         "code": "562590",
-        "pct": 1.62,
-        "amount": 40450.0,
+        "pct": 2.3,
+        "amount": 49169.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF国泰",
+        "code": "159516",
+        "pct": 2.29,
+        "amount": 344639.0,
         "category": "芯片/半导体"
       },
       {
         "name": "半导体设备ETF广发",
         "code": "560780",
-        "pct": 1.55,
-        "amount": 55174.0,
+        "pct": 2.07,
+        "amount": 67372.0,
         "category": "芯片/半导体"
       },
       {
-        "name": "家电ETF博时",
-        "code": "159730",
-        "pct": 1.16,
-        "amount": 546.0,
-        "category": "家电"
-      },
-      {
-        "name": "科创信息ETF华安",
-        "code": "588260",
-        "pct": 0.97,
-        "amount": 654.0,
+        "name": "科创50ETF易方达",
+        "code": "588080",
+        "pct": 1.96,
+        "amount": 1272513.0,
         "category": "科创板"
-      },
-      {
-        "name": "标普消费ETF景顺",
-        "code": "159529",
-        "pct": 0.88,
-        "amount": 33566.0,
-        "category": "消费/白酒"
-      },
-      {
-        "name": "张江ETF汇添富",
-        "code": "517850",
-        "pct": 0.78,
-        "amount": 167.0,
-        "category": null
       },
       {
         "name": "科创50ETF华泰柏瑞",
         "code": "588090",
-        "pct": 0.78,
-        "amount": 18811.0,
+        "pct": 1.95,
+        "amount": 25372.0,
+        "category": "科创板"
+      },
+      {
+        "name": "半导体设备ETF招商",
+        "code": "561980",
+        "pct": 1.9,
+        "amount": 38284.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "科创50ETF国联安",
+        "code": "588180",
+        "pct": 1.84,
+        "amount": 5740.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创50增强ETF招商",
+        "code": "588450",
+        "pct": 1.82,
+        "amount": 1936.0,
         "category": "科创板"
       }
     ]
