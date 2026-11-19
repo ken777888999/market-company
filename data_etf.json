@@ -10722,74 +10722,74 @@
     "date": "2026-11-19",
     "top10": [
       {
+        "name": "半导体设备ETF国泰",
+        "code": "159516",
+        "pct": 1.91,
+        "amount": 169894.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF华夏",
+        "code": "562590",
+        "pct": 1.89,
+        "amount": 28740.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "科创半导体ETF华夏",
+        "code": "588170",
+        "pct": 1.87,
+        "amount": 474894.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF广发",
+        "code": "560780",
+        "pct": 1.68,
+        "amount": 38844.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF易方达",
+        "code": "159558",
+        "pct": 1.58,
+        "amount": 133637.0,
+        "category": "芯片/半导体"
+      },
+      {
         "name": "标普消费ETF景顺",
         "code": "159529",
-        "pct": 1.39,
-        "amount": 18027.0,
+        "pct": 1.46,
+        "amount": 25213.0,
         "category": "消费/白酒"
       },
       {
         "name": "家电ETF博时",
         "code": "159730",
-        "pct": 0.97,
-        "amount": 347.0,
+        "pct": 1.16,
+        "amount": 393.0,
         "category": "家电"
       },
       {
-        "name": "纳指ETF易方达",
-        "code": "159696",
-        "pct": 0.55,
-        "amount": 151.0,
-        "category": "海外QDII"
+        "name": "科创50ETF华泰柏瑞",
+        "code": "588090",
+        "pct": 1.09,
+        "amount": 14138.0,
+        "category": "科创板"
       },
       {
-        "name": "家电ETF国泰",
-        "code": "159996",
-        "pct": 0.51,
-        "amount": 2505.0,
-        "category": "家电"
+        "name": "科创50ETF易方达",
+        "code": "588080",
+        "pct": 1.02,
+        "amount": 457961.0,
+        "category": "科创板"
       },
       {
-        "name": "纳指ETF汇添富",
-        "code": "159660",
-        "pct": 0.48,
-        "amount": 90.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "纳斯达克100ETF大成",
-        "code": "159513",
-        "pct": 0.46,
-        "amount": 134.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "标普500ETF国泰",
-        "code": "159612",
-        "pct": 0.45,
-        "amount": 1803.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "30年国债ETF鹏扬",
-        "code": "511090",
-        "pct": 0.42,
-        "amount": 151515.0,
-        "category": "债券"
-      },
-      {
-        "name": "纳斯达克ETF华安",
-        "code": "159632",
-        "pct": 0.42,
-        "amount": 98.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "半导体设备ETF国泰",
-        "code": "159516",
-        "pct": 0.38,
-        "amount": 104308.0,
-        "category": "芯片/半导体"
+        "name": "科创50ETF鹏华",
+        "code": "588040",
+        "pct": 0.94,
+        "amount": 1177.0,
+        "category": "科创板"
       }
     ]
   }
