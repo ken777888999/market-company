@@ -1,38 +1,6 @@
 [
   {
     "date": "2026-09-30",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [
-      {
-        "art_code": "AN202609301830016407",
-        "title": "广合科技:H股公告-建议采纳A股激励计划及H股激励计划",
-        "date": "2026-09-30",
-        "time": "08:13",
-        "category": "其他",
-        "codes": [
-          "001389"
-        ],
-        "names": [
-          "广合科技"
-        ],
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202609301830016407.html"
-      }
-    ],
-    "reports": [
-      {
-        "code": "300502",
-        "name": "新易盛",
-        "title": "NPO产业发展加速，光模块产业持续受益",
-        "org": "群益证券",
-        "rating": "",
-        "date": "2026-09-29",
-        "digest": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-09-30",
     "time": "21:00",
     "period": "晚间",
     "announcements": [
@@ -14883,6 +14851,13 @@
         "url": "https://data.eastmoney.com/notices/detail/300857/AN202611181831815441.html"
       }
     ],
+    "reports": []
+  },
+  {
+    "date": "2026-11-19",
+    "time": "09:00",
+    "period": "早间",
+    "announcements": [],
     "reports": []
   }
 ]
