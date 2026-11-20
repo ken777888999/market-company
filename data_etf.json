@@ -10797,74 +10797,74 @@
     "date": "2026-11-20",
     "top10": [
       {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 0.46,
-        "amount": 60173.0,
-        "category": "煤炭/能源"
-      },
-      {
-        "name": "养殖ETF国泰",
-        "code": "159865",
-        "pct": 0.38,
-        "amount": 13783.0,
-        "category": "农业"
-      },
-      {
-        "name": "畜牧养殖ETF天弘",
-        "code": "561470",
-        "pct": 0.29,
-        "amount": 159.0,
-        "category": "农业"
-      },
-      {
-        "name": "养殖ETF平安",
-        "code": "516760",
-        "pct": 0.17,
-        "amount": 192.0,
-        "category": "农业"
-      },
-      {
         "name": "国企ETF平安",
         "code": "159719",
-        "pct": 0.12,
-        "amount": 1153.0,
+        "pct": 3.46,
+        "amount": 1566.0,
         "category": "国企/央企"
       },
       {
-        "name": "畜牧养殖ETF鑫元",
-        "code": "561400",
-        "pct": 0.1,
-        "amount": 168.0,
-        "category": "农业"
+        "name": "央企共赢ETF国泰",
+        "code": "517090",
+        "pct": 1.55,
+        "amount": 634.0,
+        "category": "国企/央企"
       },
       {
-        "name": "科创债ETF嘉实",
-        "code": "159600",
-        "pct": 0.09,
-        "amount": 248743.0,
-        "category": "科创板"
+        "name": "银行ETF华泰柏瑞",
+        "code": "560670",
+        "pct": 1.53,
+        "amount": 1677.0,
+        "category": "银行"
       },
       {
-        "name": "科创债ETF广发",
-        "code": "511120",
-        "pct": 0.08,
-        "amount": 8762.0,
-        "category": "科创板"
+        "name": "金融地产ETF华夏",
+        "code": "510650",
+        "pct": 1.46,
+        "amount": 178.0,
+        "category": "银行"
       },
       {
-        "name": "科创债ETF南方",
-        "code": "159700",
-        "pct": 0.08,
-        "amount": 376579.0,
-        "category": "科创板"
+        "name": "金融地产ETF国投瑞银",
+        "code": "159933",
+        "pct": 1.4,
+        "amount": 14.0,
+        "category": "银行"
       },
       {
-        "name": "公司债ETF南方",
-        "code": "511070",
-        "pct": 0.07,
-        "amount": 189028.0,
-        "category": "债券"
+        "name": "银行ETF汇添富",
+        "code": "512820",
+        "pct": 1.37,
+        "amount": 10504.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF华安",
+        "code": "516210",
+        "pct": 1.28,
+        "amount": 1483.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF银华",
+        "code": "561530",
+        "pct": 1.28,
+        "amount": 269.0,
+        "category": "银行"
+      },
+      {
+        "name": "银行ETF富国",
+        "code": "159887",
+        "pct": 1.27,
+        "amount": 11316.0,
+        "category": "银行"
+      },
+      {
+        "name": "金融地产ETF汇添富",
+        "code": "159931",
+        "pct": 1.2,
+        "amount": 22.0,
+        "category": "银行"
       }
     ]
   }
