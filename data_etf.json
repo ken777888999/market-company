@@ -10792,5 +10792,80 @@
         "category": "科创板"
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "top10": [
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 0.7,
+        "amount": 20589.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "30年国债ETF博时",
+        "code": "511130",
+        "pct": 0.31,
+        "amount": 94560.0,
+        "category": "债券"
+      },
+      {
+        "name": "30年国债ETF鹏扬",
+        "code": "511090",
+        "pct": 0.28,
+        "amount": 217726.0,
+        "category": "债券"
+      },
+      {
+        "name": "科创债ETF广发",
+        "code": "511120",
+        "pct": 0.21,
+        "amount": 4476.0,
+        "category": "科创板"
+      },
+      {
+        "name": "城投债ETF海富通",
+        "code": "511220",
+        "pct": 0.21,
+        "amount": 97013.0,
+        "category": null
+      },
+      {
+        "name": "公司债ETF南方",
+        "code": "511070",
+        "pct": 0.19,
+        "amount": 78265.0,
+        "category": "债券"
+      },
+      {
+        "name": "政金债ETF富国",
+        "code": "511520",
+        "pct": 0.19,
+        "amount": 87875.0,
+        "category": null
+      },
+      {
+        "name": "信用债ETF华夏",
+        "code": "511200",
+        "pct": 0.18,
+        "amount": 170909.0,
+        "category": null
+      },
+      {
+        "name": "信用债ETF海富通",
+        "code": "511190",
+        "pct": 0.16,
+        "amount": 24874.0,
+        "category": null
+      },
+      {
+        "name": "公司债ETF易方达",
+        "code": "511110",
+        "pct": 0.15,
+        "amount": 45057.0,
+        "category": "债券"
+      }
+    ]
   }
 ]
