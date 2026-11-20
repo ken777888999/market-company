@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [],
-    "reports": []
-  },
-  {
     "date": "2026-10-02",
     "time": "09:00",
     "period": "早间",
@@ -14655,5 +14648,419 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202611201831907491",
+        "title": "星宸科技:关于香港联交所审议公司发行境外上市股份(H股)的公告",
+        "date": "2026-11-21",
+        "time": "20:27",
+        "category": "其他",
+        "codes": [
+          "301536"
+        ],
+        "names": [
+          "星宸科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202611201831907491.html"
+      },
+      {
+        "art_code": "AN202611201831906885",
+        "title": "拓荆科技:关于发行股份及支付现金购买资产并募集配套资金事项获得中国证券监督管理委员会同意注册批复的公告",
+        "date": "2026-11-21",
+        "time": "19:57",
+        "category": "增发获准公告",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202611201831906885.html"
+      },
+      {
+        "art_code": "AN202611201831906884",
+        "title": "拓荆科技:拓荆科技股份有限公司发行股份及支付现金购买资产并募集配套资金报告书",
+        "date": "2026-11-21",
+        "time": "19:57",
+        "category": "其他增发事项公告",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202611201831906884.html"
+      },
+      {
+        "art_code": "AN202611201831906882",
+        "title": "拓荆科技:华泰联合证券有限责任公司关于拓荆科技股份有限公司发行股份及支付现金购买资产并募集配套资金之独立财务顾问报告",
+        "date": "2026-11-21",
+        "time": "19:57",
+        "category": "保荐/核查意见",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202611201831906882.html"
+      },
+      {
+        "art_code": "AN202611201831906881",
+        "title": "拓荆科技:关于发行股份及支付现金购买资产并募集配套资金报告书修订说明的公告",
+        "date": "2026-11-21",
+        "time": "19:57",
+        "category": "其他",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202611201831906881.html"
+      },
+      {
+        "art_code": "AN202611201831906883",
+        "title": "拓荆科技:关于收到公司董事长提议回购公司股份的提示性公告",
+        "date": "2026-11-21",
+        "time": "19:57",
+        "category": "回购预案",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202611201831906883.html"
+      },
+      {
+        "art_code": "AN202611201831906023",
+        "title": "株冶集团:株冶集团第九届董事会第一次会议决议公告",
+        "date": "2026-11-21",
+        "time": "19:17",
+        "category": "高管人员任职变动,董事会决议公告",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202611201831906023.html"
+      },
+      {
+        "art_code": "AN202611201831906022",
+        "title": "株冶集团:株冶集团关于董事会完成换届选举及聘任高级管理人员、证券事务代表的公告",
+        "date": "2026-11-21",
+        "time": "19:17",
+        "category": "高管人员任职变动",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202611201831906022.html"
+      },
+      {
+        "art_code": "AN202611201831906024",
+        "title": "株冶集团:株冶集团关于聘任董事会秘书的公告",
+        "date": "2026-11-21",
+        "time": "19:17",
+        "category": "高管人员任职变动",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202611201831906024.html"
+      },
+      {
+        "art_code": "AN202611201831905927",
+        "title": "广合科技:容诚会计师事务所(特殊普通合伙)关于广州广合科技股份有限公司申请向不特定对象发行可转换公司债券的审核问询函之回复报告",
+        "date": "2026-11-21",
+        "time": "19:16",
+        "category": "会计师事务所问询函回复公告",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202611201831905927.html"
+      },
+      {
+        "art_code": "AN202611201831905928",
+        "title": "广合科技:关于向不特定对象发行可转换公司债券的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "date": "2026-11-21",
+        "time": "19:13",
+        "category": "其他,回复问询函公告",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202611201831905928.html"
+      },
+      {
+        "art_code": "AN202611201831905913",
+        "title": "广合科技:关于广州广合科技股份有限公司申请向不特定对象发行可转换公司债券的审核问询函之回复报告",
+        "date": "2026-11-21",
+        "time": "19:13",
+        "category": "其他,回复问询函公告",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202611201831905913.html"
+      },
+      {
+        "art_code": "AN202611201831905924",
+        "title": "广合科技:中信证券股份有限公司关于广州广合科技股份有限公司向不特定对象发行可转换公司债券之发行保荐书",
+        "date": "2026-11-21",
+        "time": "19:13",
+        "category": "其他,发行保荐书",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202611201831905924.html"
+      },
+      {
+        "art_code": "AN202611201831905922",
+        "title": "广合科技:向不特定对象发行可转换公司债券募集说明书(修订稿)",
+        "date": "2026-11-21",
+        "time": "19:13",
+        "category": "其他",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202611201831905922.html"
+      },
+      {
+        "art_code": "AN202611201831905919",
+        "title": "广合科技:中信证券股份有限公司关于广州广合科技股份有限公司向不特定对象发行可转换公司债券之上市保荐书",
+        "date": "2026-11-21",
+        "time": "19:13",
+        "category": "其他,上市保荐书",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202611201831905919.html"
+      },
+      {
+        "art_code": "AN202611201831905107",
+        "title": "桐昆股份:桐昆集团股份有限公司关于公司注册资本变更完成工商变更登记的公告",
+        "date": "2026-11-21",
+        "time": "18:51",
+        "category": "公司注册资本变更",
+        "codes": [
+          "601233"
+        ],
+        "names": [
+          "桐昆股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601233/AN202611201831905107.html"
+      },
+      {
+        "art_code": "AN202611201831904546",
+        "title": "沪电股份:关于以集中竞价交易方式首次回购公司股份的公告",
+        "date": "2026-11-21",
+        "time": "18:32",
+        "category": "回购实施公告",
+        "codes": [
+          "002463"
+        ],
+        "names": [
+          "沪电股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202611201831904546.html"
+      },
+      {
+        "art_code": "AN202611201831904028",
+        "title": "澜起科技:澜起科技2026年第一次临时股东会会议资料",
+        "date": "2026-11-21",
+        "time": "18:12",
+        "category": "股东大会资料",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202611201831904028.html"
+      },
+      {
+        "art_code": "AN202611201831904029",
+        "title": "澜起科技:澜起科技关于召开2026年第一次临时股东会的通知",
+        "date": "2026-11-21",
+        "time": "18:12",
+        "category": "召开股东大会通知",
+        "codes": [
+          "688008"
+        ],
+        "names": [
+          "澜起科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202611201831904029.html"
+      },
+      {
+        "art_code": "AN202611201831901801",
+        "title": "生益科技:生益科技关于股份回购进展公告",
+        "date": "2026-11-21",
+        "time": "17:40",
+        "category": "回购进展情况",
+        "codes": [
+          "600183"
+        ],
+        "names": [
+          "生益科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600183/AN202611201831901801.html"
+      },
+      {
+        "art_code": "AN202611201831898666",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于以集中竞价交易方式首次回购公司A股股份的公告",
+        "date": "2026-11-21",
+        "time": "17:12",
+        "category": "回购实施公告",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202611201831898666.html"
+      },
+      {
+        "art_code": "AN202611201831897104",
+        "title": "兆易创新:H股公告-翌日披露报表",
+        "date": "2026-11-21",
+        "time": "16:40",
+        "category": "其他",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202611201831897104.html"
+      },
+      {
+        "art_code": "AN202611201831896978",
+        "title": "兆易创新:兆易创新关于以集中竞价交易方式回购A股股份的进展公告",
+        "date": "2026-11-21",
+        "time": "16:37",
+        "category": "回购进展情况",
+        "codes": [
+          "603986"
+        ],
+        "names": [
+          "兆易创新"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202611201831896978.html"
+      },
+      {
+        "art_code": "AN202611201831895348",
+        "title": "中国巨石:中国巨石关于取得金融机构股票回购专项贷款承诺函的公告",
+        "date": "2026-11-21",
+        "time": "15:47",
+        "category": "借贷,回购预案,其他",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202611201831895348.html"
+      },
+      {
+        "art_code": "AN202611201831906812",
+        "title": "300054鼎龙股份投资者关系管理信息20261120",
+        "date": "2026-11-20",
+        "time": "19:54",
+        "category": "调研活动",
+        "codes": [
+          "300054"
+        ],
+        "names": [
+          "鼎龙股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202611201831906812.html"
+      },
+      {
+        "art_code": "AN202611201831904250",
+        "title": "关于同意拓荆科技股份有限公司发行股份购买资产并募集配套资金注册的批复",
+        "date": "2026-11-20",
+        "time": "18:22",
+        "category": "科创板并购重组审核注册结果通知",
+        "codes": [
+          "688072"
+        ],
+        "names": [
+          "拓荆科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688072/AN202611201831904250.html"
+      },
+      {
+        "art_code": "AN202611201831902673",
+        "title": "江丰电子:关于新增回购专用证券账户的公告",
+        "date": "2026-11-20",
+        "time": "17:58",
+        "category": "其他",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202611201831902673.html"
+      },
+      {
+        "art_code": "AN202611201831902672",
+        "title": "江丰电子:关于首次回购公司股份的公告",
+        "date": "2026-11-20",
+        "time": "17:58",
+        "category": "回购实施公告",
+        "codes": [
+          "300666"
+        ],
+        "names": [
+          "江丰电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202611201831902672.html"
+      },
+      {
+        "art_code": "AN202611201831894539",
+        "title": "赛分科技:2026年11月19日苏州赛分科技股份有限公司投资者关系活动表",
+        "date": "2026-11-20",
+        "time": "15:34",
+        "category": "调研活动",
+        "codes": [
+          "688758"
+        ],
+        "names": [
+          "赛分科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688758/AN202611201831894539.html"
+      }
+    ],
+    "reports": []
   }
 ]
