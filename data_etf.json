@@ -10797,74 +10797,74 @@
     "date": "2026-11-20",
     "top10": [
       {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 0.46,
+        "amount": 60173.0,
+        "category": "煤炭/能源"
+      },
+      {
         "name": "养殖ETF国泰",
         "code": "159865",
-        "pct": 0.94,
-        "amount": 10413.0,
-        "category": "农业"
-      },
-      {
-        "name": "影视ETF国泰",
-        "code": "516620",
-        "pct": 0.93,
-        "amount": 11680.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "养殖ETF平安",
-        "code": "516760",
-        "pct": 0.87,
-        "amount": 153.0,
-        "category": "农业"
-      },
-      {
-        "name": "影视ETF银华",
-        "code": "159855",
-        "pct": 0.79,
-        "amount": 3749.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "畜牧养殖ETF鑫元",
-        "code": "561400",
-        "pct": 0.78,
-        "amount": 137.0,
-        "category": "农业"
-      },
-      {
-        "name": "养殖ETF鹏华",
-        "code": "159867",
-        "pct": 0.74,
-        "amount": 2445.0,
-        "category": "农业"
-      },
-      {
-        "name": "畜牧养殖ETF招商",
-        "code": "516670",
-        "pct": 0.67,
-        "amount": 1977.0,
+        "pct": 0.38,
+        "amount": 13783.0,
         "category": "农业"
       },
       {
         "name": "畜牧养殖ETF天弘",
         "code": "561470",
-        "pct": 0.67,
-        "amount": 156.0,
+        "pct": 0.29,
+        "amount": 159.0,
         "category": "农业"
       },
       {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 0.58,
-        "amount": 46790.0,
-        "category": "煤炭/能源"
+        "name": "养殖ETF平安",
+        "code": "516760",
+        "pct": 0.17,
+        "amount": 192.0,
+        "category": "农业"
       },
       {
-        "name": "畜牧养殖ETF广发",
-        "code": "512450",
-        "pct": 0.43,
-        "amount": 202.0,
+        "name": "国企ETF平安",
+        "code": "159719",
+        "pct": 0.12,
+        "amount": 1153.0,
+        "category": "国企/央企"
+      },
+      {
+        "name": "畜牧养殖ETF鑫元",
+        "code": "561400",
+        "pct": 0.1,
+        "amount": 168.0,
         "category": "农业"
+      },
+      {
+        "name": "科创债ETF嘉实",
+        "code": "159600",
+        "pct": 0.09,
+        "amount": 248743.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创债ETF广发",
+        "code": "511120",
+        "pct": 0.08,
+        "amount": 8762.0,
+        "category": "科创板"
+      },
+      {
+        "name": "科创债ETF南方",
+        "code": "159700",
+        "pct": 0.08,
+        "amount": 376579.0,
+        "category": "科创板"
+      },
+      {
+        "name": "公司债ETF南方",
+        "code": "511070",
+        "pct": 0.07,
+        "amount": 189028.0,
+        "category": "债券"
       }
     ]
   }
