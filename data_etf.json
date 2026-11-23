@@ -10872,74 +10872,74 @@
     "date": "2026-11-23",
     "top10": [
       {
-        "name": "黄金股ETF永赢",
-        "code": "517520",
-        "pct": 3.66,
-        "amount": 30628.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "黄金股ETF华夏",
-        "code": "159562",
-        "pct": 3.6,
-        "amount": 8596.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "黄金股ETF国泰",
-        "code": "517400",
-        "pct": 3.48,
-        "amount": 4459.0,
-        "category": "有色/资源"
-      },
-      {
         "name": "机器人ETF易方达",
         "code": "159530",
-        "pct": 3.15,
-        "amount": 90404.0,
+        "pct": 9.35,
+        "amount": 156848.0,
         "category": "机器人"
       },
       {
         "name": "机器人ETF景顺",
         "code": "159559",
-        "pct": 2.98,
-        "amount": 8444.0,
+        "pct": 8.73,
+        "amount": 13116.0,
         "category": "机器人"
       },
       {
         "name": "影视ETF银华",
         "code": "159855",
-        "pct": 2.83,
-        "amount": 4798.0,
+        "pct": 7.82,
+        "amount": 8525.0,
         "category": "传媒/游戏"
-      },
-      {
-        "name": "通信ETF国泰",
-        "code": "515880",
-        "pct": 2.76,
-        "amount": 172793.0,
-        "category": "通信/5G"
       },
       {
         "name": "影视ETF国泰",
         "code": "516620",
-        "pct": 2.49,
-        "amount": 9450.0,
+        "pct": 7.48,
+        "amount": 16827.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "港股医药ETF平安",
-        "code": "159718",
-        "pct": 2.49,
-        "amount": 4605.0,
-        "category": "医药"
+        "name": "机器人ETF华夏",
+        "code": "562500",
+        "pct": 6.94,
+        "amount": 68552.0,
+        "category": "机器人"
       },
       {
-        "name": "通信ETF华夏",
-        "code": "515050",
-        "pct": 2.43,
-        "amount": 36970.0,
-        "category": "通信/5G"
+        "name": "机器人ETF银华",
+        "code": "562360",
+        "pct": 6.9,
+        "amount": 1845.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF国泰",
+        "code": "159551",
+        "pct": 6.81,
+        "amount": 2224.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF招商",
+        "code": "560770",
+        "pct": 6.8,
+        "amount": 2583.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF天弘",
+        "code": "159770",
+        "pct": 6.8,
+        "amount": 15617.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF嘉实",
+        "code": "159526",
+        "pct": 6.78,
+        "amount": 3295.0,
+        "category": "机器人"
       }
     ]
   }
