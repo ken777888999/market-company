@@ -10874,71 +10874,71 @@
       {
         "name": "机器人ETF易方达",
         "code": "159530",
-        "pct": 9.35,
-        "amount": 156848.0,
+        "pct": 9.17,
+        "amount": 209650.0,
         "category": "机器人"
       },
       {
         "name": "机器人ETF景顺",
         "code": "159559",
-        "pct": 8.73,
-        "amount": 13116.0,
-        "category": "机器人"
-      },
-      {
-        "name": "影视ETF银华",
-        "code": "159855",
-        "pct": 7.82,
-        "amount": 8525.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "影视ETF国泰",
-        "code": "516620",
-        "pct": 7.48,
-        "amount": 16827.0,
-        "category": "传媒/游戏"
-      },
-      {
-        "name": "机器人ETF华夏",
-        "code": "562500",
-        "pct": 6.94,
-        "amount": 68552.0,
-        "category": "机器人"
-      },
-      {
-        "name": "机器人ETF银华",
-        "code": "562360",
-        "pct": 6.9,
-        "amount": 1845.0,
-        "category": "机器人"
-      },
-      {
-        "name": "机器人ETF国泰",
-        "code": "159551",
-        "pct": 6.81,
-        "amount": 2224.0,
-        "category": "机器人"
-      },
-      {
-        "name": "机器人ETF招商",
-        "code": "560770",
-        "pct": 6.8,
-        "amount": 2583.0,
-        "category": "机器人"
-      },
-      {
-        "name": "机器人ETF天弘",
-        "code": "159770",
-        "pct": 6.8,
-        "amount": 15617.0,
+        "pct": 9.03,
+        "amount": 16788.0,
         "category": "机器人"
       },
       {
         "name": "机器人ETF嘉实",
         "code": "159526",
-        "pct": 6.78,
-        "amount": 3295.0,
+        "pct": 7.13,
+        "amount": 3979.0,
+        "category": "机器人"
+      },
+      {
+        "name": "影视ETF银华",
+        "code": "159855",
+        "pct": 7.01,
+        "amount": 11486.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 6.89,
+        "amount": 21787.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "机器人ETF天弘",
+        "code": "159770",
+        "pct": 6.8,
+        "amount": 18701.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF华夏",
+        "code": "562500",
+        "pct": 6.68,
+        "amount": 87797.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF万家",
+        "code": "560630",
+        "pct": 6.66,
+        "amount": 1733.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF国泰",
+        "code": "159551",
+        "pct": 6.61,
+        "amount": 2652.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF招商",
+        "code": "560770",
+        "pct": 6.54,
+        "amount": 3791.0,
         "category": "机器人"
       }
     ]
