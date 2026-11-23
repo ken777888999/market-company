@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-10-04",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [],
-    "reports": []
-  },
-  {
     "date": "2026-10-05",
     "time": "09:00",
     "period": "早间",
@@ -15129,5 +15122,167 @@
         "digest": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202611231831964426",
+        "title": "中际旭创:第六届董事会第六次会议决议公告",
+        "date": "2026-11-24",
+        "time": "20:25",
+        "category": "董事会决议公告",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202611231831964426.html"
+      },
+      {
+        "art_code": "AN202611231831964427",
+        "title": "中际旭创:关于回购公司股份方案的公告",
+        "date": "2026-11-24",
+        "time": "20:25",
+        "category": "回购预案",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202611231831964427.html"
+      },
+      {
+        "art_code": "AN202611231831961789",
+        "title": "利通电子:利通电子关于2025年限制性股票激励计划首次授予第一个解除限售期解除限售暨上市流通的公告",
+        "date": "2026-11-24",
+        "time": "18:38",
+        "category": "限售股份上市流通,股权激励进展公告",
+        "codes": [
+          "603629"
+        ],
+        "names": [
+          "利通电子"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603629/AN202611231831961789.html"
+      },
+      {
+        "art_code": "AN202611231831958984",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于回购A股股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "date": "2026-11-24",
+        "time": "17:55",
+        "category": "回购进展情况",
+        "codes": [
+          "601899"
+        ],
+        "names": [
+          "紫金矿业"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202611231831958984.html"
+      },
+      {
+        "art_code": "AN202611231831952802",
+        "title": "智微智能:关于参加2026年度深圳辖区上市公司投资者网上集体接待日的公告",
+        "date": "2026-11-24",
+        "time": "16:27",
+        "category": "调研活动",
+        "codes": [
+          "001339"
+        ],
+        "names": [
+          "智微智能"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202611231831952802.html"
+      },
+      {
+        "art_code": "AN202611231831952570",
+        "title": "中国巨石:中国巨石股份有限公司2026年第二次临时股东会会议材料",
+        "date": "2026-11-24",
+        "time": "16:25",
+        "category": "股东大会资料",
+        "codes": [
+          "600176"
+        ],
+        "names": [
+          "中国巨石"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600176/AN202611231831952570.html"
+      },
+      {
+        "art_code": "AN202611231831952479",
+        "title": "东山精密:关于公司境外上市外资股(H股)调入港股通标的证券名单的公告",
+        "date": "2026-11-24",
+        "time": "16:24",
+        "category": "其他",
+        "codes": [
+          "002384"
+        ],
+        "names": [
+          "东山精密"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/002384/AN202611231831952479.html"
+      },
+      {
+        "art_code": "AN202611231831950306",
+        "title": "源杰科技:陕西源杰半导体科技股份有限公司关于召开2026年第三季度业绩说明会的公告",
+        "date": "2026-11-24",
+        "time": "15:32",
+        "category": "其他",
+        "codes": [
+          "688498"
+        ],
+        "names": [
+          "源杰科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688498/AN202611231831950306.html"
+      },
+      {
+        "art_code": "AN202611231831956573",
+        "title": "领先股份:2026年第三季度业绩说明会投资者关系活动记录表",
+        "date": "2026-11-23",
+        "time": "17:01",
+        "category": "调研活动",
+        "codes": [
+          "603991"
+        ],
+        "names": [
+          "领先股份"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/603991/AN202611231831956573.html"
+      },
+      {
+        "art_code": "AN202611231831962003",
+        "title": "三环集团:H股公告-翌日披露报表",
+        "date": "2026-11-23",
+        "time": "18:49",
+        "category": "其他",
+        "codes": [
+          "300408"
+        ],
+        "names": [
+          "三环集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202611231831962003.html"
+      },
+      {
+        "art_code": "AN202611231831961517",
+        "title": "星宸科技:关于完成工商变更登记并换发营业执照的公告",
+        "date": "2026-11-23",
+        "time": "18:30",
+        "category": "公司注册资本变更",
+        "codes": [
+          "301536"
+        ],
+        "names": [
+          "星宸科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202611231831961517.html"
+      }
+    ],
+    "reports": []
   }
 ]
