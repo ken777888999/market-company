@@ -10872,74 +10872,74 @@
     "date": "2026-11-23",
     "top10": [
       {
-        "name": "豆粕ETF华夏",
-        "code": "159985",
-        "pct": 1.39,
-        "amount": 9802.0,
-        "category": null
+        "name": "黄金股ETF永赢",
+        "code": "517520",
+        "pct": 3.66,
+        "amount": 30628.0,
+        "category": "有色/资源"
       },
       {
         "name": "黄金股ETF华夏",
         "code": "159562",
-        "pct": 1.14,
-        "amount": 5035.0,
+        "pct": 3.6,
+        "amount": 8596.0,
         "category": "有色/资源"
       },
       {
         "name": "黄金股ETF国泰",
         "code": "517400",
-        "pct": 1.13,
-        "amount": 2937.0,
+        "pct": 3.48,
+        "amount": 4459.0,
         "category": "有色/资源"
-      },
-      {
-        "name": "黄金股ETF永赢",
-        "code": "517520",
-        "pct": 1.1,
-        "amount": 19228.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "港股医药ETF平安",
-        "code": "159718",
-        "pct": 1.05,
-        "amount": 3011.0,
-        "category": "医药"
       },
       {
         "name": "机器人ETF易方达",
         "code": "159530",
-        "pct": 0.99,
-        "amount": 59306.0,
+        "pct": 3.15,
+        "amount": 90404.0,
+        "category": "机器人"
+      },
+      {
+        "name": "机器人ETF景顺",
+        "code": "159559",
+        "pct": 2.98,
+        "amount": 8444.0,
         "category": "机器人"
       },
       {
         "name": "影视ETF银华",
         "code": "159855",
-        "pct": 0.81,
-        "amount": 3740.0,
+        "pct": 2.83,
+        "amount": 4798.0,
         "category": "传媒/游戏"
       },
       {
-        "name": "机器人ETF景顺",
-        "code": "159559",
-        "pct": 0.79,
-        "amount": 5902.0,
-        "category": "机器人"
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 2.76,
+        "amount": 172793.0,
+        "category": "通信/5G"
       },
       {
-        "name": "港股创新药ETF景顺",
-        "code": "513780",
-        "pct": 0.71,
-        "amount": 25399.0,
+        "name": "影视ETF国泰",
+        "code": "516620",
+        "pct": 2.49,
+        "amount": 9450.0,
+        "category": "传媒/游戏"
+      },
+      {
+        "name": "港股医药ETF平安",
+        "code": "159718",
+        "pct": 2.49,
+        "amount": 4605.0,
         "category": "医药"
       },
       {
-        "name": "上海金ETF建信",
-        "code": "518860",
-        "pct": 0.7,
-        "amount": 5907.0,
-        "category": null
+        "name": "通信ETF华夏",
+        "code": "515050",
+        "pct": 2.43,
+        "amount": 36970.0,
+        "category": "通信/5G"
       }
     ]
   }
