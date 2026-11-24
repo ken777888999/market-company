@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-10-05",
-    "time": "21:00",
-    "period": "晚间",
-    "announcements": [],
-    "reports": []
-  },
-  {
     "date": "2026-10-06",
     "time": "09:00",
     "period": "早间",
@@ -15282,6 +15275,42 @@
     "date": "2026-11-24",
     "time": "09:00",
     "period": "早间",
+    "announcements": [
+      {
+        "art_code": "AN202611241831973219",
+        "title": "江波龙:2026年第三次临时股东会决议公告",
+        "date": "2026-11-24",
+        "time": "07:45",
+        "category": "股东大会决议公告",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202611241831973219.html"
+      },
+      {
+        "art_code": "AN202611241831973220",
+        "title": "江波龙:北京市中伦(深圳)律师事务所关于公司2026年第三次临时股东会的法律意见书",
+        "date": "2026-11-24",
+        "time": "07:45",
+        "category": "法律意见书",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202611241831973220.html"
+      }
+    ],
+    "reports": []
+  },
+  {
+    "date": "2026-11-24",
+    "time": "15:12",
+    "period": "晚间",
     "announcements": [
       {
         "art_code": "AN202611241831973219",
