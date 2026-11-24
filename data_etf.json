@@ -10949,71 +10949,71 @@
       {
         "name": "纳指科技ETF景顺",
         "code": "159509",
-        "pct": 5.27,
-        "amount": 85878.0,
+        "pct": 5.83,
+        "amount": 122391.0,
         "category": "海外QDII"
       },
       {
-        "name": "中韩半导体ETF华泰柏瑞",
-        "code": "513310",
-        "pct": 4.29,
-        "amount": 1136163.0,
-        "category": "芯片/半导体"
+        "name": "亚太精选ETF南方",
+        "code": "159687",
+        "pct": 4.12,
+        "amount": 11834.0,
+        "category": null
       },
       {
         "name": "纳指ETF嘉实",
         "code": "159501",
-        "pct": 4.18,
-        "amount": 7559.0,
+        "pct": 4.07,
+        "amount": 9840.0,
         "category": "海外QDII"
       },
       {
         "name": "日经225ETF易方达",
         "code": "513000",
         "pct": 4.06,
-        "amount": 13269.0,
+        "amount": 17109.0,
         "category": "海外QDII"
+      },
+      {
+        "name": "中韩半导体ETF华泰柏瑞",
+        "code": "513310",
+        "pct": 4.02,
+        "amount": 1620152.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "日经ETF工银",
+        "code": "159866",
+        "pct": 3.93,
+        "amount": 27032.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "美国50ETF汇添富",
+        "code": "159577",
+        "pct": 3.92,
+        "amount": 7824.0,
+        "category": null
       },
       {
         "name": "纳指ETF国泰",
         "code": "513100",
-        "pct": 3.95,
-        "amount": 27435.0,
+        "pct": 3.9,
+        "amount": 36457.0,
         "category": "海外QDII"
       },
       {
         "name": "日经225ETF华安",
         "code": "513880",
-        "pct": 3.93,
-        "amount": 11336.0,
+        "pct": 3.88,
+        "amount": 13374.0,
         "category": "海外QDII"
-      },
-      {
-        "name": "亚太精选ETF南方",
-        "code": "159687",
-        "pct": 3.85,
-        "amount": 9801.0,
-        "category": null
       },
       {
         "name": "日经ETF华夏",
         "code": "513520",
-        "pct": 3.8,
-        "amount": 16601.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "日经ETF工银",
-        "code": "159866",
-        "pct": 3.79,
-        "amount": 22394.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "纳指100ETF博时",
-        "code": "513390",
-        "pct": 3.7,
-        "amount": 6930.0,
+        "pct": 3.85,
+        "amount": 20206.0,
         "category": "海外QDII"
       }
     ]
