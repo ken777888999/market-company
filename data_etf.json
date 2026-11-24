@@ -10949,72 +10949,72 @@
       {
         "name": "纳指科技ETF景顺",
         "code": "159509",
-        "pct": 5.83,
-        "amount": 122391.0,
+        "pct": 5.61,
+        "amount": 157861.0,
         "category": "海外QDII"
       },
       {
-        "name": "亚太精选ETF南方",
-        "code": "159687",
-        "pct": 4.12,
-        "amount": 11834.0,
-        "category": null
-      },
-      {
-        "name": "纳指ETF嘉实",
-        "code": "159501",
-        "pct": 4.07,
-        "amount": 9840.0,
-        "category": "海外QDII"
+        "name": "纳指生物科技ETF汇添富",
+        "code": "513290",
+        "pct": 4.89,
+        "amount": 50850.0,
+        "category": "医药"
       },
       {
         "name": "日经225ETF易方达",
         "code": "513000",
-        "pct": 4.06,
-        "amount": 17109.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "中韩半导体ETF华泰柏瑞",
-        "code": "513310",
-        "pct": 4.02,
-        "amount": 1620152.0,
-        "category": "芯片/半导体"
-      },
-      {
-        "name": "日经ETF工银",
-        "code": "159866",
-        "pct": 3.93,
-        "amount": 27032.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "美国50ETF汇添富",
-        "code": "159577",
-        "pct": 3.92,
-        "amount": 7824.0,
-        "category": null
-      },
-      {
-        "name": "纳指ETF国泰",
-        "code": "513100",
-        "pct": 3.9,
-        "amount": 36457.0,
+        "pct": 4.17,
+        "amount": 21154.0,
         "category": "海外QDII"
       },
       {
         "name": "日经225ETF华安",
         "code": "513880",
-        "pct": 3.88,
-        "amount": 13374.0,
+        "pct": 4.04,
+        "amount": 17193.0,
         "category": "海外QDII"
       },
       {
         "name": "日经ETF华夏",
         "code": "513520",
-        "pct": 3.85,
-        "amount": 20206.0,
+        "pct": 4.01,
+        "amount": 24489.0,
         "category": "海外QDII"
+      },
+      {
+        "name": "日经ETF工银",
+        "code": "159866",
+        "pct": 4.0,
+        "amount": 32928.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "亚太精选ETF南方",
+        "code": "159687",
+        "pct": 3.98,
+        "amount": 14293.0,
+        "category": null
+      },
+      {
+        "name": "纳指ETF国泰",
+        "code": "513100",
+        "pct": 3.95,
+        "amount": 46121.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "纳指ETF嘉实",
+        "code": "159501",
+        "pct": 3.92,
+        "amount": 12312.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "美国50ETF汇添富",
+        "code": "159577",
+        "pct": 3.66,
+        "amount": 10309.0,
+        "category": null
       }
     ]
   }
