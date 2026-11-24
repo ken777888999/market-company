@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-06",
-    "time": "09:00",
-    "period": "早间",
-    "announcements": [],
-    "reports": []
-  },
-  {
-    "date": "2026-10-06",
     "time": "21:00",
     "period": "晚间",
     "announcements": [],
@@ -15339,6 +15332,140 @@
           "江波龙"
         ],
         "url": "https://data.eastmoney.com/notices/detail/301308/AN202611241831973220.html"
+      }
+    ],
+    "reports": []
+  },
+  {
+    "date": "2026-11-24",
+    "time": "21:00",
+    "period": "晚间",
+    "announcements": [
+      {
+        "art_code": "AN202611241831999283",
+        "title": "中际旭创:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "date": "2026-11-25",
+        "time": "19:22",
+        "category": "回购进展情况",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202611241831999283.html"
+      },
+      {
+        "art_code": "AN202611241831999209",
+        "title": "中际旭创:回购报告书",
+        "date": "2026-11-25",
+        "time": "19:21",
+        "category": "回购报告书",
+        "codes": [
+          "300308"
+        ],
+        "names": [
+          "中际旭创"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202611241831999209.html"
+      },
+      {
+        "art_code": "AN202611241831998060",
+        "title": "南亚新材:关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告",
+        "date": "2026-11-25",
+        "time": "18:47",
+        "category": "回购进展情况",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202611241831998060.html"
+      },
+      {
+        "art_code": "AN202611241831998061",
+        "title": "南亚新材:关于全资子公司投资建设高端覆铜板生产项目的公告",
+        "date": "2026-11-25",
+        "time": "18:47",
+        "category": "其他",
+        "codes": [
+          "688519"
+        ],
+        "names": [
+          "南亚新材"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688519/AN202611241831998061.html"
+      },
+      {
+        "art_code": "AN202611241831998054",
+        "title": "长鑫科技:关于回购股份事项前十名股东和前十名无限售条件股东持股情况公告",
+        "date": "2026-11-25",
+        "time": "18:47",
+        "category": "回购进展情况",
+        "codes": [
+          "688825"
+        ],
+        "names": [
+          "长鑫科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/688825/AN202611241831998054.html"
+      },
+      {
+        "art_code": "AN202611241831998023",
+        "title": "广合科技:H股公告-翌日披露報表",
+        "date": "2026-11-25",
+        "time": "18:47",
+        "category": "其他",
+        "codes": [
+          "001389"
+        ],
+        "names": [
+          "广合科技"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/001389/AN202611241831998023.html"
+      },
+      {
+        "art_code": "AN202611241831994129",
+        "title": "株冶集团:株冶集团关于子公司购买资产暨关联交易完成交割和终止受托管理关联方股权资产的公告",
+        "date": "2026-11-25",
+        "time": "17:17",
+        "category": "委托（受托）事项,收购出售资产/股权,关联交易",
+        "codes": [
+          "600961"
+        ],
+        "names": [
+          "株冶集团"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/600961/AN202611241831994129.html"
+      },
+      {
+        "art_code": "AN202611241831989332",
+        "title": "恒逸石化:关于召开2026年第六次临时股东会的提示性公告",
+        "date": "2026-11-25",
+        "time": "16:23",
+        "category": "召开股东大会提示性公告",
+        "codes": [
+          "000703"
+        ],
+        "names": [
+          "恒逸石化"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202611241831989332.html"
+      },
+      {
+        "art_code": "AN202611241831997227",
+        "title": "江波龙:关于参加2026年度深圳辖区上市公司投资者网上集体接待日活动的公告",
+        "date": "2026-11-24",
+        "time": "18:16",
+        "category": "调研活动",
+        "codes": [
+          "301308"
+        ],
+        "names": [
+          "江波龙"
+        ],
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202611241831997227.html"
       }
     ],
     "reports": []
