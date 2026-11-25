@@ -11025,71 +11025,71 @@
         "name": "标普生物科技ETF嘉实",
         "code": "159502",
         "pct": 4.39,
-        "amount": 17727.0,
+        "amount": 24881.0,
         "category": "医药"
       },
       {
         "name": "纳指生物科技ETF汇添富",
         "code": "513290",
-        "pct": 3.24,
-        "amount": 21021.0,
+        "pct": 4.12,
+        "amount": 37636.0,
         "category": "医药"
-      },
-      {
-        "name": "港股通创新药ETF汇添富",
-        "code": "159570",
-        "pct": 3.18,
-        "amount": 87870.0,
-        "category": "医药"
-      },
-      {
-        "name": "港股创新药ETF银华",
-        "code": "159567",
-        "pct": 3.11,
-        "amount": 52379.0,
-        "category": "医药"
-      },
-      {
-        "name": "恒生互联网ETF华安",
-        "code": "159688",
-        "pct": 3.05,
-        "amount": 7526.0,
-        "category": "港股/中概"
       },
       {
         "name": "港股互联网ETF博时",
         "code": "159568",
-        "pct": 2.97,
-        "amount": 4347.0,
+        "pct": 2.4,
+        "amount": 5833.0,
         "category": "港股/中概"
+      },
+      {
+        "name": "港股消费ETF银华",
+        "code": "159735",
+        "pct": 2.28,
+        "amount": 3123.0,
+        "category": "消费/白酒"
+      },
+      {
+        "name": "港股创新药ETF银华",
+        "code": "159567",
+        "pct": 2.25,
+        "amount": 68117.0,
+        "category": "医药"
       },
       {
         "name": "港股通互联网ETF易方达",
         "code": "513040",
-        "pct": 2.94,
-        "amount": 36746.0,
+        "pct": 2.24,
+        "amount": 49997.0,
         "category": "港股/中概"
       },
       {
-        "name": "港股通互联网ETF富国",
-        "code": "159792",
-        "pct": 2.93,
-        "amount": 100656.0,
+        "name": "港股互联网ETF华宝",
+        "code": "513770",
+        "pct": 2.2,
+        "amount": 43767.0,
         "category": "港股/中概"
       },
       {
         "name": "恒生互联网ETF华夏",
         "code": "513330",
-        "pct": 2.91,
-        "amount": 127012.0,
+        "pct": 2.18,
+        "amount": 164161.0,
         "category": "港股/中概"
       },
       {
-        "name": "中概互联ETF广发",
-        "code": "159605",
-        "pct": 2.9,
-        "amount": 18243.0,
+        "name": "港股互联网ETF国泰",
+        "code": "513720",
+        "pct": 2.17,
+        "amount": 2730.0,
         "category": "港股/中概"
+      },
+      {
+        "name": "港股通创新药ETF汇添富",
+        "code": "159570",
+        "pct": 2.17,
+        "amount": 127556.0,
+        "category": "医药"
       }
     ]
   }
