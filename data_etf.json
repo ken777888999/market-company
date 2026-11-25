@@ -11024,71 +11024,71 @@
       {
         "name": "标普生物科技ETF嘉实",
         "code": "159502",
-        "pct": 4.39,
-        "amount": 24881.0,
+        "pct": 4.33,
+        "amount": 31402.0,
         "category": "医药"
       },
       {
         "name": "纳指生物科技ETF汇添富",
         "code": "513290",
-        "pct": 4.12,
-        "amount": 37636.0,
+        "pct": 4.17,
+        "amount": 58741.0,
         "category": "医药"
-      },
-      {
-        "name": "港股互联网ETF博时",
-        "code": "159568",
-        "pct": 2.4,
-        "amount": 5833.0,
-        "category": "港股/中概"
       },
       {
         "name": "港股消费ETF银华",
         "code": "159735",
-        "pct": 2.28,
-        "amount": 3123.0,
+        "pct": 1.22,
+        "amount": 3834.0,
         "category": "消费/白酒"
       },
       {
-        "name": "港股创新药ETF银华",
-        "code": "159567",
-        "pct": 2.25,
-        "amount": 68117.0,
-        "category": "医药"
+        "name": "港股通消费ETF鹏华",
+        "code": "513590",
+        "pct": 1.18,
+        "amount": 273.0,
+        "category": "消费/白酒"
       },
       {
-        "name": "港股通互联网ETF易方达",
-        "code": "513040",
-        "pct": 2.24,
-        "amount": 49997.0,
+        "name": "中概互联ETF广发",
+        "code": "159605",
+        "pct": 1.07,
+        "amount": 29605.0,
         "category": "港股/中概"
       },
       {
-        "name": "港股互联网ETF华宝",
-        "code": "513770",
-        "pct": 2.2,
-        "amount": 43767.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "恒生互联网ETF华夏",
-        "code": "513330",
-        "pct": 2.18,
-        "amount": 164161.0,
-        "category": "港股/中概"
-      },
-      {
-        "name": "港股互联网ETF国泰",
-        "code": "513720",
-        "pct": 2.17,
-        "amount": 2730.0,
-        "category": "港股/中概"
+        "name": "港股通消费ETF易方达",
+        "code": "513070",
+        "pct": 1.01,
+        "amount": 14930.0,
+        "category": "消费/白酒"
       },
       {
         "name": "港股通创新药ETF汇添富",
         "code": "159570",
-        "pct": 2.17,
-        "amount": 127556.0,
+        "pct": 1.0,
+        "amount": 166542.0,
+        "category": "医药"
+      },
+      {
+        "name": "中药ETF华泰柏瑞",
+        "code": "561510",
+        "pct": 0.98,
+        "amount": 120.0,
+        "category": "医药"
+      },
+      {
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 0.88,
+        "amount": 44853.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "港股创新药ETF银华",
+        "code": "159567",
+        "pct": 0.86,
+        "amount": 79579.0,
         "category": "医药"
       }
     ]
