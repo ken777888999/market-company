@@ -11097,73 +11097,73 @@
     "date": "2026-11-26",
     "top10": [
       {
-        "name": "黄金股ETF国泰",
-        "code": "517400",
-        "pct": 3.78,
-        "amount": 4849.0,
-        "category": "有色/资源"
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 3.82,
+        "amount": 84138.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "纳斯达克ETF华安",
+        "code": "159632",
+        "pct": 3.39,
+        "amount": 30092.0,
+        "category": "海外QDII"
       },
       {
         "name": "黄金股ETF华夏",
         "code": "159562",
-        "pct": 3.69,
-        "amount": 11130.0,
+        "pct": 3.25,
+        "amount": 12777.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF国泰",
+        "code": "517400",
+        "pct": 3.16,
+        "amount": 6088.0,
         "category": "有色/资源"
       },
       {
         "name": "黄金股ETF永赢",
         "code": "517520",
-        "pct": 3.54,
-        "amount": 40280.0,
+        "pct": 3.06,
+        "amount": 45742.0,
         "category": "有色/资源"
       },
       {
-        "name": "纳斯达克ETF华安",
-        "code": "159632",
-        "pct": 2.9,
-        "amount": 14887.0,
+        "name": "纳指ETF汇添富",
+        "code": "159660",
+        "pct": 2.95,
+        "amount": 19661.0,
         "category": "海外QDII"
       },
       {
         "name": "纳斯达克100ETF大成",
         "code": "159513",
-        "pct": 2.84,
-        "amount": 16596.0,
+        "pct": 2.9,
+        "amount": 31242.0,
         "category": "海外QDII"
       },
       {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 2.78,
-        "amount": 33754.0,
+        "name": "能源ETF广发",
+        "code": "159945",
+        "pct": 2.72,
+        "amount": 517.0,
         "category": "煤炭/能源"
       },
       {
-        "name": "纳指ETF华泰柏瑞",
-        "code": "513110",
-        "pct": 2.73,
-        "amount": 10704.0,
+        "name": "标普油气ETF富国",
+        "code": "513350",
+        "pct": 2.71,
+        "amount": 46642.0,
         "category": "海外QDII"
       },
       {
-        "name": "纳指ETF汇添富",
-        "code": "159660",
-        "pct": 2.72,
-        "amount": 9830.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "有色矿业ETF博时",
-        "code": "562450",
-        "pct": 2.7,
-        "amount": 120.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "纳斯达克ETF华夏",
-        "code": "513300",
-        "pct": 2.66,
-        "amount": 17616.0,
+        "name": "标普油气ETF嘉实",
+        "code": "159518",
+        "pct": 2.69,
+        "amount": 32781.0,
         "category": "海外QDII"
       }
     ]
