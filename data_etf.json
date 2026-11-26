@@ -11097,73 +11097,73 @@
     "date": "2026-11-26",
     "top10": [
       {
-        "name": "能源化工ETF建信",
-        "code": "159981",
-        "pct": 3.82,
-        "amount": 84138.0,
-        "category": "煤炭/能源"
-      },
-      {
-        "name": "纳斯达克ETF华安",
-        "code": "159632",
-        "pct": 3.39,
-        "amount": 30092.0,
-        "category": "海外QDII"
-      },
-      {
         "name": "黄金股ETF华夏",
         "code": "159562",
-        "pct": 3.25,
-        "amount": 12777.0,
+        "pct": 3.31,
+        "amount": 14848.0,
+        "category": "有色/资源"
+      },
+      {
+        "name": "黄金股ETF永赢",
+        "code": "517520",
+        "pct": 3.19,
+        "amount": 56673.0,
         "category": "有色/资源"
       },
       {
         "name": "黄金股ETF国泰",
         "code": "517400",
         "pct": 3.16,
-        "amount": 6088.0,
+        "amount": 7052.0,
         "category": "有色/资源"
       },
       {
-        "name": "黄金股ETF永赢",
-        "code": "517520",
-        "pct": 3.06,
-        "amount": 45742.0,
-        "category": "有色/资源"
-      },
-      {
-        "name": "纳指ETF汇添富",
-        "code": "159660",
-        "pct": 2.95,
-        "amount": 19661.0,
-        "category": "海外QDII"
-      },
-      {
-        "name": "纳斯达克100ETF大成",
-        "code": "159513",
-        "pct": 2.9,
-        "amount": 31242.0,
-        "category": "海外QDII"
+        "name": "能源化工ETF建信",
+        "code": "159981",
+        "pct": 3.01,
+        "amount": 107041.0,
+        "category": "煤炭/能源"
       },
       {
         "name": "能源ETF广发",
         "code": "159945",
-        "pct": 2.72,
-        "amount": 517.0,
+        "pct": 2.88,
+        "amount": 1122.0,
         "category": "煤炭/能源"
       },
       {
-        "name": "标普油气ETF富国",
-        "code": "513350",
-        "pct": 2.71,
-        "amount": 46642.0,
-        "category": "海外QDII"
+        "name": "通信ETF国泰",
+        "code": "515880",
+        "pct": 2.68,
+        "amount": 248704.0,
+        "category": "通信/5G"
       },
       {
         "name": "标普油气ETF嘉实",
         "code": "159518",
-        "pct": 2.69,
-        "amount": 32781.0,
+        "pct": 2.51,
+        "amount": 43652.0,
+        "category": "海外QDII"
+      },
+      {
+        "name": "煤炭ETF国泰",
+        "code": "515220",
+        "pct": 2.39,
+        "amount": 50909.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "能源ETF汇添富",
+        "code": "159930",
+        "pct": 2.24,
+        "amount": 6624.0,
+        "category": "煤炭/能源"
+      },
+      {
+        "name": "纳斯达克100ETF大成",
+        "code": "159513",
+        "pct": 2.22,
+        "amount": 40232.0,
         "category": "海外QDII"
       }
     ]
