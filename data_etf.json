@@ -11167,5 +11167,80 @@
         "category": "海外QDII"
       }
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "top10": [
+      {
+        "name": "金融科技ETF鹏华",
+        "code": "563670",
+        "pct": 4.73,
+        "amount": 125.0,
+        "category": null
+      },
+      {
+        "name": "计算机ETF南方",
+        "code": "159586",
+        "pct": 4.62,
+        "amount": 2284.0,
+        "category": "计算机/信创"
+      },
+      {
+        "name": "金融科技ETF博时",
+        "code": "516860",
+        "pct": 4.5,
+        "amount": 3329.0,
+        "category": null
+      },
+      {
+        "name": "半导体设备ETF华夏",
+        "code": "562590",
+        "pct": 4.49,
+        "amount": 27156.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "软件ETF鹏华",
+        "code": "560790",
+        "pct": 4.48,
+        "amount": 277.0,
+        "category": "计算机/信创"
+      },
+      {
+        "name": "半导体设备ETF广发",
+        "code": "560780",
+        "pct": 4.45,
+        "amount": 28053.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "半导体设备ETF国泰",
+        "code": "159516",
+        "pct": 4.36,
+        "amount": 164207.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "金融科技ETF兴业",
+        "code": "563570",
+        "pct": 4.34,
+        "amount": 220.0,
+        "category": null
+      },
+      {
+        "name": "半导体设备ETF易方达",
+        "code": "159558",
+        "pct": 4.31,
+        "amount": 95876.0,
+        "category": "芯片/半导体"
+      },
+      {
+        "name": "金融科技ETF华宝",
+        "code": "159851",
+        "pct": 4.3,
+        "amount": 19420.0,
+        "category": null
+      }
+    ]
   }
 ]
